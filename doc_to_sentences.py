@@ -20,9 +20,8 @@ sentence_end_punctuation = '((?<![A-Z][a-zA-Z][a-zA-Z])(?<![A-Z][a-zA-Z])(?<![A-
 sentence_end_return = '(\n[^a-zA-Z]*(?=[A-Z]|[a-z][A-Z]))'
 chrs = (chr(i) for i in range(sys.maxunicode + 1))
 all_punctuation = [c for c in chrs if category(c).startswith("P")]
-natural_punctuation = '!"\'(),-.:;?'
+natural_punctuation = '''!"'(),-.:;?'''
 punctuation_to_filter = ''.join([p for p in all_punctuation if p not in natural_punctuation])
-
 
 print('Séparation en phrase: regexp split (\.|\?|\!)\s(?![a-z])')
 print('Filtrage des charactères de ponctuation')
@@ -37,9 +36,11 @@ for path in paths:
         
         # Filtrages:    
         sentences_filtered = [sentence for sentence in sentences_filtered if sentence!=None]
-        sentences_filtered = [re.sub('['+ punctuation_to_filter + ']', ' ', sentence).strip() for sentence in sentences_filtered]
+        sentences_filtered = [re.sub('['+ re.escape(punctuation_to_filter) + ']', ' ', sentence).strip() for sentence in sentences_filtered]
+        sentences_filtered = [re.sub('\s+', ' ', sentence) for sentence in sentences_filtered]
         sentences_filtered = [sentence for sentence in sentences_filtered if len(sentence)>1 and any(c.isalpha() for c in sentence)]
-                
+
+        
     res_dict[path] = sentences_filtered
 
 print()
