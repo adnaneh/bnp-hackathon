@@ -1,0 +1,732 @@
+### DOCUMENT/ Privacy Policy / https://www.mailjet.com/privacy-policy/ ###
+Privacy Policy
+Last revised and updated 10/29/2020. To review a changelog and see the previous version, click here.
+
+
+
+Your privacy and security is of the utmost importance to us. We describe in this policy how we collect and use information about you in your use of our services, including our platform and the website. If you are one of our customers, you should read this policy in conjunction with our Terms of Service.
+
+1. Who are we?
+We are Mailgun Technologies, an email service provider. The processing explained in this policy may be carried out by Mailgun or other data controllers in the Mailgun group of companies (including its subsidiaries). All references in this policy to “Mailgun”, “Mailjet”, “we” “us” or “our” should be interpreted accordingly and refer to the Mailgun Group.
+When collecting information about our customers or visitors of our website, we are, under European Union (“EU”) data protection laws, qualified as “data controller”. This means that we are responsible for deciding how we hold and use personal data about you.
+
+2. How do we collect your data?
+We collect information about you when you fill in a sign up or contact form on our website or send us an email. We may also receive your personal data from third parties, when you express your interest for our services to them.
+We collect information by automated means. When you visit our website, view one of our advertisements on a third party-owned website, or read our marketing email, we automatically collect information about you via cookies, web beacons and other similar technologies. These are small files associated with information that your browser or our servers will save and return as part of your use of the website and the services for purposes such as saving your login session between visits, remembering your display preferences and tracking your use of the website. For more information on our use of cookies, read our cookies notice.
+
+3. What data do we collect?
+We collect two types of information about you: personal data and non-personal data.
+
+Personal data. This is information that lets us know who you are. This includes the information you provide us when registering to use the platform (i.e. your name, company name, email address, postal address, other contact information you share with us, associated domain name and credit card information). Your login credentials are also personal data. This category also includes information tied to your identity that you provide us through other means, such as emails to our support team.
+
+Non-personal data. This is information that doesn’t let us determine your identity. This generally comes from your use of the services after registering on our website. Non-personal data includes information that could personally identify you in its original form, but that we have modified (for instance, by aggregation) any personal data.
+
+In addition, and in the context of using our services, namely creating and sending emails, we have access to the information contained in the subject and content of the emails that you send out, as well as the email contacts you send to via our services.
+
+The data you submit should not include any sensitive personal data, such as Government identifiers (i.e. social security, driving licence, or taxpayer identification numbers), complete credit card or complete personal bank card numbers, medical records or particulars connected with applications for care or treatment associated with private individuals.
+
+4. How do we use your data?
+If you are a visitor of our website, we use your personal and non-personal data to engage with you and support live chat conversations on the website.
+
+When you are one of our customers, we use the information we collect about you to provide the services to you. As part of that purpose, we use your data:
+
+1. to create and maintain your platform account, and to control access to it;
+2. to provide our services and facilitate performance, including verifications relating to you;
+3. to provide you with real-time logs of your use of the platform;
+4. to respond to any requests you may submit for support or sales information, or similar communications;
+5. to communicate with you about our services (for example through newsletters, marketing emails, announcements or special offers);
+6. for billing and collection purposes, if you have subscribed to one of our paid plans;
+7. for the investigation and prevention of fraud and breaches of the Terms of service;
+8. to enable third parties to provide services to us;
+9. for customers that request allocated dedicated IP addresses, for the purposes of assigning the dedicated IP address to that customer;
+10. personalise, assess, and improve our services, content and materials;
+11. to comply with applicable laws to which we are subject.
+
+We may use your non-personal data to enhance the services, for instance through web analytics or troubleshooting. We may also use aggregated or depersonalized information to promote our services, such as by citing usage statistics.
+
+5. What are our purposes and legal basis for collecting your personal data?
+We collect your personal data because we need it to perform a contract we have signed with you or because you have taken steps to enter into a contract with us (for instance, when you fill in a contact form to request information about our services or when you sign up for an account). Otherwise, we collect personal data based on your consent for that specific purpose.
+
+6. With whom do we share personal data?
+Except for the limited circumstances we describe here or in an applicable agreement or our Terms of service, we do not share your personal data with third parties. When we need to provide your personal data to third parties, we will only share it to the extent necessary to provide you with our services, and we ensure that we have in place data protection requirements with these third parties (including standard contractual clauses as well as the requisite technical and organisational measures).
+
+We may also share your personal data as required or permitted by law and as to optimally provide our services through third party providers as described below.
+
+Hosting Services: We host the website and operate the platform using third parties, including Google Cloud Platform, AWS® and Rackspace®. Your platform will be hosted from their data centers throughout the United States or Europe, based on where you have selected to deploy our services.
+
+Payment Providers: We use a Stripe® and Chargify, to process subscription payments, and therefore provide them with the personal data required to charge your credit card and maintain any payment mandate information as law requires.
+
+Website functionalities: We may use third-party services either embedded into our website (such as Drift, Optimizely, VWO, Segment™ and Google® Analytics) or outside of it (such as GitHub®, Unbounce and Twitter®) to communicate with you or to enhance the function of the website and the services.
+Customer engagement: We use third-party service providers and platforms (such as Gainsight, Customer.io, Salesforce, Uservoice, Zapier, and Zendesk) for customer engagement, customer chat, product feedback and customer support ticketing.
+
+IP addresses: We may share your contact information with ARIN (American Registry for Internet Numbers) for the purposes of fulfilling your request to re-assign the dedicated IP addresses.
+While we provide these third parties with no more information than what is necessary to enable them to provide the services to us, any information that you provide these services providers independently is subject to their respective privacy policies and practices.
+
+In no case do we sell, share or rent out your contacts to third parties, nor use them for any purpose other than those set forth in this policy.
+
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities or regulatory bodies, including to meet law enforcement requirements, in the case of a court order, a summons to appear in court or any other similar requisition from a government or the judiciary, or to establish or defend a legal application.
+
+Additionally, we will provide information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+
+7. For how long do we retain your personal data?
+We keep your personal data for as long as is necessary to provide our services to you (unless otherwise required by law).
+
+If you would like us to cease all of the described uses of your personal data, you may delete your account at any time from the Account Settings section of our Dashboard. This will delete your personal data from our records, and we will make no further use of it. We may, however, retain copies of your personal data in backups for legal retention purposes and/or for our own legitimate business purposes.
+
+8. How do we transfer your data?
+Mailgun complies with the European General Data Protection Regulation 2016/679 (GDPR) as well as all applicable data protection laws. For all transfers of personal data from the EU and EEA, we maintain EU Standard contractual clauses where necessary, ensure additional safeguards such as data encryption and data minimization, as well as perform audits and controls on our important sub processors.
+
+You can request to sign our Data Processing Agreement which lists out all our important sub processors used and the measures in place to ensure proper data protections.
+
+9. What are your rights in connection with personal data?
+In accordance with Data Protection laws, you have the right to:
+
+1. Request access to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+2. Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+3. Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no legitimate reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have exercised your right to object to processing (see below).
+4. Withdraw your consent and opt-out from our communications. We will honor your opt-out within 14 days. Please note that you cannot unsubscribe from service-related messages if you remain a customer.
+5. Object to processing of your personal data, for example, if we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this basis.
+6. Request the restriction of processing of your personal data. This enables you to ask us to suspend the processing of personal data about you, for example if you want us to establish its accuracy or the reason for processing it.
+7. Request the transfer of your personal data (right to data portability).
+
+If you want to exercise any of the above rights, please email our privacy team at privacy@mailgun.com. Under certain conditions, more fully described on the Privacy Shield website at https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Mailgun commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints should first contact our Data Protection Officer at: privacy@mailgun.com.
+
+Mailgun has also committed to cooperate with the panel established by the EU data protection authorities with regard to unresolved complaints concerning personal data transferred from the EU.
+
+If you are located in the EU, you also have the right to lodge a complaint to your data protection authority.
+
+10. Security
+The security and integrity of your personal information is very important to us. We follow industry accepted standards to protect the personal information submitted to us, both during transmission and once it is received. We ensure the appropriate electronic, physical and managerial procedures are in place with a view to safeguarding and preserving all the data handled. Our infrastructure is located in top-tier data centers. Each of these locations adhere to strict physical and procedural controls which are frequently audited. Our applications are routinely scanned for vulnerabilities and an independent penetration test is conducted annually. Our employees undergo background checks (when allowed) and sign non-disclosure agreements at the time of hire.
+
+Remember, though, that some parts of the services are public and that email, by its nature, is not a reliably private means of communication. If you voluntarily provide personal data in a public area of the website, unrelated parties online will be able to view it and collect it. If you don’t want to make this information publicly available, you shouldn’t post it.
+
+11. Changes
+The information provided in this policy may be modified to address new issues or changes. If we make significant changes, we may notify you by other means (for instance, by email or with a banner on the website) prior to the change becoming effective. Any changes we make will take effect 30 days after the update date noted above. If you object to the changes, email us at privacy@mailgun.com before the new effective date to delete your information from our records.
+
+### DOCUMENT/ General Terms and Conditions of Use / https://www.mailjet.com/terms-and-conditions/ ###
+General Terms and Conditions of Use
+
+Last revised and updated 10/29/2020. To see the previous terms, please click here.
+
+
+
+The following terms and conditions (“Terms of Service”) apply to the Services to be delivered by Mailgun Technologies, Inc., a Delaware corporation (“Mailgun”) on its own behalf and on behalf of its Affiliates (collectively “Mailgun Group”), to the customer ordering the Services or identified in the Service Order (“Customer” or “you”).
+
+PLEASE CAREFULLY READ THESE TERMS. BY SUBSCRIBING TO OUR SERVICES, YOU AGREE THAT YOU HAVE READ AND AGREE, WITHOUT RESERVATIONS, TO BE BOUND BY THE LATEST VERSION OF THIS AGREEMENT.
+
+The Services are exclusively reserved for a professional use and are not available to minors under the age of 18.
+
+1. DEFINED TERMS
+The following words, when capitalized, have the meaning stated:
+
+“Affiliate” means any entity that is owned or that owns a party, or that is under its common control.
+
+“Agreement” means, collectively, the Service Order, these Terms of Service, and each of the other documents referenced in these Terms of Service.
+
+“Confidential Information” means non-public information disclosed by one party to the other in any form that (i) is designated as “Confidential”; (ii) a reasonable person knows or reasonably should understand to be confidential; or (iii) includes either party’s products, customers, marketing and promotions, know-how, or the negotiated terms of the Agreement; and which is not independently developed by the other party without reference to the other’s Confidential Information or otherwise known to the other party on a non-confidential basis prior to disclosure.
+
+“Configuration Requirements” means those specifications as required to perform the Services, such as a required reference architecture, documentation or software version.
+
+“Control Panel” means the customer portal accessible to Customer containing, among other information, the pricing terms applicable to Customer’s use of the Services and users designated to receive support.
+
+“Customer Configuration” means an information technology system which is the subject of the Services or to which the Services relate.
+
+“Customer Data” means all data which you receive, store, or transmit on or using the Customer Configuration.
+
+“Deliverables” means the tangible or intangible materials which are prepared for your use in the course of performing the Services and that are specifically identified in a Service Order as Deliverables and described therein.
+
+“Intellectual Property” means patents, copyrights, trademarks, trade secrets, software and source code, specifications and ancillary documentation and any other proprietary intellectual property rights.
+
+“Personal Data” means any: (i) personally identifiable information or information that is referred to as personal data (including sensitive personal data), PII (or other like term) under applicable data protection or privacy law and includes information that by itself or combined with other information can be used to identify a person, (ii) trade secrets, (iii) financial records (iv) other sensitive, regulated, or confidential information.
+
+“Representatives” means a party’s respective service providers, officers, directors, employees, contractors, Affiliates, suppliers, agents.
+
+“Services” means the services identified in a specific Service Order. Services which are provided on an on-going basis over a defined term are referred to as “Recurring Service” and Services which are provided on a one-off basis are referred to as “One Time Services”.
+
+“SLA” means any provision providing a specified credit remedy for an identified failure to deliver or provide the Services to the identified standard.
+
+“Service Order” means the document which describes the Services you are purchasing, including any online order, process, or tool through which you request or provision Services.
+
+2. SERVICES & SUPPORT
+
+2.1 General. Mailgun will provide the Services in accordance with the Agreement and all applicable laws. Mailgun shall have no obligation to provide Services for Customer Configurations which do not meet the Configuration Requirements. Mailgun will provide support only to those individuals designated in the Control Panel and is not required to provide any support directly to your end users.
+
+2.2 Service Level Agreement. Mailgun guarantees that the Services (meaning any or all of the API, SMTP and Outbound Delivery services listed on our status page) will be available 99.99% of the time in any given monthly billing period, excluding maintenance. You are entitled to a credit of 5% of your given monthly fee for the Services for each 30 minutes of Services unavailability (after the first .01%) in a given monthly period.
+
+2.3 Credit Limitations. You are not entitled to any credit if you are in breach of the terms governing your use of the Services until you have cured the breach. You are not entitled to any credit if downtime would not have occurred but for your breach of these Terms of Service, including violation of the AUP (referenced below). You are not entitled to any credit for downtime or outages resulting from denial of service attacks, virus activity, hacking attempts, or any other circumstances that are not within our control. In addition, to receive a credit, you must make the request by creating a support ticket in the Control Panel within thirty (30) days following the end of the downtime. You must show that your use of the Services was adversely affected in some way as a result of the downtime to be eligible for the credit. Notwithstanding anything in these Terms of Service to the contrary, the maximum total credit for the monthly billing period, including all guaranties, shall not exceed 100% of the fees for that billing period. Credits that would be available but for this limitation will not be carried forward to future billing periods.
+
+2.4 Delivery & Filtering. Mailgun will use commercially reasonable efforts to deliver your email messages, but cannot guarantee delivery. Third party filtering services and other policies of recipient email services may prevent successful delivery of your messages. While our Service does provide some email filtering services designed to filter spam it does not provide virus scanning, it is recommended that you employ additional security measures to protect against spam, email phishing attempts and email infected with viruses. You acknowledge that the limitations of the filtering service will likely result in the capture of some legitimate email and the failure to capture some unwanted email, including email infected with viruses. Mailgun Group is not responsible for any damages arising from the failure of the Service’s filtering services to filter unwanted email or from the capture of legitimate email, or from a failure of your email to reach its intended recipient. Furthermore, You acknowledge that Mailgun does not control the transfer of Data via the internet, and cannot be held responsible for delays or delivery problems arising from internet or other outside connection issues.
+
+2.5 Unsupported & Test Services. Mailgun may designate Services as non-standard”, “reasonable endeavours” or “best efforts”, or with like designation (collectively “Unsupported Services”). Mailgun makes no representation or warranty with respect to Unsupported Services except that it will use good faith efforts as may be expected of technicians having generalized knowledge and training in information technology systems. Mailgun has no guarantee of results in this regard. Mailgun Group shall not be liable to you for any loss or damage arising from the provision of Unsupported Services and SLAs shall not apply to Unsupported Services, or any other aspect of the Customer Configuration that is adversely affected by Unsupported Services. If you use any Services that have been designated as a “Test”, “Beta” or “early access” or with like designation then your use of those Services is subject to the Mailgun Test Terms set forth at http://www.mailgun.com/terms/beta-testing-terms.
+
+2.6 General Disclaimers. Mailgun makes no commitment to provide any services other than the Services stated in the Service Order. Mailgun is not responsible to you or any third party for unauthorized access to your Customer Data or for unauthorized use of the Services that is not solely caused by Mailgun’s failure to meet its security obligations in Section 4 (Security and Data Privacy). Mailgun and its Representatives disclaim any and all warranties not expressly stated in the Agreement to the maximum extent permitted by law including implied warranties such as merchantability, satisfactory quality, fitness for a particular purpose and non-infringement. Mailgun expressly reserves the right, at any time during the term of the Agreement, to adapt, arrange and/or modify any of the components granting access and use rights to the Service and the associated documentation, provided that the maintenance and support commitments are complied with for these operations. Similarly, Mailgun may, at any time, discontinue providing a platform deemed undesirable and/or obsolete and migrate services to a new infrastructure; in which case, Mailgun will endeavor to inform you as early as possible.
+
+2.7 Open Source Software. Mailgun makes no representation or warranty whatsoever regarding Open Source Software or with regard to any third party products or services which may be recommended for your consideration.
+
+3. CUSTOMER OBLIGATIONS
+
+3.1 Generally. You may use the Services for commercial and professional purposes only and may not use the Services in any situation where failure or fault of the Services or the Customer Configuration could lead to death or serious bodily injury of any person or physical or environmental damage. You will enable Mailgun’s reasonable method for access to the Customer Configuration for the purpose of performing the Services and invoicing. You must cooperate with Mailgun’s reasonable investigation of outages, security problems, and any suspected breach of the Agreement. You are responsible for keeping your account permissions, billing, and other account information up to date. You agree that your use of any Customer Configuration provided by Mailgun will comply with the Acceptable Use Policy (the “AUP”) at http://www.mailgun.com/aup. You agree that you are solely responsible for the suitability of the Services and your compliance with any applicable laws, including export laws and data privacy laws. You also agree to ensure that your own users comply with this Agreement.
+
+3.2 Documentation. You agree to comply with the Mailgun Group documentation found on the respective website and agree that Mailgun may establish new procedures for your use of the Services as it deems necessary for the optimal performance of the Services. An individual email message may not exceed the per-message size limit (including attachments) of 25MB or it may be permanently lost.
+
+3.3 Data Backup. Mailgun shall only back up data to the extent stated on a Service Order. It is your responsibility to ensure the integrity and security of Customer Data and to regularly backup and validate the integrity of backups of Customer Data on an environment separate from the Customer Configuration.
+
+3.4 Suspension of Services. Mailgun may suspend the Services without liability if: (i) Mailgun reasonably believes that the Services are being used in violation of the Agreement; (ii) you don’t cooperate with our reasonable investigation of any suspected violation of the Agreement; (iii) there is an attack on the Services or your Services are accessed or manipulated by a third party without your consent, (iv) Mailgun is required by law or by a regulatory or government body to suspend the Services, or (v) there is another event for which Mailgun reasonably believes that the suspension of the Services is necessary to protect the Mailgun network or our other customers. You agree that if the Services are reinstated after a suspension for non-payment or for your breach of the Agreement (including the AUP), you will pay a reinstatement fee of $100.
+
+4. SECURITY AND DATA PRIVACY
+
+4.1 Generally. Mailgun shall provide the Services in accordance with the security and privacy practices set forth at http://www.mailgun.com/security-privacy and any additional security specifications identified in the Service Order or these Terms of Service. You must use reasonable security precautions in connection with your use of the Services, including appropriately securing and encrypting Personal Data stored on or transmitted using the Customer Configuration. Customer Data is, and at all times shall remain, your exclusive property. Mailgun will not use or disclose Customer Data except as materially required to perform the Services or as required by law.
+
+4.2 Content Privacy. You acknowledge and understand that the Services may include the transmission of unencrypted email in plain text over the public internet. You are responsible for encrypting any Personal Data you use in conjunction with the Services. Email sent using the Services may be unsecured, may be intercepted by other users of the public internet, and may be stored and disclosed by third parties (such as a recipient’s email service provider). Although Services include support for TLS, content may be transmitted even if the recipient does not also support TLS, resulting in an unencrypted transmission.
+
+4.2 Data Protection Addendum. In the course of providing the Services under this Agreement, Mailgun may process certain Personal Data on your behalf and in such cases, the Parties agree to comply with the terms in the Data Processing Agreement (“DPA”) as available by following the link on our GDPR page, and as may be amended from time to time ; such DPA shall become part of the Agreement.
+
+4.3 HIPAA. If Mailgun is your “Business Associate” as defined in the Health Insurance Portability and Accountability Act of 1996, as amended, then as of the date that Mailgun becomes your Business Associate the HIPAA Business Associate Addendum at http://www.mailgun.com/hipaa-baa shall become part of the Agreement.
+
+5. INTELLECTUAL PROPERTY
+
+5.1 Pre-Existing. Each party shall retain exclusive ownership of Intellectual Property created, authored, or invented by it prior to the commencement of the Services. If you provide Mailgun with your pre-existing Intellectual Property (“Customer IP”), then you hereby grant to Mailgun, during the term of the applicable Service Order, a limited, worldwide, non-transferable, royalty-free, right and license (with right of sub-license where required to perform the Services) to use the Customer IP solely for the purpose of providing the Services. You represent and warrant that you have all rights in the Customer IP necessary to grant this license, and that Mailgun’s use of such Customer IP shall not infringe on the Intellectual Property rights of any third party.
+
+5.2 Created by Mailgun. Unless otherwise specifically stated in the applicable Service Order, and excluding any Customer IP, Mailgun shall own all Intellectual Property created as part of providing the Services or contained in the Deliverables. Unless otherwise specifically stated in the Agreement, and subject to your payment in full for the applicable Services, Mailgun grants to you a limited, non-exclusive, non-transferable, royalty-free right and license (without the right to sublicense) to use any Deliverables, and during the term of the Service Order any Intellectual Property (excluding any Third Party Software and any Open Source Software), provided to you by Mailgun as part of the Services for your internal use as necessary for you to enjoy the benefit of the Services.
+
+5.3 Open Source. In the event Mailgun distributes any open source software to you as part of the Services (for example Linux, OpenStack, and software licensed under the Apache, GPL, MIT or other open source licenses, collectively “Open Source Software”) then such Open Source Software is subject to the terms of the applicable open source license. To the extent there is a conflict with these Terms of Service, the terms of the applicable open source license shall control.
+
+5.4 Third Party Software. Mailgun may provide third party software for your use as part of the Services or to assist in our delivery of the Services (“Third Party Software”). Unless otherwise permitted by the terms of the applicable license you may not (i) assign, grant or transfer any interest in the Third Party Software to another individual or entity, (ii) reverse engineer, decompile, copy or modify the Third Party Software, (iii) modify or obscure any copyright, trademark or other proprietary rights notices that are contained in or on the Third Party Software, or (iv) exercise any of the reserved Intellectual Property rights provided under the laws governing this Agreement. You may only use Third Party Software provided for your use as part of the Services (identified on the Service Order) on the Customer Configuration on which it was originally installed, subject to any additional restrictions identified in these Terms of Service or Service Order. You are prohibited from using Third Party Software which Mailgun installs in order to assist our delivery of the Services. Upon termination of the Service Order, you will permit removal of the Third Party Software. Mailgun makes no representation or warranty regarding Third Party Software except that Mailgun has the right to use or provide the Third Party Software and that Mailgun is in material compliance with the applicable license.
+
+5.5 Infringement. If the delivery of the Services infringes the intellectual property rights of a third party and Mailgun determines that it is not reasonably or commercially practicable to obtain the right to use the infringing element, or modify the Services or Deliverable such that they do not infringe, then Mailgun may terminate the Service Order on ninety days’ notice and will not have any liability on account of such termination except to refund amounts paid for unused Services (prorated as to portions of Deliverables deemed infringing).
+
+6. FEES
+
+6.1 Fees. You agree to pay the fees for the Services based on the rates and charges set forth in your Control Panel or Service Order, as applicable. From time to time, Mailgun may impose additional fees or surcharges on certain Services provided to you, which such additional fees and surcharges shall in each case be communicated to you through your Control Panel or an update to your Service Order, as applicable. Fees are due within thirty days from the invoice date. If you have arranged for payment by credit card, Mailgun may charge your card or account on or after the invoice date. If your undisputed payment is overdue for more than thirty days, Mailgun may suspend the Services and any other services you receive from Mailgun on written notice. Mailgun shall undertake collection efforts prior to any suspension. Invoices that are not disputed within one hundred and twenty days of the invoice date are conclusively deemed accurate. Fees must be paid in the currency identified in your Control Panel or Service Order, as applicable. You are solely responsible for all wire transfer and other bank fees associated with the delivery of payments to Mailgun. Mailgun may charge interest on overdue amounts at the greater of 1.5% per month or the maximum legal rate, and may charge you for any cost or expense arising out of our collection efforts.
+
+6.2 Fee Increases. Mailgun may revise the pricing terms that apply to your use of the Services at any time by providing you with notice pursuant to Section 11 of these Terms of Service. With respect to Customers that are not party to a then-effective Service Order, such rate changes will be effective immediately upon the posting of an update to your Control Panel. With respect to Customers that are party to a then-effective Service Order, the revised rates, charges and fees assessed to you for Services under such Service Order will not become effective until the commencement of the next renewal term of such Service Order and in any event may not increase by more than five percent (5%) (as compared to the rates and charges in effect for the immediately preceding term) effective upon the commencement of each renewal term (and the Service Order will be deemed amended to reflect such increased rates and charges). If at any time during either an initial or renewal term of a Service Order a third party license provider directly or indirectly increases the fee they charge Mailgun for your use of Third Party Software, Mailgun may increase your fees by the same percentage amount on sixty (60) days’ advance written notice.
+
+6.3 Taxes. All amounts due to Mailgun under the Agreement are exclusive of any value added, goods and services, sales, use, and like taxes, (collectively, “Tax”). You must pay Mailgun the Tax that is due or provide Mailgun with satisfactory evidence of your exemption from the Tax in advance of invoicing. You must provide Mailgun with accurate and adequate documentation sufficient to permit Mailgun determine if any Tax is due. All payments to Mailgun shall be made without any withholding or deduction for any taxes except for withholding (or similar) taxes imposed on income that may be attributable to Mailgun in connection with its provision of the Services that you are legally required to withhold and remit to the applicable governmental or taxing authority (“Local Withholding Taxes”). You agree to timely provide Mailgun with accurate factual information and documentation of your payment of any such Local Withholding Taxes. Mailgun shall remit such cost to you in the form of a credit on your outstanding account balance following receipt of sufficient evidence of payment of any such Local Withholding Taxes.
+
+6.4 Reimbursement for Expenses. Unless otherwise agreed in the Service Order or otherwise provided for in the Control Panel, if any of the Services are performed at your premises you agree to reimburse Mailgun for the actual substantiated out-of-pocket expenses of its Representatives.
+
+7. TERM AND TERMINATION
+
+7.1 Term. The Agreement shall continue until terminated in accordance with its terms or the termination of the final Service Order, whichever is the later. Unless otherwise stated in the applicable Service Order, each Service Order has an initial 30-day term and shall automatically renew on initial term expiry on a rolling thirty day basis unless either party provides the other with written notice of non-renewal at least thirty days prior to the expiration of the then current term. No automatic renewal will be applicable for any SMS messaging packages which are due and payable in advance for the desired volumes.
+
+7.2 Termination for Convenience. For Recurring Services, unless otherwise stated in the Agreement, you may terminate all or part of any Service Order for convenience at any time by giving Mailgun at least ninety (90) days advance written notice; subject to an early termination fee equal to the monthly recurring fee times the number of months remaining in the then current term of the Service Order for the Services that have been terminated.
+
+7.3 Termination for Cause. Either party may terminate the Agreement or the affected Service Order(s) for cause on written notice if the other party materially breaches the Agreement and, where the breach is remediable, does not remedy the breach within forty-five (45) days of the non-breaching party’s written notice describing the breach.
+
+7.3.1 If following suspension of your Services for non-payment, your payment of any invoiced undisputed amount remains overdue for a further ten (10) days, Mailgun may terminate the Agreement or the applicable Service Order(s) for breach on written notice.
+
+7.3.2 Either party may terminate the Agreement and the Service Order(s) on written notice if the other enters into compulsory or voluntary liquidation, or ceases for any reason to carry on business, or takes or suffers any similar action which the other party reasonably believes means that it may be unable to pay its debts. Notwithstanding anything to the contrary in the Agreement, the fees for the Services shall become due immediately on such an occurrence.
+
+8. CONFIDENTIAL INFORMATION
+
+8.1 Generally. Each party agrees not to use the other’s Confidential Information except in connection with the performance or use of the Services, the exercise of its legal rights under this Agreement, or as required by law, and will use reasonable care to protect Confidential Information from unauthorized disclosure. Each party agrees not to disclose the other’s Confidential Information to any third party except: (i) to its Representatives, provided that such Representatives agree to confidentiality measures that are at least as stringent as those stated in these Terms of Service; (ii) as required by law; or (iii) in response to a subpoena or court order or other compulsory legal process, provided that the party subject to such process shall give the other written notice of at least seven days prior to disclosing Confidential Information unless the law forbids such notice.
+
+8.2 Routing Data. Your email messages and other items sent or received via the mail service will include information that is created by the systems and networks that are used to create and transmit the message including information such as server hostnames, IP addresses, timestamps, mail queue file identifiers, and spam filtering information (“message routing data”). You agree that Mailgun may view and use the message routing data for our general business purposes, including maintaining and improving security, improving our services, and developing products. In addition, you agree that Mailgun may disclose message routing data to third parties in aggregate statistical form, provided that Mailgun does not include any information that could be used to identify you.
+
+8.3 Usage Data. Mailgun collects and stores information related to your use of the Services, such as use of the Website, API, SMTP and filtering choices and usage. You agree that Mailgun may use this information for our general business purposes and may disclose the information to third parties in aggregate statistical form, provided that Mailgun does not include any information that could be used to identify you.
+
+9. LIMITATIONS ON DAMAGES
+
+9.1 Direct Damages. Notwithstanding anything in the Agreement to the contrary, except for liability arising from death or personal injury caused by negligence, willful misconduct, fraudulent misrepresentation or any other loss or damages for which such limitation is expressly prohibited by applicable law, the maximum aggregate monetary liability of Mailgun and any of its Representatives in connection with the Services or the Agreement under any theory of law shall not exceed the total amount paid for the Services that are the subject of the claim in the twelve months immediately preceding the event(s) that gave rise to the claim.
+
+9.2 Indirect Damages. Neither party (nor any of our Affiliates or Representatives) is liable to the other for any indirect, special, incidental, exemplary or consequential loss or damages of any kind. Neither of us is liable for any loss that could have been avoided by the damaged party’s use of reasonable diligence, even if the party responsible for the damages has been advised or should be aware of the possibility of such damages. In no event shall either of us be liable to the other for any punitive damages or for any loss of profits, data, revenue, business opportunities, customers, contracts, goodwill or reputation.
+
+9.3 SLA Credits. The credits stated in any applicable SLA are your sole and exclusive remedy for Mailgun’s failure to meet those guarantees for which credits are provided. The maximum total credit(s) for failure to meet any applicable SLA for any calendar month shall not exceed one hundred percent of the then current monthly recurring fee for the Services. Credits that would be available but for this limitation will not be carried forward to future months. You are not entitled to a credit if you are in breach of the Agreement at the time of the occurrence of the event giving rise to the credit until you have remedied the breach. No credit will be due if the credit would not have accrued but for your action or omission.
+
+10. INDEMNIFICATION
+
+10.1 If Mailgun, its Affiliates, or any of its or their Representatives (the “Indemnitees”) is faced with a legal claim by a third party arising out of your actual or alleged: willful misconduct, breach of applicable law, failure to meet the security obligations required by the Agreement, breach of your agreement with your customers or end users, violation of the AUP, or your breach of Section 5 (Intellectual Property) then you will pay the cost of defending the claim (including reasonable legal fees) and any damages award, fine or other penalty that is imposed on the Indemnitees as a result of the claim. Your obligations under this Section include claims arising out of the acts or omissions of your employees or agents, any other person to whom you have given access to the Customer Configuration, and any person who gains access to the Customer Configuration as a result of your failure to use reasonable security precautions, even if the acts or omissions of such persons were not authorized by you.
+
+10.2 Mailgun will choose legal counsel to defend the claim, provided that the choice is reasonable and is communicated to you. You must comply with our reasonable requests for assistance and cooperation in the defense of the claim. Mailgun may not settle the claim without your consent, which may not be unreasonably withheld, delayed or conditioned. You must pay costs and expenses due under this Section as Mailgun incurs them.
+
+11. NOTICES
+
+Your routine communications to Mailgun regarding the Services should be sent to your account team using the Control Panel. To give a notice regarding termination of the Agreement for breach, indemnification, or other legal matter, you must send it by electronic mail and first-class post to:
+
+Mailgun Technologies, Inc., Legal Department , 112 E Pecan St #1135, San Antonio, TX 78205
+Mailgun’s routine communications regarding the Services and legal notices will be posted on the Control Panel or sent by email or post to the individual(s) you designate as your contact(s) on your account. Notices are deemed received as of the time posted or delivered, or if that time does not fall on a business day, as of the beginning of the first business day following the time posted or delivered. For purposes of counting days for notice periods, the business day on which the notice is deemed received counts as the first day.
+
+12. PUBLICITY, USE OF MARKS
+
+Unless otherwise agreed in the Service Order, you agree that Mailgun may publicly disclose that it is providing Services to you and may use your name and logo to identify you in promotional materials, including press releases. You may not issue any press release or publicity regarding the Agreement, use the Mailgun name or logo or other identifying indicia, or publicly disclose that it is using the Services without Mailgun’s prior written consent.
+
+13. ASSIGNMENT/SUBCONTRACTORS
+
+Neither party may assign the Agreement or any Service Orders without the prior written consent of the other party except to an Affiliate or successor as part of a corporate reorganization or a sale of some or all of its business, provided the assigning party notifies the other party of such change of control. Mailgun may use its Affiliates or subcontractors to perform all or any part of the Services, but Mailgun remains responsible under the Agreement for work performed by its Affiliates and subcontractors to the same extent as if Mailgun performed the Services itself.
+
+You acknowledge and agree that Mailgun Affiliates and subcontractors may be based outside of the geographic jurisdiction in which you have chosen to store Customer Data and if legally required the parties will enter into good faith negotiations of such agreements as are necessary in order to legitimize the transfer of Customer Data.
+
+14. FORCE MAJEURE
+
+Neither party will be in violation of the Agreement if the failure to perform the obligation is due to an extraordinary event beyond its control, such as significant failure of a part of the power grid, Internet failure, natural disaster, war, riot, epidemic, strikes or labor action, terrorism (“Force Majeure”).
+
+If a Force Majeure event occurs, this Agreement shall be automatically suspended during the time the Force Majeure event continues, and neither Party shall be liable to the other for non-performance or delay in the performance of required obligation(s) due to the Force Majeure event, provided the non-performing Party gives prompt written notice of its inability to perform specified obligation(s) due to the event and uses reasonable efforts to resume its performance of its obligation(s) as soon as possible. Notwithstanding the foregoing, in no event shall a Force Majeure event excuse or delay a Party’s obligation(s) with respect to confidentiality or Intellectual Property Rights.
+
+15. GOVERNING LAW
+15.1 The Agreement is governed by the laws of the State of Texas, USA, exclusive of any choice of law principle that would require the application of the law of a different jurisdiction, and the laws of the United States of America including the Federal Arbitration Act, 9 U.S.C. §1, et seq. Any dispute or claim relating to or arising out of the Agreement shall be submitted to binding arbitration. The arbitration shall be conducted in the state and county (or equivalent geographic location) of the non-asserting party’s principal business offices in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) in effect at the time the dispute or claim arose. The arbitration shall be conducted by one arbitrator from AAA or a comparable arbitration service. The arbitrator shall issue a reasoned award with findings of fact and conclusions of law. Either party may bring an action in any court of competent jurisdiction to compel arbitration under this Agreement, or to enforce an arbitration award. Neither a party nor an arbitrator may disclose the existence, content, or results of any arbitration hereunder without the prior written consent of both parties.
+
+Either party shall be permitted to appeal the final award under the AAA’s Optional Appellate Arbitration Rules in effect at the time the dispute or claim arose. Grounds for vacating the award shall include, in addition to those enumerated under the Federal Arbitration Act, that the arbitrator committed errors of law that are material and prejudicial. The appeal shall be determined upon the written documents submitted by the parties, with no oral argument. After the appellate rights described herein have been exercised or waived, the parties shall have no further right to challenge the award.
+
+15.2 Notwithstanding the exclusive jurisdiction provision above, you agree that Mailgun may seek to enforce any judgment anywhere in the world where you may have assets. No claim may be brought as a class or collective action, nor may you assert such a claim as a member of a class or collective action that is brought by another claimant. Each of us agrees that Mailgun will not bring a claim under the Agreement more than two years after the time that the claim accrued. The Agreement shall not be governed by the United Nations Convention on the International Sale of Goods.
+
+15.3 The prevailing party in any action or proceeding relating to this Agreement shall be entitled to recover reasonable legal fees and costs, including attorney’s fees.
+
+16. MISCELLANEOUS
+
+16.1 Some terms are incorporated into the Agreement by reference to pages on the Mailgun website and Mailgun may revise those terms from time to time (including these Terms of Service). Such revisions will be effective and supersede and form part of the Agreement as of the time (i) you enter into a new Service Order referencing the terms subject to the revisions or (ii) a Service Order automatically renews pursuant to the Agreement in which case you acknowledge that you have reviewed and accept the then-current version of the terms as of the date of the renewal. If there is a conflict between the terms of the Agreement, the documents will govern in the following order: the Service Order, then these Terms of Service. The headings or captions in the Agreement are for convenience only. If over time you enter into multiple Agreements for a given Customer Configuration (for example to add additional components or services) then the most recent terms referenced in the Service Order(s) will govern the entirety of the Services for the given Customer Configuration.
+
+16.2 Unless otherwise expressly permitted in the Agreement the terms of the Agreement may be varied only by a written agreement signed by both parties that expressly refers to the Agreement. A Service Order may be amended to modify, add, or remove services by a formal written agreement signed by both parties, or by an exchange of correspondence (including via the Mailgun ticketing system) that includes the express consent of an authorized individual for each of us. The pre-printed terms of your purchase order or other business form or terms that you provide shall be void and of no effect.
+
+16.3 If any part of the Agreement is found unenforceable, the rest of the Agreement will continue in effect, and the unenforceable part shall be reformed to the extent possible to make it enforceable and give business efficacy to the Agreement. Each party may enforce its respective rights under the Agreement even if it has waived the right or failed to enforce the same or other rights in the past. The relationship between the parties is that of independent contractors and not business partners. Neither party is the agent for the other and neither party has the right to bind the other on any agreement with a third party.
+
+16.4 The following provisions in these Terms of Service shall survive expiration or termination of the Agreement: Intellectual Property, Confidential Information, Indemnification, Limitation on Damages, Governing Law, Notices, Miscellaneous, all terms of the Agreement requiring you to pay any fees for Services provided prior to the time of expiration or termination, or requiring you to pay an early termination fee, and any other provisions that by their nature are intended to survive expiration or termination of the Agreement.
+
+16.5 The Agreement constitutes the complete and exclusive understanding between the parties regarding its subject matter and supersedes and replaces any prior or contemporaneous representation(s), agreement(s) or understanding(s), written or oral.
+
+### DOCUMENT/ Data Processing Agreement / https://www.mailjet.com/dpa/ ###
+Data Processing Agreement
+Mailjet
+Last revised and updated 10/29/2020. To review a changelog and see the previous version, click here.
+
+This Data Processing Agreement (this “DPA“) forms part of the Mailgun Terms of Service (the “Principal Agreement”) by and between Mailgun Technologies, Inc. on its own behalf and on behalf of its Affiliates (“Mailgun“) and the “Customer” and is subject to the Principal Agreement.
+
+1. Definitions. For the purposes of this DPA, capitalized terms shall have the following meanings. Capitalized terms not otherwise defined shall have the meaning given to them in the Principal Agreement.
+
+(a) “Affiliates” means any entity that is owned or that owns Mailgun Technologies, Inc. or that is under common control with one of Mailgun’s entities, including but not limited to Mailgun Technologies SAS and Mailjet SAS.
+
+(b) “Customer’s Personal Data” means any personal data that is processed by Mailgun on behalf of the Customer to perform the Services under the Principal Agreement.
+
+(c) “EU Data Protection Laws” means EU Directive 95/46/EC, as transposed into domestic legislation of each Member State and as amended, replaced or superseded from time to time, including (with effect from May 25, 2018) by the GDPR and laws implementing, replacing or supplementing the GDPR.
+
+(d) “GDPR” means EU General Data Protection Regulation 2016/679.
+
+(e) “EEA” means the European Economic Area.
+
+(f) “Mailgun Infrastructure” means (i) Mailgun physical facilities; (ii) hosted cloud infrastructure; (iii) Mailgun’s corporate network and the non-public internal network, software, and hardware necessary to provide the Services and which is controlled by Mailgun; in each case to the extent used to provide the Services.
+
+(g) “Restricted Transfer” means a transfer of the Customer’s Personal Data from Mailgun to a sub-processor where such transfer would be prohibited by EU Data Protection Laws (or by the terms of data transfer agreements put in place to address the data transfer restrictions of EU Data Protection Laws) in the absence of appropriate safeguards required for such transfers under EU Data Protection Laws.
+
+(h) “Services” means the services provided to the Customer by Mailgun pursuant to the Principal Agreement.
+
+(i) “Standard Contractual Clauses” means the latest version of the standard contractual clauses for the transfer of personal data to processors established in third countries under Directive 95/46/EC of the European Parliament and of the Council (the current version as at the date of this DPA is annexed to European Commission Decision 2010/87/EU).
+
+(j) The terms “consent“, “controller“, “data subject“, “Member State“, “personal data“, “personal data breach“, “processor“, “sub processor“, “processing“, “supervisory authority” and “third party” shall have the meanings ascribed to them in article 4 of the GDPR.
+
+2. Compliance with EU Data Protection Laws
+
+(a) Mailgun and the Customer shall each comply with the provisions and obligations imposed on them by the EU Data Protection Laws and shall procure that their employees, agents and contractors observe the provisions of the EU Data Protection Laws.
+
+3. Details and Scope of the Processing
+
+(a) The Processing of the Customer’s Personal Data within the scope of the Agreement shall be carried out in accordance with the following stipulations and as required under Article 28(3) of the GDPR. The parties may amend this information from time to time, as the parties may reasonably consider necessary to meet those requirements.
+
+(i) Subject matter and duration of the processing of Personal Data: The subject matter and duration of the processing of the Personal Data are set out in the Principal Agreement.
+
+(ii) The nature and purpose of the processing of Personal Data: Under the Principal Agreement, Mailgun provides certain email and sms services to the Customer which involves the processing of personal data. Such processing activities include (a) providing the Services; (b) the detection, prevention and resolution of security and technical issues; and (c) responding to Customer’s support requests.
+
+(iii) The types of Personal Data to be processed: The personal data submitted, the extent of which is determined and controlled by the Controller in its sole discretion, includes name, email, telephone numbers IP address and other personal data included in the contact lists and message content.
+
+(iv) The categories of data subject to whom the Personal Data relates: Senders and recipients of email and sms messages.
+
+(b) Mailgun shall only process the Customer’s Personal Data (i) for the purposes of fulfilling its obligations under the Principal Agreement and (i) in accordance with the documented instructions described in this DPA or as otherwise instructed by the Customer from time to time. Such Customer’s instructions shall be documented in the applicable order, services description, support ticket, other written communication or as directed by Customer using the Services (such as through an API or control panel).
+
+(c) Where Mailgun reasonably believes that a Customer instruction is contrary to the provisions of the Principal Agreement or this DPA, or that it infringes the GDPR or other applicable data protection provisions, it shall inform the Customer without delay. In both cases, Mailgun shall be authorized to defer the performance of the relevant instruction until it has been amended by Customer or is mutually agreed by both Customer and Mailgun.
+
+(d) Customer is solely responsible for its utilization and management of Personal Data submitted or transmitted by the Services, including: (i) verifying recipient’s addresses and that they are correctly entered into the Services (ii) reasonably notifying any recipient of the insecure nature of email as a means of transmitting Personal Data (as applicable), (iii) reasonably limiting the amount or type of information disclosed through the Services (iv) encrypting any Personal Data transmitted through the Services where appropriate or required by applicable law (such as through the use of encrypted attachments, PGP toolsets, or S/MIME). When the Customer decides not to configure mandatory encryption, the Customer acknowledges that the Services may include the transmission of unencrypted email in plain text over the public internet and open networks. Information uploaded to the Services, including message content, is stored in an encrypted format when processed by the Mailgun Infrastructure.
+
+4. Controller and Processor
+(a) For the purposes of this DPA, the Customer is the controller of the Customer’s Personal Data and Mailgun is the processor of such data, except when the Customer acts as a processor of the Customer’s Personal Data, in which case Mailgun is a sub-processor.
+
+(b) Mailgun shall at all times have in place an officer who is responsible for assisting the Customer (i) in responding to inquiries concerning the Data Processing received from Data Subjects; and, (ii) in completing all legal information and disclosure requirements which apply and are associated with the Data Processing. The Data Protection Officer may be contacted directly at privacy@mailgun.com.
+
+(c) The Customer warrants that:
+(i) The processing of the Customer’s Personal Data is based on legal grounds for processing, as may be required by EU Data Protection Laws and that it has made and shall maintain throughout the term of the Principal Agreement all necessary rights, permissions, registrations and consents in accordance with and as required by EU Data Protection Laws with respect to Mailgun’s processing of the Customer’s Personal Data under this DPA and the Principal Agreement;
+
+(ii) it is entitled to and has all necessary rights, permissions and consents to transfer the Customer’s Personal Data to Mailgun and otherwise permit Mailgun to process the Customer’s Personal Data on its behalf, so that Mailgun may lawfully use, process and transfer the Customer’s Personal Data in order to carry out the Services and perform Mailgun’s other rights and obligations under this DPA and the Principal Agreement;
+
+(iii) it will inform its Data Subjects about its use of Processors in Processing their Personal Data, to the extent required under applicable EU Data Protection Laws; and,
+
+(iv) it will respond in a reasonable time and to the extent reasonably practicable to enquiries by Data Subjects regarding the Processing of their Personal Data, and to give appropriate instructions to the Processor in a timely manner.
+
+5. Confidentiality
+(a) Mailgun shall ensure that each of its, and sub-processors’, personnel that is authorized to process the Customer’s Personal Data is subject to confidentiality undertakings or professional or statutory obligations of confidentiality and are trained with the relevant security and Data Protection requirements.
+
+6. Technical and Organizational Measures
+(a) Mailgun shall, in relation to the Customer’s Personal Data, (a) take and document, as appropriate, reasonable and appropriate measures required pursuant to Article 32 of the GDPR in relation to the security of the Mailgun Infrastructure and the platforms used to provide the Services as described in the Principal Agreement, and (b) on reasonable request at the Customer’s cost, assist the Customer in ensuring compliance with the Customer’s obligations pursuant to Article 32 of the GDPR.
+
+(b) Mailgun’s internal operating procedures shall comply with the specific requirements of an effective Data Protection management.
+
+7. Data Subject Requests
+(a) Mailgun provides specific tools in order to assist customers in replying to requests received from data subjects. These include our APIs and interfaces to search event data, suppressions, and retrieve message content. When Mailgun receives a complaint, inquiry or request (including requests made by data subjects to exercise their rights pursuant to EU Data Protection Laws) related to the Customer’s Personal Data directly from data subjects Mailgun will notify the Customer within 14 days from the receipt of the complaint, inquiry or request. Taking into account the nature of the processing, Mailgun shall assist the Customer at the Customer’s cost, by appropriate technical and organizational measures, insofar as this is reasonably possible, for the fulfillment of the Customer’s obligation to respond to requests for exercising such data subjects’ rights.
+
+8. Personal Data Breaches
+(a) Mailgun shall notify the Customer without undue delay once Mailgun becomes aware of a personal data breach affecting the Customer’s Personal Data. Mailgun shall, taking into account the nature of the processing and the information available to Mailgun, use commercially reasonable efforts to provide the Customer with sufficient information to allow the Customer at the Customer’s cost, to meet any obligations to report or inform regulatory authorities, data subjects and other entities of such personal data breach to the extent required under EU Data Protection Laws.
+
+9. Data Protection Impact Assessments
+(a) Mailgun shall, taking into account the nature of the processing and the information available, provide reasonable assistance to the Customer at the Customer’s cost, with any data protection impact assessments and prior consultations with supervisory authorities or other competent regulatory authorities as required for the Customer to fulfill its obligations under EU Data Protection Laws.
+
+10. Audits
+(a) Mailgun shall make available to the Customer on reasonable request, information that is reasonably necessary to demonstrate the Customer’s compliance with this DPA.
+
+(b) Customer, or a mandated third party auditor, may upon written reasonable request conduct an inspection in relation to the Processing of the Customer’s Personal Data by Mailgun and to the extent necessary according to Data Protections Laws and without interrupting Mailgun’s business operations and ensuring confidentiality. The Customer shall be responsible for any costs and expenses of Processor arising from the provision of such audit rights.
+
+11. Return or Destruction of the Customer’s Personal Data
+(a) The Customer may, by written notice to Mailgun, request the return and/or certificate of deletion of all copies of the Customer’s Personal Data in the control or possession of Mailgun and sub-processors. Mailgun shall provide a copy of the Controller’s Data in a form that can be read and processed further.
+
+(b) Within ninety (90) days following termination of the account, the Processor shall delete and/or return all Personal Data processed pursuant to this DPA. This provision shall not affect potential statutory duties of the Parties to preserve records for retention periods set by law, statute or contract. Mailgun may retain electronic copies of files containing Customer’s Personal Data created pursuant to automatic archiving or back-up procedures which cannot reasonably be deleted. In these cases, Mailgun shall ensure that the Customer’s Personal Data is not further actively processed.
+
+(c) Any additional cost arising in connection with the return or deletion of Personal Data after the termination or expiration of the Agreement shall be borne by the Customer.
+
+12. Data Transfers
+(a) Following execution of this DPA, Mailgun shall, if requested to do so by the Customer and if required by EU Data Protection Laws, enter into the Standard Contractual Clauses as data importer with the Customer acting as data exporter. If Mailgun’s arrangement with a sub-processor involves a Restricted Transfer, Mailgun shall ensure that the onward transfer provisions of the Standard Contractual Clauses are incorporated into the Principal Agreement, or otherwise entered into, between Mailgun and the sub-processor. The Customer agrees to exercise its audit right in the Standard Contractual Clauses by instructing Mailgun to conduct the audit set out in Paragraph 10.
+
+(b) Controller acknowledges and agrees that, in connection with the performance of the Services under the Agreement, Processor may transfer Personal Data within its company group. These transfers are necessary to globally provide the Services, and are justified for internal administration purposes.
+
+(c) For transfers of Personal Data from the European Union, the European Economic Area and/or their member states, Switzerland and the United Kingdom to countries which do not ensure an adequate level of Data Protection within the meaning of Data Protection Laws of the foregoing territories, to the extent such transfers are subject to Data Protection Laws and Regulations and in order to implement appropriate safeguards, the following safeguards are taken: (i) Standard Contractual Clauses as per European Commission’s Decision 2010/87/EU and, (2) additional safeguards with respect to security measures including data encryption and data minimization principles.
+
+13. Sub-processing
+(a) The Customer hereby authorizes Mailgun to appoint sub-processors in accordance with this Paragraph 12 and Annex 2, subject to any restrictions in the Principal Agreement. Mailgun will ensure that sub-processors are bound by written agreements that require them to provide at least the level of data protection required of Mailgun by this DPA. Mailgun may continue to use those sub-processors already engaged as at the date of this DPA.
+
+(b) Mailgun shall give the Customer prior written notice of the appointment of any new sub-processor. If, within ten (10) business days of receipt of that notice, the Customer notifies Mailgun in writing of any objections on reasonable grounds to the proposed appointment, Mailgun shall not appoint that proposed sub-processor until reasonable steps have been taken to address the objections raised by the Customer and the Customer has been provided with a reasonable written explanation of the steps taken. If Mailgun and the Customer are not able to resolve the appointment of a sub-processor within a reasonable period, either party shall have the right to terminate the Principal Agreement for cause.
+
+(c) In addition, in the event of authorized sub-contracting outside the European Union, the Customer mandates Mailgun to enter into EU Model Clauses in its name and on its behalf for the specific purposes of the providing the services under the Principal Agreement.
+
+(d) This paragraph does not apply to the following ancillary services, namely telecommunication services, postal or transport services, maintenance and user support tools. Mailgun shall, however, be obligated to make appropriate and legally binding contractual arrangements and take appropriate inspection measures to ensure the Data protection and Data security of the Customer’s Data even for these outsourced ancillary services.
+
+(e) Mailgun shall be responsible for the acts and omissions of any sub-processors as it is to the Customer for its own acts and omissions in relation to the matters provided in this DPA.
+
+14. Governing law and jurisdiction
+(a) The parties to this DPA hereby submit to the choice of jurisdiction stipulated in the Principal Agreement with respect to any disputes or claims howsoever arising under this DPA, including disputes regarding its existence, validity or termination or the consequences of its nullity.
+
+(b) This DPA and all non-contractual or other obligations arising out of or in connection with it are governed by the laws of the country or territory stipulated for this purpose in the Principal Agreement.
+
+15. Order of precedence
+(a) With regard to the subject matter of this DPA, in the event of inconsistencies between the provisions of this DPA and any other agreements between the parties, including the Principal Agreement and including (except where explicitly agreed otherwise in writing, signed on behalf of the parties) agreements entered into or purported to be entered into after the date of this DPA, the provisions of this DPA shall prevail.
+
+16. Changes in Data Protection Laws, etc.
+(a) Mailgun may modify or supplement this DPA, with reasonable notice to the Customer:
+
+(i) If required to do so by a supervisory authority or other government or regulatory entity;
+
+(ii) If necessary to comply with applicable law;
+
+(iii) To implement new or updated Standard Contractual Clauses approved by the European Commission; or
+
+(iv) To adhere to an approved code of conduct or certification mechanism approved or certified pursuant to Articles 40, 42 and 43 GDPR.
+
+17. Severance
+(a) Should any provision of this DPA be invalid or unenforceable, then the remainder of this DPA shall remain valid and in force. The invalid or unenforceable provision shall be either (i) amended as necessary to ensure its validity and enforceability, while preserving the parties’ intentions as closely as possible or, if this is not possible, (ii) construed in a manner as if the invalid or unenforceable part had never been contained therein.
+
+18. Termination
+(a) This DPA and the Standard Contractual Clauses will terminate contemporaneously and automatically with the termination of the Principal Agreement.
+
+(b) Mailgun may terminate this DPA and the Standard Contractual Clauses if Mailgun offers alternative mechanisms to Customer that comply with the obligations of the European Union privacy laws for the transfer of Personal Data outside the EEA.
+
+IN WITNESS WHEREOF, this DPA is entered into and becomes a binding part of the Principal Agreement with effect from the date first set out above.
+
+ANNEX 1
+INFORMATION SECURITY – TECHNICAL AND ORGANIZATIONAL MEASURES
+Where personal data is processed or used automatically, Mailgun’s internal organization ensures that it meets specific requirements of data protection by utilizing security best practices. In particular, Mailgun implements the following measures to protect personal data or other sensitive data categories.
+
+Physical Access Control
+
+To prevent unauthorized persons from gaining access to data processing systems with which personal data is processed or used:
+– Mailgun leverages industry-leading data center and cloud infrastructure providers. Access to all data centers is strictly controlled. All data centers are equipped with 24x7x365 surveillance and biometric access control systems. Additionally, all providers are SOC Type II and ISO 27001 certified.
+– Data centers are equipped with at least N+1 redundancy for power, networking, and cooling infrastructure.
+– Within a region, data processing occurs across at least three distinct availability zones. Services are designed to withstand the failure of an availability zone without customer disruption.
+
+System Access Control
+To prevent data processing systems from being used without authorization:
+
+– Administrative access to Mailgun systems and services follows the principle of least privilege. Access to systems is based on job role and responsibilities. Mailgun utilizes unique usernames/identifiers that are not permitted to be shared or re-assigned to another person.
+– VPN and multi-factor authentication is used for access to internal support tools and product infrastructure.
+– Network access control lists (ACLs) and security groups are used to limit ingress and egress traffic from production infrastructure.
+– Intrusion detection systems (IDS) are used to detect potential unauthorized access.
+– Network protections have been deployed to mitigate the impact of distributed denial of service (DDoS) attacks.
+– Onboarding and offboarding processes are documented and followed consistently to ensure access is properly managed to internal and externally hosted tools and systems. Where possible, third-party services leverage single sign-on (SSO) functionality which allows for centralized management and enforces multi-factor authentication.
+
+Data Access Control
+
+To ensure authorized users entitled to use data processing systems have access only to the data to which they have a right of access, and that personal data cannot be read, copied, modified or removed without authorization in the course of processing or use and after storage:
+
+– Mailgun utilizes a password management system that enforces minimum password length, complexity, expiration time, and minimum last used.
+– Employee workstations automatically lock after a prolonged period of inactivity. Systems log out users after a prolonged period of inactivity.
+– Logs are centrally stored and indexed. Critical logs, such as security logs, are retained for at least one year.
+– The Mailgun patch management process ensures that systems are patched at least once every month. Monitoring, alerting, and routine vulnerability scanning occurs to ensure that all product infrastructure is patched consistently.
+– Industry-standard antivirus software is utilized to ensure internal assets that access personal data are protected against known viruses. Antivirus software is updated regularly.
+– Mailgun utilizes firewalls to segregate unwanted traffic from entering the network. A DMZ is utilized using firewalls to further protect internal systems protecting sensitive data.
+
+Data Transmission Control
+
+To ensure that personal data cannot be read, copied, modified or removed without authorization during electronic transmission or transport:
+– Customer data is stored encrypted-at-rest through the use of AES-256 encryption on block devices.
+– Customer backups are encrypted-in-transit and at rest using strong encryption.
+– Mailgun supports TLS 1.0, 1.1, and 1.2 to encrypt network traffic between the client application and Mailgun infrastructure. Customers can control and manage encryption settings for messages processed by Mailgun and sent to receiving mailbox providers to achieve compliance needs beyond the scope of Mailgun’s external certifications.
+– Mailgun is alerted to encryption issues through periodic risk assessments and third-party penetration tests. Mailgun performs third-party penetration tests on an annual basis, or as needed due to changes in the business.
+– Mailgun operates a bug bounty program, encouraging the responsible disclosure of vulnerabilities from community researchers.
+
+Input Control
+
+To ensure that it is possible to check and establish whether and by whom personal data have been input into data processing systems, modified or removed:
+– Systems are monitored for security events to ensure quick resolution.
+– Logs are centrally stored and indexed. Critical logs, such as security logs, are retained for at least one year. Logs can be traced back to individual unique usernames with timestamps to investigate nonconformities or security events.
+
+Availability Control
+
+To ensure personal data is protected from accidental destruction or loss:
+– Account data is backed up at least daily. Incremental/point-in-time recovery is available for all primary databases. Backups are encrypted-in-transit and at rest using strong encryption.
+– Mailgun patch management process ensures that systems are patched at least once every month. Monitoring, alerting, and routine vulnerability scanning occurs to ensure that all product infrastructure is patched consistently.
+– When necessary, Mailgun patches infrastructure in an expedited manner in response to the disclosure of critical vulnerabilities to ensure system uptime is preserved.
+– Customer environments are logically separated at all times. Customers are not able to access accounts other than those given authorization credentials for.
+
+ANNEX 2
+AUTHORIZED SUB-PROCESSORS AS OF THE DPA EFFECTIVE DATE
+Infrastructure Sub-Processors
+Company, Server Location, Description of Activities
+Google Platform, Germany and USA, datacenter
+Rackspace (AWS), USA and Germany, Datacenter,
+Proxiad Bulgaria, Bulgaria, Ticket supports functions and TAM functions
+Mailgun Technologies, USA, Group company
+
+Standard Contractual Clauses (processors)
+
+For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of personal data to processors established in third countries which do not ensure an adequate level of data protection
+The Customer entity that is a party to the DPA to which these Standard Contractual Clauses are attached.
+
+AND
+Mailgun Technologies, Inc.
+112 E Pecan St #1135
+San Antonio, TX 78205
+legal@mailgun.com
+
+(the data importer or data sub processor (as applicable))
+each a “party”; together “the parties”,
+
+HAVE AGREED on the following Contractual Clauses (the Clauses) in order to adduce adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the data exporter to the data importer of the personal data specified in Appendix 1.
+
+Clause 1
+Definitions
+
+For the purposes of the Clauses:
+
+(a) ‘personal data’, ‘special categories of data’, ‘process/processing’, ‘controller’, ‘processor’, ‘data subject’ and ‘supervisory authority’ shall have the same meaning as in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data*;
+* Parties may reproduce definitions and meanings contained in Directive 95/46/EC within this Clause if they considered it better for the contract to stand alone.
+
+(b) ‘the data exporter’ means the controller who transfers the personal data;
+
+(c) ‘the data importer’ means the processor who agrees to receive from the data exporter personal data intended for processing on his behalf after the transfer in accordance with his instructions and the terms of the Clauses and who is not subject to a third country’s system ensuring adequate protection within the meaning of Article 25(1) of Directive 95/46/EC;
+
+(d) ‘the sub processor’ means any processor engaged by the data importer or by any other sub processor of the data importer who agrees to receive from the data importer or from any other sub processor of the data importer personal data exclusively intended for processing activities to be carried out on behalf of the data exporter after the transfer in accordance with his instructions, the terms of the Clauses and the terms of the written subcontract;
+
+(e) ‘the applicable data protection law’ means the legislation protecting the fundamental rights and freedoms of individuals and, in particular, their right to privacy with respect to the processing of personal data applicable to a data controller in the Member State in which the data exporter is established;
+
+(f) ‘technical and organizational security measures’ means those measures aimed at protecting personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing.
+
+Clause 2
+Details of the transfer
+
+The details of the transfer and in particular the special categories of personal data where applicable are specified in Appendix 1 which forms an integral part of the Clauses.
+
+Clause 3
+Third-party beneficiary clause
+
+1. The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i), Clause 5(a) to (e), and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and Clauses 9 to 12 as third-party beneficiary.
+
+2. The data subject can enforce against the data importer this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where the data exporter has factually disappeared or has ceased to exist in law unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law, as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity.
+
+3. The data subject can enforce against the sub processor this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity. Such third-party liability of the sub processor shall be limited to its own processing operations under the Clauses.
+
+4. The parties do not object to a data subject being represented by an association or other body if the data subject so expressly wishes and if permitted by national law.
+
+Clause 4
+Obligations of the data exporter
+
+The data exporter agrees and warrants:
+
+(a) that the processing, including the transfer itself, of the personal data has been and will continue to be carried out in accordance with the relevant provisions of the applicable data protection law (and, where applicable, has been notified to the relevant authorities of the Member State where the data exporter is established) and does not violate the relevant provisions of that State;
+
+(b) that it has instructed and throughout the duration of the personal data processing services will instruct the data importer to process the personal data transferred only on the data exporter’s behalf and in accordance with the applicable data protection law and the Clauses;
+
+(c) that the data importer will provide sufficient guarantees in respect of the technical and organizational security measures specified in Appendix 2 to this contract;
+
+(d) that after assessment of the requirements of the applicable data protection law, the security measures are appropriate to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing, and that these measures ensure a level of security appropriate to the risks presented by the processing and the nature of the data to be protected having regard to the state of the art and the cost of their implementation;
+
+(e) that it will ensure compliance with the security measures;
+
+(f) that, if the transfer involves special categories of data, the data subject has been informed or will be informed before, or as soon as possible after, the transfer that its data could be transmitted to a third country not providing adequate protection within the meaning of Directive 95/46/EC;
+
+(g) to forward any notification received from the data importer or any sub processor pursuant to Clause 5(b) and Clause 8(3) to the data protection supervisory authority if the data exporter decides to continue the transfer or to lift the suspension;
+
+(h) to make available to the data subjects upon request a copy of the Clauses, with the exception of Appendix 2, and a summary description of the security measures, as well as a copy of any contract for sub processing services which has to be made in accordance with the Clauses, unless the Clauses or the contract contain commercial information, in which case it may remove such commercial information;
+
+(i) that, in the event of sub processing, the processing activity is carried out in accordance with Clause 11 by a sub processor providing at least the same level of protection for the personal data and the rights of data subject as the data importer under the Clauses; and
+
+(j) that it will ensure compliance with Clause 4(a) to (i).
+
+Clause 5
+Obligations of the data importer*
+
+* Mandatory requirements of the national legislation applicable to the data importer which do not go beyond what is necessary in a democratic society on the basis of one of the interests listed in Article 13(1) of Directive 95/46/EC, that is, if they constitute a necessary measure to safeguard national security, defense, public security, the prevention, investigation, detection and prosecution of criminal offences or of breaches of ethics for the regulated professions, an important economic or financial interest of the State or the protection of the data subject or the rights and freedoms of others, are not in contradiction with the standard contractual clauses. Some examples of such mandatory requirements which do not go beyond what is necessary in a democratic society are, inter alia, internationally recognized sanctions, tax-reporting requirements or anti-money-laundering reporting requirements.
+
+The data importer agrees and warrants:
+
+(a) to process the personal data only on behalf of the data exporter and in compliance with its instructions and the Clauses; if it cannot provide such compliance for whatever reasons, it agrees to inform promptly the data exporter of its inability to comply, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract;
+
+(b) that it has no reason to believe that the legislation applicable to it prevents it from fulfilling the instructions received from the data exporter and its obligations under the contract and that in the event of a change in this legislation which is likely to have a substantial adverse effect on the warranties and obligations provided by the Clauses, it will promptly notify the change to the data exporter as soon as it is aware, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract;
+
+(c) that it has implemented the technical and organizational security measures specified in Appendix 2 before processing the personal data transferred;
+
+(d) that it will promptly notify the data exporter about:
+
+(i) any legally binding request for disclosure of the personal data by a law enforcement authority unless otherwise prohibited, such as a prohibition under criminal law to preserve the confidentiality of a law enforcement investigation,
+
+(ii) any accidental or unauthorized access, and
+
+(iii) any request received directly from the data subjects without responding to that request, unless it has been otherwise authorized to do so;
+
+(e) to deal promptly and properly with all inquiries from the data exporter relating to its processing of the personal data subject to the transfer and to abide by the advice of the supervisory authority with regard to the processing of the data transferred;
+
+(f) at the request of the data exporter to submit its data processing facilities for audit of the processing activities covered by the Clauses which shall be carried out by the data exporter or an inspection body composed of independent members and in possession of the required professional qualifications bound by a duty of confidentiality, selected by the data exporter, where applicable, in agreement with the supervisory authority;
+
+(g) to make available to the data subject upon request a copy of the Clauses, or any existing contract for sub processing, unless the Clauses or contract contain commercial information, in which case it may remove such commercial information, with the exception of Appendix 2 which shall be replaced by a summary description of the security measures in those cases where the data subject is unable to obtain a copy from the data exporter;
+
+(h) that, in the event of sub processing, it has previously informed the data exporter and obtained its prior written consent;
+
+(i) that the processing services by the sub processor will be carried out in accordance with Clause 11;
+
+(j) to send promptly a copy of any sub processor agreement it concludes under the Clauses to the data exporter.
+
+Clause 6
+Liability
+
+1. The parties agree that any data subject, who has suffered damage as a result of any breach of the obligations referred to in Clause 3 or in Clause 11 by any party or sub processor is entitled to receive compensation from the data exporter for the damage suffered.
+
+2. If a data subject is not able to bring a claim for compensation in accordance with paragraph 1 against the data exporter, arising out of a breach by the data importer or his sub processor of any of their obligations referred to in Clause 3 or in Clause 11, because the data exporter has factually disappeared or ceased to exist in law or has become insolvent, the data importer agrees that the data subject may issue a claim against the data importer as if it were the data exporter, unless any successor entity has assumed the entire legal obligations of the data exporter by contract of by operation of law, in which case the data subject can enforce its rights against such entity.
+The data importer may not rely on a breach by a sub processor of its obligations in order to avoid its own liabilities.
+
+3. If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the sub processor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the sub processor agrees that the data subject may issue a claim against the data sub processor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The liability of the sub processor shall be limited to its own processing operations under the Clauses.
+
+Clause 7
+Mediation and jurisdiction
+
+1. The data importer agrees that if the data subject invokes against it third-party beneficiary rights and/or claims compensation for damages under the Clauses, the data importer will accept the decision of the data subject:
+
+(a) to refer the dispute to mediation, by an independent person or, where applicable, by the supervisory authority;
+(b) to refer the dispute to the courts in the Member State in which the data exporter is established.
+
+2. The parties agree that the choice made by the data subject will not prejudice its substantive or procedural rights to seek remedies in accordance with other provisions of national or international law.
+
+Clause 8
+Cooperation with supervisory authorities
+
+1. The data exporter agrees to deposit a copy of this contract with the supervisory authority if it so requests or if such deposit is required under the applicable data protection law.
+
+2. The parties agree that the supervisory authority has the right to conduct an audit of the data importer, and of any sub processor, which has the same scope and is subject to the same conditions as would apply to an audit of the data exporter under the applicable data protection law.
+
+3. The data importer shall promptly inform the data exporter about the existence of legislation applicable to it or any sub processor preventing the conduct of an audit of the data importer, or any sub processor, pursuant to paragraph 2. In such a case the data exporter shall be entitled to take the measures foreseen in Clause 5 (b).
+
+Clause 9
+Governing Law
+
+The Clauses shall be governed by the law of the Member State in which the Data Exporter is established.
+
+Clause 10
+Variation of the contract
+
+The parties undertake not to vary or modify the Clauses. This does not preclude the parties from adding clauses on business related issues where required as long as they do not contradict the Clause.
+
+Clause 11
+Sub processing
+
+1. The data importer shall not subcontract any of its processing operations performed on behalf of the data exporter under the Clauses without the prior written consent of the data exporter. Where the data importer subcontracts its obligations under the Clauses, with the consent of the data exporter, it shall do so only by way of a written agreement with the sub processor which imposes the same obligations on the sub processor as are imposed on the data importer under the Clauses. Where the sub processor fails to fulfill its data protection obligations under such written agreement the data importer shall remain fully liable to the data exporter for the performance of the sub processor’s obligations under such agreement.
+
+2. The prior written contract between the data importer and the sub processor shall also provide for a third-party beneficiary clause as laid down in Clause 3 for cases where the data subject is not able to bring the claim for compensation referred to in paragraph 1 of Clause 6 against the data exporter or the data importer because they have factually disappeared or have ceased to exist in law or have become insolvent and no successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law. Such third-party liability of the sub processor shall be limited to its own processing operations under the Clauses.
+
+3. The provisions relating to data protection aspects for sub processing of the contract referred to in paragraph 1 shall be governed by the law of the Member State in which the data exporter is established.
+
+4. The data exporter shall keep a list of sub processing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5 (j), which shall be updated at least once a year. The list shall be available to the data exporter’s data protection supervisory authority.
+
+Clause 12
+Obligation after the termination of personal data processing services
+
+1. The parties agree that on the termination of the provision of data processing services, the data importer and the sub processor shall, at the choice of the data exporter, return all the personal data transferred and the copies thereof to the data exporter or shall destroy all the personal data and certify to the data exporter that it has done so, unless legislation imposed upon the data importer prevents it from returning or destroying all or part of the personal data transferred. In that case, the data importer warrants that it will guarantee the confidentiality of the personal data transferred and will not actively process the personal data transferred anymore.
+
+2. The data importer and the sub processor warrant that upon request of the data exporter and/or of the supervisory authority, it will submit its data processing facilities for an audit of the measures referred to in paragraph 1.
+
+On behalf Mailgun Technologies, Inc.:
+
+Name: Josh Odom
+Position: CTO
+112 E Pecan St #1135
+San Antonio, TX 78205
+
+On behalf of the Customer:
+
+APPENDIX 1 TO THE STANDARD CONTRACTUAL CLAUSES
+DATA EXPORTER
+The data exporter is the non-Mailgun entity that transfers Personal Data outside the EEA and uses Mailgun services as a direct Customer of Mailgun or as an end user through Mailgun’s Customer.
+
+DATA IMPORTER
+The data importer is Mailgun Technologies, Inc., a provider of Mailgun™ services.
+
+DATA SUBJECTS
+The personal data transferred may concern individuals about whom personal data is transmitted or stored by data exporter via the Mailgun hosted system and/or services.
+
+CATEGORIES OF DATA
+The personal data transferred includes name, email, IP address and personal data included in message content.
+
+PROCESSING OPERATIONS
+Under the Agreement, Mailgun provides certain email services to the data exporter or data importer, as applicable. Mailgun may therefore process personal data. Such processing activities include (a) providing the Services; (b) the detection, prevention and resolution of security and technical issues; and (c) responding to Customer’s support requests.
+
+APPENDIX 2 TO THE STANDARD CONTRACTUAL CLAUSES
+This Appendix forms part of the Clauses and must be completed and signed by the parties
+
+Description of the technical and organizational security measures implemented by the data importer in accordance with Clauses 4(d) and 5(c) (or document/legislation attached):
+
+Data importer shall implement security measures equivalent to those required under the Agreement, the DPA and any ancillary documents entered into pursuant to the Agreement.
+
+For the purpose of securing the personal data processed, Mailgun uses industry best practices as described in Annex 2 of this agreement.
+
+### DOCUMENT / Security Privacy / https://www.mailjet.com/security-privacy/ ###
+Security & Privacy
+Mailjet is ISO 27001 certified and GDPR compliant. We respond to your frequent asked questions below.
+› Is Mailjet reliable, secure and confidential? Is our data safe?
+Mailjet’s security standards are actually very high. Strong measures protect customer data from unauthorized access. We are committed to following applicable laws that protect your privacy.
+If you have any questions or requests regarding our Privacy Policy and Data Protection, you can fill out this form.
+
+› Where is my personal data stored?
+Your data is stored in our secure data centers with Google Cloud Platform in Frankfurt (Germany) and Saint-Ghislain (Belgium).
+
+› Is our data backed up in case of an emergency?
+The full data is hosted on highly secured servers. Data is backed up daily and written to multiple disks instantly. We can perform a full backup recovery in case of unforeseen event and system-wide emergency.
+
+› Are our emails lost in case of issues with Mailjet’s servers?
+Mailjet considers reliability as a first priority and the basis for high deliverability. We ensure that all emails are sent via queuing in case our servers encounter issues. Our hardware is also fully redundant so even if one disk or server fails nothing will be lost.
+
+› What are SSL and TLS? Will it keep my communications absolutely secure?
+SSL and TLS are encryption protocols that ensures a fully secured communication for all data exchanged. These systems are widely used to ensure fully secured communications over the internet.
+
+› How will Mailjet use my account data?
+Your contact lists and personal data are confidential. Mailjet will never disclose it to third parties.
+
+› How does Mailjet protect my personal data?
+We highly value our customers data privacy and protection. Please have a look at our Privacy Policy for more information on how we manage, process and store your data submitted in the context of providing our services.
+
+› Is Mailjet GDPR compliant?
+We are proud to announce our complete implementation of all GDPR’s rigid requirements. See our press release for more information and also our compliance road map on the steps we took over the 2017 year.
+
+› Do you have a Data Protection Officer appointed for your organisation?
+Yes. Our Data Protection Officer is: Darine Fayed, Head of Legal. She may be reached at: privacy@mailjet.com
+
+› How do you ensure that my data protection rights are protected?
+We have in place processes to ensure that we respect your right to erasure, rectification, data portability, information and to be forgotten or restriction.
+
+› Do you maintain a data processing registry of all your activities?
+Yes. We have a personal data registry that is maintained, pursuant to Article 30 of the GDPR. This lists out the type of personal data, where the personal data is stored, maintained and processed, any data flow, who the responsible party is, and the retention times.
+
+› Do you provide a Data Processing Agreement for your clients?
+Yes, we sure do. You can check out our standard DPA here.
+
+### DOCUMENT / Security Privacy / https://www.mailjet.com/security-privacy/ ###

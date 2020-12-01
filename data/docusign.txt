@@ -1,0 +1,646 @@
+### DOCUMENT/ Privacy Policy / https://www.docusign.com/company/privacy-policy ###
+
+Privacy Policy
+Share this on FacebookShare this on TwitterShare this on LinkedInShare this on GooglePlusShare this on Email
+Effective Date:  January 1, 2020
+
+At DocuSign, privacy is a priority. This Privacy Policy sets out how DocuSign, Inc. and its group of companies (“us,” “our,” or “we”) collect and use personal information from customers and other individuals (collectively "you") who access or use our websites, including docusign.com and docusign.net, our mobile applications, our web client or professional client, and/or any of our other sites, products, or services that link to this Privacy Policy (the “Services”). By using our Services, you understand that we will collect and use your personal information as described in this Privacy Policy.
+
+If you or your organization has an individual agreement with us, that agreement may have privacy terms that also apply to the personal information you provide to us under that agreement. Please review the terms in that agreement as they may be different or more restrictive than the terms in this Privacy Policy.
+
+This Privacy Policy does not apply to any third-party websites and apps that you may use, including any linked to in our Services. You should review the terms and policies for third-party websites and apps before clicking on any links.
+
+DocuSign’s core product and Services help users create, complete, and show the validity of digital or electronic transactions, such as electronically signing a contract for mobile phone services or placing a digital signature on a loan application. As part of our Services, users want us to collect and record information that helps the parties prove the validity of the transactions. This information includes the persons who are involved in the transactions and the devices those persons use.
+
+We recommend that you read this Privacy Policy in full to ensure you are fully informed. However, if you want to access a section of this Privacy Policy, please refer to the table below.
+
+1. How We Collect Personal Information
+You have choices about whether you visit our sites, install our apps, or provide personal information to us. However, if you do not provide us with certain personal information, you may not be able to use some parts of our Services. For example, if you do not adopt an electronic signature, then you will not be able to sign certain electronic documents on our Service. For choices you may have, please see Section 5 of this Privacy Policy.
+
+
+
+Personal Information We Collect from You.  You provide us with personal information about yourself when you:
+
+Register or log in to your account
+Start, sign, or review an electronic document
+Create or edit your user profile
+Contact customer support
+Comment on our blogs or in community forums
+You also provide us with personal information about others when you use parts of our Services, such as when you:
+
+Start or participate in an electronic transaction, such as an envelope within DocuSign Signature
+Share information in a Room
+Add others as a member to an existing account
+Leave comments
+Refer friends
+Your main choice for this type of personal information is simply not providing it, such as by not creating a profile or not leaving a comment in a blog. For other choices you may have, please see Section 5 of this Privacy Policy.
+
+Examples of the categories of personal information you provide are:
+
+Identifiers: name, email address, mailing address, phone number, or electronic signature.
+Commercial information: billing information, products or services purchased.
+Geolocation: physical location
+Personal Information We Collect Automatically. We automatically collect personal information from you and your devices when you use our Services, even when you visit our sites or apps without logging in. For choices you may have on what information we automatically collect, please see Section ­­5 of this Privacy Policy.
+
+The categories of personal information we automatically collect includes:
+
+Device, Usage Information, and Transactional Data. We collect personal information about how you use our Services and the computers or other devices, such as mobile phones or tablets, you use to access our Services. Some examples include:
+IP address
+Precise geolocation information that you allow our apps to access (usually from your mobile device)
+Unique device identifiers and device attributes, like operating system and browser type
+Usage data, such as: web log data, referring and exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages and content viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used our Services, the frequency of your use of our Services, error logs, and other similar information
+Transactional data, such as: names and email addresses of parties to a transaction, subject line, history of actions that individuals take on a transaction(e.g. review, sign, enable features) and personal information about those individuals or their devices, such as name, email address, IP address, and authentication methods
+Cookies and Related Technologies. We may use cookies, which are text files containing small amounts of information that are downloaded on your device (“Cookies”), or related technologies, such as web beacons, local shared objects and tracking pixels to store or collect information. We also allow others to use Cookies within the Services as described below. Cookies can store your preferences, your username, and help tailor advertisements.
+Analytics. We use services like Google Analytics and Mixpanel. They use Cookies to gather usage data and help us learn how people use our Services, such as the pages they visit and for how long and the website or page they were on before coming to a DocuSign website.
+Tailored Advertising.
+Ads for Other Products & Services. Third parties whose products or services are marketed on our Services may place or read from Cookies on your computer or other device to collect information. They do this to (i) tailor and serve advertising based on information like past visits to our Services and other sites; and (ii) report the number of ads served and the responses to those ads;
+Ads for our Products and Services. We may also use services, like Google, AdRoll, and Appnexus, to serve tailored ads about our products and Services to you on our Services and elsewhere. We allow these third parties to use and access their own cookies on your computer or other device(s) you use to access our Services. We do not have access to these cookies or related technologies, and this Privacy Policy does not govern the use of those cookies and related technologies.
+For choices you have on Cookies and related technologies, please see Section 5 of this Policy. For additional information about cookies and related technologies, please go to our Cookies Notice (https://www.docusign.com/company/cookie-policy).
+
+Information We Collect from Other Sources. We may collect personal information about you from others, such as:
+
+Third-Party Sources. Examples of third-party sources include marketers, partners, researchers, affiliates (like companies connected to DocuSign), service providers, and others where they are legally allowed to share your personal information with us. For example, if you register for our Services on another website, the website may provide your personal information to us.
+Other Customers. Other customers may give us your personal information. For example, if a customer wants you to sign an electronic document in our Services, he or she will give us your email address and name.
+Combining Personal Information from Different Sources. We may combine the personal information we receive from other sources with personal information we collect from you (or your device) and use it as described in this Privacy Policy.
+Personal Information We Collect & Process on Behalf of Customers. When our customers use our Services, we process and store certain personal information on their behalf as a data processor. For example, in DocuSign Signature when a customer (or the customer’s Authorized Users) uploads contracts or other documents for review or signature, we act as a data processor and process the documents on the customer's behalf and in accordance with their instructions. In those instances, the customer is the data controller and is responsible for most aspects of the processing of the personal information. If you have any questions or concerns about how personal information is processed in these cases, including how to exercise your rights as a data subject, we recommend contacting the customer.
+
+We collect your personal information to provide and improve our Services and to support advertising and marketing. See Section 2 Use of Personal Information for additional information.
+
+We may share your personal information with third parties as provided in Section 3 Personal Information Sharing.
+
+
+
+2. Use of Personal Information
+In general, we collect, use, store, and process your personal information to provide our Services, to fix and improve them, to develop new Services, and to market our companies and their products and Services. Here are some examples of how we use the personal information we process:
+
+Provide you with the Services and products you request and collect payments
+Send you records of our relationship, including for purchases or other events
+Market features, products, or special events using email or phone or send you marketing communications about third party products and services we think may be of interest to you
+Record details about what happens with electronic documents, such as who viewed or signed, the devices used and when these events occur
+Run sweepstakes, contests, and refer-a-friend programs
+Choose and deliver content and tailored advertising, and support the marketing and advertising of our Services
+Create and review data about our users and how they use our Services
+Test changes in our Services and develop new features and products
+Fix problems you may have with our Services, including answering support questions and resolving disputes
+Manage the Services platform including support systems and security
+Prevent, investigate and respond to: fraud, unauthorized access to or use of our Services, breaches of terms and policies, or other wrongful behavior
+Comply with legal obligations
+Meet legal retention periods
+Other Uses. We may combine the personal information we collect (“aggregate”) or remove pieces of personal information (“de-identify”) to limit or prevent identification of any particular user or device to help with goals like research and marketing. This Privacy Policy does not apply to our use of such aggregated or de-identified information.
+
+Lawful Basis for Processing Your Personal Information. If European data protection law applies and DocuSign acts as a controller, our lawful basis for collecting and using the personal information described in this Privacy Policy will depend on the personal information concerned and the specific context in which we collect or use it.
+
+We normally collect or use personal information from you or others only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may have a legal obligation to collect or retain personal information or may need the personal information to protect your vital interests or those of another person. For example, when we:
+
+Use personal information to create and manage an account, we need it in order to provide relevant Services.
+Gather and record data associated with use of a digital certificate or digital signature, it is to comply with regulations.
+Use names and email addresses for email marketing purposes, we do so with your consent (which you can withdraw at any time).
+Gather usage data and analyze it to improve our Services, we do so based on our legitimate interest in safeguarding and improving our Services.
+If you have questions about or need further information concerning the lawful basis on which we collect and use your personal information, please contact us using the contact details provided in Section ­­10 of this Privacy Policy.
+
+
+
+3. Personal Information Sharing
+We do not disclose your personal information to any third party in a manner that would be considered a sale under applicable laws.
+
+We share personal information as follows:
+
+Service Providers. We share your personal information with other companies we use to support our Services. These companies provide services like intelligent search technology, intelligent analytics, advertising, authentication systems, bill collection, fraud detection, and customer support. We have contracts with our service providers that address the safeguarding and proper use of  your personal information.
+Affiliates. We may share your personal information with other companies under common ownership or control with DocuSign. These companies use your personal information as described in this Privacy Policy.
+Marketing Partners. We may share your personal information with sponsors of events, webinars or sweepstakes for which you register, or other parties with whom we may engage in joint marketing activities.
+Public or Government Authorities. We may share your personal information to follow applicable law or to respond to legal process (like a subpoena). We also may share your personal information when there are threats to the physical safety of any person, violations of this Privacy Policy or other agreements, or to protect the legal rights of third parties, including our employees, users, or the public. For more information, please review our Law Enforcement Guidelines  (https://www.docusign.com/legal/law-enforcement).
+Business Transactions. We may share your personal information during a corporate transaction like a merger, or sale of our assets, or as part of the due diligence for such contemplated transactions. If a corporate transaction occurs, we will provide notification of any changes to control of your personal information, as well as choices you may have.
+Consent. We may share your personal information in other ways if you have asked us to do so or have given consent. For example, with your consent, we post user testimonials that may identify you.
+Your personal information may also be shared as described below:
+
+Other users. When you allow others to access, use, or edit content in your account, we share that content with them. For example, if you send an envelope to others for review or signature, we make the contents of the envelope available to them.
+Third Parties. When you make a payment to another user within our Services, we share your payment method details with the third-party payment processor selected by you or the other user.
+Public Information.
+User-Generated Content. When you comment on our blogs or in our community forums, this information may also be read, collected, and used by others.
+Profile Information. When you create a DocuSign profile, other DocuSign users can view your profile information. If you would like to make this information private, please visit your account settings.
+Your Employer or Organization. When you create an account or user role with an email address assigned to you as an employee, contractor or member of an organization, such as yourname@youremployer.com or yourname@nonprofit.org, that organization (if it is a DocuSign customer with certain features) can find your account and take certain actions that may affect your account.
+
+
+4. Retention of Personal Information
+We keep your personal information for no longer than necessary for the purposes for which it is processed. The length of time for which we retain personal information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws. Where there are technical limitations that prevent deletion or anonymization, we safeguard personal information and limit active use of it.
+
+See Section 5 for choices about storage of your personal information.
+
+
+
+5. Your Choices
+This section describes many of the actions you can take to change or limit the collection or use of your personal information.
+
+Profile. You are not required to fill out a profile. If you do, you can access and review this personal information. If any personal information is inaccurate or incomplete, you can make changes in your account settings.
+Marketing Messages. You can opt out of email marketing messages we send. You can opt out of these messages by clicking on the “unsubscribe” link in the email message or unsubscribe here  (https://pref.docusign.com/preference-center). Please note that we may send you one message to confirm you want to opt out. If you are a registered user of our Services, or if you have engaged in transactions with us, we may continue to send transactional or relationship messages (e.g., signing notifications or account notifications) after you opt out of marketing messages.  If you would like your phone number added to our internal Do-Not-Call list to opt out of telemarketing messages, please contact us at https://support.docusign.com/SAR. Please include your first name, last name, company, and phone number.  You can also let us know during a telemarketing call that you do not want to be called again for telemarketing purposes.
+Cookies and Other Related Technology. You can decline cookies through your browser settings. However, if you decline cookies, you may not be able to use some parts of our Services.
+To change how Google Analytics collects and uses your personal information, you may install the Google Analytics Opt-Out Browser Add-On by clicking here (https://tools.google.com/dlpage/gaoptout). For Mixpanel’s opt-out, click here (https://mixpanel.com/optout/).
+To exercise choices for tailored advertising, please visit the following sites (please note that you may still receive advertising content, but it will not be tailored to you, and that DocuSign does not control these services which are offered by third parties):
+Network Advertising Initiative’s Consumer Opt-Out Link (http://optout.networkadvertising.org/?c=1#!/)
+Digital Advertising Alliance’s Consumer Opt-Out Link (http://optout.aboutads.info/?c=2#!/)
+Google Ad Settings (https://adssettings.google.com/authenticated)
+For your mobile devices, please read your operating system’s instructions.
+We do not recognize or respond to browser-initiated Do Not Track signals.
+For more information on Cookies, Advertising, and Choices visit our Cookie Notice (https://www.docusign.com/company/cookie-policy).
+
+Device and Usage Information. If you do not want us to see your device location, you can turn off location sharing on your device, change your device privacy settings, or decline to share location on your browser.
+Closing Your Account. If you wish to close your account, please log in to your account and edit your plan. For more information click here (https://support.docusign.com/en/articles/How-do-I-cancel-or-downgrade-my-account).
+Complaints. We are committed to resolving valid complaints about your privacy and our collection or use of your personal information. For questions or complaints regarding our data use practices or Privacy Policy, please contact us at privacy@docusign.com.
+
+
+6. Children's Privacy
+Our Services are not designed for and are not marketed to people under the age of 16 (“minors”). We do not knowingly collect or ask for personal information from minors. We do not knowingly allow minors to use our Services. If you are a minor, please do not use our Services or send us your personal information. We delete personal information that we learn is collected from a minor without verified parental consent. Please contact us using https://support.docusign.com/SAR if you believe we might have personal information from or about a minor.
+
+
+
+7. Your Privacy Rights
+You may have certain rights related to your personal information, subject to local data protection laws. These rights may include:
+
+
+
+You can access and review personal information associated with your account at any time by clicking here (https://support.docusign.com/en/guides/ndse-user-guide-manage-your-identity)/ You also can request the following information: how we collect and use your personal information and why; the categories of personal information involved; the categories of recipients of your personal information; how we received your personal information and its source; our business purpose for using your personal information; and how long we use or store your personal information or the manner in which we determine relevant retention periods.
+You have a right to correct your personal information.
+In certain situations, you can ask that we delete/erase or stop using your personal information (and object to use of your personal information) or export your personal information.
+Where we rely on your consent to process your personal information, you have the right to decline consent and/or if provided, to withdraw consent at any time. This will not affect the lawfulness of processing prior to the withdrawal of your consent. At any time, you can request that we stop using your personal information for direct marketing purposes. See Section 5 of our Privacy Policy for more information on your choices.
+You have a right to provide us with guidance on the use, storage, and deletion of your personal information after your death.
+You have a right to raise questions or complaints with your local data protection authority at any time.
+You may have the right to receive information about the financial incentives that we offer to you. You also have the right to not be discriminated against (as provided for in applicable law) for exercising certain of your rights.
+We will take reasonable steps to verify your identity. If you have an account with us, we may verify you through your login of your account. If you do not have an account with us, we may seek a confirmation by email or seek other identification information, including government-issued identification, to verify your identity.
+
+You may authorize an agent to make a request to us on your behalf and we will verify the identity of your agent or authorized legal representative by either seeking confirmation from you or documents that establish the agent’s authorization to act on your behalf.
+
+Please note your rights and choices vary depending upon your location. Certain personal information may be exempt from such requests under applicable law. We need certain types of personal information so that we can provide the product and Services to you. If you ask us to delete it, you may no longer be able to access or use our product and Services.
+
+If you wish to exercise these rights, please contact us at https://support.docusign.com/SAR or email subjectaccessrequest@docusign.com.
+
+Transfers to the U.S. and Third Countries. We may transfer your personal information outside of your jurisdiction for further processing. DocuSign has adopted Binding Corporate Rules to facilitate the transfer of personal information from the EEA to DocuSign outside of the EEA. You may view our Binding Corporate Rules at https://trust.docusign.com/en-us/trust-certifications/gdpr/bcr-p-processor-privacy-code and https://trust.docusign.com/en-us/trust-certifications/gdpr/bcr-c-csb-privacy-code.
+
+California. California residents may ask for a list of third parties that have received your personal information for direct marketing purposes during the previous calendar year. This list also contains the types of personal information shared. We provide this list at no cost. If you are a California resident and would like to request this information, please click here (https://support.docusign.com/SAR or email subjectaccessrequest@docusign.com).
+
+
+
+8. How We Protect Your Personal Information
+To keep your personal information safe, we use physical, electronic, and managerial tools. We apply these tools based on the sensitivity of the personal information we collect, use, and store, and the current state of technology. We protect your personal information through technical and organizational security measures to minimize risks associated with data loss, misuse, unauthorized access, and unauthorize disclosure and alteration.
+
+
+
+9. Changes to This Policy
+We may amend this Privacy Policy to reflect changes in the law, our companies, our Services, our data collection use and practices, or advances in technology. Our use of the personal information we collect is subject to the Privacy Policy in effect at the time such personal information is used. Depending on the type of change, we may notify you of the change by posting on this page or by email. Please periodically review this Privacy Policy and carefully review any changes made to this Privacy Policy.
+
+### DOCUMENT / DOCUSIGN SITES & SERVICES TERMS AND CONDITIONS / https://www.docusign.com/company/terms-and-conditions/web ###
+DOCUSIGN SITES & SERVICES TERMS AND CONDITIONS
+DOCUSIGN SITES & SERVICES TERMS AND CONDITIONS
+
+Last updated on August 28, 2020
+
+IMPORTANT NOTICE: THESE TERMS AND CONDITIONS CONTAIN A BINDING ARBITRATION PROVISION AND WAIVER OF JURY TRIALS AND CLASS ACTIONS GOVERNING DISPUTES ARISING FROM USE OF THE DOCUSIGN SERVICES. IT AFFECTS YOUR LEGAL RIGHTS AS DETAILED IN THE MANDATORY ARBITRATION AND WAIVER OF CLASS ACTION SECTION BELOW. PLEASE READ CAREFULLY.
+
+These DocuSign Services Terms and Conditions (“Terms”) govern access to and use of the DocuSign (“DocuSign,” “we” or “us”) web sites and services (collectively, the “Site”) by site visitors (“Site Visitors”) and by individuals or entities who purchase services (“DocuSign Services”) or create an account (“Account”) and their Authorized Users (collectively, “Customers”). By using the Site or any DocuSign Services, you as a Site Visitor or Customer accept these Terms (whether on behalf of yourself or a legal entity you represent). An “Authorized User” of a Customer is each an individual natural person, whether an employee, business partner, contractor, or agent of a Customer who is registered or permitted by Customer to use the DocuSign Services subject to these Terms and up to any maximum number of users or uses specified at the time of purchase. Customers and Site Visitors may be referred to in these Terms as “you” and “your” as applicable.
+
+If you are a Customer and you or your organization are bound by a Master Services Agreement with DocuSign (“Corporate Terms”), then these Terms will apply, if at all, only to use of the Site or any DocuSign Services to the extent such use is not already governed by such a Master Services Agreement. For the avoidance of doubt, all references to the “Site” in these Terms also include the DocuSign Services.
+
+BY ACCESSING, USING, OR DOWNLOADING ANY MATERIALS FROM THE SITE, YOU AGREE TO FOLLOW AND BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, YOU ARE NOT AUTHORIZED AND MUST CEASE USING THE SITE IMMEDIATELY.
+
+1.         Updates and Communications
+
+1.1       We may revise these Terms or any additional terms and conditions that are relevant to a particular DocuSign Service from time to time to reflect changes in the law or to the DocuSign Services. We will post the revised terms on the Site with a “last updated” date. PLEASE REVIEW THE SITE ON A REGULAR BASIS TO OBTAIN TIMELY NOTICE OF ANY REVISIONS. IF YOU CONTINUE TO USE THE DOCUSIGN SERVICES AFTER THE REVISIONS TAKE EFFECT, YOU AGREE TO BE BOUND BY THE REVISED TERMS. You agree that we shall not be liable to you or to any third party for any modification of the Terms.
+
+1.2       You agree to receive all communications, agreements, and notices that we provide in connection with any DocuSign Services (“Communications”), including, but not limited to, Communications related to our delivery of the DocuSign Services and your purchase of or subscription to the DocuSign Services, via electronic means, including by e-mail, text, in-product notifications, or by posting them on the Site or through any DocuSign Services. You agree that all Communications we provide to you electronically satisfy any legal requirement that such Communications be in writing or be delivered in a particular manner and you agree to keep your Account contact information current.
+
+2.         ADDITIONAL TERMS FOR DOCUSIGN SERVICES
+
+2.1       DocuSign Signature. If you use DocuSign Signature, you accept the Terms of the DocuSign Signature Schedule below.
+
+2.2       DocuSign Rooms. If you use DocuSign Rooms, you accept the Terms of the DocuSign Rooms Schedule below.
+
+3.         USAGE AND ACCESS RIGHTS
+
+3.1       Eligibility to Use. You represent and warrant that you are: (a) of legal age (18 years of age or older or otherwise of legal age in your resident jurisdiction) and competent to agree to these Terms; and (b) you (or your Authorized Users, as applicable) are not and will not when using the Site be located in, under the control of, or a national or resident of a U.S. embargoed country or territory and are not a prohibited end user under Export Control Laws (as defined in Section 12.3). You acknowledge that you are not permitted to use the Site if you cannot make these representations. If DocuSign has previously prohibited you from accessing the Site or using the DocuSign Services, you are not permitted to access the Site or use the DocuSign Services. If you are agreeing to these Terms on behalf of an organization or entity, you represent and warrant that you are authorized to agree to these Terms on that organization or entity’s behalf and bind them to these Terms (in which case, the references to "you" and "your" in these Terms, except for in this sentence, refer to that organization or entity).
+
+3.2       Limited License. Upon your acceptance of these Terms, we grant you a limited, non-exclusive and non-transferable license to access and use the Site for your internal business purposes and only as expressly permitted in these Terms and any applicable paid Customer plan that enables registration of an Account for the use of a DocuSign Service (“Subscription Plan”) when applicable. You shall not use or permit use of the Site for any illegal purpose or in any manner inconsistent with the provisions of these Terms. If you are or become a direct competitor of DocuSign, you may not access or use the DocuSign Services without DocuSign’s explicit, advance, written consent, and then only for the purposes authorized in writing. Except as otherwise restricted by these Terms, DocuSign grants you permission on a non-exclusive, non-transferable, limited basis to display, copy, and download content and materials on the Site provided that you: (a) retain all copyright and other proprietary notices on the content and materials; (b) use them solely for personal or internal, non-commercial use or in accordance with any applicable Subscription Plan; and (c) do not modify them in any way. Each discrete Subscription Plan includes restrictions and requirements that outline the features that Customer will be able to access. Any violation by you of the license provisions contained in this Section 3 may result in the immediate termination of your right to use the Site, as well as potential liability for copyright infringement or other claims depending on the circumstances.
+
+4.         OWNERSHIP
+
+4.1       Intellectual Property. The Site contains materials that are proprietary and are protected by copyright laws, international treaty provisions, trademarks, service marks, and other intellectual property laws and treaties.
+
+4.1.1    The Site is also protected as a collective work or compilation under copyright and other laws and treaties. You agree to abide by all applicable copyright and other laws, as well as any additional copyright notices or restrictions contained on the Site. You acknowledge that the Site contains original works that have been developed, compiled, prepared, revised, selected, and arranged by DocuSign and others through the application of methods and standards of judgment developed and applied through the expenditure of substantial time, effort, and money and which constitute valuable intellectual property of DocuSign and such others. All present and future rights in and to trade secrets, patents, designs, copyrights, trademarks, database rights, service marks, know-how, and other intellectual property or other proprietary rights of any type, Documentation, any improvements, design contributions, or derivative works thereto, and any knowledge or process related thereto, including rights in and to all applications and registrations relating to the Site, shall, as between you and DocuSign, at all times be and remain the sole and exclusive property of DocuSign.
+
+4.1.2    The trademarks, logos, taglines, and service marks displayed on the Site (collectively, the “Trademarks”) are registered and unregistered Trademarks of DocuSign and others. The Trademarks may not generally be used in any advertising or publicity, or otherwise to indicate DocuSign's sponsorship of or affiliation with any product, service, event, or organization without DocuSign's prior express written permission. DocuSign acknowledges the Trademarks of other organizations for their respective products or services mentioned on the Site. Any rights not expressly granted in these Terms or on the IP Pages are reserved by DocuSign, Inc. Other than as provided in these Terms or in the IP Pages (https://www.docusign.com/IP) incorporated herein by reference, your use of the Trademarks, or any other DocuSign content, is strictly prohibited.
+
+4.1.3    Copyright. DocuSign respects copyright law and expects its users to do the same. If you believe that any content or material on the Site infringes copyrights you own, please notify us in accordance with our Copyright Policy (https://www.docusign.com/IP/infringement).
+
+4.2       Software Use Restrictions. Software available for downloading through the Site or third-party websites or applications (the “Software”) is the copyrighted work of DocuSign and third-party providers. Use of the Software is governed by these Terms. Unauthorized reproduction or distribution of the Software is expressly prohibited by law, and may result in civil and criminal penalties. Violators may be prosecuted.
+
+4.3       Non-eDocument Content and Submissions/User Content.
+
+4.3.1    Submissions. The Site or DocuSign Services may enable you to submit, post, upload, or otherwise make available (collectively, "Post") content such as questions, public messages, ideas, product feedback, comments, and other content (collectively, "User Content") that may or may not be viewable by other users. If you Post User Content, unless we indicate otherwise, you grant us a nonexclusive, royalty-free, and fully sublicensable right to access, view, use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, copy, and display such User Content throughout the world in any form, media, or technology now known or hereafter developed. You also permit any other user to view, copy, access, store, or reproduce such User Content for that user’s personal use. You grant us the right to use the name and other information about you that you submit in connection with such User Content. You represent and warrant that: (a) you own or otherwise control all of the rights to the User Content that you Post; (b) the User Content you Post is truthful and accurate; and (c) use of the User Content you Post does not violate these Terms or any applicable laws. For the avoidance of doubt, User Content does not include any document, such as a contract, disclosure, or notice that you deposit into the DocuSign Signature service for processing (“eDocuments”).
+
+4.3.2    Screening & Removal. You acknowledge and agree that DocuSign and its designees may or may not, at DocuSign's discretion, pre-screen User Content before its appearance on the Site or DocuSign Services, but that DocuSign has no obligation to do so. You further acknowledge and agree that DocuSign reserves the right (but does not assume the obligation) in its sole discretion to reject, move, edit, or remove any User Content that is contributed to the Site or DocuSign Services. Without limiting the foregoing, DocuSign and its designees shall have the right to remove any User Content that violates these Terms or is otherwise objectionable in DocuSign's sole discretion. You acknowledge and agree that DocuSign does not verify, adopt, ratify, or sanction User Content, and you agree that you must evaluate and bear all risks associated with your use of User Content or your reliance on the accuracy, completeness, or usefulness of User Content.
+
+5.         RESTRICTIONS ON USE OF THE SITE
+
+5.1       By using the Site, including any DocuSign Service, you specifically agree not to engage in any activity or transmit any information that, in our sole discretion:
+
+5.1.1    Is illegal, or violates any federal, state, or local law or regulation;
+
+5.1.2    Advocates illegal activity or discusses illegal activities with the intent to commit them;
+
+5.1.3    Violates any third-party right, including, but not limited to, right of privacy, right of publicity, copyright, trademark, patent, trade secret, or any other intellectual property or proprietary rights;
+
+5.1.4    Is harmful, threatening, abusive, harassing, tortious, indecent, defamatory, sexually explicit or pornographic, discriminatory, vulgar, profane, obscene, libelous, hate speech, violent or inciting violence, inflammatory, or otherwise objectionable;
+
+5.1.5    Interferes with any other party’s use and enjoyment of the Services;
+
+5.1.6    Attempts to impersonate another person or entity;
+
+5.1.7    Is commercial in a way that violates these Terms, including but not limited to, using the Site for spam, surveys, contests, pyramid schemes, or other advertising materials;
+
+5.1.8    Falsely states, misrepresents, or conceals your affiliation with another person or entity;
+
+5.1.9    Accesses or uses the account of another user without permission;
+
+5.1.10  Distributes computer viruses or other code, files, or programs that interrupt, destroy, or limit the functionality of any computer software or hardware or electronic communications equipment;
+
+5.1.11  Interferes with, disrupts, disables, overburdens, or destroys the functionality or use of any features of the Site, or the servers or networks connected to the Site, or any of the DocuSign Services;
+
+5.1.12  “Hacks” or accesses without permission our proprietary or confidential records, those of another user, or those of anyone else;
+
+5.1.13  Improperly solicits personal or sensitive information from other users including without limitation address, credit card or financial account information, or passwords;
+
+5.1.14  Decompiles, reverse engineers, disassembles, or otherwise attempts to derive source code from the Site, except as expressly permitted in these Terms or by law, unless and then only to the extent permitted by applicable law without consent;
+
+5.1.15  Removes, circumvents, disables, damages, or otherwise interferes with security-related features, or features that enforce limitations on use of the Site;
+
+5.1.16  Uses automated or manual means to violate the restrictions in any robot exclusion headers on the Site, if any, or bypasses or circumvents other measures employed to prevent or limit access, for example by engaging in practices such as “screen scraping,” “database scraping,” or any other activity with the purpose of obtaining lists of users or other information;
+
+5.1.17  Modifies, copies, scrapes or crawls, displays, distributes, publishes, licenses, sells, rents, leases, lends, transfers, or otherwise commercializes any materials or content on the Site;
+
+5.1.18  Uses the Services for benchmarking, or to compile information for a product or service;
+
+5.1.19  Downloads (other than through page caching necessary for personal use, or as otherwise expressly permitted by these Terms), distributes, posts, transmits, performs, reproduces, broadcasts, duplicates, uploads, licenses, creates derivative works from, or offers for sale any content or other information contained on or obtained from or through the Site or DocuSign Services, by any means except as provided for in these Terms or with the prior written consent of DocuSign; or
+
+5.1.20  Attempts to do any of the foregoing.
+
+If you believe content on the Site violates the above restrictions, please contact us here: (https://support.docusign.com/contactSupport).
+
+5.2       In addition, Customers shall not, and shall not permit others to, do the following with respect to the DocuSign Services:
+
+5.2.1    Use the DocuSign Services or allow access to them in a manner that circumvents contractual usage restrictions or that exceeds authorized use or usage metrics set forth in these Terms, any applicable Subscription Plan or DocuSign’s Reasonable Use Policy (https://www.docusign.com/company/reasonable-use-policy) incorporated herein by reference;
+
+5.2.2    License, sub-license, sell, re-sell, rent, lease, transfer, distribute or time share or otherwise make any portion of the DocuSign Services or DocuSign’s then-current technical and functional documentation for the DocuSign Services (“Documentation”) available for access by third parties except as otherwise expressly provided in these Terms; or
+
+5.2.3    Access or use the DocuSign Services or Documentation for the purpose of: (i) developing or operating products or services intended to be offered to third parties in competition with the DocuSign Services or (ii) allowing access to your Account by a direct competitor of DocuSign.
+
+5.3       You may not frame the Site, place pop-up windows over its pages, or otherwise affect the display of its pages. You may link to the Site, provided that you acknowledge and agree that you will not link the Site to any website containing any inappropriate, profane, defamatory, infringing, obscene, indecent, or unlawful topic, name, material, or information or that violates any intellectual property, proprietary, privacy, or publicity rights. Any violation of this provision may, in our sole discretion, result in termination of your use of and access to the Site effective immediately.
+
+5.4       You acknowledge that we have no obligation to monitor your – or anyone else’s – access to or use of the Site for violations of these Terms, or to review or edit any content. However, we have the right to do so for the purpose of operating and improving the Site (including without limitation for fraud prevention, risk assessment, investigation and customer support purposes, analytics, and advertising), to ensure your compliance with these Terms and to comply with applicable law or the order or requirement of a court, consent decree, administrative agency or other governmental body.
+
+6.         PRIVACY
+
+6.1       DocuSign Privacy Policy. You acknowledge that except as described in these Terms or applicable Corporate Terms, the information you provide to us or that we collect will be used and protected as described in the DocuSign Privacy Policy (https://www.docusign.com/company/privacy-policy). Please read the Privacy Policy carefully.
+
+6.2       Data Processing/Transfer. If Customer or Customer’s Affiliate is established in the United Kingdom, a Member State of the European Economic Area, or Switzerland, the Data Protection Attachment for DocuSign Signature found at: https://www.docusign.com/company/terms-and-conditions/schedule-docusign-... (“DPA”) applies to the processing of any Personal Data (as defined in Section 1 of the DPA).
+
+6.3       Access & Disclosure. We may access, preserve, or share any of your information when we believe in good faith that such sharing is reasonably necessary to investigate, prevent, or take action regarding possible illegal activities or to comply with legal process (e.g. a subpoena or other legal process). We may also share your information in situations involving potential threats to the physical safety of any person, violations of the DocuSign Privacy Policy or our user agreements or terms; or to respond to the claims of violation of the rights of third parties and/or to protect the rights, property and safety of DocuSign, our employees, users, or the public. This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations.
+
+7.         TERMS SPECIFIC TO DOCUSIGN SERVICES
+
+7.1       Right to Use DocuSign Services.  Subject to these Terms, DocuSign will provide the DocuSign Services to Customers in accordance with each Customer’s Subscription Plan, and DocuSign grants to each Customer a limited non-exclusive, non-transferrable right and license during the Term, solely for its internal business purposes and in accordance with the Documentation, to: (a) use the DocuSign Services; (b) implement, configure, and, through its Account Administrator(s), permit its Authorized Users to access and use the DocuSign Services up to any applicable limits or maximums; and (c) access and use the Documentation.
+
+7.1.1    Authorized Users.  Authorized Users of Customer must be identified by a unique email address and user name and two or more natural persons may not use the DocuSign Services as the same Authorized User. If the Authorized User is not an employee of Customer, use of the DocuSign Services will be allowed only if the user is under confidentiality and other obligations with Customer at least as restrictive as those in these Terms, and is accessing or using the DocuSign Services solely to support Customer’s internal business purposes.
+
+7.1.2    Account Administrator. Customer may assign and expressly authorize an Authorized User(s) as its agent to manage Customer’s Account, and management of Customer’s Account includes, without limitation, configuring administration settings, assigning access and use authorization, requesting different or additional services, providing usage and performance records, managing templates, executing approved campaigns and events, assisting in third-party product integrations, and accepting notices, disclosures, and terms and conditions (“Account Administrator”). Customer may appoint an employee, agent or a third-party business partner or contractor to act as its Account Administrator(s) and may change its designation at any time through its Account.
+
+7.2       Payment Terms.
+
+7.2.1    Subscription Plan. The prices, features, and options of the DocuSign Services depend on the Subscription Plan selected as well as any changes instigated by Customer. DocuSign does not represent or warrant that a particular Subscription Plan will be offered indefinitely and reserves the right to change the prices for or alter the features and options in a particular Subscription Plan without prior notice.
+
+7.2.2    No Refunds. Customer will timely pay DocuSign all fees associated with its Subscription Plan, Account, or use of the DocuSign Services, including, but without limitation, by Authorized Users. CUSTOMER’S PAYMENTS ARE NON-REFUNDABLE EXCEPT AS EXPRESSLY PROVIDED IN THESE TERMS. Charges for pre-paid Subscription Plans will be billed to Customer in advance. Charges for per-use purchases and standard Subscription Plan charges will be billed in arrears unless otherwise specified in the Subscription Plan.
+
+7.2.3    Recurring Charges. When you purchase a Subscription Plan, you must provide accurate and complete information for a valid payment method that you are authorized to use. You will be billed for your Subscription Plan either through the payment method you provide, such as a credit card, or through an intermediary provider such as iTunes, Google Play, or a similar app store (“App Store”). Customer must promptly notify DocuSign of any change in its invoicing address and must update its Account with any changes related to its payment method. BY COMPLETING REGISTRATION FOR A SUBSCRIPTION PLAN, CUSTOMER AUTHORIZES DOCUSIGN OR ITS AGENT TO CHARGE ITS PAYMENT METHOD ON A RECURRING (E.G. MONTHLY OR YEARLY) BASIS (“AUTHORIZATION”) FOR: (a) THE APPLICABLE SUBSCRIPTION PLAN CHARGES; (b) ANY AND ALL APPLICABLE TAXES; AND (c) ANY OTHER CHARGES INCURRED IN CONNECTION WITH CUSTOMER’S USE OF THE DOCUSIGN SERVICES. The Authorization continues through the applicable Subscription Term and any Renewal Term (as defined in Section 8.2.3, below) until Customer cancels as set forth in Section 8.2 of these Terms.
+
+7.2.4    Late Fees & Collection Costs. If DocuSign does not receive payment from Customer’s payment method, Customer agrees to pay all amounts due upon demand. Any amount not paid when due will be subject to finance charges equal to 1.5% of the unpaid balance per month or the highest rate permitted by applicable law, whichever is less, determined and compounded daily from the date due until the date paid. Customer will reimburse any costs or expenses (including, but not limited to, reasonable attorneys’ fees) incurred by DocuSign to collect any amount that is not paid when due. DocuSign may accept payment in any amount without prejudice to DocuSign’s right to recover the balance of the amount due or to pursue any other right or remedy. Amounts due to DocuSign may not be withheld or offset by Customer for any reason against amounts due or asserted to be due from DocuSign.
+
+7.2.5    Invoices. DocuSign will provide billing and usage information in a format we choose, which may change from time to time. DocuSign reserves the right to correct any errors or mistakes that it identifies even if it has already issued an invoice or received payment. Customer agrees to notify us about any billing problems or discrepancies within thirty (30) days after they first appear on your invoice. If Customer does not bring such problems/discrepancies to our attention within thirty (30) days, it agrees to waive its right to dispute such problems or discrepancies.
+
+7.2.6    Billing Cycles. Billing cycle end dates may change from time to time. When a billing cycle covers less than or more than a full month, we may make reasonable adjustments and/or prorations. Customer agrees that we may (at our option) accumulate charges incurred during a billing cycle and submit them as one or more aggregate charges during or at the end of a cycle, and that we may delay obtaining authorization or payment from Customer’s payment card issuer or App Store until submission of the accumulated charge(s).
+
+7.2.7    Benefit Programs. You may receive or be eligible for certain pricing structures, discounts, features, promotions, and other benefits (collectively, "Benefits") through a business or government agreement with us ("Business Terms"). Any and all such Benefits are provided solely as a result of the corresponding Business Terms and such Benefits may be modified or terminated without notice. If you use the DocuSign Services and a business or government entity pays your charges or is otherwise liable for the charges, you authorize us to share your account information with that entity and/or its authorized agents. If you are enrolled in a Subscription Plan or receive certain Benefits tied to Business Terms with us, but you are liable for your own charges, then you authorize us to share enough account information to verify your continuing eligibility for those Benefits and the Subscription Plan.
+
+7.2.8    Tax Responsibility. All payments required by these Terms are stated exclusive of all taxes, duties, levies, imposts, fines, or similar governmental assessments, including sales and use taxes, value-added taxes (“VAT”), goods and services taxes (“GST”), excise, business, service, and similar transactional taxes imposed by any jurisdiction and the interest and penalties thereon, excluding taxes based on DocuSign’s net income (collectively, “Taxes”). Customer shall be responsible for and bear Taxes associated with its purchase of, payment for, access to or use of the DocuSign Services. Where the responsibility to remit Taxes falls upon DocuSign, the Taxes will be added to the payment and payable to DocuSign at the same time as the payment. Taxes shall not be deducted from the payments to DocuSign, except as required by law, in which case Customer shall increase the amount payable as necessary so that after making all required deductions and withholdings, DocuSign receives and retains (free from any Tax liability) an amount equal to the amount it would have received had no such deductions or withholdings been made. Customer hereby confirms that DocuSign can rely on the name and address set forth in its registration for a Subscription Plan as being the place of supply for Tax purposes. DocuSign’s and Customer’s obligations under this Section 7.2.8 (Tax Responsibility) shall survive the termination or expiration of these Terms.
+
+7.2.9    Intermediary Provider Billing. If your Subscription Plan is based on intermediary provider billing, your intermediary provider will automatically charge your App Store account monthly for the cost of the Subscription Plan and any applicable taxes. If you are not current with your Subscription Plan payments, we reserve the right to terminate your account, suspend your access to your Subscription Plan, or convert your Subscription Plan subscription to a non-subscription account. You will be responsible for paying all past due amounts.
+
+7.3       Free Trial and Special Offers for DocuSign Services.
+
+7.3.1    If you register for a free trial, promotional offer, or other type of limited offer for use of DocuSign Services (“Free Trial”), you may be presented with additional terms and conditions when registering for a Free Trial, and any such additional terms and conditions are hereby incorporated into these Terms by reference and are legally binding. This Section 7.3 (Free Trial and Special Offers for DocuSign Services) supersedes and applies notwithstanding any conflicting provisions with regard to access and use of a Free Trial.
+
+7.3.2    DocuSign reserves the right to reduce the term of a trial period or end it altogether without prior notice.
+
+7.3.3    The version of the DocuSign Services that is available for a Free Trial may not include or allow access to all features or functions. ANY DATA THAT A CUSTOMER ENTERS INTO THE DOCUSIGN SERVICES, AND ANY CONFIGURATIONS MADE BY OR FOR A CUSTOMER, DURING THE FREE TRIAL WILL BE PERMANENTLY LOST AT THE END OF THE TRIAL PERIOD UNLESS THE CUSTOMER: (a) PURCHASES A SUBSCRIPTION PLAN TO DOCUSIGN SERVICES THAT IS EQUIVALENT TO OR GREATER THAN THOSE COVERED BY THE TRIAL; OR (b) EXPORTS SUCH DATA BEFORE THE END OF THE TRIAL PERIOD.
+
+7.3.4    Notwithstanding any other provision of these Terms, including without limitation the warranties described in Section 9 (Warranties and Disclaimers) or any service-specific terms and conditions applicable to a particular DocuSign Service, including exhibits and attachments accompanying such schedule (“Service Schedule”), during a Free Trial the DocuSign Services are provided “AS IS” and “as available” without any warranty that may be set forth in these Terms, and DOCUSIGN DISCLAIMS ANY IMPLIED WARRANTIES INCLUDING WITHOUT LIMITATION MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE AND DOCUSIGN’S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATING TO CUSTOMER’S USE OF THE FREE TRIAL IS $100.
+
+7.4       Data.
+
+7.4.1    Data Generally. You shall be responsible for data that you provide or use in DocuSign Services. You are solely responsible for determining the suitability of the DocuSign Services for your business or organization and complying with any regulations, laws, or conventions applicable to the data you provide and your use of the DocuSign Services and Site.
+
+7.4.2    Personal Data. Customer warrants that its collection and use of any personal information or data provided while using the Site complies with all applicable data protection laws, rules, and regulations. Customer and its Authorized Users acknowledge that DocuSign may process such personal data in accordance with the DocuSign Privacy Policy (https://www.docusign.com/company/privacy-policy).
+
+7.5       Customer Warranties.  Customer hereby represents and warrants to DocuSign that: (a) it has all requisite rights and authority to use the DocuSign Services under these Terms and to grant all applicable rights herein; (b) it is responsible for all use of the DocuSign Services associated with its Account; (c) it is solely responsible for maintaining the confidentiality of its Account names and password(s); (d) it agrees to immediately notify DocuSign of any unauthorized use of Customer’s Account of which it becomes aware; (e) it agrees that DocuSign will not be liable for any losses incurred as a result of a third party's use of its Account, regardless of whether such use is with or without its knowledge and consent; (f) it will use the DocuSign Services for lawful purposes only and subject to these Terms; (g) any information it submits to DocuSign is true, accurate, and correct; and (h) it will not attempt to gain unauthorized access to the System or the DocuSign Services, other accounts, computer systems, or networks under the control or responsibility of DocuSign through hacking, cracking, password mining, or any other unauthorized means.
+
+7.6       Confidentiality.
+
+7.6.1    Confidential Information. “Confidential Information” means (a) for DocuSign and its Affiliates, the DocuSign Services and Documentation; (b) for Customer and its Affiliates, Customer Data; (c) any other information of a party, including its Affiliates, that is disclosed in writing or orally and is designated as confidential or proprietary at the time of disclosure (and, in the case of oral disclosures, summarized in writing within thirty (30) days of the initial disclosure and delivered to the Recipient), or that due to the nature of the information the Recipient would clearly understand it to be confidential information of the disclosing party; and (d) the specific terms and conditions of these Terms, and any amendment and attachment thereof, between the parties. Confidential Information shall not include any information that: (i) was or becomes generally known to the public through no fault or breach of these Terms by the Recipient; (ii) was rightfully in the Recipient’s possession at the time of disclosure without restriction on use or disclosure; (iii) was independently developed by the Recipient without use of the disclosing party’s Confidential Information; or (iv) was rightfully obtained by the Recipient from a third party not under a duty of confidentiality and without restriction on use or disclosure. All information provided to DocuSign that is not Confidential Information will be treated in accordance with the DocuSign Privacy Policy (https://www.docusign.com/company/privacy-policy).
+
+7.6.2    Restricted Use and Nondisclosure. During and after the Subscription Term, the party receiving Confidential Information (“Recipient”) will: (a) use the Confidential Information of the other party solely for the purpose for which it is provided; (b) not disclose such Confidential Information to a third party, except on a need-to-know basis to its attorneys, auditors, consultants, and service providers who are under confidentiality obligations at least as restrictive as those contained herein; and (c) protect such Confidential Information from unauthorized use and disclosure to the same extent (but using no less than a reasonable degree of care) that it protects its own Confidential Information of a similar nature. Notwithstanding the foregoing, Customer expressly authorizes DocuSign to use and process Customer Data as described in the DocuSign Privacy Policy, which provides for, but is not limited to, delivering eDocuments as indicated by Customer’s use of the DocuSign Services and sharing Transaction Data (as defined in the Signature Schedule) with individuals who are authorized to view, approve or sign eDocuments created by Customer.
+
+7.6.3    Required Disclosure. If DocuSign is required by law to disclose Confidential Information, DocuSign will give prompt written notice to Customer before making the disclosure, unless prohibited from doing so by the legal or administrative process, and assist Customer to obtain where reasonably available an order protecting the Confidential Information from public disclosure.
+
+7.6.4    Ownership. Notwithstanding any other provision of these Terms, DocuSign acknowledges that, as between the parties, all Confidential Information it receives from Customer, including all copies thereof in Recipient’s possession or control, in any media, is proprietary to and exclusively owned by Customer. Nothing in these Terms grants DocuSign any right, title or interest in or to any of the Customer’s Confidential Information. DocuSign’s incorporation of the disclosing party’s Confidential Information into any of its own materials will not render Confidential Information non-confidential.
+
+8.         TERM AND TERMINATION
+
+8.1       Termination – Site Visitors. A Site Visitor may terminate its use of the Site at any time by ceasing further use of the Site. DocuSign may terminate your use of the Site and deny you access to the Site in our sole discretion for any reason or no reason, including for violation of these Terms.
+
+8.2       Term and Termination – Customers.
+
+8.2.1    Suspension of Access to DocuSign Services. DocuSign may suspend any use of the DocuSign Services, remove any content or disable or terminate any Account or Authorized User that DocuSign reasonably and in good faith believes violates these Terms. DocuSign will use commercially reasonable efforts to notify you prior to any such suspension or disablement, unless DocuSign reasonably believes that: (a) it is prohibited from doing so under applicable law or under legal process, such as court or government administrative agency processes, orders, mandates, and the like; or (b) it is necessary to delay notice in order to prevent imminent harm to the DocuSign Services or a third party. Under circumstances where notice is delayed, DocuSign will provide the notice if and when the related restrictions in the previous sentence no longer apply.
+
+8.2.2    Term. The period of effectiveness of these Terms (“Term”), with respect to DocuSign Services, begins on the date the Customer accepts it and continues until the Customer’s Subscription Plan expires or its use of the DocuSign Services ceases (including as a result of termination in accordance with this Section 8.2), whichever is later.
+
+8.2.3    Subscription Term and Automatic Renewals. DocuSign’s Subscription Plans automatically renew unless otherwise noted. If you purchase a Subscription Plan you agree to pay the then-current applicable fee associated with the Subscription Plan and further agree and acknowledge that it will automatically renew, unless, prior to the end of the current period of effectiveness of the Subscription Plan (“Subscription Term”): (a) you terminate your Account; (b) you set your Account not to auto-renew by logging in to DocuSign Services or contacting us here: (https://support.docusign.com/contactsupport); (c) DocuSign declines to renew your Subscription Plan; or (d) these Terms are otherwise properly terminated as expressly permitted herein. The Subscription Plan will automatically renew on a monthly or annual basis, depending on the method you choose (“Renewal Term”).
+
+Promotional codes may only be used for your first Subscription Term. If you purchased your Subscription Plan with a promotional code, each time your Subscription Plan renews you will be charged the full annual billing amount. If your Subscription Plan is ever terminated for any reason, and you purchase another Subscription Plan, you shall not be eligible to use a promotional code.
+
+We reserve the right to modify, terminate, or otherwise amend the fees and features associated with your Subscription Plan. We may also recommend that you purchase a new Subscription Plan that is comparable to your previous Subscription Plan that is ending. Before we change the fees and charges in effect, or add new fees and charges, we will give you advance notice of at least thirty (30) days. If we provide you such advance notice, your continued use of the DocuSign Services after the changes have been made will constitute your acceptance of the changes. If you do not wish to continue subscribing with the new fees or features, you may terminate your Subscription Plan as described in Section 8.2.4. If you accept the new Subscription Plan, its terms and conditions with these Terms will apply in the Renewal Term and thereafter.
+
+8.2.4    Termination by Customer. You may terminate your Account at any time upon ten (10) days’ advance written notice to DocuSign. If you wish to terminate, you must provide notice by contacting us here: (https://support.docusign.com/contactsupport). If you purchased your Subscription Plan through an external service, such as an App Store, you must use the tools made available by those services to manage and/or terminate your Subscription Plan. Section 7.2.2 notwithstanding, if a Customer terminates its annual Subscription Plan within the first thirty (30) days of the initial Subscription Term, it may submit a written request to DocuSign for a refund of the fees paid to DocuSign for the initial Subscription Term, which DocuSign will consider, without obligation, in good faith. DocuSign has no obligation to consider refund requests related to a termination of a Subscription Plan if the termination does not occur in the first thirty (30) days of the initial Subscription Term, or if there has been a violation of other Terms herein, or if records indicate substantial productive use took place during that period.
+
+8.2.5    Default; Termination by DocuSign. A Customer will be in default of these Terms if: (a) it fails to timely pay any amount owed to us or an Affiliate of ours; (b) it or an Authorized User associated with its Account breaches any provision of these Terms or violates any published policy applicable to the DocuSign Services; (c) it is or becomes subject to any proceeding under the Bankruptcy Code or similar laws; or (d) if, in our sole discretion, we believe that continued use of the DocuSign Services by the Customer (or its Authorized Users or signers) creates legal risk for DocuSign or presents a threat to the security of the DocuSign Services or DocuSign’s customers. If a Customer is in default, we may, without notice: (i) suspend its Account and use of the DocuSign Services; (ii) terminate its Account; (iii) charge reactivation fees in order to reactivate its Account; and (iv) pursue any other remedy available to us. A DocuSign “Affiliate” means any legal entity that DocuSign, Inc. owns, that owns DocuSign, Inc. or that is under common control with DocuSign, Inc.  A Customer “Affiliate” means any legal entity that Customer owns, that owns Customer or that is under common control with Customer. “Control” and “own” mean possessing greater than 50% interest in an entity or the right to direct the management of the entity.
+
+8.2.6    Effect of Termination. If these Terms expires or are terminated for any reason: (a) Customer will pay to DocuSign any amounts that have accrued before, and remain unpaid as of, the date of the termination or expiration, including those for the billing cycle in which termination occurs; (b) any and all of Customer’s liabilities to DocuSign that have accrued before the effective date of the expiration or termination will survive; (c) licenses and use rights granted to Customer with respect to the Site and DocuSign Services and intellectual property will immediately terminate; (d) DocuSign’s obligation to provide any further services to Customer under these Terms will immediately terminate, except any such services that are expressly to be provided following expiration or termination of these Terms; and (e) the provisions of Section 3 (Usage and Access Rights), Section 4 (Ownership), Section 5.3 (Restrictions on Use of the Site), Section 5.4 (Compliance with Terms), Section 6 (Privacy), Section 7.2.2 (No Refunds), Section 7.2.7 (Benefit Programs), Section 7.2.8 (Tax Responsibility), Section 7.3 (Free Trial and Special Offers for DocuSign Services), Section 7.4 (Data), Section 7.6 (Confidentiality), Section 8.2.6 (Effect of Termination), Section 9 (Warranties and Disclaimers), Section 10 (Indemnification Obligations), Section 11 (Limitations of Liability), and Section 12 (General) will survive, as well as provisions designated to survive under any Service Schedules and accompanying attachments and Exhibits to these Terms.
+
+9.         WARRANTIES AND DISCLAIMERS
+
+9.1       THE DOCUSIGN SERVICES, DOCUMENTATION, AND SITE ARE PROVIDED “AS IS” AND “AS AVAILABLE.” YOUR USE OF THE DOCUSIGN SERVICES, DOCUMENTATION, AND SITE SHALL BE AT YOUR SOLE RISK. DOCUSIGN AND ITS RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, MEMBERS, SHAREHOLDERS, AGENTS, AFFILIATES, SUBSIDIARIES, AND LICENSORS (“DOCUSIGN PARTIES”): (a) MAKES NO ADDITIONAL REPRESENTATION OR WARRANTY OF ANY KIND WHETHER EXPRESS, IMPLIED (EITHER IN FACT OR BY OPERATION OF LAW), OR STATUTORY, AS TO ANY MATTER WHATSOEVER; (b) EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUALITY, ACCURACY, AND TITLE; AND (c) DOES NOT WARRANT THAT THE DOCUSIGN SERVICES, DOCUMENTATION, OR SITE ARE OR WILL BE ERROR-FREE, WILL MEET YOUR REQUIREMENTS, OR BE TIMELY OR SECURE. YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE RESULTING FROM USE OF THE DOCUSIGN SERVICES, DOCUMENTATION, OR SITE.
+
+9.2       THE DOCUSIGN PARTIES MAKE NO WARRANTIES OR REPRESENTATIONS THAT DOCUSIGN SERVICES, DOCUMENTATION, AND SITE HAVE BEEN AND WILL BE PROVIDED WITH DUE SKILL, CARE AND DILIGENCE OR ABOUT THE ACCURACY OR COMPLETENESS OF THE DOCUSIGN SERVICES, DOCUMENTATION, AND SITE CONTENT AND ASSUMES NO RESPONSIBILITY FOR ANY: (i) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT; (ii) PERSONAL INJURY OR PROPERTY DAMAGE OF ANY NATURE WHATSOEVER RESULTING FROM YOUR ACCESS TO AND USE OF DOCUSIGN SERVICES, DOCUMENTATION, AND SITE; (iii) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN; (iv) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE; (v) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH THE SITE THROUGH THE ACTIONS OF ANY THIRD PARTY; (vi) ANY LOSS OF YOUR DATA OR CONTENT FROM THE SITE; AND/OR (vii) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA DOCUSIGN SERVICES, DOCUMENTATION, AND SITE. YOU WILL NOT HAVE THE RIGHT TO MAKE OR PASS ON ANY REPRESENTATION OR WARRANTY ON BEHALF OF DOCUSIGN TO ANY THIRD PARTY. BECAUSE SOME STATES AND JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IN THAT EVENT, SUCH WARRANTIES ARE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY AND FOR THE MINIMUM WARRANTY PERIOD ALLOWED BY THE MANDATORY APPLICABLE LAW.
+
+9.3       THE DOCUSIGN PARTIES DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, AND THE DOCUSIGN PARTIES WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. YOU ARE SOLELY RESPONSIBLE FOR ALL OF YOUR COMMUNICATIONS AND INTERACTIONS WITH OTHER PERSONS WITH WHOM YOU COMMUNICATE OR INTERACT AS A RESULT OF YOUR USE OF THE SITE.
+
+9.4       If you are a California resident, you hereby waive California Civil Code §1542, which says: “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor.” This release includes the criminal acts of others.
+
+9.5       Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages such as in this Section 9 or below in Section 11. Accordingly, some of these limitations may not apply to you. If you are a New Jersey resident, or a resident of another state that permits the exclusion of these warranties and liabilities, then the limitations in Section 9 and Section 11 specifically do apply to you.
+
+10.       INDEMNIFICATION OBLIGATIONS
+
+10.1     You will defend, indemnify, and hold us, our Affiliates, officers, directors, employees, suppliers, consultants, and agents harmless from any and all third-party claims, liability, damages, and costs (including, but not limited to, attorneys' fees) arising from or related to, as applicable: (a) your access to and use of the Site; (b) violation of these Terms by you or your Account Administrator(s) or Authorized Users, as applicable; (c) infringement of any intellectual property or other right of any person or entity by you; (d) the nature and content of all Customer Data processed by the DocuSign Services; or (e)  any products or services purchased or obtained by you in connection with the Site.
+
+10.2     DocuSign retains the exclusive right to settle, compromise, and pay, without your prior consent, any and all claims or causes of action that are brought against us. We reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any matter in which we are named as a defendant and/or for which you have indemnity obligations without our prior written consent. We will use reasonable efforts to notify you of any such claim, action, or proceeding upon becoming aware of it.
+
+11.       LIMITATIONS OF LIABILITY
+
+11.1     Disclaimer of Consequential Damages.
+
+11.1.1  NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED IN THESE TERMS, DOCUSIGN WILL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, COVER, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATED TO THE TRANSACTIONS CONTEMPLATED UNDER THESE TERMS, INCLUDING, BUT NOT LIMITED TO, GOODWILL, WORK STOPPAGE, LOST PROFITS, OR LOSS OF BUSINESS, EVEN IF APPRISED OF THE LIKELIHOOD OF SUCH LOSSES, AND WHETHER SUCH CLAIMS ARE MADE BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY.
+
+11.1.2  TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE DOCUSIGN PARTIES BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY: (a) USE OF THE SITE, DOCUMENTATION, OR DOCUSIGN SERVICES; (b) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT; (c) PERSONAL INJURY OR PROPERTY DAMAGE OF ANY NATURE WHATSOEVER RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, DOCUMENTATION, OR DOCUSIGN SERVICES; (d) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN; (e) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR SERVERS; (f) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH THE SITE, DOCUMENTATION, OR DOCUSIGN SERVICES BY ANY THIRD PARTY; (g) ANY LOSS OF YOUR DATA OR CONTENT FROM THE SITE, DOCUMENTATION, OR DOCUSIGN SERVICES; (h) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE, DOCUMENTATION, OR DOCUSIGN SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE DOCUSIGN PARTIES ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES; AND/OR (i) THE DISCLOSURE OF INFORMATION PURSUANT TO THESE TERMS OR OUR PRIVACY POLICY.
+
+11.1.3  Some countries and jurisdictions do not allow the limitation or exclusion of consequential, direct, indirect, or other damages in contracts with consumers and to the extent you are a consumer the limitations or exclusions in this Section 11.1 may not apply to you.
+
+11.2     Cap on Damages. OUR TOTAL LIABILITY TO YOU FOR ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THESE TERMS OR TO YOUR USE OF THE SITE (INCLUDING WITHOUT LIMITATION WARRANTY CLAIMS), REGARDLESS OF THE FORUM AND REGARDLESS OF WHETHER ANY ACTION OR CLAIM IS BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL OR EQUITABLE THEORY, WILL NOT EXCEED THE TOTAL AMOUNT PAID BY YOU TO DOCUSIGN FOR THE DOCUSIGN SERVICE(S) GIVING RISE TO THE CLAIM UNDER THESE TERMS DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE DATE OF THE FIRST EVENT GIVING RISE TO LIABILITY, OR $100, WHICEVER IS GREATER. THE EXISTENCE OF MORE THAN ONE CLAIM SHALL NOT ENLARGE THIS LIMIT.
+
+11.3     Independent Allocations of Risk. Each provision of these Terms that provides for a limitation of liability, disclaimer of warranties, or exclusion of damages represents an agreed allocation of the risks of these Terms between the parties. This allocation is an essential element of the basis of the bargain between the parties. Each of these provisions is severable and independent of all other provisions of these Terms, and each of these provisions will apply even if the warranties in these Terms have failed of their essential purpose.
+
+11.4     Jurisdictional Limitations.
+
+11.4.1  Because some states and jurisdictions do not allow limitation of liability in certain instances, portions of the above limitation may not apply to you. In that event, such exclusions and limitations shall apply to the maximum extent permitted by applicable mandatory law (and our liability shall be limited or excluded as permitted under mandatory applicable law). If you are a New Jersey resident, the limitations in Section 11 specifically do apply to you.
+
+11.4.2  DocuSign’s liability to you if you are domiciled in Germany is limited as described in Section 12.9 below.
+
+12.       GENERAL
+
+12.1     Third Party Content. We may provide, or third parties may provide, links to other third-party web sites, services, or resources that are beyond our control. We make no representations as to the quality, suitability, functionality, or legality of any third-party content to which links may be provided, and you hereby waive any claim you might have against us with respect to such services. DOCUSIGN IS NOT RESPONSIBLE FOR THE CONTENT ON THE INTERNET OR WEB PAGES THAT ARE LOCATED OUTSIDE THE SITE OR POSTS OF USER CONTENT. Your correspondence or business dealings with, or participation in promotions of, advertisers or partners found on or through the Site, including payment and delivery of related goods or services, and any other terms, conditions, warranties, or representations associated with such dealings, are solely between you and such advertiser or partner. You agree that we are not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers or links to third-party web sites or resources on the Site.
+
+12.2     Relationship. At all times, you and DocuSign are independent contractors, and are not the agents or representatives of the other. These Terms are not intended to create a joint venture, partnership, or franchise relationship between the parties. Non-parties do not benefit from and cannot enforce these Terms. There are no third-party beneficiaries to these Terms. You must not represent to anyone that you are an agent of DocuSign or are otherwise authorized to bind or commit DocuSign in any way without DocuSign’s prior written authorization.
+
+12.3     Trade Restrictions. You acknowledge that the Site, Documentation, and/or DocuSign Services and any related products, information, documentation, Software, technology, technical data, and any derivatives thereof, that DocuSign makes available (collectively “Excluded Data”) are subject to the export control and sanctions laws and regulations of the United States and other countries that may prohibit or restrict access by certain persons or from certain contries or territories ("Trade Restrictions”). You represent and warrant that: (a) you are not (i) located in an embargoed country or territory, (ii) under the control of an entity organized in or a resident of an embargoed country or territory, (iii) listed on any U.S. government list of persons or entities with which U.S. persons are prohibited from transacting, including, but not limited to, OFAC’s List of Specially Designated Nationals and Other Blocked Persons, the U.S. State Department's Nonproliferation Sanctions lists, the U.S. Commerce Department’s Entity List or Denied Persons List located at https://www.export.gov/article?id=Consolidated-Screening-List; or (iv) subject to end destination export control regulations, such as, but not limited to, the U.S. Export Administration Regulations and U.S. Government EU Dual-Use Regulation EC 428/2009.. You are solely responsible for complying with Trade Restrictions for all Excluded Data and any of its content transmitted through the Site.
+
+12.4     Assignability. You may not assign your rights or obligations under these Terms without DocuSign’s prior written consent. If consent is given, these Terms will bind your successors and assigns. Any attempt by you to transfer your rights, duties, or obligations under these Terms except as expressly provided in these Terms is void. DocuSign may freely assign its rights, duties, and obligations under these Terms.
+
+12.5     Notices. Except as otherwise permitted by these Terms, any notice required or permitted to be given in connection with the DocuSign Services will be effective only if it is in writing and sent using: (a) DocuSign Services; (b) by certified or registered mail; or (c) insured courier, to the appropriate party at the address set forth in Customer’s registration information or on the Site for DocuSign, with a copy, in the case of DocuSign, to legal@docusign.com. Customer or DocuSign may change its address for receipt of notice by notice to the other party in accordance with this Section 12. Notices are deemed given upon receipt if delivered using DocuSign Services, two (2) business days following the date of mailing, or one (1) business day following delivery to a courier.
+
+12.6     Force Majeure. Except for any payment obligations, neither you nor DocuSign will be liable for failure to perform any obligation under these Terms to the extent such failure is caused by a force majeure event (including acts of God, natural disasters, war, civil disturbance, action by governmental entity, strike, and other causes beyond the party’s reasonable control). The party affected by the force majeure event will provide notice to the other party within a commercially reasonable time and will use commercially reasonable efforts to resume performance as soon as practicable. Obligations not performed due to a force majeure event will be performed as soon as reasonably possible when the force majeure event concludes.
+
+12.7     Mandatory Arbitration, Waiver of Class Actions Applicable to Customers.
+
+PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
+
+12.7.1 You agree that these Terms affect interstate commerce and that the Federal Arbitration Act governs the interpretation and enforcement of these arbitration provisions. This Section 12.7 is intended to be interpreted broadly and governs any and all disputes between us including but not limited to claims arising out of or relating to any aspect of the relationship between us, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory; claims that arose before these Terms or any prior; and claims that may arise after the termination of these Terms. The only disputes excluded from this broad prohibition are the litigation of certain intellectual property as provided below.
+
+12.7.2 Initial Dispute Resolution. Most disputes can be resolved without resort to arbitration. If you have any dispute with us, you agree that before taking any formal action you will contact us at legal@docusign.com and provide a brief, written description of the dispute and your contact information (including your username, if your dispute relates to an Account). Except for intellectual property, you and DocuSign agree to use their reasonable efforts to settle any dispute, claim, question, or disagreement directly through consultation with DocuSign, and good faith negotiations shall be a condition to either party initiating a lawsuit or arbitration.
+
+12.7.3 Binding Arbitration. If the parties do not reach an agreed-upon solution within a period of thirty (30) days from the time informal dispute resolution is initiated under the Initial Dispute Resolution provision above, then either party may initiate binding arbitration as the sole means to resolve claims (except as provided below) subject to these Terms set forth below. Specifically, all claims arising out of or relating to these Terms, the parties' relationship with each other, and/or your use of the DocuSign Services shall be finally settled by binding arbitration administered by JAMS in accordance with the JAMS Streamlined Arbitration Procedure Rules for claims that do not exceed $250,000 and the JAMS Comprehensive Arbitration Rules and Procedures for claims exceeding $250,000 in effect at the time the arbitration is initiated, excluding any rules or procedures governing or permitting class actions.
+
+12.7.4 Arbitrator’s Powers. The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of these Terms, including but not limited to any claim that all or any part of these Terms is void or voidable, whether a claim is subject to arbitration or the question of waiver by litigation conduct. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator's award shall be written and shall be binding on the parties and may be entered as a judgment in any court of competent jurisdiction.
+
+12.7.5 Filing a Demand. To start an arbitration, you must do the following: (a) Write a Demand for Arbitration that includes a description of the claim and the amount of damages you seek to recover (you may find a copy of a Demand for Arbitration at www.jamsadr.com); (b) Send three copies of the Demand for Arbitration, plus the appropriate filing fee, to JAMS, Two Embarcadero Center, Suite 1500, San Francisco California 94111; and (c) Send one copy of the Demand for Arbitration to us at: legal@docusign.com.
+
+12.7.6 Fees & Costs. If your claim(s) total is less than US $5,000.00, then: (a) you may choose whether your participation in the arbitration will be conducted on the basis of documents provided to the arbitrator, through a telephonic hearing or by an in-person hearing; (b) DocuSign will reimburse your filing fees up to a maximum of US $1,500.00 unless the arbitrator determines that your claims are frivolous; and (c) DocuSign will not seek attorney’s fees and costs, unless the arbitrator determines that your claims are frivolous. You are responsible for your own attorneys' fees unless the arbitration rules and/or applicable law provide otherwise.
+
+12.7.7 No Jury Trial. The parties understand that, absent this mandatory arbitration section, they would have the right to sue in court and have a jury trial. They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
+
+12.7.8 Venue. Arbitration shall be initiated and take place in in San Francisco, California, United States, and you and DocuSign agree to submit to the personal jurisdiction of any federal or state court in San Francisco, California in order to compel arbitration, stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.
+
+12.7.9 Class Action Waiver. The parties further agree that the arbitration shall be conducted in the party’s respective individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND DOCUSIGN AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provisions set forth above shall be deemed null and void in their entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
+
+12.7.10 Exception: Litigation of Intellectual Property. Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring enforcement actions, validity determinations, or claims arising from or relating to theft, piracy, or unauthorized use of intellectual property in any state or federal court with jurisdiction or in the U.S. Patent and Trademark Office to protect its intellectual property rights (“intellectual property rights” means patents, copyrights, moral rights, trademarks, and trade secrets, but not privacy or publicity rights).
+
+12.7.11 Survival. This Mandatory Arbitration, Waiver of Class Actions section shall survive any termination of your use of the Site.
+
+12.8     Entire Terms. These Terms, which include the language and paragraphs preceding Section 1, are the final, complete, and exclusive expression of the agreement between you and DocuSign regarding the DocuSign Services provided under these Terms. These Terms supersede and the parties disclaim any reliance on previous oral and written communications (including any confidentiality agreements pertaining to the DocuSign Services under these Terms) with respect to the subject matter hereof and apply to the exclusion of any other terms that you seek to impose or incorporate, or which are implied by trade, custom, practice or course of dealing. DocuSign hereby rejects any additional or conflicting terms appearing in a purchase order or any other ordering materials submitted by Customer and conditions assent solely based on these Terms and conditions of these Terms as offered by DocuSign. Except as explicitly permitted in these Terms, no modification or amendment of these Terms shall be effective unless it is in writing and signed by an authorized agent of the party against whom the modification or amendment is being asserted. In the event of an inconsistency or conflict, the order of precedence in descending order of control is as follows: (a) the Subscription Plan; (b) any attachments or appendix(ices) to the Service Schedule(s); (c) the Service Schedule; and (d) these Terms.
+
+12.9     Provisions for Customers Domiciled in Germany. The provisions of this Section 12.9 apply only to Customers who are domiciled in Germany when entering into these Terms.
+
+12.9.1  DocuSign shall be fully liable for intentional and gross negligence, as well as for any damages arising from injury to life, body or health caused by DocuSign. In the case of liability for slight negligence, DocuSign shall be liable only for breach of a material obligation (“Cardinal Duty”) and any such liability shall be limited to typical, foreseeable damages and shall not include liability for lack of economic results, loss of profit, or indirect damages. A Cardinal Duty in the meaning of this Section 12.9.1 is an obligation, the fulfillment of which is essential to the performance of these Terms and on the fulfillment of which the contracting party may therefore rely.
+
+12.9.2  If you are a consumer, nothing in these Terms affects your rights under mandatory German law and these Terms will be interpreted, construed, and enforced in all respects in compliance with mandatory consumer protection laws of Germany. Notwithstanding Section 12.7 above and Section 12.10 below, if you are a consumer, you may submit a claim to enforce your rights under these Terms to the competent courts in Germany.
+
+12.10   Governing Law & Venue. These Terms will be interpreted, construed, and enforced in all respects in accordance with the local laws of the State of California, U.S.A., without reference to its choice of law rules to the contrary. For purposes of determining the governing law, you and DocuSign agree that DocuSign is the proponent of these Terms. Notwithstanding Customer’s and DocuSign’s agreement to mandatory arbitration, either party may seek any interim or preliminary injunctive relief from a court of competent jurisdiction in San Francisco, CA, as necessary to protect the party's rights or property pending the completion of arbitration. Customer and DocuSign submit to the exclusive jurisdiction of, and venue in, any federal or state court of competent jurisdiction located in San Francisco, California, U.S.A.
+
+12.11   Language and Translations. DocuSign may provide translations of these Terms or other terms or policies. Translations are provided for informational purposes and if there is an inconsistency or conflict between a translation and the English version, the English version will control.
+
+12.12   Waiver. The waiver by either you or DocuSign of any breach of any provision of these Terms does not waive any other breach. The failure of any party to these Terms to insist on strict performance of any covenant or obligation in accordance with these Terms will not be a waiver of such party’s right to demand strict compliance in the future, nor will the same be construed as a novation of these Terms.
+
+12.13   Severability. If any part of these Terms is found to be illegal, unenforceable, or invalid, the remaining portions of these Terms will remain in full force and effect. If any material limitation or restriction on the grant of any license to you under these Terms is found to be illegal, unenforceable, or invalid, the license will immediately terminate.
+
+12.14   How to Contact Us. If you have any questions about the Site or Terms, pricing, complaints, or other inquiries, please contact DocuSign at 221 Main Street, Suite 1000, San Francisco, CA, 94105, United States, or by calling from the U.S (800) 379-9973. California users are also entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
+
+SERVICE SCHEDULE for DOCUSIGN SIGNATURE
+
+This Service Schedule was last updated on August 1, 2019. Unless otherwise defined in this Service Schedule, capitalized terms will have the meaning given to them in the Terms.
+
+1.         DEFINITIONS
+
+“DocuSign Signature” means the on-demand electronic signature DocuSign Service, which provides online display, certified delivery, acknowledgement, electronic signature, and storage services for eDocuments via the Internet.
+
+“Envelope” means an electronic record containing one or more eDocuments consisting of a single page or a group of pages of data uploaded to the System.
+
+“Signer” means a person designated by an Authorized User to access and/or take action upon the eDocuments sent to such individual via DocuSign Signature.
+
+“System” refers to the software systems and programs, the communication and network facilities, and the hardware and equipment used by DocuSign or its agents to make available the DocuSign Signature service via the Internet.
+
+“Transaction Data” means the metadata associated with an Envelope (such as transaction history, image hash value, method and time of Envelope deletion, sender and recipient names, email addresses, and signature IDs) that DocuSign may use to generate and maintain the digital audit trail required by DocuSign Signature.
+
+2.         ADDITIONAL USAGE LIMITATIONS AND CUSTOMER RESPONSIBILITIES
+
+2.1       DocuSign’s provision of DocuSign Signature is conditioned on Customer’s acknowledgement of and agreement to the following:
+
+2.1.1    DocuSign Signature facilitates the execution of eDocuments between the parties to those eDocuments. Nothing in this Service Schedule may be construed to make DocuSign a party to any eDocument processed through DocuSign Signature, and DocuSign makes no representation or warranty regarding the transactions sought to be effected by any eDocument;
+
+2.1.2    Between DocuSign and Customer, Customer has exclusive control over and responsibility for the content, quality, and format of any eDocument. Without limiting the foregoing, all eDocuments, together with any messages included within an Envelope, stored by DocuSign on the System are maintained in an encrypted form, and DocuSign has no control of or access to their contents except to the extent access is requested in writing and made available by Customer to DocuSign;
+
+2.1.3    Certain types of agreements and documents may be excepted from electronic signature laws (e.g. wills and agreements pertaining to family law), or may be subject to specific regulations promulgated by various government agencies regarding electronic signatures and electronic records. DocuSign is not responsible or liable to determine whether any particular eDocument is (i) subject to an exception to applicable electronic signature laws, or whether it is subject to any particular agency promulgations, or  whether it can be legally formed by electronic signatures;
+
+2.1.4    DocuSign is not responsible for determining how long any contracts, documents, and other records are required to be retained or stored under any applicable laws, regulations, or legal or administrative agency processes. Further, DocuSign is not responsible for or liable to produce any of Customer’s eDocuments or other documents to any third parties;
+
+2.1.5    Certain consumer protection or similar laws or regulations may impose special requirements with respect to electronic transactions involving one or more “consumers,” such as (among others) requirements that the consumer consent to the method of contracting and/or that the consumer be provided with a copy, or access to a copy, of a paper or other non-electronic, written record of the transaction. DocuSign does not and is not responsible to: (i) determine whether any particular transaction involves a “consumer;” (ii) furnish or obtain any such consents or determine if any such consents have been withdrawn; (iii) provide any information or disclosures in connection with any attempt to obtain any such consents; (iv) provide legal review of, or update or correct any information or disclosures currently or previously given; (v) provide any such copies or access, except as expressly provided in the Documentation for all transactions, consumer or otherwise; or (vi) comply with any such special requirements;
+
+2.1.6    Customer undertakes to determine whether any “consumer” is involved in any eDocument presented by its Authorized Users for processing, and, if so, to comply with all requirements imposed by law on such eDocuments or their formation.
+
+2.1.7    Customer agrees that its assigned Account Administrator(s) has authority to provide DocuSign with and accept from DocuSign anyrequired authorizations, requests, or consents on behalf of Customer with respect to Customer’s Account; and
+
+2.1.8    Customer agrees it is solely responsible for the accuracy and appropriateness of instructions given by it and its personnel to DocuSign in relation to the Services, including without limitation intructions through its Account as made by the assigned Account Administrator.
+
+2.1.9    Customer may elect to utilize a digital certificate, service, or process that authenticates a signer’s identity or the authenticity of a document as part of a DocuSign Signature.  If that digital certificate, service, or process is provided by anyone other than DocuSign, even where the digital certificate, service, or process is chosen from a menu from within the DocuSign Services, Customer agrees that it is solely responsible for determining the reliability, validity, and legality of that third party digital certificate, service, or process and agrees that DocuSign is not responsible to determine whether any such digital certificate, service, or process is reliable, valid, or legal.
+
+2.2       Subscription Plans purchased on docusign.com may not be used in conjunction with DocuSign APIs and are available for use with a limited number of integrations.
+
+3.         eDOCUMENT STORAGE AND DELETION
+
+3.1       Sending, Storage. During the Term DocuSign will send and store eDocuments per these Terms of the Subscription Plan. However, DocuSign may set and enforce limits for reasonable use in order to prevent abusive or unduly burdensome use of DocuSign Signature. Customer, through its Account Administrator(s), may retrieve and store copies of eDocuments for storage outside of the System at any time during the Subscription Term when Customer is in good financial standing under these Terms, and may delete or purge eDocuments from the System at its own discretion.
+
+3.2       Uncompleted eDocuments. DocuSign may, at its sole discretion, delete uncompleted eDocuments from the System immediately and without notice upon the earlier of: (a) expiration of the Envelope (where Customer has established an expiration for such Envelope, not to exceed 365 days); or (b) expiration of the Subscription Term. DocuSign assumes no liability or responsibility for a party’s failure or inability to electronically sign any eDocuments within such a period of time.
+
+3.3       Deletion. DocuSign may delete an Account and Customer Data, including without limitation eDocuments (whether complete or not), upon the expiration of the Subscription Term or termination as described in Section 8.2 of the Terms.
+
+3.4       Retention of Transaction Data. DocuSign may retain Transaction Data for as long as it has a business purpose to do so.
+
+4.         INFORMATION SECURITY AND PERSONAL DATA
+
+4.1       Customer Responsibilities. DocuSign Signature provides Customer with certain features and functionalities that Customer may elect to use, including the ability to retrieve and delete eDocuments in the System. Customer is responsible for properly: (a) configuring DocuSign Signature; (b) using and enforcing controls available in connection with DocuSign Signature (including any security controls); and (c) taking such steps, in accordance with the functionality of DocuSign Signature, that Customer deems adequate to maintain appropriate security, protection, deletion, and backup of Customer Data, which include controlling the management of Authorized Users’ access and credentials to DocuSign Signature, controlling Customer Data that is Processed by DocuSign Signature, and controlling the archiving or deletion of eDocuments in the System. Customer acknowledges that DocuSign has no obligation to protect Customer Data, including Personal Data (defined below), that Customer elects to store or transfer outside of DocuSign Signature (e.g., offline or on-premise storage).
+
+4.2       Information Security. DocuSign will employ commercially reasonable technical and organizational measures that are designed to prevent unlawful or unauthorized access, use, alteration, or disclosure of Customer Data.
+
+4.3       Data Processing/Transfer. If Customer or Customer’s Affiliate is established in the United Kingdom, a Member State of the European Economic Area, ("EEA") or Switzerland, the Data Protection Attachment for DocuSign Signature found at: https://www.docusign.com/company/terms-and-conditions/schedule-docusign-... (“DPA”) applies to the processing of any Personal Data (as defined in Section 1 of the DPA).
+
+5.         ACCOUNTS & ORGANIZATIONAL ADMINISTRATION
+
+5.1       Each Account is associated with a single email address. If the domain of the primary email address associated with an Account is owned by a business or other organization (“Entity”) and was assigned to Customer as an employee, contractor or member of the Entity, such as yourname@youremployer.com or yourname@nonprofit.org (“Entity Email Address”), Customer grants that Entity and its Account Administrator(s) permission to: (a) identify Accounts created with an Entity Email Address; and (b) restrict or terminate access to an Account created with an Entity Email Address. Customer acknowledges and agrees that DocuSign may assist Entity with such administration.
+
+6.         SUBSCRIPTION PLANS & PRICES
+
+6.1       The prices, features, and options of DocuSign Signature depend on the Subscription Plan selected by Customer as well as any changes instigated by Customer. For example: (a) if Customer adds Authorized Users, DocuSign will charge the applicable subscription amount for each additional Authorized User; or (b) if Customer sends more Envelopes than are included in your Subscription Plan, DocuSign may charge for additional envelopes or assign Customer to a new Subscription Plan. Customer may also purchase optional services on a periodic or per-use basis. DocuSign may change the prices for or alter the features and options in a particular Subscription Plan without notice.
+
+7.         DOCUSIGN PAYMENTS
+
+7.1       DocuSign Signature may be ordered with “DocuSign Payments,” which means functionality that allows Customer to submit agreements, invoices, and other documents to Signers via DocuSign Signature to facilitate the submission of Signer payment credentials and authorizations directly to payment applications, gateways, processors, and service providers that store, process, or transmit cardholder data as part of authorization or settlement (“Payment Applications”).
+
+7.2       DocuSign’s provision of DocuSign Payments is conditioned on Customer’s acknowledgement of and agreement to the following:
+
+7.2.1    The payment processing activities facilitated through DocuSign Payments are between Customer and a Payment Application or another third party designated by Customer and not with DocuSign. Customer is solely responsible for registering and maintaining an account with Payment Applications to facilitate the payment processing via DocuSign Payments and for complying with all agreements, terms of use, or other terms and conditions between Customer and such Payment Applications. Payment Applications are independent contractors and not agents, employees, or subcontractors of DocuSign. DocuSign does not control the payment methods (i.e., credit card, debit card, ACH transfer) made available by the Payment Applications through DocuSign Signature nor the products or services that are sold or purchased by Customer via DocuSign Payments. Customer acknowledges and agrees that DocuSign cannot ensure that a Payment Application Signer or third party will complete a payment processing or that it is authorized to do so.
+
+7.2.2    Customer authorizes DocuSign to store, process, and transmit Customer Data as necessary for a Payment Application to facilitate payment processing between Customer and a third party designated by Customer. DocuSign Payments will temporarily store information received from Customer, such as account information for a Payment Application, only to facilitate the payment processing.
+
+7.2.3    Customer is solely responsible for complying with: (1) any applicable standards developed and published by payment networks (such as Visa, Mastercard, American Express, and any other credit, debit, or electronic funds transfer network), including but not limited to, the current Payment Card Industry Data Security Standard (“PCI DSS”); and (2) all laws and regulations applicable to the payment processing conducted by Customer via DocuSign Payments, including but not limited to, those that may apply to Customer: in connection with collecting and storing information, including payment credentials about Signers; making adequate, clear, and conspicuous disclosures related to the storage and use of Signers’ payment credentials; and the use of stored payment credentials to collect future payments.
+
+7.2.4    Customer is solely responsible for any and all disputes with any Payment Applications or Signers related to or in connection with a payment processing sought to be facilitated via DocuSign Payments, including but not limited to: (1) chargebacks; (2) products or services not received; (3) return of, delayed delivery of, or cancelled products or services; (4) cancelled transactions; (5) duplicate transactions or charges; (6) electronic debits and credits involving bank accounts, debit cards, credit cards, and check issuances; and (7) the amount of time to complete payment processing.
+
+7.3       To the extent applicable to DocuSign in the provision of DocuSign Payments, DocuSign represents that it is presently in compliance, and will remain in compliance, with the current PCI DSS. DocuSign acknowledges that credit and debit card account numbers or related data processed via DocuSign Payments is, as applicable, owned exclusively by Customer, credit card issuers, the relevant payment networks, and entities licensed to process credit and debit card transactions on behalf of Customer, and further acknowledges that such information may be used by DocuSign solely to assist the foregoing parties in completing the processing activities described in the Agreement
+
+SERVICE SCHEDULE for DOCUSIGN ROOMS
+
+This Service Schedule was last updated on May 16, 2018. Unless otherwise defined in this Service Schedule, capitalized terms will have the meaning given to them in these Terms.
+
+1.         DEFINITIONS
+
+“DocuSign Rooms” means the DocuSign Services for transactions management, which provides online display of Rooms, management of eDocuments, people, and tasks, and storage services for eDocuments via the Internet.
+
+“Rooms Transaction Data” means the metadata associated with a Room as determined by the Customer or its Account (such as transaction activity history, and date and timestamps of activities) and maintained by DocuSign to provide DocuSign Rooms.
+
+“Room(s)” means the online workspace for transactions management as created by the Customer in the DocuSign Rooms service.
+
+2.         DOCUSIGN ROOMS
+
+2.1       During the Term, and subject to compliance with these Terms and this Service Schedule, Customer and its Authorized Users will have the right to create and/or manage Rooms within its Account when Customer registers via the method provided by DocuSign. Customer and its Authorized Users will have the right to create and delete Rooms, upload, remove, and view content, data or eDocuments shared in DocuSign Rooms.
+
+2.2       Account. Customer is solely responsible for: (a) the configuration of the Account; (b) the operation, performance, and security of Customer’s equipment, networks, and other computing resources used to connect to DocuSign Rooms; (c) ensuring all Authorized Users exit or log off from DocuSign Rooms at the end of each session; (d) maintaining the confidentiality of the Account, user identification information and passwords used in conjunction with DocuSign Rooms; and (e) all uses of the Account by Customer and its Authorized Users. DocuSign reserves the right to suspend DocuSign Rooms if Customer misuses or otherwise shares login information among Authorized Users or with third parties. Customer will notify DocuSign immediately of any unauthorized access to or use of its Account or any other breach of security. DocuSign will not be liable for any loss that Customer may incur as a result of an unauthorized party using its password or Account due to Customer’s failure to protect its login information.
+
+2.3       Storage and Deletion. Customer may retrieve its stored eDocuments at any time during the Term. DocuSign will maintain all Rooms and store their associated eDocuments during the Term, by default. Customer may close or delete its Rooms or delete any eDocuments within such Rooms at any time during the Term.
+
+3.         ADDITIONAL CUSTOMER RESPONSIBILITIES
+
+3.1       DocuSign’s provision of the DocuSign Rooms service is conditioned on Customer’s acknowledgement of and agreement to the following:
+
+3.1.1    Customer is responsible for all activities that occur in DocuSign Rooms accessible under Customer’s Account and for ensuring that use of DocuSign Rooms complies with these Terms;
+
+3.1.2    Customer has exclusive control over and responsibility for the content, quality, and format of any transaction facilitated through DocuSign Rooms. Nothing in this Service Schedule may be construed to make DocuSign a party to any transaction processed through DocuSign Rooms, and DocuSign makes no representation or warranty regarding the transactions sought to be effected by Customer’s use of DocuSign Rooms;
+
+3.1.3    Customer is solely responsible for its reliance on any content, advice, opinion, statement, suggestion, or other information (“Third-Party Content”) offered by third parties that is shared or distributed through DocuSign Rooms. Any such Third-Party Content presented or disseminated through DocuSign Rooms solely represents the view of the respective author or provider of such content, who remains solely liable for the accuracy or reliability thereof;
+
+3.1.4    Customer is responsible for determining how long any eDocuments are required to be retained or stored under any applicable laws, regulations, or legal or administrative agency processes. Further, Customer is responsible for and liable to produce any eDocuments made available in Rooms to any third parties; and
+
+3.1.5    Customer is responsible for complying with any consumer protection or similar laws or regulations that may impose special requirements with respect to electronic transactions involving one or more “consumers,” such as (among others) requirements that the consumer consent to the method of transacting and/or that the consumer be provided with a copy, or access to a copy, of a paper or other non-electronic, written record of the transaction.
+
+### DOCUMENT / DATA PROTECTION ATTACHMENT for DOCUSIGN SIGNATURE / https://www.docusign.com/company/terms-and-conditions/schedule-docusign-signature/attachment-data-protection ###
+This Data Protection Attachment for DocuSign Signature (“DPA”) is incorporated into and made part of the Service Schedule for DocuSign Signature (https://www.docusign.com/company/terms-and-conditions/schedule-docusign-signature) and governs the Processing of Personal Data by DocuSign as a Processor on behalf of Customer or Customer Affiliates, as applicable. Unless otherwise defined in this DPA, capitalized terms will have the meaning given to them in the Agreement.
+
+
+
+1. DEFINITIONS
+
+General. The terms “Personal Data,” "Personal Data Breach," “Process/Processing,” “Controller,” “Processor,” “Subprocessor,” and “Data Subject” have the meanings ascribed to them under the General Data Protection Regulation; provided that the term “Personal Data” as used herein only applies to Personal Data for which DocuSign is a Processor.
+
+"EEA" means the European Economic Area.
+
+“General Data Protection Regulation” or “the GDPR” means Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+
+“Processor Privacy Code” or “Processor Code” means DocuSign’s processor binding corporate rules for the Processing of Personal Data, the most current version of which is available on DocuSign’s website, available at https://trust.docusign.com/en-us/trust-certifications/gdpr/bcr-p-processor-privacy-code/.
+
+2. DATA PROCESSING AND PROTECTION OF PERSONAL DATA
+
+2.1 Scope of Data Processing. The duration of the Processing of Personal Data will be the same as the duration of the Agreement, except as otherwise agreed to in writing by the parties. The subject matter of the Processing of Personal Data is set out in the Agreement and this DPA. The nature and purpose of the Processing of Personal Data involve the provision of the DocuSign Signature service to Customer, as set out in the Agreement and this DPA.
+
+2.2 Data Processing Limitations. With respect to Personal Data Processed by DocuSign or DocuSign Affiliate as a Processor on behalf of Customer or Customer Affiliate or as a Subprocessor where Customer Processes such Personal Data on behalf of its customers (or both), DocuSign will: (a) Process Personal Data only as necessary to provide the Services in accordance with the terms of the Agreement or as instructed by Customer in writing, including in electronic form, and consistent with the terms of the Agreement; and (b) not disclose Personal Data to third parties except: (i) to employees, service providers, or advisers who have a need to know the Personal Data and are under confidentiality obligations at least as restrictive as those described under this DPA or (ii) as required to comply with valid legal process in accordance with the terms of the Agreement. If DocuSign has reason to believe Customer’s instructions infringe the GDPR or other EEA data protection provisions, then DocuSign will immediately notify Customer.
+
+2.3 Assistance to Customer and Regulatory Investigation. Upon written request, DocuSign will provide reasonable assistance and information to Customer in fulfilling any legal obligations that Customer may have under the GDPR regarding data protection impact assessments, data and systems inventory, records of Processing, and related consultations of data protection authorities, or in the event of an investigation by any governmental authorities, if and to the extent that such investigation relates to Personal Data Processed by DocuSign in accordance with the Agreement. Such assistance will be at Customer’s sole expense, except where such an investigation was required due to DocuSign’s failure to act in accordance with the Agreement.
+
+2.4 Transfers of Personal Data from EEA. In providing the DocuSign Signature service, DocuSign may transfer and access Personal Data to and from other countries where DocuSign has operations or Subprocessors, or as otherwise required by applicable law. DocuSign’s Processor Privacy Code and the additional terms in this Section 2.4 will apply to DocuSign’s Processing of Personal Data on Customer’s behalf as a data processor in providing the DocuSign Signature service, where such Personal Data is: (i) subject to any restriction under the GDPR or other applicable EEA data protection laws regarding outbound transfers of Personal Data, and (ii) Processed by DocuSign in a country outside of the EEA. The most current version of the Processor Code is available on DocuSign’s website, currently located at https://trust.docusign.com/en-us/trust-certifications/gdpr/bcr-p-processor-privacy-code/, and the terms of the Processor Code are incorporated by reference into this DPA. Capitalized terms used but not defined in this Section 2.4 have the meanings set forth in the Processor Code. DocuSign will make commercially reasonable efforts to maintain the EU authorization of its Processor Code for the duration of the Agreement and will promptly notify Customer of any subsequent material changes in the EU authorization of its Processor Code. DocuSign will at all times remain solely liable to Customer or Customer Affiliate for DocuSign’s obligations (and those of its Affiliates, if any) under this DPA, and in no event will any other DocuSign Affiliate owe liability to Customer or Customer Affiliate under this DPA, except where and to the extent required by applicable law.
+
+3. CUSTOMER RESPONSIBILITIES. Customer acknowledges that it is responsible for properly implementing access and use controls and configuring certain features and functionalities of DocuSign Signature that Customer may elect to use and that it will do so in such manner that Customer deems adequate to maintain appropriate security, protection, deletion, and backup of Personal Data. DocuSign will be entitled to rely solely on Customer or Customer Affiliate’s instructions relating to Personal Data Processed by DocuSign. Customer is responsible for coordinating all communication with DocuSign under this DPA, including, without limitation, any communication in relation to this DPA on behalf of its Affiliates.
+
+
+
+4. INFORMATION SECURITY. DocuSign will safeguard Personal Data with appropriate technical, physical, and organizational measures as described more fully in the Processor Code and the Agreement for the provision of the DocuSign Signature service. The parties agree that the audit reports and audit rights provided under the Processor Code and Agreement will be used to satisfy any audit or inspection requests by or on behalf of Customer and to demonstrate compliance with applicable obligations of DocuSign under this DPA.
+
+5. PERSONAL DATA BREACH. DocuSign will notify Customer without undue delay if DocuSign becomes aware of a Personal Data Breach affecting the Personal Data. Taking into account the nature of Processing and the information available to DocuSign, DocuSign will assist Customer at Customer’s request and at Customer’s expense in complying with Customer’s notification obligations regarding Personal Data Breaches as required by the GDPR.
+
+6. DATA PRIVACY CONTACT. DocuSign’s data privacy officer can be reached at the following address:
+
+DocuSign, Inc.
+Attn: Chief Privacy Officer
+221 Main Street, Suite 1000
+San Francisco, CA 94105
+
+
+
+7. DATA SUBJECT RIGHTS – ACCESS, CORRECTION, RESTRICTION, AND DELETION. Taking into account the nature of the Processing, DocuSign Signature provides functionality to assist Customer by appropriate technical and organizational measures, insofar as this is possible, to access, correct, amend, restrict, or delete Personal Data contained in DocuSign Signature to address requests by a Data Subject under the GDPR. To the extent Customer, in its use of DocuSign Signature, is not familiar with DocuSign Signature functionality that may be used for these purposes, DocuSign will provide Customer with additional Documentation or customer support assistance to educate the Customer on how to take such actions in a manner consistent with the functionality of DocuSign Signature and in accordance with the terms of the Agreement. If DocuSign receives any request from any Data Subject to access, correct, restrict, or delete Personal Data, DocuSign will advise such Data Subject to submit its request to Customer and Customer will be responsible for responding to any such request using the functionality of DocuSign Signature.
+
+
+
+8. SUBPROCESSORS. DocuSign may engage Subprocessors to provide parts of DocuSign Signature, subject to the restrictions of the Agreement and this DPA. DocuSign will ensure that Subprocessors Process Personal Data only in accordance with the terms of this DPA and that Subprocessors are bound by written agreements that require them to provide at least the level of data protection required by this DPA. Before appointing any new Subprocessors, DocuSign will inform Customer of the appointment (including the name and location of such Subprocessor and the activities it will perform) either by electronic mail, via DocuSign Signature, or by publication to a DocuSign website provided to Customer prior to any appointment. Customer may object to DocuSign’s appointment by giving written notice to DocuSign within thirty (30) days of being informed by DocuSign of such appointment, and if, within thirty (30) days of DocuSign’s receipt of Customer’s objection, DocuSign fails to provide a commercially reasonable alternative to avoid the Processing of Personal Data by the appointed Subprocessor, Customer may, as its sole and exclusive remedy, terminate any DocuSign Signature services to which this DPA applies.
+
+
+
+9. RETURN OR DISPOSAL. Prior to termination or expiration of the Agreement for any reason, Customer may retrieve Personal Data processed by DocuSign Signature in accordance with the terms of the Agreement, and at Customer’s request provided in writing to DocuSign, DocuSign will promptly return or delete Personal Data from DocuSign Signature, unless applicable law requires storage of the Personal Data.
