@@ -54,6 +54,7 @@ question_key_words ={
         14:[[['cost']]],
         15:[[['third'],['parties']], [['contractors']]],
         16:[[['third'],['parties'],['because']], [['contractors'],['because']]],
+        17:[[['third'],['parties'],['because']], [['contractors'],['because']]],
         21:[[['audit']]],
         22:[[['data'],['period']]],
         23:[[['data'],['period'],['days','months','years','weeks']]] # cas échéant de la question 22
@@ -110,3 +111,12 @@ question_to_acc_map = {}
 for row in range(targets.shape[0]):
     acc = 1 - np.count_nonzero(targets[row] - estimates[row])/n_samples
     question_to_acc_map[questions[row]] = acc
+
+print()
+print('Regexp')
+print(question_to_acc_map)
+
+print()
+print('Baseline: prédiction = réponse la plus fréquente')
+print(question_to_acc_map_baseline)
+
