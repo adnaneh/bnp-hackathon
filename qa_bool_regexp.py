@@ -39,14 +39,14 @@ for path in paths:
     df_temp.sentence = df_temp.sentence.str.lower()
     df_temp.sentence = df_temp.sentence.apply(remove_punct)
     df_temp.sentence = df_temp.sentence.str.split()
-#    df_temp.sentence = df_temp.sentence.apply(stem)
+    df_temp.sentence = df_temp.sentence.apply(stem)
     df_list.append(df_temp)
     
 df = pd.concat(df_list)
 
 question_key_words ={
-        1: [[['personal'], ['data']]],
-        2: [[['data'], ['processing'], ['agreement', 'addendum']]],
+        1: [[['personal'], ['data', 'information']]],
+        2: [[['data'], ['processing'], ['agreement', 'addendum','terms']],[['dpa']]],
         3: [[['transfer','access'], ['outside'], ['eu','european union']]],
         4: [[['transfer','access'], ['outside'], ['eu','european'], country_list]],     
         8: [[['bcr', 'scc', 'rules', 'clauses']]],
@@ -60,10 +60,11 @@ question_key_words ={
         23:[[['data'],['period'],['days','months','years','weeks']]] # cas échéant de la question 22
         }
 
-#for question_id in question_key_words:
-#    answers = question_key_words[question_id]
-#    answers = [stem(keyword_list) for answer in answers for keyword_list in answer]
-#    question_key_words[question_id] = answers
+for question_id in question_key_words:
+    answers = question_key_words[question_id]
+    answers = [[stem(keyword_list) for keyword_list in answer] for answer in answers ]
+
+    question_key_words[question_id] = answers
 #        
 
 #Listing question ids 
@@ -120,3 +121,11 @@ print()
 print('Baseline: prédiction = réponse la plus fréquente')
 print(question_to_acc_map_baseline)
 
+
+answer_list = question_key_words[2]
+labels = [any(all(any(key_word in sentence for key_word in key_word_list) for key_word_list in answer) for answer in answer_list) for sentence in df.sentence]
+x = df[labels]
+
+sentences = [['at', 'docusign', 'privaci', 'is', 'a', 'prioriti']]
+sentence = ['at', 'docusign', 'privaci', 'is', 'a', 'prioriti']
+labels = [all(any(key_word in sentence for key_word in key_word_list) for key_word_list in answer) for answer in answer_list]
