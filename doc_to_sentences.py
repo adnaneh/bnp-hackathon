@@ -18,7 +18,7 @@ from unicodedata import category
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-sentence_end_punctuation = '((?<![A-Z][a-zA-Z][a-zA-Z])(?<![A-Z][a-zA-Z])(?<![A-Z])(?<!\sno)(?=\.|\?|\!)\s(?![a-z]))'
+sentence_end_punctuation = '((?<=[\.\?\!])\s[\n(.)]*(?=[A-Z]))'
 sentence_end_return = '(\n[^a-zA-Z]*(?=[A-Z]|[a-z][A-Z]))'
 chrs = (chr(i) for i in range(sys.maxunicode + 1))
 all_punctuation = [c for c in chrs if category(c).startswith("P")]
