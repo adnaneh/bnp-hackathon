@@ -11,12 +11,13 @@ class BasicExtractor(QuestionExtractor):
     def extract(self, text: str) -> List[QuestionResponse]:
         responses = []
         for question_id in self.question_ids:
-            question_data_model = self.form_data_model.get_specific_question_data_model(question_id)
-            available_answer = [answer.id_answer for answer in question_data_model.answers]
-            answer = available_answer[0]
-            justification = text[:10]
+            answer, question_id, justification = self.predict_regexp(
+                text, question_id)
             responses.append(
-                QuestionResponse(answer_id=answer, question_id=question_id, justification=justification)
+                QuestionResponse(
+                    answer_id=answer, question_id=question_id, justification=justification)
             )
         return responses
-    
+
+    def predict_regexp(self, text, question_id):
+        return text[question_id], question_id, "YOLO"

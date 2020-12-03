@@ -7,6 +7,8 @@ from datathon_ai.interfaces import FormDataModel, CountryReferential, COUNTRY_QU
     NOT_COUNTRY_QUESTIONS_NUMBERS
 
 from doc_to_sentences import text_to_sentences
+from qa_bool_regexp import pre_processing, regexp_pred
+import config as c
 
 
 def main() -> Dict[int, int]:
@@ -52,8 +54,14 @@ def main() -> Dict[int, int]:
     results: Dict[int, int] = {}
     for i, path in enumerate(path_to_files):
         print(f"File : {path}")
-        with open(path, "r") as input_file:
-            text = input_file.read()
+        # with open(path, "r") as input_file:
+        #     text = input_file.read()
+        res_dict = text_to_sentences([path])
+        df, df_sentences, df_list = pre_processing(res_dict, [path])
+        estimates, question_key_words = regexp_pred(df_list)
+        estimates = estimates.T[0]
+        text = {c.boolean_questions[i]: estimates[i]
+                for i in range(len(c.boolean_questions))}
         form_company_response = form_company_filling.fill(text)
         # ESSENTIAL : Sort the response by question number for each company
         form_company_response.sort_by_question_id()
