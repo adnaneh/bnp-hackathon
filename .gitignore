@@ -1,2 +1,4 @@
 tronc_commun_scratch.py
 *.pyc
+.vscode/settings.json
+~$annotations_train_validation_explained.xlsx
