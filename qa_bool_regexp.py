@@ -120,7 +120,7 @@ if __name__ == '__main__' :
     folder = 'data'
     filenames = os.listdir(folder)
     paths = [os.path.join(folder, filename) for filename in filenames]
-    paths = [paths[0]]
+#    paths = [paths[0]]
     
     res_dict = text_to_sentences(paths)
     df, df_sentences, df_list = pre_processing(res_dict, paths)
