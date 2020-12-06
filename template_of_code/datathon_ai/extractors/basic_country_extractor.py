@@ -4,6 +4,7 @@ from datathon_ai.interfaces import FormDataModel, QuestionResponse, COUNTRY_QUES
 from .question_extractor import QuestionExtractor
 from .utils import get_dico_dummy_answers
 
+
 class BasicCountryExtractor(QuestionExtractor):
     def __init__(self, question_ids: List[int], form_data_model: FormDataModel,
                  country_code_referential: CountryReferential):
@@ -15,15 +16,13 @@ class BasicCountryExtractor(QuestionExtractor):
     def extract(self, text: str) -> List[QuestionResponse]:
         responses = []
         for question_id in self.question_ids:
-            answer, question_id, justification = self.predict_dummy(text, question_id)
-            #answer = [country.id for country in self.country_code_referential.countries_codes][0]
-            #import pdb; pdb.set_trace()
+            answer, question_id, justification = self.predict_regexp(
+                text, question_id)
             responses.append(
-                QuestionResponse(answer_id=answer, question_id=question_id, justification=justification)
+                QuestionResponse(
+                    answer_id=answer, question_id=question_id, justification=justification)
             )
         return responses
 
-    def predict_dummy(self, text, question_id) :
-        if not hasattr(self, 'dico_dummy_answers') :
-            self.dico_dummy_answers = get_dico_dummy_answers()
-        return self.dico_dummy_answers[question_id], question_id, "YOLO"    
+    def predict_regexp(self, text, question_id):
+        return text[question_id], question_id, "YOLO"

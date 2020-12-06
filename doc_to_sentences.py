@@ -18,8 +18,25 @@ from unicodedata import category
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-sentence_end_punctuation = '((?<=[\.\?\!])(?=\s[A-Z]))|((?<=[\.\?\!])(?=(\s)+\n))'
-sentence_end_return = '(?=\n[^a-zA-Z]*(?=[A-Z]|[a-z][A-Z]))'
+sentence_end_punctuation = '((?<!N.)(((?<=[\.\?\!])(?= [A-Z]))|((?<=[\.\?\!])(?=(\s)*\n))))'
+#sentence_end_return = '(?=\n[^a-zA-Z]*(?=[A-Z]|[a-z][A-Z]))'
+usa_regexp = '\WU.S.A\W|\WU.S\W|\WUSA\W|\WUnited States\W'
+uk_regexp = '\WUK\W|\WUnited Kingdom\W'
+#table_regexp = '((\n[A-Z][\S ]*\t)|(\n([A-Z][\w -]*,(\s)+)+[A-Z][\w -]*\n))'
+#table_regexp = '(\n([A-Z][a-zA-Z \-]*(,\s+|\t\s*))+[A-Z][a-zA-Z \-]*\n)'
+#table_regexp = '((\n(([A-Z][a-zA-Z\-\.]+( ){0,1}){1,5}(,[\t ]+|\t[\t ]*))+[A-Z]([a-zA-Z\-\.]+( ){0,1}){1,5}){2,})'
+##[(.)\n]*(\n\n|\Z)
+#table_regexp = '((\n(([A-Z][a-zA-Z\-\.]+( ){0,1})+(,[\t ]+|\t[\t ]*))+[A-Z]([a-zA-Z\-\.]+( ){0,1})+){1,})'
+#table_regexp = '(\n([A-Z]([a-zA-Z\-\.]+( ){0,1}){1,5}(,[\t ]+|\t[\t ]*))+[A-Z]([a-zA-Z\-\.]+( ){0,1}){1,5}(\n([A-Z]([a-zA-Z\-\.]+( ){0,1})+(,[\t ]+|\t[\t ]*))+[A-Z]([a-zA-Z\-\.]+( ){0,1})+){1,})'
+#table_regexp = '(\n(([A-Z][a-zA-Z\-\. ]+){1,5}(,[\t ]+|\t[\t ]*))+[A-Z]([a-zA-Z\-\. ]+){1,5}\n)'
+##table_regexp = '((\n([A-Z]([a-zA-Z\-\.]+( ){0,1}){1,5}(,[\t ]+|\t[\t ]*)){1,10}[A-Z]([a-zA-Z\-\.]+( ){0,1}){1,5})(\n([A-Z]([a-zA-Z\-\.]+( ){0,1}){1,5}(,[\t ]+|\t[\t ]*)){1,10}[A-Z]([a-zA-Z\-\.]+( ){0,1}){1,5}))'
+#table_regexp = '(([A-Z]([a-zA-Z\-\.]+( ){0,1}){1,5}(,[\t ]+|\t[\t ]*))+[A-Z]([a-zA-Z\-\. ]+){1,5})'
+
+#table_regexp = '\n([A-Z][a-zA-Z ]*\t)+[a-zA-Z ]*\n((.)*\n)+\n\n'
+#table_regexp = '\n[A-Z][a-zA-Z ]*\t)+[a-zA-Z ]*\n'
+#table_regexp = re.compile(table_regexp, re.DOTALL)
+
+
 chrs = (chr(i) for i in range(sys.maxunicode + 1))
 all_punctuation = [c for c in chrs if category(c).startswith("P")]
 natural_punctuation = '''!"'(),-.:;?'''
@@ -30,20 +47,38 @@ def text_to_sentences(paths) :
     print('Séparation en phrase: regexp split (\.|\?|\!)\s(?![a-z])')
     print('Filtrage des charactères de ponctuation')
     print()
+    
+#    folder = 'data'
+#    filenames = os.listdir(folder)
+#    paths = [os.path.join(folder, filename) for filename in filenames]
+#    d= {}
+#    labels_list = []
     for path in paths:
+#        d[path] = []
         print('Traitement de', path)
         with io.open(path, mode="r", encoding="utf-8") as f:
             text = f.read()
+#            text_lines = text.split('\n')
+#            labels = [re.match(table_regexp, line) for line in text_lines]
+#            labels_list.append(labels)
+#    labels_list_2 = [[bool(label) for label in labels] for labels in labels_list]
+#            d[path].append(re.findall(table_regexp, text))
+        
+
             
             # Séparation en phrases
-            sentences_filtered = re.split(sentence_end_punctuation +'|' + sentence_end_return, text)
-            
+#            sentences_filtered = re.split(sentence_end_punctuation +'|' + sentence_end_return, text)
+            sentences_filtered = re.split(sentence_end_punctuation, text)
+
             # Filtrages:    
             sentences_filtered = [sentence for sentence in sentences_filtered if sentence!=None]
             sentences_filtered = [re.sub('['+ re.escape(punctuation_to_filter) + ']', ' ', sentence).strip() for sentence in sentences_filtered]
+            sentences_filtered = [re.sub(usa_regexp, ' usa ', sentence).strip() for sentence in sentences_filtered]
+            sentences_filtered = [re.sub(uk_regexp, ' uk ', sentence).strip() for sentence in sentences_filtered]
             sentences_filtered = [re.sub('\s+', ' ', sentence) for sentence in sentences_filtered]
             sentences_filtered = [sentence for sentence in sentences_filtered if len(sentence)>1 and any(c.isalpha() for c in sentence)]
-    
+            
+
             
         res_dict[path] = sentences_filtered
 

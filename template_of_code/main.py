@@ -7,7 +7,7 @@ from datathon_ai.interfaces import FormDataModel, CountryReferential, COUNTRY_QU
     NOT_COUNTRY_QUESTIONS_NUMBERS
 
 from doc_to_sentences import text_to_sentences
-from qa_bool_regexp import pre_processing, regexp_pred
+from qa_bool_regexp import pre_processing, regexp_pred, regexp_pred_countries
 import config as c
 
 
@@ -52,17 +52,29 @@ def main() -> Dict[int, int]:
     print("##################################")
     print("RUNNING PREDICTION")
     results: Dict[int, int] = {}
+
+    res_dict = text_to_sentences(path_to_files)
+    df, df_sentences, df_list, df_list_full_sentences = pre_processing(
+        res_dict, path_to_files)
+    estimates, question_key_words = regexp_pred(df_list)
+    country_estimates = regexp_pred_countries(df_list)
+
+    estimates = estimates.T
+    country_estimates = country_estimates.T
+
     for i, path in enumerate(path_to_files):
         print(f"File : {path}")
         # with open(path, "r") as input_file:
         #     text = input_file.read()
-        res_dict = text_to_sentences([path])
-        df, df_sentences, df_list = pre_processing(res_dict, [path])
-        estimates, question_key_words = regexp_pred(df_list)
-        estimates = estimates.T[0]
-        text = {c.boolean_questions[i]: estimates[i]
-                for i in range(len(c.boolean_questions))}
-        form_company_response = form_company_filling.fill(text)
+
+        estimates_i = estimates[i]
+        country_estimates_i = country_estimates[i]
+        answers = {c.boolean_questions[i]: estimates_i[i]
+                   for i in range(len(c.boolean_questions))}
+        answers_countries = {c.country_questions[i]: country_estimates_i[i]
+                             for i in range(len(c.country_questions))}
+        answers.update(answers_countries)
+        form_company_response = form_company_filling.fill(answers)
         # ESSENTIAL : Sort the response by question number for each company
         form_company_response.sort_by_question_id()
         for answer in form_company_response.answers:
