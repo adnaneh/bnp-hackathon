@@ -1,0 +1,608 @@
+### DOCUMENT/ Privacy Policy / https://automattic.com/privacy/ ###
+Privacy Policy
+
+Your privacy is critically important to us. At Automattic, we have a few fundamental principles:
+We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.
+We store personal information for only as long as we have a reason to keep it.
+We aim to make it as simple as possible for you to control what information on your website is shared publicly (or kept private), indexed by search engines, and permanently deleted.
+We help protect you from overreaching government demands for your personal information.
+We aim for full transparency on how we gather, use, and share your personal information.
+Below is our Privacy Policy, which incorporates and clarifies these principles.
+
+Who We Are and What This Policy Covers
+Howdy! We are the folks behind a variety of products and services designed to allow anyone — from bloggers, to photographers, small business owners, and enterprises — to take full advantage of the power and promise of the open web. Our mission is to democratize publishing and commerce so that anyone with a story can tell it, and anyone can turn their great idea into a livelihood. We believe in powering the open internet with code that is open source and are proud to say that the vast majority of our work is available under the General Public License (“GPL”). Unlike most other services, because our GPL code is public, you can actually download and take a look at that code to see how it works.
+
+This Privacy Policy applies to information that we collect about you when you use:
+
+Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, atavist.com, and happy.tools);
+Our mobile applications (including the WordPress mobile app for Android and iOS);
+Our other Automattic products, services, and features that are available on or through our websites (for example, WordPress.com plans, the Payments feature, the Pay with PayPal block, WordPress.com VIP, Jetpack, the WooCommerce Shipping & Tax extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, and Happy Tools); and
+Other users’ websites that use our Services, while you are logged in to your account with us.
+This Privacy Policy also applies to information we collect when you apply for a job at Automattic.
+
+Throughout this Privacy Policy we’ll refer to our websites, mobile applications, and other products and services collectively as “Services.” And if you’d like to learn more about which Automattic company is the controller of information about you, take a look at the section below on Controllers and Responsible Companies.
+
+Please note that this Privacy Policy does not apply to any of our products or services, like Tumblr, that have a separate privacy policy.
+
+Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
+
+Creative Commons Sharealike License
+We’ve decided to make this Privacy Policy available under a Creative Commons Sharealike license. You can grab a copy of this Privacy Policy and other legal documents on GitHub. You’re more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. If you do use it, we’d appreciate a credit and link to Automattic somewhere on your site.
+
+Information We Collect
+We only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better.
+
+We collect this information from three sources: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that we collect.
+
+Information You Provide to Us
+It’s probably no surprise that we collect information that you provide to us directly. Here are some examples:
+
+Basic account information: We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a WordPress.com account to provide an email address and password, along with a username or name — and that’s it. You may provide us with more information — like your address and other information you want to share — but we don’t require that information to create a WordPress.com account.
+Public profile information: If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, like a photo or an “About Me” description. Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include.
+Payment and contact information: If you buy something from us or earn revenue through your site, we’ll collect information to process those payments and contact you. If you buy something from us — a subscription to a WordPress.com plan, a premium theme, a custom domain, some Longreads swag — or if you pay fees to a person or business through their WordPress.com site (for example via the Payments feature or the Pay with PayPal block), you’ll provide additional personal and payment information like your name, credit card information, and contact information. We also keep a record of the purchases you’ve made. If you use our Ecommerce Services (including Store on WordPress.com, the WooCommerce Shipping & Tax, and WooCommerce Payments), you’ll have to create a WordPress.com account or connect an existing account and, for some Services, provide your site URL. You may also provide us with financial details to set up a payments integration, like the email address for your Stripe or PayPal account or your bank account information. If you participate in a revenue sharing opportunity for your site, like WordAds, you’ll provide some additional information — for example, a tax ID or other identifier so we can process payments to you.
+Happy Tools information: If you are a Happy Tools user, you will provide us with information to set up your Happy Tools account and make use of the Service’s features. For example, you might enter timezone and location information, company and team information, and contact information.
+Content information: You might provide us with information about you in draft and published content (a blog post or comment that includes biographic information about you, or any media or files you upload).
+Credentials: Depending on the Services you use, you may provide us with credentials for your self-hosted website (like SSH, FTP, and SFTP username and password). Jetpack and VaultPress users may provide us with these credentials in order to use our one-click restore feature if there is a problem with their site, or to allow us to troubleshoot problems more quickly.
+Communications with us (hi there!): You may also provide us with information when you respond to surveys, communicate with our Happiness Engineers about a support question, post a question in our public forums, or sign up for a newsletter like the one we send through Longreads. When you communicate with us via form, email, phone, WordPress.com comment, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law).
+Job applicant information: If you apply for a job with us — awesome! You may provide us with information like your name, contact information, resume or CV, and work authorization verification as part of the application process.
+Information We Collect Automatically
+We also collect some information automatically:
+
+Log information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you create or make changes to your website on WordPress.com.
+Usage information: We collect information about your usage of our Services. For example, we collect information about the actions that site administrators and users perform on a site using our WordPress.com or Jetpack services — in other words, who did what and when (e.g., [WordPress.com username] deleted “[title of post]” at [time/date]). Our WooCommerce Usage Tracker also tracks information like your email address, WooCommerce settings, and PHP settings, along with information about your online store, like the aggregate number of orders and customers. We also collect information about what happens when you use our Services (e.g., page views, support document searches at en.support.wordpress.com, features enabled for your website, interactions with our Admin Bar and other parts of our Services) along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, get insights on how people use our Services so we can make our Services better, and understand and make predictions about user retention.
+Location information: We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (like when you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.
+Stored information: We may access information stored on your mobile device via our mobile apps. We access this stored information through your device operating system’s permissions. For example, if you give us permission to access the photographs on your mobile device’s camera roll, our Services may access the photos stored on your device when you upload a really amazing photograph of the sunrise to your website.
+Interactions with other users’ sites: We collect some information about your interactions with other users’ sites while you are logged in to your account with us, such as your “Likes” and the fact that you commented on a particular post, so that we can, for example, recommend posts we think may interest you. As another example, we collect information about the comments IntenseDebate users make while logged in and use that information to, for example, tally up statistics about your comments (check them out in your dashboard!) and display information about your comments in your IntenseDebate public profile.
+Information from cookies & other technologies: A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. Automattic uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads. For more information about our use of cookies and other technologies for tracking, including how you can control the use of cookies, please see our Cookie Policy.
+Information We Collect from Other Sources
+We may also get information about you from other sources. For example, if you create or log in to your WordPress.com account through another service (like Google) or if you connect your website or account to a social media service (like Twitter) through our Publicize feature, we’ll receive information from that service (e.g., your username, basic profile information, friends list) via the authorization procedures for that service. As another example, if you use WooCommerce Payments, we’ll receive information relating to your Stripe account, such as your email address and phone number. The information we receive depends on which services you use or authorize and what options are available.
+
+Third-party services may also give us information, like mailing addresses for individuals who are not yet our users (but we hope will be!). We use this information for marketing purposes like postcards and other mailers advertising our Services.
+
+How and Why We Use Information
+Purposes for Using Information
+We use information about you for the purposes listed below:
+
+To provide our Services. For example, to set up and maintain your account, host your website, backup and restore your website, provide customer service, process payments and orders, and verify user information.
+To ensure quality, maintain safety, and improve our Services. For example, by providing automatic upgrades and new versions of our Services. Or, for example, by monitoring and analyzing how users interact with our Services so we can create new features that we think our users will enjoy and that will help them create and manage websites more efficiently or make our Services easier to use.
+To place and manage ads in our advertising program. For example, to place ads on our users’ sites and some of our own sites as part of our advertising program, and understand ad performance.
+To market our Services and measure, gauge, and improve the effectiveness of our marketing. For example, by targeting our marketing messages to groups of our users (like those who have a particular plan with us or have been users for a certain length of time), advertising our Services, analyzing the results of our marketing campaigns (like how many people purchased a paid plan after receiving a marketing message), and understanding and forecasting user retention.
+To protect our Services, our users, and the public. For example, by detecting security incidents; detecting and protecting against malicious, deceptive, fraudulent, or illegal activity; fighting spam; complying with our legal obligations; and protecting the rights and property of Automattic and others, which may result in us, for example, declining a transaction or terminating Services.
+To fix problems with our Services. For example, by monitoring, debugging, repairing, and preventing issues.
+To customize the user experience. For example, to personalize your experience by serving you relevant notifications and advertisements for our Services, recommending content through our Reader post suggestions, and providing new essays and stories through Longreads for your reading pleasure.
+To communicate with you. For example, by emailing you to ask for your feedback, share tips for getting the most out of our products, or keep you up to date on Automattic; texting you to verify your payment; or calling you to share offers and promotions that we think will be of interest to you. If you don’t want to hear from us, you can opt out of marketing communications at any time. (If you opt out, we’ll still send you important updates relating to your account.)
+To recruit and hire new Automatticians. For example, by evaluating job applicants and communicating with them.
+Legal Bases for Collecting and Using Information
+A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:
+
+(1) The use is necessary in order to fulfill our commitments to you under the applicable terms of service or other agreements with you or is necessary to administer your account — for example, in order to enable access to our website on your device or charge you for a paid plan; or
+
+(2) The use is necessary for compliance with a legal obligation; or
+
+(3) The use is necessary in order to protect your vital interests or those of another person; or
+
+(4) We have a legitimate interest in using your information — for example, to provide and update our Services; to improve our Services so that we can offer you an even better user experience; to safeguard our Services; to communicate with you; to measure, gauge, and improve the effectiveness of our advertising; and to understand our user retention and attrition; to monitor and prevent any problems with our Services; and to personalize your experience; or
+
+(5) You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on, as described in our Cookie Policy.
+
+Sharing Information
+How We Share Information
+We share information about you in limited circumstances, and with appropriate safeguards on your privacy. These are spelled out below, as well as in the section called Ads and Analytics Services Provided by Others:
+
+Subsidiaries and independent contractors: We may disclose information about you to our subsidiaries and independent contractors who need the information to help us provide our Services or process the information on our behalf. We require our subsidiaries and independent contractors to follow this Privacy Policy for any personal information that we share with them.
+Third-party vendors: We may share information about you with third-party vendors who need the information in order to provide their services to us, or to provide their services to you or your site. This includes vendors that help us provide our Services to you (like Stripe, which powers WooCommerce Payments, payment providers that process your credit and debit card information, payment providers you use for your own ecommerce operations, fraud prevention services that allow us to analyze fraudulent payment transactions, cloud storage services, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, registrars, registries, data escrow services that allow us to provide domain registration services, and your hosting provider if your site is not hosted by Automattic); those that assist us with our marketing efforts (e.g., by providing tools for identifying a specific marketing target group or improving our marketing campaigns, and by placing ads to market our services); those that help us understand and enhance our Services (like analytics providers); those that make tools to help us run our operations (like programs that help us with task management, scheduling, word processing, email and other communications, and collaboration among our teams); other third-party tools that help us manage operations; and companies that make products available on our websites (like the extensions on WooCommerce.com), who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them. Other vendors are listed in our more specific policies (e.g., our Cookie Policy).
+Legal and regulatory requirements: We may disclose information about you in response to a subpoena, court order, or other governmental request. For more information on how we respond to requests for information about WordPress.com users, please see our Legal Guidelines. Additionally, if you have a domain registered with WordPress.com, we may share your information to comply with the Internet Corporation for Assigned Names and Numbers’ (ICANN) regulations, rules, or policies. For example, your information relating to your domain registration may be available in the WHOIS database, or we may be required to share your information with ICANN-approved Dispute Resolution Service Providers. Please see our Domain Registrations and Privacy support document for more details.
+To protect rights, property, and others: We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
+Business transfers: In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
+With your consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties when you authorize us to do so, like when you connected your site to a social media service through our Publicize feature.
+Aggregated or de-identified information: We may share information that has been aggregated or de-identified, so that it can no longer reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services, or share a hashed version of your email address to facilitate customized ad campaigns on other platforms.
+Site owners: If you have a WordPress.com account and interact with another site using our Services, your information may be shared with the administrators of the site. For example, if you leave a comment on a site created on WordPress.com or running Jetpack, your IP address and the email address associated with your WordPress.com account may be shared with the administrator(s) of the site where you left the comment. Or if you make a payment (like via the Payments feature) to a site, your public display name, user name, and email address may be shared with the administrator(s) of the site.
+Published support requests: If you send us a request for assistance (for example, via a support email or one of our other feedback mechanisms), we reserve the right to publish that request in order to clarify or respond to your request, or to help us support other users.
+We have a long-standing policy that we do not sell our users’ data. We aren’t a data broker, we don’t sell your personal information to data brokers, and we don’t sell your information to other companies that want to spam you with marketing emails.
+
+We show ads on some of our users’ sites as well as some of our own, and the revenue they generate lets us offer free access to some of our Services so that money doesn’t become an obstacle to having a voice.
+
+Under a new California law, the California Consumer Privacy Act (“CCPA”), some personalized advertising you see online and on our services might be considered a “sale” even though we don’t share information that identifies you personally, like your name or email address, as part of our advertising program.
+
+You have choices about these ads, learn more about them and our ads program.
+
+Information Shared Publicly
+Information that you choose to make public is — you guessed it — disclosed publicly.
+
+That means information like your public profile, posts, other content that you make public on your website, and your “Likes” and comments on other websites are all available to others — and we hope they get a lot of views!
+
+For example, the photo that you upload to your public profile, or a default image if you haven’t uploaded one, is your Globally Recognized Avatar, or Gravatar — get it? :) Your Gravatar, along with other public profile information, displays alongside the comments and “Likes” that you make on other users’ websites while logged in to your WordPress.com account. Your Gravatar and public profile information may also display with your comments, “Likes,” and other interactions on websites that use our Gravatar service, if the email address associated with your account is the same email address you use on the other website.
+
+We also provide a “Firehose” stream of public data (like posts and comments) from some sites that use our Services to provide that data to Firehose subscribers, who may view and analyze the content (all subject to our Terms of Service), but do not have rights to re-publish it publicly. Find out more about opting out of the Firehose for WordPress.com and Jetpack sites. Public information may also be indexed by search engines or used by third parties.
+
+Please keep all of this in mind when deciding what you would like to share publicly.
+
+How Long We Keep Information
+We generally discard information about you when it’s no longer needed for the purposes for which we collect and use it — described in the section above on How and Why We Use Information — and we’re not legally required to keep it.
+
+For example, we keep the web server logs that record information about a visitor to one of Automattic’s websites, like the visitor’s IP address, browser type, and operating system, for approximately 30 days. We retain the logs for this period of time in order to, among other things, analyze traffic to Automattic’s websites and investigate issues if something goes wrong on one of our websites.
+
+As another example, when you delete a post, page, or comment from your WordPress.com site, it stays in your Trash folder for thirty days in case you change your mind and would like to restore that content, because starting from scratch is no fun. After the thirty days are up, the deleted content may remain on our backups and caches until purged.
+
+Security
+While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so. We monitor our Services for potential vulnerabilities and attacks.
+
+To enhance the security of your account, we encourage you to enable our advanced security settings, like Two Step Authentication.
+
+Choices
+You have several choices available when it comes to information about you:
+
+Limit the information that you provide: If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services — for example, premium themes that carry an additional charge — may not be accessible.
+Limit access to information on your mobile device: Your mobile device operating system should provide you with the option to discontinue our ability to collect stored information or location information via our mobile apps. If you choose to limit this, you may not be able to use certain features, like geotagging for photographs.
+Opt out of marketing communications: You may opt out of receiving promotional communications from us. Just follow the instructions in those communications or let us know. If you opt out of promotional communications, we may still send you other communications, like those about your account and legal notices.
+Set your browser to reject cookies: At this time, Automattic does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
+Opt out of our internal analytics program: You can do this through your user settings. By opting out, you will stop sharing information with our analytics tool about events or actions that happen after the opt-out, while you’re logged in to your WordPress.com account. For more information, please see our Cookie Policy.
+Close your account: While we’d be very sad to see you go, you can close your account if you no longer want to use our Services. (Here are account closure instructions for WordPress.com accounts.) Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above — for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
+Your Rights
+If you are located in certain parts of the world, including California and countries that fall under the scope of the European General Data Protection Regulation (aka the “GDPR”), you may have certain rights regarding your personal information, like the right to request access to or deletion of your data.
+
+European General Data Protection Regulation (GDPR)
+If you are located in a country that falls under the scope of the GDPR, data protection laws give you certain rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
+
+Request access to your personal data;
+Request correction or deletion of your personal data;
+Object to our use and processing of your personal data;
+Request that we limit our use and processing of your personal data; and
+Request portability of your personal data.
+You also have the right to make a complaint to a government supervisory authority.
+
+California Consumer Privacy Act (CCPA)
+The California Consumer Privacy Act (“CCPA”) requires us to provide California residents with some additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it.
+
+The CCPA also requires us to provide a list of the “categories” of personal information we collect, as that term is defined in the law, so, here it is. In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used:
+
+Identifiers (like your name, contact information, and device and online identifiers);
+Commercial information (your billing information and purchase history, for example);
+Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);
+Internet or other electronic network activity information (such as your usage of our Services, like the actions you take as an administrator of a WordPress.com site);
+Geolocation data (such as your location based on your IP address);
+Audio, electronic, visual or similar information (such as your profile picture, if you uploaded one);
+Professional or employment-related information (for example, your company and team information if you are a Happy Tools user, or information you provide in a job application); and
+Inferences we make (such as likelihood of retention or attrition).
+You can find more information about what we collect and sources of that information in the Information We Collect section above.
+
+We collect personal information for the business and commercial purposes described in the How and Why We Use Information section. And we share this information with the categories of third parties described in the Sharing Information section.
+
+If you are a California resident, you have additional rights under the CCPA, subject to any exemptions provided by the law, including the right to:
+
+Request to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, the categories of third parties we share it with, and the specific pieces of information we collect about you;
+Request deletion of personal information we collect or maintain;
+Opt out of any sale of personal information; and
+Not receive discriminatory treatment for exercising your rights under the CCPA.
+The CCPA & Personalized Advertising in Our Ads Program
+Our mission is to democratize publishing and commerce, and that means making our Services accessible to as many people as possible. We show ads on some of our users’ sites as well as some of our own sites, and the revenue these ads generate lets us offer free access to some of our Services so that money doesn’t become an obstacle to having a voice. Our ads program also allows our users to earn revenue to support and grow their own sites. As part of our advertising program, we and our users do use cookies to share certain device identifiers and information about your browsing activities with our advertising partners, and those advertising partners may use that information to show you personalized ads on some of our users’ sites and some of our own.
+
+The personal information we share includes online identifiers; internet or other network or device activity (such as cookie information, other device identifiers, and IP address); and geolocation data (approximate location information from your IP address). These disclosures may be considered a “sale” of information under the CCPA. We do not sell (or share) information through our ads program that identifies you personally, like your name or contact information. We don’t knowingly sell personal information of those under 16. Learn how you can opt out by going to California: Do Not Sell My Personal Information.
+
+Contacting Us About These Rights
+You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to or you’d like to contact us about one of the other rights, scroll down to “How to Reach Us” to, well, find out how to reach us.
+
+When you contact us about one of your rights under this section, we’ll need to verify that you are the right person before we disclose or delete anything. For example, if you are a user, we will need you to contact us from the email address associated with your account. You can also designate an authorized agent to make a request on your behalf by giving us written authorization. We may still require you to verify your identity with us.
+
+Controllers and Responsible Companies
+Automattic’s Services are worldwide. Different Automattic companies are the controller (or co-controller) of personal information, which means that they are the company responsible for processing that information, based on the particular service and the location of the individual using our Services.
+
+Depending on the Services you use, more than one company may be the controller of your personal data. Generally, the “controller” is the Automattic company that entered into the contract with you under the Terms of Service for the product or service you use. In addition, Automattic Inc., our US-based company, is the controller for some of the processing activities across all of our Services worldwide.
+
+The chart below explains the current controllers for processing your personal information. We use the term “Designated Countries” to refer to Australia, Canada, Japan, Mexico, New Zealand, Russia, and all countries located in the European continent.
+
+If you reside outside of the Designated Countries:	Automattic Inc.
+60 29th Street #343
+San Francisco, CA 94110
+If you reside in the Designated Countries:	Aut O’Mattic A8C Ireland Ltd.
+Business Centre, No.1 Lower Mayor Street
+International Financial Services Centre
+Dublin 1, Ireland
+Automattic Inc. is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd.
+
+How to Reach Us
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us through our web form or via email. These are the fastest ways to get a response to your inquiry, but you can also contact us by telephone at 1-877-273-3049.
+
+Other Things You Should Know (Keep Reading!)
+Transferring Information
+Because Automattic’s Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third-party data processors. This is required for the purposes listed in the How and Why We Use Information section above. When providing information about you to entities outside the EEA, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this Privacy Policy as required by applicable law. These measures include:
+
+In the case of US based entities, entering into European Commission approved standard contractual arrangements with them, or ensuring they have signed up to the EU-US Privacy Shield; or
+In the case of entities based in other countries outside the EEA, entering into European Commission approved standard contractual arrangements with them.
+You can ask us for more information about the steps we take to protect your personal information when transferring it from the EU.
+
+Ads and Analytics Services Provided by Others
+Ads appearing on any of our Services may be delivered by advertising networks. Other parties may also provide analytics services via our Services. These ad networks and analytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage, determine the popularity of certain content, and deliver ads that may be more targeted to your interests. Please note this Privacy Policy only covers the collection of information by Automattic and does not cover the collection of information by any third-party advertisers or analytics providers.
+
+Third-Party Software and Services
+If you’d like to use third-party plugins or embeds, WooCommerce Payments (powered by Stripe), WooCommerce extensions that enable services provided by third parties, or other third-party software or services, please keep in mind that interacting with them may mean providing information about yourself (or your site visitors) to those third parties. For example, some third-party services may request or require access to your (yours, your visitors’, or customers’) data via a pixel or cookie. Please note that if you use the third-party service or grant access, your data will be handled in accordance with the third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about information collection, use, and sharing, which you should review before using the software or services.
+
+Visitors to Our Users’ Websites
+We also process information about visitors to our users’ websites, on behalf of our users and in accordance with our user agreements. Please note that our processing of that information on behalf of our users for their websites isn’t covered by this Privacy Policy. We encourage our users to post a privacy policy that accurately describes their practices on data collection, use, and sharing of personal information. If you’d like, you can also read more about the data we collect on behalf of our users in our Privacy Notice.
+
+Users control the content posted on their sites, so any disputes regarding content on a user’s site should be made directly to the site owner, through their “contact us” page, at an email address they provide, or by leaving a comment on the site.
+
+Privacy Policy Changes
+Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (like adding a statement to our homepage or the WordPress.com Blog, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy
+
+### DOCUMENT/ Terms of Service / https://wordpress.com/tos/ ###
+Terms of Service
+The Gist
+We (the folks at Automattic) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for global companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
+
+These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions.
+
+We’ve decided to make these Terms available under a Creative Commons Sharealike license. You can grab a copy of these Terms and other legal documents on Github. You’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise the language so that your Terms reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Automattic somewhere on your website.
+
+Terms of Service
+These Terms govern your access to and use of WordPress.com, Jetpack.com, VaultPress.com, and Happy.Tools, as well as all content and Automattic products and services (for example, ecommerce services as outlined below in Section 7e) available at or through these websites (collectively, “Services”).
+
+These Terms also govern visitors’ access to and use of any websites that use our Services, such as websites hosted on WordPress.com that are operated by our users.
+
+For some of Automattic’s other products, services, and programs such as WooCommerce, Akismet, Crowdsignal, Newspack, WordPress.com VIP, our Affiliate Program, and our Refer-A-Friend Program, additional Terms of Service may apply and will be posted on the respective websites.
+
+Our Services are offered subject to your acceptance, without modification, of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Automattic’s Privacy Policy), and procedures that may be published from time to time by Automattic (collectively, the “Agreement”). You agree that we may automatically upgrade our Services, and the Agreement will apply to any upgrades.
+
+Please read the Agreement carefully before accessing or using our Services. By accessing or using any part of our Services, you agree to become bound by the Agreement. If you do not agree to all the terms of the Agreement, then you may not access or use our Services.
+
+1. Who’s Who
+Throughout these Terms, “you” applies to both individuals and entities that access or use our Services. If you are an individual using our Services on behalf of an entity, you represent and warrant that you have the authority to bind that entity to the Agreement and that by using our Service(s), you are accepting the Agreement on behalf of that entity.
+
+We use the term “Designated Countries” to refer to Australia, Canada, Japan, Mexico, New Zealand, Russia, and all countries located in the European continent. If you reside in the “Designated Countries,” your Agreement is with Aut O’Mattic A8C Ireland Ltd. If you reside outside of the “Designated Countries,” your Agreement is with Automattic Inc.
+
+We refer to Aut O’Mattic A8C Ireland Ltd. and Automattic Inc. collectively as “Automattic” or “we” throughout these Terms.
+
+2. Your Account
+Where use of our Services requires an account, you agree to provide us with complete and accurate information when you register for an account and keep the information current. This is important because sometimes we may need to send you notable updates (for example, about changes to our Terms of Service or Privacy Policy), or we may want to let you know about and make informed choices in response to legal inquiries or complaints.
+
+You will be solely responsible and liable for any activity that occurs under your account. You are responsible for keeping your account information up-to-date and for keeping your password secure.
+
+You are responsible for maintaining the security of your account and any Service-related website, store, or other content, and you are fully responsible for all activities that occur under your account and any other actions taken in connection with our Services. You shall not share or misuse your access credentials. You must immediately notify us of any unauthorized uses of your account, store, or website, or of any other breach of security. We will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions.
+
+When you create a WordPress.com account, we consider that to be an inquiry about our products and services, which means that we may contact you to share more details about what we have to offer. Don’t worry — if you aren’t interested in learning more, you can opt out of the marketing communication, whether it’s an email, phone call, or text message.
+
+3. Minimum Age Requirements
+Our Services are not directed to children. Access to and use of our Services is only for those over the age of 13 (or 16 in the European Union). If you are younger than this, you may not register for or use our Services. Any person who registers as a user or provides their personal information to our Services represents that they are 13 years of age or older (or 16 years or older in the European Union).
+
+4. Responsibility of Visitors and Users
+We have not reviewed, and cannot review, all of the content (such as, but not limited to, text, photo, video, audio, code, computer software, items for sale, or other materials) posted to our Services by users or anyone else (“Content”) and are not responsible for any use or effects of such Content. So, for example:
+
+We do not endorse any Content or represent that Content is accurate, useful, or non-harmful. Content could be offensive, indecent, or objectionable; include technical inaccuracies, typographical mistakes, or other errors; or violate or infringe the privacy, publicity rights, intellectual property rights (see our Copyright Infringement and DMCA Policy section to submit copyright complaints), or other proprietary rights of third parties.
+If you post Content, comment on a website, or otherwise make (or allow any third party to make) Content available on our Services, you are entirely responsible for the Content, and any harm resulting from, that Content or your conduct.
+We disclaim any responsibility for any harm resulting from anyone’s use, purchase, or downloading of Content. If you access or use any Content, you are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content.
+Any Content offered for sale through any of our Services are the seller’s sole responsibility, and you agree that you will look solely to the seller for any damages that result from your purchase or use of Content.
+We are not a party to, and will have no responsibility or liability for, any communications, transactions, interactions, or disputes between you and the provider of any Content.
+Please note that additional third party terms and conditions may apply to the downloading, copying, purchase, or use of Content.
+We also have not reviewed, and cannot review, all of the material, including computer software, made available through the websites and web pages that link to, or are linked from, WordPress.com or our other Services. For example:
+
+We do not have any control over those websites and are not responsible for their contents or their use.
+The existence of a link to or from one of our Services does not represent or imply that we endorse such website.
+You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content.
+We disclaim any responsibility for any harm resulting from non-Automattic websites.
+5. Fees, Payment, and Renewal
+a. Automattic Fees
+Fees for Paid Services. Some of our Services are offered for a fee, such as Happy Tools, Jetpack plans, WordPress.com plans, and some Ecommerce Services (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees (for example, Jetpack fees, VaultPress fees, WordPress.com fees, and fees associated with specific features, such as Payments, WooCommerce Payments, and domain name registration and renewal). These fees may be one-time fees, recurring fees, or revenue-based fees. For recurring fees, we’ll bill or charge you for in regular automatically-renewing intervals (such as monthly, annually, or biennially), on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as fees for Payments for your website’s subscriptions — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
+
+Depending on which billing option you choose (like monthly vs. annually), there may be different features available or policies that apply to your Paid Service.
+
+Taxes. To the extent permitted by law, or unless explicitly stated otherwise, all fees are exclusive of applicable federal, provincial, state, local or other governmental sales, goods and services, harmonized or other taxes, fees, or charges now in force or enacted in the future (“Taxes”). You are responsible for payment of all applicable Taxes relating to your use of our Services, your payments, or your purchases. If we are obligated to pay or collect Taxes on the Fees you’ve paid or will pay, you are responsible for such Taxes, and we may collect payment for such Taxes.
+
+Payment. If your payment fails, Paid Services are otherwise not paid for or paid for on time, or we suspect a payment is fraudulent, we may immediately cancel or revoke your access to Paid Services without notice to you. If you contact your bank or credit card company to decline or reverse the charge of fees for Paid Services, we may revoke your access to our Services.
+
+Automatic Renewal. To ensure uninterrupted service, recurring Paid Services are automatically renewed. This means that unless you cancel a Paid Service before the end of the applicable subscription period, it will automatically renew, and you authorize us to invoice you or use any payment mechanism we have on record for you to collect the then-applicable subscription fee (as well as any Taxes). By default, your Paid Services will be renewed for the same interval of time as your original subscription period. For example, if you purchase a WordPress.com annual plan, you will be charged each year for the following 12-month period. We may charge your account up to one month before the end of the subscription period. It is your responsibility to make sure you are checking your email (including any spam or other filters) in order to receive any reminder email we send to you in advance of renewal. The date for the automatic renewal is determined automatically based on the date of the original purchase and cannot be changed. You can view your renewal date for WordPress.com Paid Services by visiting your Manage Purchases page. For more information about how WordPress.com subscriptions work, please see our Manage Purchases, Renewals & Cancellations support page.
+
+Cancelling Automatic Renewal. You can manage and cancel your Paid Services at the respective Service’s site. For example, you can manage all of your WordPress.com plans through your WordPress.com Manage Purchases page. To cancel a WordPress.com plan, go to your Manage Purchases page, click on the plan you wish to cancel, then follow the instructions to “cancel the subscription.” You must repeat this process for each subscription you wish to cancel.
+
+Fee Changes. We may change our fees at any time, or start charging fees for Services that were previously free. When applicable, we may give you advance notice of the fee changes. If you don’t agree with the fee changes, you must cancel your Paid Service.
+
+No-Show Policy. We may have a “no-show policy” for some Paid Services (for example, for our Quick Start sessions), which means that if you fail to show up or are late for a scheduled session, we may withhold the Service without a refund.
+
+Refunds. While you may cancel a Paid Service at any time, refunds are issued in our sole discretion, unless otherwise required by applicable law.
+
+b. Fees Collected by Website Owners
+Fees Paid to Websites or Website Owners. Website owners may choose to sell items (goods, content, services, etc.), offer subscriptions for their websites at specific price points and intervals, or simply collect payments. Please note that we are not involved in a website’s subscription details, or a website’s store operations (including the quality, timing, pricing, or legality of what may or may not be included in exchange for payment, or any goods or services purchased). If you purchase items or subscriptions from a website, your purchase is directly from the website owner, who is solely responsible for the items sold. Please contact the website owner if you have any questions or complaints.
+
+Automatic Renewal. Any recurring payments you make to a website owner (such as a website subscription) are automatically renewed. This means that unless you cancel your website subscription before the end of the applicable renewal period, it will automatically renew. Your recurring payments will be renewed for the same interval of time as your original subscription period. For example, for an annual renewal schedule for your website subscription, you will be charged each year. You can view your renewal date by visiting your Other Sites page.
+
+Cancelling Automatic Renewal of Website Subscriptions. You can manage and cancel your website subscriptions at your Other Sites page. Click on the automatically renewing payment you wish to cancel, then follow the instructions to cancel. You must repeat this process for each website subscription you wish to cancel.
+
+Refunds. We are not responsible for refunds for fees paid to a website owner because those transactions are between website owners and their users. If you would like to request a refund for any fees paid to a website or website owner, please contact the website owner. If you have a complaint regarding a website owner, you can contact us.
+
+6. General Representation and Warranty
+You represent and warrant that your use of our Services:
+
+Will be in strict accordance with these Terms;
+Will comply with all applicable laws and regulations (including, without limitation, all applicable laws regarding online conduct and acceptable content, privacy, data protection, the transmission of technical data exported from the United States or the country in which you reside, the use or provision of financial services, notification and consumer protection, unfair competition, and false advertising);
+Will not use the Services for any unlawful purposes, to publish illegal content, or in furtherance of illegal activities;
+Will not infringe or misappropriate the intellectual property rights of any third party;
+Will not overburden Automattic’s systems, as determined by us in our sole discretion;
+Will not disclose sensitive personal information of others;
+Will not be used to send spam or bulk unsolicited messages;
+Will not interfere with, disrupt, or attack any service or network; and
+Will not be used to create, distribute, or enable material that is – or that facilitates or operates in conjunction with – malware, spyware, adware, or other malicious programs or code.
+7. Specific Service Terms
+a. WordPress.com Websites and Accounts
+WordPress.com enables you to create beautiful websites and blogs, and we would love for you to use it. A WordPress.com account also allows you to sign into some of our Services.
+
+WordPress.com’s basic service is free, and we offer paid plans for advanced features such as a custom domain name, extra storage, and access to premium themes. Our service is designed to give you as much control and ownership over what goes on your website as possible and encourage you to express yourself freely. You own all content you post to your website. However, be responsible in what you publish. In particular, make sure that none of the prohibited items (like spam, viruses, or serious threats of violence) appear on your website.
+
+If you find a WordPress.com website that you believe violates these Terms, please visit our dispute resolution and reporting page.
+
+Your WordPress.com Website. If you create a website on WordPress.com, you get to use an Automattic-owned subdomain, such as example.wordpress.com or mollys.food.blog. You must not engage in “domain squatting,” claim an unreasonable number of subdomains (as determined by us), or sell access to any subdomains.
+
+License. By submitting Content to Automattic for inclusion on your website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt, and publish the Content solely for the purpose of displaying, distributing, and promoting your website. This license also allows Automattic to make any publicly-posted Content available to third parties selected by Automattic (through Firehose, for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services. You also give other WordPress.com users permission to share your Content on other WordPress.com websites and add their own Content to it (aka to “reblog” your Content), so long as they use only a portion of your post and they give you credit as the original author by linking back to your website (the reblogging function on WordPress.com does this automatically!).
+
+Removing Content. If you delete Content, we will use reasonable efforts to remove it from public view (or in the case of a private website, from view by the authorized visitors) on WordPress.com, but you acknowledge that caching or references to the Content may not be made immediately unavailable.
+
+Web Traffic. We use a third party, comScore, Inc. (“comScore”), to measure WordPress.com’s audience and usage. By hosting your website on WordPress.com, you agree to assign the traffic relating to your website to Automattic and authorize us to sign a Traffic Assignment Letter on your behalf for comScore audience measurement reports. Your website’s traffic will be included under Automattic. You understand that your website will not receive credit for traffic in these reports, and you must not assign your website’s traffic to any other party. If we or comScore require additional documentation to verify ownership of your website or domain name, you agree to make reasonable efforts to accommodate such requests.
+
+Prohibited Uses. By using WordPress.com, you represent and warrant that your Content and conduct do not violate the User Guidelines.
+
+HTTPS. We offer free HTTPS on all WordPress.com websites by default, including those using custom domains, via Let’s Encrypt. By signing up and using a custom domain on WordPress.com, you authorize us to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
+
+Advertisements. We reserve the right to display advertisements on your website unless you have purchased a plan that includes the removal of ads.
+
+Attribution. We reserve the right to display attribution text or links in your website footer or toolbar, attributing WordPress.com or the theme author, for example. Some of these attributions may not be altered or removed. For more details about what these attributions might look like, and under which circumstances (if any) they may be altered or removed, please see our Admin and Action Bars support page.
+
+Friends of WP.com Themes. By activating a partner theme from the Friends of WP.com section of our themes directory, you agree to that partner’s terms of service. You can decline the terms of service at any time by deactivating the partner theme.
+
+Domain Names. We act as a registrar and also work with third party registrars in order to provide domain name services. When you register a domain name on WordPress.com or transfer an existing domain name to WordPress.com, the policies of the respective registry apply, and you become bound by the relevant registrar’s terms and conditions, either the Automattic Domain Name Registration Agreement, Key-Systems GmbH Registration Agreement, Tucows Domain Inc. Registration Agreement, or this Domain Name Registration Agreement, in addition to these Terms. When you register a domain, you’re presented with and agree to the relevant domain registration agreement. If you didn’t make a note of it, you can look it up at any time. Please see this page for instructions on how to determine which domain registration agreement(s) apply to you and your domains. These registrar terms are incorporated by reference into these Terms.
+
+Your use of your domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”). You can read about your rights and responsibilities as a domain name registrant under ICANN’s Registrar Accreditation Agreement and about domain name registration generally.
+
+For details about what happens during the domain expiration process and how we may notify you of domain expiration, please see the Domain Expiration page.
+
+Please refer to the domain pricing and available TLDs page for details about fees associated with domain registrations, renewals, and redemptions.
+
+When you register a domain name, you’re required to provide complete and accurate registration information. In most cases, the contact information you provide as part of the registration process will be used as your administrative contact, technical contact, and billing contact. This contact information can be updated at any time.
+
+If the domain name registration information you’ve provided differs from the WordPress.com account holder’s information, we consider the administrative contact in the domain’s WHOIS records (the contact information provided on WordPress.com as part of the domain registration process) to be the owner of the domain, with full authority to manage the domain.
+
+b. Jetpack
+Jetpack is a plugin that connects your self-hosted WordPress website to WordPress.com’s infrastructure to give you powerful WordPress.com features.
+
+Jetpack Content. You’re fully responsible for the content of any website you own that runs Jetpack (“Jetpack Content”).
+
+Features. Jetpack includes various features, and you can visit Jetpack.com to learn more about them. Some features, like Enhanced Distribution, when activated, will include your Jetpack Content in Firehose. By activating these features, you grant us permission to display your Jetpack Content on WordPress.com for the purpose of distributing and promoting your website. Some features are on by default and others you need to enable manually. You can see which features are active, and activate and deactivate features, on your dashboard.
+
+License. By using Jetpack, you grant us access to your website’s servers for the purpose of backing up and securing your Jetpack Content, and restoring files and database information (which may include access details for multiple servers or accounts for each website that we backup). Jetpack may temporarily install extra software on your website to backup your website and scan it for security vulnerabilities. In order to address security vulnerabilities, we may push an upgrade to your website or access your website to remove malicious code. We may also manually access your site to troubleshoot your support requests or if there’s an emergency.
+
+You agree that we may scan your website, and compile aggregated/anonymized statistics for our internal use to optimize Jetpack’s performance. By submitting Content to Automattic for inclusion on your website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt, and publish the Content solely for the purpose of displaying, distributing, and promoting your website. This license also allows Automattic to make any publicly-posted Content available to third parties selected by Automattic (through Firehose, for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services.
+
+Storage of Information. Certain Jetpack features rely on WordPress.com servers to function, such as those that allow you to send email, publish links, relate posts to each other, or resize images. To take advantage of the performance boosting features of Jetpack, certain information about the Content, settings, and setup of your website are synced with our servers, as described on our What Data Does Jetpack Sync? support page.
+
+Prohibited Uses. Your website and Jetpack Content must comply with Jetpack’s Service Guidelines.
+
+c. VaultPress
+VaultPress is a subscription-based security and backup service for self-hosted WordPress websites.
+
+VaultPress Content. VaultPress will backup your WordPress content (e.g., your WordPress database, plugins, themes, and uploads, as well as some additional files, as described in this introduction to VaultPress) (“VaultPress Content”). You can view the Content that VaultPress backs up via your VaultPress dashboard. You’re fully responsible for your VaultPress Content. It’s your responsibility to ensure that your website’s Content abides by applicable laws and by these Terms. We don’t actively review the VaultPress Content.
+
+Access. If you lose access to your WordPress.com account, you may not be able to access your backed up VaultPress Content.
+
+License. By using VaultPress, you grant us access to your website’s servers for the purpose of backing up and securing your VaultPress Content, and restoring files and database information (which may include access details for multiple servers or accounts for each website that we backup). In order to address security vulnerabilities, we may push an upgrade to your website, or we may access your website to remove malicious code. We may also scan VaultPress Content and compile aggregated/anonymized statistics for our internal use to optimize the performance of the VaultPress service. You also grant us a worldwide, royalty-free, and non-exclusive license to copy and store your VaultPress Content, to the extent necessary to operate the VaultPress service. These Terms don’t give us any rights in your VaultPress Content, beyond those we need to operate VaultPress. You own your VaultPress Content.
+
+Cancellation. If you cancel your subscription to VaultPress, we will queue your backed-up VaultPress Content for deletion.
+
+d. Happy Tools
+Happy Tools is a suite of software and consulting services to help modern and distributed companies manage, grow, and support their business.
+
+Prohibited Uses. You agree not to:
+
+Modify, decompile, reverse engineer or otherwise alter or seek to derive the trade secrets and other inherent intellectual property of Happy Tools; or
+License, sublicense, sell, resell, rent, lease, transfer, assign, distribute, or otherwise commercially exploit or make Happy Tools available to any third party, other than your authorized users.
+e. Ecommerce Services
+There are certain features offered via WooCommerce, WooCommerce Shipping & Tax, WordPress.com, or Jetpack that enable you to sell items (goods, content, services, etc.) or receive payments on your website, such as WooCommerce Payments, Store, the Payments feature, and the Pay with PayPal block (collectively, “Ecommerce Services”). If you use WooCommerce, the WooCommerce Use Terms also apply.
+
+If you use any Ecommerce Services, you represent and warrant that any information you provide about your business, products, and services is accurate, complete, and will be kept current. You agree to promptly notify us via email if you receive any inquiry or action from a government or regulatory agency (such as the Federal Trade Commission or a state Attorney General) relating to your transactions.
+
+Usage of Information. WooCommerce Shipping & Tax may require Automattic’s servers, a connection to our partners, and/or data from your website, to work, as described on our “What Data Does Jetpack Sync?” support page.
+
+Prohibited Uses. You may not use Ecommerce Services for any unlawful purposes, in furtherance of illegal activities, or in a manner that is unfair, deceptive, exposes us or customers to unreasonable risks, or does not disclose important terms of a transaction in advance.
+
+Ecommerce Services cannot be used in or for the benefit of a country, organization, entity, or person embargoed or blocked by any government, including those on sanctions lists identified by the United States Office of Foreign Asset Control (OFAC).
+
+If you’re using Ecommerce Services on WordPress.com, you must not violate our User Guidelines or Store Guidelines. If you’re using Ecommerce Services to sell CBD and other hemp-derived products, you must not violate the WooCommerce Guidelines for CBD and Other Hemp-Derived Products.
+
+We may terminate your access to Ecommerce Services or force refunds (where possible) to your subscribers and customers without notice to you if we determine (in our sole discretion) that your use is in violation of these Terms, or if a payment processor or regulatory authority directs us to do so.
+
+Third Party Services. You may choose to set up and/or use third party services, such as Stripe or PayPal to collect payment, TaxJar to calculate Taxes, or EasyPost to manage shipping. Please note that WooCommerce Payments is powered by Stripe. If you use WooCommerce Payments or any third-party services, some of your — and your customers’ — data may be submitted directly to or passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply. For example, if you use Payments, you must create or use an existing Stripe account to manage payments, and by using Stripe, you agree to their terms and policies. Please note that third party services may also charge you fees to use or access their services, for example, as Stripe does for Payments.
+
+We are not involved in these relationships, but may facilitate transactions or communication. For example, we may, on your behalf, receive notices or forms relating to your Stripe account.
+
+Please note that some of these third party services (like TaxJar if you use Store) may be enabled by default, but you may disable them before your store is set up. If you do not want to use these third party services, please disable them.
+
+More on WooCommerce Payments Specifically. As part of WooCommerce Payments, we may use certain third parties to fulfill our obligations to you, including integrating with payment processing third parties. You may be subject to terms and conditions with those third parties and agree to comply with those terms and conditions. In particular, you may not use WooCommerce Payments to enable any person (including you) to benefit from restricted businesses or activities. If we use another third party to fulfill these services, you authorize us to share your payment method information with an alternative third-party payment processor that is or will be integrated into WooCommerce Payments.
+
+We may refuse, condition, or suspend any transaction or account (including your use of WooCommerce Payments) if we believe you have violated these Terms or if we believe your activities or transactions expose you, us, or others to unacceptable risks, as determined by us in our sole discretion.
+
+You authorize us to share data relating to WooCommerce Payments with the applicable payment processing third party for their use in accordance with their privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.
+
+Fees and Negative Balances. In some cases, you pay us fees relating to the Ecommerce Services you use. For example, for the Payments feature, you pay us a percentage (which depends on your plan) of the revenue your website generates through Payments; you authorize Stripe to direct payment of that percentage to us. As another example, if you use WooCommerce Payments, there are transaction fees and dispute fees. Please note that we have no obligation to reimburse or refund these revenue-based fees when you issue refunds to your subscribers or customers.
+
+If you have a negative account balance (for example because of fraud, chargebacks, or other operational issues) or we are obligated to pay or collect any fees relating to your ecommerce activities or your use of Ecommerce Services, you are responsible for those losses and fees, and we may collect payment for those losses and fees.
+
+Tax Calculations. You are responsible for payment of all applicable Taxes relating to your ecommerce activities and your use of Ecommerce Services. You must collect, report, and/or pay the correct amounts to the appropriate authorities if applicable, and if needed, inform your customers about any Taxes they may be required to pay and issue appropriate invoices. While some Ecommerce Services (for example, tax calculations may be provided by TaxJar, if you are using Store) allow you to include sales taxes or Value Added Taxes in transactions, you should not rely solely on these features. While our goal is to keep our documents and tools up-to-date, tax laws change rapidly, and we do not guarantee that tax calculations you receive through or in connection with our Services are complete and accurate. Tax laws also differ from jurisdiction to jurisdiction and may be subject to different interpretations by different authorities. We recommend that you consult with a tax professional for your specific tax situation when assessing the correct tax rates you should charge.
+
+If we are obligated to pay or collect Taxes on your ecommerce activities or your use of Ecommerce Services, you are responsible for such Taxes, and we may collect payment for such Taxes.
+
+Shipping Services. Shipping labels are provided by EasyPost and allow you to take advantage of real-time shipping rates to purchase postage and print shipping labels from certain mailing services, such as UPS, USPS, DHL, and Canada Post. We act only as an intermediary between you and these third parties; we are not involved in any way with your product or its shipment. We also do not warrant that the results you obtain from the use of these services (rates and labels, for example) will be accurate or reliable.
+
+You are solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and those of the relevant mailing service. For example:
+
+If you use USPS postage, you need to comply with their shipping restrictions and mailing standards, among others.
+When using DHL’s services, you are responsible for compliance with all applicable DHL rules and terms, such as the DHL Express Terms and Conditions of Carriage.
+In addition, you are solely responsible for customs charges, import taxes or duties, or any other charges related to your shipments. If any charges are assessed against us as a result of your use of the shipping services, you will reimburse us for the full amount within 7 days.
+
+Please note that in some cases, you may need to pay fees to the carrier directly, like if you use UPS shipping labels. In other cases, you authorize us to charge you for the fees associated with each shipping label you create. Each fee will be charged separately to the payment methods you have provided in your WordPress.com account, which you can view and manage as described on the Payments Methods support page. If you have multiple payment methods, you can select which should be used for the shipping label service. If we are unable to collect payment from you for these fees, you will be responsible for payment within 7 days; please contact us to remit payment.
+
+Refunds for unused shipping labels must be requested in your store’s wp-admin within 30 days of creating the label. Please note that depending on your bank and the third party involved, it may take up to 45 days for your refund to issue. If you haven’t received your refund within this time frame, please contact us.
+
+You may not transfer or sell postage and/or shipping labels to a third party.
+
+Your Responsibilities. You may only use Ecommerce Services for legitimate transactions with your customers. You are solely responsible for all of your ecommerce activities, including managing subscriptions for your website, managing your store, all applicable taxes and fees, compliance with the Payment Card Industry Data Security Standard (PCI DSS), and compliance with any applicable laws (such as those relating to automatic renewal). Among other things, this means that:
+
+We are not involved in your relationships or transactions with any customer or potential customer.
+You should use your best judgment. For example, you may not want to accept check payments if you’re not comfortable sharing your mailing address with customers.
+You must accurately communicate transactions, set expectations appropriately, and fulfill all promises, representations, or warranties you’ve made. For example, if you’d like to provide your visitors or subscribers with a new post each week for contributing to your site via Payments, but aren’t sure if you’ll be able to post that frequently, you should make it clear that it’s a goal and not a guarantee.
+You are responsible for the nature and quality of the products or services you provide, and for delivery, support, refunds, returns, and any other ancillary services you provide to your customers.
+You are responsible for resolving all support questions, comments, and complaints, including chargebacks and pricing questions. You must provide contact information so that customers may contact you with questions or complaints.
+You will maintain a fair return, refund, cancellation, or adjustment policy, and clearly explain how customers can request a refund.
+You are responsible for acquiring appropriate consent to submit charges through WooCommerce Payments on your customers’ behalf, providing confirmation or receipts to customers for each charge, verifying customers’ identities, and determining a customer’s eligibility and authority to complete transactions.
+If you believe that a transaction is erroneous or suspicious, you should research the transaction and, if necessary, contact your customer before fulfilling or completing the transaction.
+If you have transactions with individuals (i.e. consumers), you specifically agree to provide consumers disclosures required by law, and to not engage in unfair, deceptive, or abusive acts or practices (“UDAAP”).
+You are financially liable for disputes (including chargebacks), refunds, reversals, or fines that arise from your use of Ecommerce Services.
+8. Copyright Infringement and DMCA Policy
+As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe that material located on or associated with an Automattic product or service violates your copyright, please notify us in accordance with Automattic’s Digital Millennium Copyright Act (“DMCA”) Policy. We will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. We will terminate a visitor’s access to and use of the website if, under appropriate circumstances, the visitor is determined to be a repeat infringer of the copyrights or other intellectual property rights of Automattic or others. In the case of such termination, we will have no obligation to provide a refund of any amounts previously paid to us.
+
+9. Intellectual Property
+The Agreement does not transfer from Automattic to you any Automattic or third party intellectual property, and all right, title, and interest in and to such property will remain (as between the parties) solely with Automattic. Automattic, WordPress, WordPress.com, the WordPress.com logo, and all other trademarks, service marks, graphics, and logos used in connection with WordPress.com or our Services, are trademarks or registered trademarks of Automattic or Automattic’s licensors. Other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Your use of our Services grants you no right or license to reproduce or otherwise use any Automattic or third party trademarks.
+
+10. Third Party Services
+In using the Services, you may enable or use services, products, software (like themes or plugins), embeds, or applications developed by a third party or yourself (“Third Party Services”) on your website.
+
+If you use any Third Party Services, you understand that:
+
+Third Party Services are not vetted, endorsed, or controlled by Automattic.
+Any use of a Third Party Service is at your own risk, and we shall not be responsible or liable to anyone for Third Party Services.
+Your use is solely between you and the respective third party (“Third Party”) and will be governed by the Third Party’s terms and policies. It is your responsibility to review the Third Party’s terms and policies before using a Third Party Service.
+Some Third Party Services may request or require access to your (yours, your visitors’, or customers’) data, for example, via a pixel or cookie. If you use the Third Party Service or grant access, your data will be handled in accordance with the Third Party’s privacy policy and practices. We do not have control over how a Third Party Service may use your data. You should carefully review Third Party Services’ data collection, retention, and use policies and practices before enabling Third Party Services.
+Third Party Services may not work appropriately with your website, and we may not be able to provide support for issues caused by any Third Party Services.
+If you have questions or concerns about how a Third Party Service operates, or need support, please contact the Third Party directly.
+In rare cases, we may at our discretion, suspend, disable, or remove Third Party Services from your account or website.
+
+11. G Suite
+If you purchase a G Suite subscription, this section applies. G Suite is provided by Google, and your use of G Suite is subject to Google’s Terms of Use for the services, which you’ll accept prior to using G Suite for the first time. Automattic is an authorized reseller of G Suite, but makes no warranties about the services provided by Google, and disclaims Google’s liability for any damages arising from our distribution and resale of their services. Google will provide technical support for its services, per its Technical Support Services Guidelines. If you’re a business and purchase G Suite for your WordPress.com website, you represent that you have 749 or fewer staff members.
+
+12. Changes
+We are constantly updating our Services and that means sometimes we have to change the legal terms under which our Services are offered. These Terms may only be modified by a written amendment signed by an authorized executive of Automattic, or by the posting by Automattic of a revised version. If we make changes that are material, we will let you know by posting on one of our blogs, or by sending you an email or other communication before the changes take effect. The notice will designate a reasonable period of time after which the new terms will take effect. If you disagree with our changes, then you should stop using our Services within the designated notice period, or once the changes become effective. Your continued use of our Services will be subject to the new terms. However, any dispute that arose before the changes shall be governed by the Terms (including the binding individual arbitration clause) that were in place when the dispute arose.
+
+13. Termination
+We may terminate your access to all or any part of our Services at any time, with or without cause, with or without notice, effective immediately. We have the right (though not the obligation) to, in our sole discretion, (i) reclaim your username or website’s URL due to prolonged inactivity, (ii) refuse or remove any content that, in our reasonable opinion, violates any Automattic policy or is in any way harmful or objectionable, (iii) ask you to make some adjustments, restrict the resources your website uses, or terminate your Services, if we believe your website’s storage or bandwidth usage is out of hand and burdens our systems (which is rare and typically only occurs when a website is used for file sharing or storage), or (iv) terminate or deny access to and use of any of our Services to any individual or entity for any reason. We will have no obligation to provide a refund of any amounts previously paid.
+
+If you wish to terminate the Agreement or your WordPress.com account, you may simply discontinue using our Services, or, if you are using a paid service, you may cancel at any time, subject to the Fees, Payment, and Renewal section in these Terms.
+
+All provisions of the Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+
+14. Disclaimer of Warranties
+Our Services are provided “as is.” Automattic and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Automattic, nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. If you’re actually reading this, here’s a treat. You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.
+
+15. Jurisdiction and Applicable Law.
+Except to the extent any applicable law provides otherwise, the Agreement and any access to or use of our Services will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. The proper venue for any disputes arising out of or relating to the Agreement and any access to or use of our Services will be the state and federal courts located in United States.
+
+16. Arbitration Agreement
+Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under the Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. (“JAMS”) by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in United States, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce the Agreement shall be entitled to costs and attorneys’ fees.
+
+17. Limitation of Liability
+In no event will Automattic, or its suppliers, partners, or licensors, be liable with respect to any subject matter of the Agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed $50 or the fees paid by you to Automattic under the Agreement during the twelve (12) month period prior to the cause of action, whichever is greater. Automattic shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+
+18. Indemnification
+You agree to indemnify and hold harmless Automattic, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all losses, liabilities, demands, damages, costs, claims, and expenses, including attorneys’ fees, arising out of or related to your use of our Services, including but not limited to your violation of the Agreement or any agreement with a provider of third-party services used in connection with the Services, Content that you post, and any ecommerce activities conducted through your or another user’s website.
+
+19. US Economic Sanctions
+You expressly represent and warrant that your use of our Services and/or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and we reserve the right to terminate accounts or access of those in the event of a breach of this condition.
+
+20. Data Processing Agreement
+If you need a Data Processing Agreement with us for the GDPR requirements that apply to us as a data processor for your website, please follow these instructions.
+
+21. Translation
+These Terms were originally written in English (US). We may translate these terms into other languages. In the event of a conflict between a translated version of these Terms and the English version, the English version will control.
+
+22. Miscellaneous
+The Agreement constitutes the entire agreement between Automattic and you concerning the subject matter hereof. If any part of the Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of the Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof.
+
+You may assign your rights under the Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Automattic may assign its rights under the Agreement without condition. The Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
+
+### DOCUMENT/ Data Processing Addendum / https://privacydotblog.files.wordpress.com/2018/05/dpa.pdf ###
+Data Processing Addendum
+In providing the services described in our Terms of Service [https://en.wordpress.com/tos/]1 (“Terms of Service” or “Agreement”), we (the folks at Automattic) process personal data on behalf of the users of those services (“Users”), for which we act as the processor under applicable data protection laws and our users act as the controllers. That personal data is referred to as “Controller Data,” as further described below.
+This Data Processing Addendum (“Addendum”) to our Terms of Service explains our data protection obligations and rights as a processor of the Controller Data, as well as the data protection obligations and rights of our Users as the controllers. Except in respect of the data protection obligations and rights of the parties set out in this Addendum, the provisions of the Agreement shall remain unchanged and shall continue in force.
+For Users who reside in the United States or Brazil, this Addendum is between the User and Automattic Inc. (US), and for all other Users, this Addendum is between the User and Aut O’Mattic Ltd. (Ireland) (each, “Automattic” or “we”).
+1. Role of the Parties
+Automattic and the User agree that with regard to the processing of the Controller Data, Automattic is the processor and the User is the controller.
+
+2.
+Scope of the Processing
+2.1. Automattic shall process the Controller Data on behalf of and in accordance with the instructions of the User. If Automattic is legally required to process Controller Data for another purpose, Automattic will inform the User of that legal requirement unless the law prohibits Automattic from doing so.
+2.2. The processing of Controller Data by Automattic occurs for the purpose of providing Automattic’s website creation and management services to our Users, and Controller Data is comprised exclusively of personal data relating to data subjects who use a User’s website, which may include a User’s customers, subscribers, followers, employees or other administrative users. Controller Data does not include content or personal data provided by any of the foregoing persons to Automattic in that person’s capacity as a user of WordPress.com or another service provided directly to the person by Automattic.
+ 1
+If you use our Polldaddy service, the Polldaddy Terms and Conditions at https://polldaddy.com/terms/ also apply. If you use Akismet, the Akismet Terms of Use at https://akismet.com/tos/ also apply. And if you use WooCommerce, the WooCommerce Use Terms at https://woocommerce.com/terms-conditions also apply.
+
+The type of Controller Data processed by Automattic depends on the services and features that the User decides to implement for the User’s website, and may include username and credentials; name; contact information, such as e-mail address, physical address, and telephone number; billing information, such as credit card data and billing address; website usage information, IP address, and other technical data such as browser type, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information; approximate location data (from IP address); information regarding interactions with the website, such as “comments,” poll responses, “ratings,” and “likes”; and other information directly provided to the User’s website by a visitor to the website, such as contact form submissions.
+The duration of processing corresponds to the duration of the Agreement, which is described in the Terms of Service.
+2.3. The instructions of the User are in principle conclusively stipulated and documented in the provisions of this Addendum. Individual instructions which deviate from the stipulations of this Addendum or which impose additional requirements shall require Automattic’s consent.
+2.4. The User is responsible for the lawfulness of the processing of the Controller Data. In case third parties assert a claim against Automattic based on the unlawfulness of processing Controller Data, the User shall release Automattic of any and all such claims.
+2.5. Automattic reserves the right to anonymize the Controller Data or to aggregate data in a way which does not permit the identification of a natural person, as well as the right to use the data in this form for purposes of designing, further developing, optimizing, and providing its services to the User as well as to other users of the service. The parties agree that the Controller Data rendered anonymous or aggregated as above-mentioned are no longer classified as Controller Data in terms of this Addendum.
+2.6. Automattic has the right to collect, use, and disclose any WordPress.com User Data in accordance with the Automattic privacy policy, which is available at https://automattic.com/privacy/. “WordPress.com User Data” means any information collected by Automattic from or about a visitor to User’s website (including any contributor or editor), while that visitor is logged into a WordPress.com account. The Parties agree that Automattic’s processing of WordPress.com User Data is independent of the services that Automattic provides to User for the User’s website, and is not subject to this Addendum.
+2.7. The parties further agree that Automattic’s processing of data to deliver interest- based ads to the User’s website, when such ads are enabled for free WordPress.com websites or on a website through WordAds or Jetpack Ads, is not subject to this Addendum.
+Page 2 of 8
+
+3. Automattic’s Personnel Requirements
+3.1. Automattic shall require all personnel engaged in the processing of Controller Data to treat Controller Data as confidential.
+3.2. Automattic shall ensure that natural persons acting under Automattic’s authority who have access to Controller Data shall process such data only on Automattic’s instructions.
+4. Security of Processing
+4.1. Automattic takes all appropriate technical and organisational measures, taking into account the state of the art, the implementation costs, and the nature, the scope, circumstances, and purposes of the processing of Controller Data, as well as the different likelihood and severity of the risk to the rights and freedoms of the data subject, in order to ensure a level of protection appropriate to the risk of Controller Data.
+4.2. In particular, Automattic shall establish prior to the beginning of the processing of Controller Data and maintain throughout the term the technical and organisational measures as specified in Annex 1 to this Addendum and ensure that the processing of Controller Data is carried out in accordance with those measures.
+4.3. Automattic shall have the right to modify technical and organisational measures during the term of the Agreement, as long as they continue to comply with the statutory requirements.
+5. Further processors
+5.1. The User hereby authorizes Automattic to engage further processors in a general manner in order to provide its services to the User. For Users whose Agreement is with Aut O’Mattic Ltd. (Ireland), the further processors currently engaged by Aut O’Mattic Ltd. (Ireland) include its related companies Automattic Inc. (US) and Bubblestorm Management Proprietary Limited (WooCommerce). The User may request a complete list of further processors from Automattic. In general, no authorization is required for contractual relationships with service providers that are not actively processing Controller Data but are only concerned with the examination or maintenance of data processing procedures or systems by third parties or that involve other additional services, even if access to Controller Data cannot be excluded, as long as Automattic takes reasonable steps to protect the confidentiality of the Controller Data.
+Page 3 of 8
+
+5.2. Automattic shall inform the User of any intended changes concerning the addition or replacement of further processors. The User is entitled to object to any intended change. An objection may only be raised by the User for important reasons which have to be proven to Automattic. If the User objects, Automattic is prohibited from making the intended change. Insofar as the User does not object within 14 days after receipt of the notification, the User’s right to object to the corresponding engagement lapses. If the User objects, Automattic is entitled to terminate the Agreement on reasonable notice.
+5.3. The agreement between Automattic and further processors must impose the same obligations on the latter as those incumbent upon Automattic under this Addendum. The parties agree that this requirement is fulfilled if the contract has a level of protection corresponding to this Addendum and if the obligations laid down in applicable data protection laws are imposed on the further processor. In case Automattic engages a further processor outside of the EU, the User hereby authorises Automattic to conclude an agreement with another processor on behalf of the User based on the standard contractual clauses for the transfer of personal data to processors in third countries pursuant to the decision of the European Commission of February 5, 2010 (“SCC”) and to specify the content of the SCC in accordance with this Addendum. The User hereby authorizes and instructs Automattic to exercise the User’s rights under any SCC towards the further processors on its behalf in accordance with the instructions in this Addendum. Notwithstanding, Automattic may safeguard an adequate level of protection in a third country also by other means including binding corporate rules and other appropriate safeguards.
+5.4. Automattic shall monitor the technical and organisational measures taken by the further processors.
+6. Support obligations of Automattic
+6.1. Automattic shall to a reasonable extent support the User with technical and organisational measures in fulfilling the User’s obligation to respond to requests for exercising data subjects’ rights.
+6.2. Automattic shall notify the User promptly after becoming aware of any breach of the security of Controller Data in terms of Art. 4 no. 12 GDPR, in particular any incidents that lead to the destruction, loss, alteration, or unauthorized disclosure of or access to Controller Data. If possible, the notification shall contain a description of:
+– the nature of the breach of Controller Data, indicating, as far as possible, the categories and the approximate number of affected data subjects, the categories and the approximate number of affected personal data sets;
+– the likely consequences of the breach of Controller Data;
+Page 4 of 8
+
+– the measures taken or proposed by Automattic to remedy the breach of Controller Data and, where appropriate, measures to mitigate their potential adverse effects.
+6.3. In the event that the User is obligated to inform the supervisory authorities and/or data subjects in accordance with Art. 33, 34 of GDPR, Automattic shall, at the request of the User, assist the User to comply with these obligations.
+7. Deletion and return of Controller Data
+Upon termination of the Terms of Service Automattic shall delete all Controller Data, unless
+Automattic is obligated by law to further store Controller Data. 8. Evidence and audits
+8.1. Automattic shall ensure that the processing of Controller Data is consistent with this Addendum.
+8.2. Automattic shall document the implementations of the obligations under this Addendum in an appropriate manner and provide the User with appropriate evidence at the latter’s reasonable request.
+8.3. At the User’s reasonable request, Automattic shall demonstrate compliance with the obligations under this Addendum by submitting an opinion or report from an independent authority (e.g. an auditor) or a suitable certification by IT security or data protection audit relating to an inspection carried out in relation to Automattic’s data processing systems (“audit report”).
+
+Annex 1
+Automattic maintains commercially reasonable safeguards designed to protect Controller Data from unauthorised access, use and disclosure. Automattic currently abides by the security standards below. Automattic may update or modify these security standards from time to time, provided that such updates and modifications will not result in a degradation of the overall security of Automattic’s services during the term of the User’s Agreement with Automattic.
+1.
+Information Security Organisational Measures
+  2.
+Physical Security
+3.
+Automattic limits access to facilities where information systems that process Controller Data are located to identified, authorized individuals via measures which may include identity cards, security locks, key restrictions, logging of access, security alarm systems, and surveillance cameras.
+Access Controls
+Automattic runs network firewalls and host based firewalls (if applicable) and has real time
+Automattic has a dedicated security team committed to protecting Controller Data which
+  Automattic performs regular internal security testing and engages with third parties to
+works with our product teams to address potential security risks.
+perform application and network vulnerability assessments.
+  Automattic requires all employees with access to Controller Data to observe the
+ confidentiality of that data, and trains employees on confidentiality and security.
+  Automattic uses commercially reasonable measures for software, services, and
+ application development, including routine dynamic testing and training personnel on
+ coding techniques
+that promote security.
+ Automattic’s servers are co-located in data centers designed to meet the regulatory
+ demands of multiple industries. All servers are housed in dedicated cages to separate our
+ equipment from other tenants.
+ Automattic’s origin servers currently meet the International Organization of
+ Standardization (ISO), International Electrotechnical Commission (IEC) 27001
+ certification, Standards for Attestation Engagements (SSAE) No. 16 (SOC1) and SOC2
+ Type 2, and ongoing surveillance reviews.
+ processes designed to provide alerts for unauthorized access attempts. Automattic
+ also has commercially reasonable security measures in place to help protect against
+ denial of service (DDos) attacks.
+ Automattic maintains commercially reasonable access control procedures designed to
+ limit access
+to Controller Data, including processes addressing password and account
+Page 7 of 8
+4.
+management for employees with access to Controller Data, virus scanning, and logging access to Controller Data.
+Automattic encrypts (serve over SSL) all WordPress.com websites, including custom domains hosted on WordPress.com.
+Data Backup and Recovery
+Automattic uses industry standard systems to help protect against loss of Contoller Data due to power supply failure or line interference, which may include fire protection and warning measures, emergency power generators, and data recovery procedures.

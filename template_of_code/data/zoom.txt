@@ -1,0 +1,1297 @@
+### DOCUMENT/ Zoom Privacy Statement / https://zoom.us/privacy#_Toc44414836 ###
+Zoom Privacy Statement
+Zoom Video Communications, Inc., and its subsidiaries, affiliates and parent companies (“Zoom”, “we”, “us” or “our”) is committed to protecting your privacy and ensuring you have a positive experience when you use our video conferencing and communication services (the “Services”), visit our webpages, interact with us on social media, or attend a Zoom sponsored event offline or online.
+
+This Statement explains Zoom’s practices when we process your “personal data,” which is information that relates to an identified or identifiable individual. To “process” or “processing” means any use of personal data including, transferring, collecting, recording, storing, using, analyzing, combining, disclosing or deleting it.
+
+This Statement may be updated periodically. If we plan to make any material changes to the way we handle personal data as described here, we will notify you by posting an updated version of this Statement on our website. Changes to this Statement are summarized in our Change Log. We may supplement this Statement with “just-in-time” notices, or other disclosures contained within or in connection with the provision of the Services, which may describe in more detail our data collection, use and sharing practices. Unless we say otherwise, such supplemental privacy statements will govern how we may process the information in the context of the specific product or service.
+
+What this Statement Covers
+This Statement applies to the personal data we process as a data controller, that is, as the party that determines what data to collect and why. You provide some of this data directly, and we get some of it by collecting data about your interactions, use, and experiences with the Services. The data we collect depends on the context of your interactions with Zoom and the choices you make, including the products and features you use. We also obtain data about you from third parties.
+
+When you use Zoom’s Services through a Zoom account holder, such as your employer or school, the processing of your personal data is determined and administered by that account holder under its privacy policies. If you have questions about how and why your personal data is collected, the legal basis for processing, or requests regarding your personal data, please refer to the account holder’s privacy statement and direct your inquiries to the account holder or its administrator.
+
+Supplementary Information
+Being Considered for a Job at Zoom
+Please see our Candidate Privacy Statement for supplemental information on the personal data we process in connection with our recruiting efforts.
+
+Your California Privacy Rights
+If you are a resident of the State of California, this Privacy Statement is supplemented by our California Privacy Rights Statement that explains your California privacy rights and how you can exercise these rights.
+
+Zoom for Government
+The following section on Zoom for Government (ZfG) supplements this Privacy Statement. Where terms differ, this section takes precedence.
+
+ZfG is hosted in the United States in a separate cloud authorized by FedRAMP and is accessible by way of a separate website (www.zoomgov.com).  If you use the ZfG service:
+
+All data collected about you while using the ZfG service or the ZfG website is stored in the United States of America;
+Your data is only processed by Zoom in accordance with FedRAMP “moderate impact level” control standards;
+The sections in this Statement related to data handling outside the United States do not apply to the personal data collected by Zoom about you in connection with your use of the ZfG service or ZfG website;
+With regard to the Zoom App Marketplace, we do not allow third parties to use any personal data obtained from us for their own purposes, unless it is with your consent (e.g. when you download an app from the Zoom for Government Marketplace: https://marketplace.zoomgov.com/).
+Zoom and Children
+Zoom does not knowingly allow children under the age of 16 to sign up for their own accounts. Primary and secondary schools or districts register to use Zoom’s video communications platform through a “K-12/Primary and Secondary Account.” Please see Zoom’s K-12/Primary and Secondary Privacy Statement for additional information. Where terms differ, as with the limitations on advertising in K-12 Accounts, the K-12/Primary and Secondary Privacy Statement takes precedence.
+
+Zoom App Marketplace & Other Sites, Mobile Applications and Services
+This Privacy Statement does not apply to any third-party applications or software that you elect to add to the Services (“Third Party Services”), or any other third-party websites, mobile applications, or online products, services or businesses you may access from the Services. When you download an App from the Zoom App Marketplace, for example, the app publisher provides its own terms of service, privacy policy and support information. Please review that information carefully.
+
+Personal Data We Process & How We Use It
+The table below describes Zoom’s processing of personal data as a data controller. The table does not cover customer content, including any personal data about you that may be contained in customer content—such as meeting or call recordings or transcripts—because the customer (the Zoom account holder), rather than Zoom, controls how customer content is processed. Any questions about the processing of customer content should be addressed to the customer directly.
+
+Personal Data Processing
+
+Types of Personal Data
+
+How We Get It
+
+What we do with it
+
+Legal Basis
+
+[Applies only in the EEA, and only within the meaning of the EU’s General Data Protection Regulation (GDPR)]
+
+Account User Data
+
+Information we collect when you register for a free Zoom Account, such as:
+
+Date of birth (for age-verification purposes only, Zoom does not retain or use this information for any other purpose)
+First Name
+Last Name
+Phone (optional)
+Email
+Language preference
+User IDs and Password (if Single Sign On is not used)
+Profile Picture for avatar (optional)
+Department (optional)
+Meeting schedule
+From the free Zoom Account registrant
+
+Enroll you in the Services
+Display your user avatar to meeting participants.
+Provide you with support
+Send marketing communications, where permitted
+Provide announcements related to software updates, upgrades, and system enhancements
+Run opt-in contests, sweepstakes or other promotional activities
+Provide you with Zoom event information and offers from us or Zoom event co-sponsors
+Contract
+Legitimate Interests
+Paid Account Holder Data
+
+Information we collect for a Paid Zoom Account, such as:
+
+Zoom Account User Data (listed above)
+Billing name
+Billing phone
+Billing address
+Payment method
+Company Name (if applicable)
+Employee count (if applicable)
+From the Paid Zoom Account registrant
+
+Create a Zoom Account
+Provide Zoom services
+Respond to requests for support
+Send marketing communications, where permitted
+Provide announcements related to software updates, upgrades, and system enhancements
+Contract
+Legitimate Interests
+Operation Data
+
+Technical information from Zoom’s software or systems hosting the Services, and from the systems, applications and devices that are used to access the Services, such as:
+
+Configuration Data: information about the deployment of Zoom Services and related environment information.
+Meeting metadata: metrics about when and how meetings were conducted.
+Feature Usage Data: information about if and how Service features were used.
+Performance Data: metrics related to how the Services perform.
+Service Logs: information on system events and states.
+Automatically through use of the Services
+
+Facilitate the delivery and optimization of the Services
+Monitor performance of our data centers and networks
+Provide Account dashboards and reports
+Provide support
+Maintain the security of our infrastructure and Services
+Administer our disaster recovery plans and policies
+Detect, investigate and stop fraudulent, harmful, unauthorized or illegal activity (“fraud and abuse detection”)
+Confirm compliance with contractual obligations
+Comply with legal obligations
+Create anonymized and/or aggregated data to improve our products and for other lawful business purposes
+Contract
+Legitimate interests
+Protect vital interests
+Legal compliance
+Support and Feedback Data, such as:
+
+Support Data: information that has been provided by a customer to Zoom or is otherwise processed in connection with support activities such as support chats or calls (including recordings of those calls) and Service support tickets.
+Survey Data: feedback from in-service Survey data relates to a customer’s Net Provider Score (“NPS”) and other similar in-Service surveys or feedback in relation to use of the relevant Services.
+Directly from a Zoom user
+
+Respond to requests for support
+Conduct anonymized, aggregated analytics to improve performance
+Contract
+Legitimate interests
+Approximate Location (e.g., nearest city or town)
+
+Automatically through your use of the Services
+
+Connect you to the nearest data center
+Comply with privacy and other laws – for example, so we can provide you with the right notices for your area
+Suggest choices such as language preferences
+Monitor performance of our data centers and networks
+Route support requests
+Contract
+Legitimate interests
+Legal obligation
+Persistent Identifiers on Marketing Pages
+
+Data collected through the use of cookies and pixels from tools (such as Google Analytics and
+
+Google Ads), such as:
+
+Internet protocol (IP) addresses,
+Browser type,
+Internet service provider (ISP),
+Referrer URL,
+Exit pages, the files viewed on our marketing sites (e.g., HTML pages, graphics, etc.),
+Operating system, and
+Date/time stamp
+Approximate location (e.g., nearest city or town) Please see our Cookie Policy for more detail.
+Depending on how you choose to configure our cookie preference tool, we may collect this info automatically from our Marketing Pages and other online services
+
+Analyze how our website is used so we can improve your experience
+Complete orders and remember your settings
+Identifying language preferences
+Evaluate the success of our Marketing campaigns
+Marketing, including facilitating tailoring of advertising you see when you are on other online services
+Consent
+Legitimate Interests
+Persistent Identifiers on Product Pages
+
+These are third-party cookies that are necessary for technical support and to deliver the service. Please see our Cookie Policy for more detail.
+
+Automatically when you use the Services from your web browser
+
+Provide the Service
+Provide Technical Support
+Contract
+Legitimate Interests
+Marketing Data
+
+Data enrichment services (only in connection with Marketing Pages)
+Email marketing lists (where permitted under applicable law)
+From Third Parties and public sources
+
+Marketing activities
+Sending marketing communications
+Providing tailored information about our Services
+Legitimate Interests
+Zoom sponsored or co-sponsored Event Attendee information
+
+Event title & details
+Name
+Email address
+Employer (if applicable)
+Job Title (if applicable)
+From you or the party responsible for registering you for a Zoom sponsored event
+
+Communicate with you about the event
+Run opt-in contests, sweepstakes or other promotional activities
+Provide you with information and offers from us or event co-sponsors
+Contract
+Consent
+Legitimate interests
+Customer Content
+Customer content is the “in-session” information you give us directly through your use of the Services, such as meeting recordings, files, chat logs, and transcripts, and any other information uploaded while using the Services. Zoom uses customer content only in connection with providing the Services – we do not monitor, sell or use customer content for any other purposes.
+
+We do not control the actions of anyone with whom you or any other Service user may choose to share information. Therefore, we cannot and do not guarantee that any customer content you or any user provides to the Services will not be viewed by unauthorized persons. Nor can Zoom control the information a user may choose to share during a meeting. Although Zoom account holders can set privacy options that limit access to certain areas of the Services, please be aware that no security measures are perfect or impenetrable and that we are not responsible for circumvention of any security measures contained on the Services. You should be cautious about the access you provide to others when using the Services, and the information you choose to share when using the Services.
+
+Zoom’s Product and Marketing Pages
+Zoom generally processes personal data in two different manners using its websites and apps. First, Zoom processes personal data it obtains from the webpages or mobile application interfaces that Zoom uses to provide its Services, such as the landing page a user sees after clicking on a link to join a meeting (Zoom’s “Product Pages”). Product Pages also include webpages and links that are only accessible to a Zoom account holder after they login to their Zoom account. Product Pages serve only third-party cookies that are necessary for technical support and to deliver the service. There are no interest-based advertising cookies on Product Pages.
+
+Second, Zoom processes personal data obtained from its webpages that are accessible without logging in to a Zoom account (Zoom’s “Marketing Pages”). Marketing Pages, such as www.zoom.us, are designed to encourage sales of Zoom subscriptions. They tell you about our product, plans, and pricing, features, and other related information.
+
+Like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies on our Marketing Pages. This is called interest-based advertising. You can get more information and opt-out of the use of cookies on our Marketing Pages by clicking the Do Not Sell My Personal Information link in the footer of this webpage. You will need to set your preferences from each device and each web browser from which you wish to opt-out. This feature uses a cookie to remember your preference, so if you clear all cookies from your browser, you will need to re-set your settings. For more information regarding cookies or similar technologies, please review our Cookie Policy.
+
+Our Referral Program
+
+You can use our referral program to tell others about Zoom in certain jurisdictions (where permitted under applicable law). When you do, you will be asked to provide that person’s name and email so that we can contact them. We rely on you to make sure the person you are referring to us has agreed to be contacted by us. We will send a one-time email inviting them to visit a Marketing Page. Unless that person says they want to hear more, we will only use their name and email address to send this one-time email and to maintain an activity log of our referral program where permitted by law.
+
+How We Share Personal Data
+We only share personal data with companies, organizations or individuals outside of Zoom when one of the following circumstances applies:
+
+With Consent
+We may share personal data with companies, organizations, individuals outside of Zoom and others when we have consent from an individual (as applicable).
+
+With Zoom Partners
+If Zoom received your personal data from a third-party partner and you become a Customer, Zoom may disclose select personal data to that partner or their designee for the purpose of the partnership agreement; for example, to reward a referral partner from a co-sponsored event. Zoom’s partners have contractually agreed to comply with appropriate privacy and security obligations.
+
+For corporate transactions
+We may share personal data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Zoom’s business or assets, including in connection with bankruptcy or similar proceedings.
+
+For business purposes
+We provide personal data to vendors and services providers to help us provide the Services and for Zoom’s business purposes. Examples include public cloud storage vendors, carriers, payment processor, and service provider for managing customer support tickets. Zoom contractually prohibits such vendors from using the personal data for any reason other than to provide the contracted-for services and Zoom contractually requires its vendors to comply with all appropriate privacy and security requirements.
+
+For legal reasons
+We share personal data with companies, organizations or individuals outside of Zoom if we believe that access, use, preservation or disclosure of the information is reasonably necessary to:
+
+meet any applicable law or respond to valid legal process, including from law enforcement or other government agencies.
+enforce applicable Terms of Service, including investigation of potential violations.
+detect, prevent, or otherwise address fraud, security or technical issues.
+protect against harm to the rights, property or safety of Zoom, our users or the public as required or permitted by law, including to help prevent the loss of life or serious injury of anyone.
+
+For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Guidelines for Government Requests.
+
+Data Subject Privacy Rights and Choices
+Right to Correct or Update Your Information
+If you would like to correct or update information that you have provided to us, please logon to www.zoom.us and update your profile.
+
+Marketing Communications
+You may receive marketing email communications from us where permissible. If you would like to stop receiving these communications, you can update your preferences by using the “Unsubscribe” link found in those emails.
+
+European Privacy Rights
+If you reside in the European Economic Area, you may have the right to exercise certain privacy rights available to you under applicable laws. We will process your request in accordance with applicable data protection laws. We may need to retain certain information for record-keeping purposes or to complete transactions that you began prior to requesting any deletion.
+
+Right not to provide consent or to withdraw consent. We may seek to rely on your consent in order to process certain personal data. Where we do so, you have the right not to provide your consent or to withdraw your consent at any time. This does not affect the lawfulness of the processing based on consent before its withdrawal.
+Right of access and/or portability. You may have the right to access the personal data that we hold about you and, in some limited circumstances, have that data provided to you so that you can provide or “port” that data to another provider.
+Right of erasure. In certain circumstances, you may have the right to the erasure of personal data that we hold about you (for example if it is no longer necessary for the purposes for which it was originally collected).
+Right to object to processing. You may have the right to request that Zoom stop processing your personal data and/or to stop sending you marketing communications.
+Right to rectification. You may have the right to require us to correct any inaccurate or incomplete personal information.
+Right to restrict processing. You may have the right to request that we restrict processing of your personal data in certain circumstances (for example, where you believe that the personal data we hold about you is not accurate or lawfully held).
+Right to lodge a complaint to your local Data Protection Authority. If you are an EEA resident, you have the right to complain to a data protection authority about our collection and use of your personal data.
+How to Exercise Your Rights
+To exercise any of the rights above, email us at privacy@zoom.us. You may also submit a request to the following address:
+
+Zoom Video Communications, Inc.
+
+Attention: Data Privacy Officer
+
+55 Almaden Blvd, Suite 600
+
+San Jose, CA 95113
+
+Please identify yourself and specify your request. If you have a password protected Zoom account, we will use your account information to verify your identity. If not, we will ask you to provide additional verification information. What we request will depend on the nature of your request, how sensitive the information is, and how harmful unauthorized disclosure or deletion would be.
+
+We use commercially reasonable efforts to delete your personal data as required but retain records necessary to comply with a governmental authority or applicable federal, state, or local law. Where legally permitted, we may decline to process requests, including requests that are unreasonably repetitive or systematic, require disproportionate technical effort, or jeopardize the privacy of others.
+
+International Transfers
+Zoom operates globally, which means personal data may be stored and processed (for example stored in a data center) in any country where we or our service providers have facilities or hold events. By using Zoom or providing personal data for any of the purposes stated above, you acknowledge that your personal data may be transferred to or stored in the United States or in other countries around the world. Such countries may have data protection rules that are different and less protective than those of your country.
+
+If you are a resident of the European Economic Area (EEA), and your personal data is transferred outside of the EEA, we will:
+
+Process it in a territory which the European Commission has determined provides an adequate level of protection for personal information; or
+Implement appropriate safeguards to protect your personal information, including transferring it in accordance with applicable transfer mechanism, including the European Commission's standard contractual clauses .
+Retention
+We will retain personal data for as long as required to do what we say we will in this Statement, unless a longer retention period is required by applicable law. The criteria used to determine our retention periods include:
+
+The length of time we have an ongoing relationship with you and provide our services to you (for example, for as long as you have an account with us or keep using our services);
+Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
+Customers can delete their own accounts.
+
+Security
+Zoom is committed to protecting your personal data. We use reasonable and appropriate technical and organizational measures to protect personal data from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into due account the risks involved in the processing and the nature of the personal data. If you have any questions about the security of your data, please contact our security team at security@zoom.us
+
+How to Contact Us
+If you have any privacy-related questions or comments related to this Statement, please send an email to privacy@zoom.us. You can also contact us by writing to this address:
+
+Zoom Video Communications, Inc.
+
+Attention: Data Privacy Officer
+
+55 Almaden Blvd, Suite 600
+
+San Jose, CA 95113
+
+
+
+EU Representative
+Lionheart Squared Ltd
+Attn: Data Privacy
+2 Pembroke House
+Upper Pembroke Street 28-32
+Dublin
+DO2 EK84
+Republic of lreland
+
+email: zoom@LionheartSquared.eu
+
+
+
+Data Protection Officer
+Deborah Fay is our Data Protection Officer for the EEA and she can also be contacted at privacy@zoom.us.
+
+### DOCUMENT/ Zoom Terms of service / https://zoom.us/terms ###
+ZOOM TERMS OF SERVICE
+EFFECTIVE: August 20, 2020
+
+
+
+IMPORTANT, READ CAREFULLY : YOUR USE OF AND ACCESS TO THE WEBSITE AND PRODUCTS AND SERVICES AND ASSOCIATED SOFTWARE (COLLECTIVELY, THE "SERVICES") OF ZOOM VIDEO COMMUNICATIONS, INC. AND ITS AFFILIATES ("ZOOM") IS CONDITIONED UPON YOUR COMPLIANCE WITH AND ACCEPTANCE OF THESE TERMS, WHICH INCLUDE YOUR AGREEMENT TO ARBITRATE CLAIMS. PLEASE REVIEW THOROUGHLY BEFORE ACCEPTING.
+
+BY CLICKING/CHECKING THE "I AGREE" BUTTON/BOX, ACCESSING THE ZOOM WEBSITE OR BY UTILIZING THE ZOOM SERVICES YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE AND ALL EXHIBITS, ORDER FORMS, AND INCORPORATED POLICIES (THE “AGREEMENT” OR “TOS”). THE ZOOM SERVICES ARE NOT AVAILABLE TO PERSONS WHO ARE NOT LEGALLY ELIGIBLE TO BE BOUND BY THESE TERMS OF SERVICE.
+
+Zoom will provide the Services, and you may access and use the Services, in accordance with this Agreement. Zoom may provide any of the Services hereunder through any of its Affiliates. If You order Services through an on-line registration page or an order form (each an "Order Form"), the Order Form may contain additional terms and conditions and information regarding the Services you are ordering. Unless otherwise expressly set forth in any such additional terms and conditions applicable to the specific Service which You choose to use, those additional terms are hereby incorporated into this Agreement in relation to Your use of that Service.
+
+System Requirements. Use of the Services requires one or more compatible devices, Internet access (fees may apply), and certain software (fees may apply), and may require obtaining updates or upgrades from time to time. Because use of the Services involves hardware, software, and Internet access, Your ability to access and use the Services may be affected by the performance of these factors. High speed Internet access is recommended. You acknowledge and agree that such system requirements, which may be changed from time to time, are Your responsibility.
+
+DEFINITIONS. The following definitions will apply in this Agreement, and any reference to the singular includes a reference to the plural and vice versa. Service specific definitions are found in the Services Description located at www.zoom.us/docs/en-us/services-description.html.
+“Affiliate” means, with respect to a Party, any entity that directly or indirectly controls, is controlled by or is under common control with that Party. For purposes of this Agreement, “control” means an economic or voting interest of at least fifty percent (50%) or, in the absence of such economic or voting interest, the power to direct or cause the direction of the management and set the policies of such entity.
+“End User” means a Host or Participant (as defined in the Services Description) who uses the Services.
+"Initial Subscription Term" means the initial subscription term for a Service as specified in an Order Form.
+"Service Effective Date" means the date an Initial Subscription Term begins as specified in an Order Form.
+"Renewal Term" means the renewal subscription term for a Service commencing after the Initial Subscription Term or another Renewal Term as specified in an Order Form.
+SERVICES. Zoom will provide the Services as described on the Order Form, and standard updates to the Services that are made generally available by Zoom during the term. Zoom may, in its sole discretion, discontinue the Services or modify the features of the Services from time to time without prior notice.
+Beta Services. Zoom may, from time to time, offer access to services that are classified as Beta version. Access to and use of Beta versions may be subject to additional agreements. Zoom makes no representations that a Beta version will ever be made generally available and reserves the right to discontinue or modify a Beta version at any time without notice. Beta versions are provided AS IS, may contain bugs, errors or other defects, and Your use of a Beta version is at Your sole risk.
+USE OF SERVICES AND YOUR RESPONSIBILITIES. You may only use the Services pursuant to the terms of this Agreement. You are solely responsible for Your and Your End Users’ use of the Services and shall abide by, and ensure compliance with, all Laws in connection with Your and each End User’s use of the Services, including but not limited to Laws related to recording, intellectual property, privacy and export control. Use of the Services is void where prohibited.
+Registration Information. You may be required to provide information about Yourself in order to register for and/or use certain Services. You agree that any such information shall be accurate. You may also be asked to choose a user name and password. You are entirely responsible for maintaining the security of Your user name and password and agree not to disclose such to any third party.
+Your Content. You agree that You are solely responsible for the content ("Content") sent or transmitted by You or displayed or uploaded by You in using the Services and for compliance with all Laws pertaining to the Content, including, but not limited to, Laws requiring You to obtain the consent of a third party to use the Content and to provide appropriate notices of third party rights. You represent and warrant that You have the right to upload the Content to Zoom and that such use does not violate or infringe on any rights of any third party. Under no circumstances will Zoom be liable in any way for any (a) Content that is transmitted or viewed while using the Services, (b) errors or omissions in the Content, or (c) any loss or damage of any kind incurred as a result of the use of, access to, or denial of access to Content. Although Zoom is not responsible for any Content, Zoom may delete any Content, at any time without notice to You, if Zoom becomes aware that it violates any provision of this Agreement, or any law. You retain copyright and any other rights You already hold in Content which You submit, post or display on or through, the Services.
+Recordings. You are responsible for compliance will all recording laws. The host can choose to record Zoom meetings and Webinars. By using the Services, you are giving Zoom consent to store recordings for any or all Zoom meetings or webinars that you join, if such recordings are stored in our systems. You will receive a notification (visual or otherwise) when recording is enabled. If you do not consent to being recorded, you can choose to leave the meeting or webinar
+Prohibited Use. You agree that You will not use, and will not permit any End User to use, the Services to: (i) modify, disassemble, decompile, prepare derivative works of, reverse engineer or otherwise attempt to gain access to the source code of the Services; (ii) knowingly or negligently use the Services in a way that abuses, interferes with, or disrupts Zoom’s networks, Your accounts, or the Services; (iii) engage in activity that is illegal, fraudulent, false, or misleading, (iv) transmit through the Services any material that may infringe the intellectual property or other rights of third parties; (v) build or benchmark a competitive product or service, or copy any features, functions or graphics of the Services; or (vi) use the Services to communicate any message or material that is harassing, libelous, threatening, obscene, indecent, would violate the intellectual property rights of any party or is otherwise unlawful, that would give rise to civil liability, or that constitutes or encourages conduct that could constitute a criminal offense, under any applicable law or regulation; (vii) upload or transmit any software, Content or code that does or is intended to harm, disable, destroy or adversely affect performance of the Services in any way or which does or is intended to harm or extract information or data from other hardware, software or networks of Zoom or other users of Services; (viii) engage in any activity or use the Services in any manner that could damage, disable, overburden, impair or otherwise interfere with or disrupt the Services, or any servers or networks connected to the Services or Zoom's security systems. (ix) use the Services in violation of any Zoom policy or in a manner that violates applicable law, including but not limited to anti-spam, export control, privacy, and anti-terrorism laws and regulations and laws requiring the consent of subjects of audio and video recordings, and You agree that You are solely responsible for compliance with all such laws and regulations.
+Limitations on Use. You may not reproduce, resell, or distribute the Services or any reports or data generated by the Services for any purpose unless You have been specifically permitted to do so under a separate agreement with Zoom. You may not offer or enable any third parties to use the Services purchased by You, display on any website or otherwise publish the Services or any Content obtained from a Service (other than Content created by You) or otherwise generate income from the Services or use the Services for the development, production or marketing of a service or product substantially similar to the Services.
+RESPONSIBILITY FOR END USERS. You are responsible for the activities of all End Users who access or use the Services through your account and you agree to ensure that any such End User will comply with the terms of this Agreement and any Zoom policies. Zoom assumes no responsibility or liability for violations. If You become aware of any violation of this Agreement in connection with use of the Services by any person, please contact Zoom at trust@zoom.us. Zoom may investigate any complaints and violations that come to its attention and may take any (or no) action that it believes is appropriate, including, but not limited to issuing warnings, removing the content or terminating accounts and/or User profiles. Under no circumstances will Zoom be liable in any way for any data or other content viewed while using the Services, including, but not limited to, any errors or omissions in any such data or content, or any loss or damage of any kind incurred as a result of the use of, access to, or denial of access to any data or content.
+ZOOM OBLIGATIONS FOR CONTENT. Zoom will maintain reasonable physical and technical safeguards to prevent unauthorized disclosure of or access to Content, in accordance with industry standards. Zoom will notify You if it becomes aware of unauthorized access to Content. Zoom will not access, view or process Content except (a) as provided for in this Agreement and in Zoom’s Privacy Statement; (b) as authorized or instructed by You, (c) as required to perform its obligations under this Agreement; or (d) as required by Law. Zoom has no other obligations with respect to Content.
+ELIGIBILITY. You affirm that You are at least 16 years of age and are otherwise fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in this Agreement, and to abide by and comply with this Agreement.  Your access may be terminated without warning if we believe that You are under the age of 16 or are otherwise ineligible.
+INTENDED USE; RESTRICTION ON USE BY CHILDREN. The Services are intended for business use. You may choose to use the Services for other purposes, subject to the terms and limitations of this Agreement. Zoom is not intended for use by individuals under the age of 16, unless it is through a School Subscriber (as that term is defined in the Services Description) using Zoom for Education (K-12).
+CHARGES AND CANCELLATION. You agree that Zoom may charge to Your credit card or other payment mechanism selected by You and approved by Zoom ("Your Account") all amounts due and owing for the Services, including taxes and service fees, set up fees, subscription fees, or any other fee or charge associated with Your Account. Zoom may change prices at any time, including changing from a free service to a paid service and charging for Services that were previously offered free of charge; provided, however, that Zoom will provide you with prior notice and an opportunity to terminate Your Account if Zoom changes the price of a Service to which you are subscribed and will not charge you for a previously free Service unless you have been notified of the applicable fees and agreed to pay such fees. You agree that in the event Zoom is unable to collect the fees owed to Zoom for the Services through Your Account, Zoom may take any other steps it deems necessary to collect such fees from You and that You will be responsible for all costs and expenses incurred by Zoom in connection with such collection activity, including collection fees, court costs and attorneys' fees. You further agree that Zoom may collect interest at the lesser of 1.5% per month or the highest amount permitted by law on any amounts not paid when due. You may cancel your subscription at any time. If you cancel, you will not be billed for any additional terms of service, and service will continue until the end of the current Subscription Term. If you cancel, you will not receive a refund for any service already paid for.
+TERMINATION. The Zoom website contains information on how to terminate Your Account. If you have purchased a Service for a specific term, such termination will be effective on the last day of the then-current term. Your Order Form may provide that a Renewal Term will begin automatically unless either party provides notice of termination at least thirty (30) days prior to the commencement of the next Renewal Term. If You fail to comply with any provision of this Agreement, Zoom may terminate this Agreement immediately and retain any fees previously paid by You. Sections 1 and 3 through 20, inclusive, shall survive any termination of this Agreement. Upon any termination of this Agreement, You must cease any further use of the Services. If at any time You are not happy with the Services, Your sole remedy is to cease using the Services and follow this termination process.
+PROPRIETARY RIGHTS. Zoom and/or its suppliers, as applicable, retain ownership of all proprietary rights in the Services and in all trade names, trademarks, service marks, logos, and domain names ("Zoom Marks") associated or displayed with the Services. You may not frame or utilize framing techniques to enclose any Zoom Marks, or other proprietary information (including images, text, page layout, or form) of Zoom without express written consent. You may not use any meta tags or any other "hidden text" utilizing Zoom Marks without Zoom's express written consent.
+COPYRIGHT. You may not post, modify, distribute, or reproduce in any way copyrighted material, trademarks, rights of publicity or other proprietary rights without obtaining the prior written consent of the owner of such proprietary rights. Zoom may deny access to the Services to any User who is alleged to infringe another party's copyright. Without limiting the foregoing, if You believe that Your copyright has been infringed, please notify Zoom as specified here.
+EXPORT RESTRICTIONS. You acknowledge that the Services, or a portion thereof, are subject to the Export Administration Regulations, 15 C.F.R. Parts 730-774, of the United States and may be subject to other applicable country export control and trade sanctions laws (“Export Control and Sanctions Laws”). Zoom will provide the U.S. export classification(s) applicable to its Services upon request. You and Your End Users may not access, use, export, re-export, divert, transfer or disclose any portion of the Services or any related technical information or materials, directly or indirectly, in violation of Export Control and Sanctions Laws. You represent and warrant that: (i) You and Your End Users (a) are not citizens of, or located within, a country or territory that is subject to U.S. trade sanctions or other significant trade restrictions (including without limitation Cuba, Iran, North Korea, Syria, and the Crimea region of Ukraine) and that You and Your End Users will not access or use the Services, or export, re-export, divert, or transfer the Services, in or to such countries or territories; (b) are not persons, or owned 50% or more, individually or in the aggregate by persons, identified on the U.S. Department of the Treasury’s Specially Designated Nationals and Blocked Persons List or Foreign Sanctions Evaders Lists; and (c) are not persons on the U.S. Department of Commerce’s Denied Persons List, Entity List, or Unverified List, or U.S. Department of State proliferation-related lists; (ii) You and Your End Users located in China, Russia, or Venezuela are not Military End Users and will not put Zoom’s Services to a Military End Use, as defined in 15 C.F.R. 744.21; (iii) no Content created or submitted by You or Your End Users is subject to any restriction on disclosure, transfer, download, export or re-export under the Export Control and Sanctions Laws; and (iv) You and Your End Users will not take any action that would constitute a violation of, or be penalized under, U.S. antiboycott laws administered by the U.S. Department of Commerce or the U.S. Department of the Treasury. You are solely responsible for complying with the Export Control and Sanctions Laws and monitoring them for any modifications.
+NO HIGH RISK USE. The Services are not designed or licensed for use in hazardous environments requiring fail-safe controls, including without limitation operation of nuclear facilities, aircraft navigation/communication systems, air traffic control, and life support or weapons systems. The Services shall not be used for or in any HIGH RISK environment.
+INJUNCTIVE RELIEF. You acknowledge that any use of the Services contrary to this Agreement, or any transfer, sublicensing, copying or disclosure of technical information or materials related to the Services, may cause irreparable injury to Zoom, its Affiliates, suppliers and any other party authorized by Zoom to resell, distribute, or promote the Services ("Resellers"), and under such circumstances Zoom, its Affiliates, suppliers and Resellers will be entitled to equitable relief, without posting bond or other security, including, but not limited to, preliminary and permanent injunctive relief.
+NO WARRANTIES.YOU UNDERSTAND AND AGREE THAT THE SERVICES ARE PROVIDED "AS IS" AND ZOOM, ITS AFFILIATES, SUPPLIERS AND RESELLERS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. ZOOM, ITS AFFILIATES, SUPPLIERS AND RESELLERS MAKE NO WARRANTY OR REPRESENTATION REGARDING THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES, REGARDING THE ACCURACY OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH THE SERVICES OR THAT THE SERVICES WILL MEET ANY USER'S REQUIREMENTS, OR BE UNINTERRUPTED, TIMELY, SECURE OR ERROR FREE. USE OF THE SERVICES IS AT YOUR SOLE RISK. ANY MATERIAL AND/OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS AT YOUR OWN DISCRETION AND RISK. YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOU RESULTING FROM THE USE OF THE SERVICES. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SERVICES REMAINS WITH YOU. ZOOM DOES NOT ASSUME ANY RESPONSIBILITY FOR RETENTION OF ANY USER INFORMATION OR COMMUNICATIONS BETWEEN USERS. ZOOM CANNOT GUARANTEE AND DOES NOT PROMISE ANY SPECIFIC RESULTS FROM USE OF THE SERVICES. USE IS AT YOUR OWN RISK.
+INDEMNIFICATION. You agree to indemnify, defend and hold harmless Zoom, its affiliates, officers, directors, employees, consultants, agents, suppliers and Resellers from any and all third party claims, liability, damages and/or costs (including, but not limited to, attorneys' fees) arising from Your use of the Services, Your violation of this Agreement or the infringement or violation by You or any other user of Your account, of any intellectual property or other right of any person or entity or applicable law.
+LIMITATION OF LIABILITY.TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL ZOOM OR ITS AFFILIATES, SUPPLIERS OR RESELLERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, EXEMPLARY OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS OR DAMAGE) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SERVICES OR THE PROVISION OF OR FAILURE TO PROVIDE TECHNICAL OR OTHER SUPPORT SERVICES, WHETHER ARISING IN TORT (INCLUDING NEGLIGENCE) CONTRACT OR ANY OTHER LEGAL THEORY, EVEN IF ZOOM, ITS AFFILIATES, SUPPLIERS OR RESELLERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, ZOOM'S, ITS AFFILIATES', SUPPLIERS' AND RESELLERS' MAXIMUM CUMULATIVE LIABILITY AND YOUR EXCLUSIVE REMEDY FOR ANY CLAIMS ARISING OUT OF OR RELATED TO THIS AGREEMENT WILL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE SERVICES (IF ANY) IN THE TWELVE (12) MONTHS PRECEDING THE EVENT OR CIRCUMSTANCES GIVING RISE TO SUCH CLAIMS. Because some states and jurisdictions do not allow the exclusion or limitation of liability, the above limitation may not apply to You.
+AGREEMENT TO ARBITRATE; WAIVER OF CLASS ACTION. If You are located in the United States, You agree to resolve disputes only on an individual basis, through arbitration pursuant to the provisions of Exhibit A. The parties expressly waive any right to bring any action, lawsuit, or proceeding as a class or collective action, private attorney general action, or any other proceeding in which any party acts or proposes to act in a representative capacity.
+PRIVACY AND OTHER POLICIES. Use of the Services is also subject to Zoom's Privacy Statement, a link to which can be found by selecting “Privacy and Legal Policies” in the footer of Zoom’s website. The Privacy Statement, and all policies noticed at www.zoom.us/legal are incorporated into this Agreement by this reference. Furthermore, if Your Use of the Services requires Zoom to process any personally identifiable information (“PII” or “Personal Data”) Zoom shall do so at all times in compliance with our Zoom Global Data Processing Addendum https://zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf is incorporated in these Terms of Service. Additionally, You understand and agree that Zoom may contact You via e-mail or otherwise with information relevant to Your use of the Services, regardless of whether You have opted out of receiving marketing communications or notices.
+MISCELLANEOUS
+20.1 Choice of Law and Forum. This Agreement shall be governed by and construed under the laws of the State of California, U.S.A., as applied to agreements entered into and to be performed in California by California residents. Except as provided in Exhibit A, the Parties consent to the exclusive jurisdiction and venue of the state courts located in and serving Santa Clara County, California and the federal courts in the Northern District of California.
+
+20.2 Contracting Entity. In the event Your Zoom account reflects a bill to/sold to address in India, the contracting entity under these TOS shall be Zoom’s Affiliate, ZVC India Pvt. Ltd.
+
+20.3 Waiver and Severability. Failure by either Party to exercise any of its rights under, or to enforce any provision of, this Agreement will not be deemed a waiver or forfeiture of such rights or ability to enforce such provision. If any provision of this Agreement is held by a court of competent jurisdiction to be illegal, invalid or unenforceable, that provision will be amended to achieve as nearly as possible the same economic effect of the original provision and the remainder of this Agreement will remain in full force and effect.
+
+20.4 General Provisions. This Agreement embodies the entire understanding and agreement between the Parties respecting the subject matter of this Agreement and supersedes any and all prior understandings and agreements between the Parties respecting such subject matter, except that if You or Your company have executed a separate written agreement or you have signed an order form referencing a separate agreement governing your use of the Services, then such agreement shall control to the extent that any provision of this Agreement conflicts with the terms of such agreement. Zoom may elect to change or supplement the terms of this Agreement from time to time at its sole discretion. Zoom will exercise commercially reasonable business efforts to provide notice to You of any material changes to this Agreement. Within ten (10) business days of posting changes to this Agreement (or ten (10) business days from the date of notice, if such is provided), they will be binding on You. If You do not agree with the changes, You should discontinue using the Services. If You continue using the Services after such ten-business-day period, You will be deemed to have accepted the changes to the terms of this Agreement. In order to participate in certain Services, You may be notified that You are required to download software and/or agree to additional terms and conditions. Unless expressly set forth in such additional terms and conditions, those additional terms are hereby incorporated into this Agreement. This Agreement has been prepared in the English Language and such version shall be controlling in all respects and any non-English version of this Agreement is solely for accommodation purposes.
+
+
+
+Exhibit A
+
+Binding Arbitration
+
+This Exhibit A to the TOS describes the further provisions which apply to the Binding Arbitration and Class Action Waiver.
+
+Disputes. A dispute is any controversy between You and Zoom concerning the Services, any software related to the Services, the price of the Services, Your account, Zoom’s advertising, marketing, or communications, Your purchase transaction or billing, or any term of this Agreement, under any legal theory including contract, warranty, tort, statute, or regulation, except disputes relating to the enforcement or validity of Your or Zoom’s intellectual property rights. As part of the best efforts process to resolve disputes, and prior to initiating arbitration proceedings, each party agrees to provide notice of the dispute to the other party, including a description of the dispute, what efforts have been made to resolve it, and what the disputing party is requesting as resolution, to legal@zoom.us.
+Small Claims Court Available. You may initiate an action in your local Small Claims Court if You meets the court’s requirements. However, if such a claim is transferred, removed or appealed to a different court, Zoom reserves the right to require arbitration.
+Arbitration Procedure. Disputes not resolved pursuant to Section A or B shall be resolved through arbitration. The American Arbitration Association (“AAA”) will conduct any arbitration under its Commercial Arbitration Rules. For more information, see www.adr.org. Arbitration hearings will take place in the federal judicial district of Your primary business location. A single arbitrator will be appointed. The arbitrator must: (a) follow all applicable substantive Law; (b) follow applicable statutes of limitations; (c) honor valid claims of privilege; (d) issue a written decision including the reasons for the award. The arbitrator may award damages, declaratory or injunctive relief, and costs (including reasonable attorneys’ fees). Any arbitration award may be enforced (such as through a judgment) in any court with jurisdiction. Under AAA Rules, the arbitrator rules on his or her own jurisdiction, including the arbitrability of any claim; however, a court has exclusive authority to enforce the prohibition on arbitration on a class-wide basis or in a representative capacity .
+Arbitration Fees. If You are unable to afford the arbitration costs, Zoom will advance those costs to You, subject to the arbitrator’s determination if costs should be reimbursed to Zoom if Zoom prevails. For disputes involving more than $75,000, the AAA rules will govern payment of filing fees and the AAA’s and arbitrator’s fees and expenses.
+Conflict with AAA Rules. This Agreement governs if there is a conflict with the AAA’s Commercial Arbitration Rules.
+Requirement to File Within One Year. Notwithstanding any other statute of limitations, a claim or dispute under this Agreement must be filed in Small Claims Court or noticed for arbitration within one year of when it could first be filed, or such claim will be permanently barred.
+Severability. If the class action waiver is found to be illegal or unenforceable as to all or some parts of a dispute, then those parts will not be arbitrated but will be resolved in court, with the balance resolved through arbitration. If any provision of this Exhibit A is found to be illegal or unenforceable, then that provision will be severed; however, the remaining provisions shall still apply and shall be interpreted to as nearly as possible achieve the original intent of this Exhibit, inclusive of the severed provision.
+
+### DOCUMENT/ Global Data Processing Addendum / https://zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf ###
+This Data Processing Addendum (“Addendum”) forms part of the Master Subscription Agreement,
+Terms of Service, Terms of Use, or any other agreement pertaining to the delivery of services (the
+“Agreement”) between Zoom Video Communications, Inc. (“Zoom”) and the Customer named in such
+Agreement and/or identified below to reflect the parties’ agreement with regard to the Processing of
+Personal Data (as those terms are defined below).
+In the course of providing the Services to Customer pursuant to the Agreement, Zoom may Process
+Personal Data on behalf of Customer and the parties agree to comply with the following provisions with
+respect to any Personal Data, each acting reasonably and in good faith.
+In the event of a conflict between the terms and conditions of this Addendum and the Agreement, the
+terms and conditions of this Addendum shall supersede and control to the extent of such conflict.
+1. Definitions
+1.1. “Applicable Data Protection Law” means any legislative or regulatory regime enacted by a
+recognized government, governmental or administrative entity with the purpose of protecting
+the privacy rights of natural persons or households consisting of natural persons, in particular
+the General Data Protection Regulation (“GDPR”) and supplementing data protection law of
+the European Union Member States, Canada’s Personal Information Protection and Electronic
+Documents Act (“PIPEDA”) S.C. 2000, ch. 5, and any provincial legislation deemed
+substantially similar to PIPEDA pursuant to the procedures set forth therein, and the California
+Consumer Privacy Act (“CCPA”) of 2018.
+1.2. “Authorized Subprocessor” means a subprocessor engaged by Processor who agrees to
+receive Personal Data from Processor exclusively for Processing activities to be carried out on
+behalf of Customer in accordance with Customer instructions, the terms of this Addendum
+and the terms of the written subcontract and who is either (i) listed in Exhibit C or (ii)
+authorized by Customer to do so under Section 5 of this Addendum.
+1.3. “Controller” means the entity that determines as a legal person alone or jointly with others
+the purposes and means of the Processing of Personal Data. Controller or “data exporter”
+refers to Customer.
+1.4. "Customer" means the contracting party set out below in the signature line.
+1.5. “Data Subject” means the identified or identifiable person to whom Personal Data relates.
+1.6. “Instruction” means a documented direction issued by Customer to Zoom and directing Zoom
+to Process Personal Data.
+1.7. “Personal Data” means any information relating to an identified or identifiable natural person,
+including information that could be linked, directly or indirectly, with a particular Data Subject.
+For the avoidance of doubt, Personal Data excludes anonymous data, and includes Sensitive
+Personal Information.
+Zoom Global Data Processing Addendum, August 2020 2
+1.8. “Personal Data Breach” means a breach of security leading to the accidental or unlawful
+destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data
+transmitted, stored, or otherwise processed.
+1.9. “Privacy Shield Principles” means the Swiss-U.S. and EU-U.S. Privacy Shield Framework and
+Principles issued by the U.S. Department of Commerce, both available at
+https://www.privacyshield.gov/EU-US-Framework.
+1.10. “Process” or “Processing” means any operation or set of operations which is performed upon
+Personal Data or sets of Personal Data, whether or not by automatic means, such as
+collection, recording, organization, storage, adaptation or alteration, retrieval, consultation,
+disclosure by transmission, dissemination or otherwise making available, alignment or
+combination, restriction, erasure, or destruction.
+1.11. “Processor” means a natural or legal person, public authority, agency or other body which
+Processes Personal Data on behalf of the Controller. Processor or “data importer” in this
+Agreement refers to Zoom.
+1.12. “Sale of Personal Data” means the disclosure of Personal Data to any Third Party in exchange
+for monetary or other valuable consideration, except that Zoom’s disclosure of personal data
+to a service provider for a business purpose, subject to a written agreement that requires the
+service provider to take data protection measures at least as protective as those applicable to
+Zoom under this Addendum, shall not qualify as the Sale of Personal Data.
+1.13. “Sensitive Personal Information” means a Data Subject’s (i) government-issued identification
+number (including social security number, driver’s license number or state-issued
+identification number); (ii) financial account number, credit card number, debit card number,
+credit report information, with or without any required security code, access code, personal
+identification number or password, that would permit access to an individual’s financial
+account; (iii) genetic and biometric data or data concerning health; or (iv) Personal Data
+revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade
+union membership, and the Processing of genetic data, biometric data for the purpose of
+uniquely identifying a natural person, data concerning health or data concerning a natural
+person’s sex life or sexual orientation, criminal convictions and offences (including commission
+of or proceedings for any offense committed or alleged to have been committed), or trade
+union membership.
+1.14. “Services” means the various video conferencing, web conferencing, webinar, meeting room,
+screensharing and other collaborative services as well as voice connectivity services and shall
+have the meaning set forth in the Agreement.
+1.15. “Standard Contractual Clauses” means the agreement executed by and between Customer
+and Zoom and attached hereto as EXHIBIT D pursuant to the European Commission’s decision
+(2010)593) of February 5, 2010 on standard contractual clauses for the transfer of personal
+data to processors established in third countries which do not ensure an adequate level of
+protection.
+1.16. “Supervisory Authority” means an independent public authority responsible for monitoring
+the application of Applicable Data Protection Law, including the processing of personal data
+covered by this Addendum.
+2. Roles of the Parties
+Zoom Global Data Processing Addendum, August 2020 3
+Where Applicable Data Protection law provides for the roles of “controller,” “processor,” and
+“subprocessor”:
+2.1. Where Customer is a Controller of the Personal Data covered by this Addendum, Zoom shall be
+a Processor Processing Personal Data on behalf of the Customer.
+2.2. Where Customer is a processor of the Personal Data covered by this Addendum, Zoom shall be
+a subprocessor of the Personal Data. In such case this Addendum shall apply accordingly.
+In no event shall Zoom assume or otherwise serve as a Controller of the Personal Data covered by this
+Addendum.
+3. Processing of Personal Data
+3.1. Customer shall, in its use of the Services, at all times Process Personal Data, and provide
+documented Instructions for the Processing of Personal Data, in compliance with Applicable
+Data Protection Laws. Customer shall ensure that its Instructions comply with all laws, rules and
+regulations applicable in relation to the Personal Data, and that the Processing of Personal Data
+in accordance with Customer’s Instructions will not cause Zoom to be in breach of Applicable
+Data Protection Law. Customer is solely responsible for the accuracy, quality, and legality of (i)
+the Personal Data provided to Zoom by or on behalf of Customer; (ii) the means by which
+Customer acquired any such Personal Data; and (iii) the Instructions it provides to Zoom
+regarding the Processing of such Personal Data. Customer shall not provide or make available
+to Zoom any Personal Data in violation of the Agreement or otherwise inappropriate for the
+nature of the Services and shall indemnify Zoom from all claims and losses in connection
+therewith.
+3.2. Zoom shall Process Personal Data only (i) for the purposes of performing the Agreement and as
+set out in EXHIBIT A; (ii) in accordance with the terms and conditions set forth in this
+Addendum and (iii) any other documented Instructions provided by Customer; including with
+regard to transfers of Personal Data to a third country or an international organization, unless
+required to do so by applicable law to which Zoom is subject; in such a case, Zoom shall inform
+the Customer of that legal requirement before Processing, unless that law prohibits such
+information on important grounds of public interest. Customer hereby instructs Zoom to
+Process Personal Data in accordance with the foregoing and as part of any Processing initiated
+by Customer in its use of the Services, using means of processing that are reasonably necessary
+and proportionate to providing the Services. For the avoidance of doubt, Zoom shall not engage
+in the Sale of Personal Data.
+3.3. Zoom shall immediately notify the Customer, where in its opinion an Instruction of the
+Customer infringes Applicable Data Protection Law and request Customer to withdraw, amend
+or confirm the relevant Instruction. Pending the decision on the withdrawal, amendment or
+confirmation of the relevant Instruction, Zoom shall be entitled to suspend the implementation
+of the relevant Instruction.
+3.4. The subject matter, nature, purpose, and duration of this Processing, as well as the types of
+Personal Data collected and categories of Data Subjects, are described in EXHIBIT A to this
+Addendum. Following completion of the Services, at Customer’s choice, Zoom shall enable
+Customer to delete all Personal Data, return to Customer all Personal Data, or delete all
+Personal Data, and delete any existing copies in compliance with its data retention and deletion
+policy, except as storage is required by applicable law. If return or destruction is impracticable
+or prohibited by law, rule or regulation, Zoom shall take measures to block such Personal Data
+Zoom Global Data Processing Addendum, August 2020 4
+from any further Processing (except to the extent necessary for its continued hosting or
+Processing required by law, rule or regulation) and shall continue to appropriately protect the
+Personal Data remaining in its possession, custody, or control and, where any Authorized
+Subprocessor continues to possess Personal Data, require the Authorized Subprocessor to take
+the same measures that would be required of Zoom.
+4. Authorized persons
+Zoom shall ensure that all persons authorized to Process the Personal Data are made aware of the
+confidential nature of Personal Data and have committed themselves to confidentiality (e.g., by
+confidentiality agreements) or are under an appropriate statutory obligation of confidentiality.
+5. Authorized Subprocessors
+5.1. Zoom shall not engage a Subprocessor without general written authorization of the Customer.
+5.2. Customer approves the Subprocessors currently listed at zoom.us/subprocessors.
+5.3. Zoom may remove, replace or appoint suitable and reliable further Subprocessors at its own
+discretion in accordance with this Section 5.3:
+5.3.1. Zoom shall at least fifteen (15) days before enabling any new subprocessors to
+access or participate in the Processing of Personal Data notify Customer of that
+update. The Customer may object to such an engagement in writing within ten (10)
+days of receipt of the aforementioned notice by the Customer. To enable such
+notifications, Customer shall visit zoom.us/subprocessors and enter the email
+address to which Zoom shall send such notifications into the submission field at the
+bottom of the page.
+5.3.2. If the Customer reasonably objects to an engagement, Zoom shall have the right to
+cure the objection through one of the following options (to be selected at Zoom's
+sole discretion):
+a) Zoom cancels its plans to use the subprocessor with regard to Customer's
+Personal Data.
+b) Zoom will take the corrective steps requested by Customer in its objection
+(which remove Controller's objection) and proceed to use the subprocessor
+with regard to Customer's Personal Data.
+c) Zoom may cease to provide or Customer may agree not to use (temporarily or
+permanently) the particular aspect of the Service that would involve the use
+of such subprocessor with regard to Controller's personal data.
+d) Zoom provides Customer with a written description of commercially
+reasonable alternative(s), if any, to such engagement, including without
+limitation modification to the Services. If Zoom, in its sole discretion, cannot
+provide any such alternative(s), or if Customer does not agree to any such
+alternative(s) if provided, Zoom and Customer may terminate this Addendum
+with prior written notice. Termination shall not relieve Customer of any fees
+owed to Zoom under the Agreement.
+5.3.3. If Customer does not object to the engagement of a new subprocessor within ten
+(10) days of notice by Zoom, that new subprocessor shall be deemed accepted.
+Zoom Global Data Processing Addendum, August 2020 5
+5.4. Zoom shall ensure that all Authorized Subprocessors have executed confidentiality agreements
+that prevent them from unauthorized Processing of Customer Personal Data both during and
+after their engagement by Zoom.
+5.5. Zoom shall, e.g., by way of contract or other legal act impose on the Authorized Subprocessor
+the same data protection obligations as set out in this Addendum. Zoom shall, exercising
+reasonable care, evaluate an organization’s data protection practices before allowing the
+organization to act as an Authorized Subprocessor.
+5.6. Zoom shall be fully liable to Customer where that Authorized Subprocessor fails to fulfil its data
+protection obligations for the performance of that subprocessor’s obligations to the same
+extent that Zoom would itself be liable under this Addendum had it conducted such acts or
+omissions.
+5.7. If Customer and Zoom have entered into Standard Contractual Clauses as described in Section 7
+(International Transfers of Personal Data), (i) the above authorizations will constitute
+Customer’s prior written consent to the subcontracting by Zoom of the processing of Personal
+Data if such consent is required under the Standard Contractual Clauses, and (ii) the parties
+agree that the copies of the agreements with Authorized Subprocessors that must be provided
+by Zoom to Customer pursuant to Clause 5(j) of the Standard Contractual Clauses may have
+commercial information, or information unrelated to the Standard Contractual Clauses or their
+equivalent, removed by the Zoom beforehand, and that such copies will be provided by the
+Zoom only upon request by Customer.
+6. Security of Personal Data
+6.1. Taking into account the state of the art, the costs of implementation and the nature, scope,
+context and purposes of Processing as well as the risk of varying likelihood and severity for the
+rights and freedoms of natural persons, Zoom shall maintain appropriate technical and
+organizational measures to ensure a level of security appropriate to the risk, including, but not
+limited to, the security measures set out in EXHIBIT B.
+6.2. Zoom shall implement such measures to ensure a level of security appropriate to the risk
+involved, including as appropriate:
+6.2.1. the pseudonymization and encryption of personal data;
+6.2.2. the ability to ensure the ongoing confidentiality, integrity, availability and resilience
+of processing systems and services;
+6.2.3. the ability to restore the availability and access to personal data in a timely manner
+in the event of a physical or technical incident; and
+6.2.4. a process for regularly testing, assessing and evaluating the effectiveness of security
+measures.
+7. International Transfers of Personal Data from the EU
+Any transfer of Personal Data made subject to this Addendum from member states of the European
+Union, the European Economic Area (Iceland, Liechtenstein, Norway), Switzerland or the United
+Kingdom (as long as it is treated like an European Union Member State) to any countries where the
+European Commission has not decided that this third country or more specified sectors within that third
+country in question ensures an adequate level of protection, shall be undertaken, in particular, through
+one of the following mechanisms: (i) in accordance with the Swiss-U.S. and EU-U.S. Privacy Shield
+Zoom Global Data Processing Addendum, August 2020 6
+Principles issued by the U.S. Department of Commerce, both available at
+https://www.privacyshield.gov/EU-US-Framework (the “Privacy Shield Principles”), or (ii) the Standard
+Contractual Clauses set forth in EXHIBIT D to this Addendum. For the purposes of this Addendum, to the
+extent Customer is a Processor, Zoom shall be deemed a “subprocessor” within the meaning of Clause
+11 of the Standard Contractual Clauses (and therefore subject to all the provisions of the Standard
+Contractual Clauses applicable to importers).
+8. Rights of Data Subjects
+8.1. Zoom shall, to the extent required by Applicable Data Protection Law, promptly notify
+Customer upon receipt of a request by a Data Subject to exercise Data Subject rights under
+Applicable Data Protection Law. Zoom will advise the Data Subject to submit their request to
+Customer and Customer will be responsible for responding to such request, including, where
+necessary, by using the functionality of the Services.
+8.2. Zoom shall, taking into account the nature of the Processing, assist the Customer by
+appropriate technical and organizational measures, insofar as this is possible, for the fulfilment
+of the Customer’s obligation to respond to requests for exercising the Data Subject’s rights
+(regarding information, access, rectification and erasure, restriction of Processing, notification,
+data portability, objection and automated decision-making) under Applicable Data Protection
+Law.
+9. Assistance, Personal Data Breach and Audits
+9.1. Zoom shall, taking into account the nature of the Processing and the information available to
+Zoom, assist Customer in ensuring compliance with its obligations under Applicable Data
+Protection Law to conduct a data protection impact assessment and with prior notice, assist
+with consultations with the supervisory authority, where required.
+9.2. Zoom shall maintain records sufficient to demonstrate its compliance with its obligations under
+this Addendum.
+9.3. Zoom makes available to the Customer all information reasonably necessary to demonstrate
+compliance with the obligations laid down in Art. 28 GDPR and allows for and contributes to
+audits, including inspections, reasonably requested by the Customer.
+9.4. Upon Customer’s request, Zoom shall, no more than once per calendar year make available for
+Customer’s review, copies of certifications or reports demonstrating Zoom’s compliance with
+prevailing data security standards applicable to the Processing of Customer’s Personal Data.
+9.5. In the event of a Personal Data Breach at Zoom, or at a Sub-Processor of Zoom, that relates to
+Customer’s Personal Data, Zoom shall, without undue delay after becoming aware of a breach
+of personal data, inform Customer of the Personal Data Breach and take such steps as Zoom in
+its sole discretion deems necessary and reasonable to remediate such violation.
+9.6. In the event of a Personal Data Breach, Zoom shall, taking into account the nature of the
+Processing and the information available to Zoom, provide Customer with reasonable
+cooperation and assistance necessary for Customer to comply with its obligations under
+Applicable Data Protection Law with respect to notifying (i) the relevant Supervisory Authority
+and/or (ii) Data Subjects affected by such Personal Data Breach without undue delay.
+9.7. The obligations described in Sections 9.5 and 9.6 shall not apply in the event that a Personal
+Data Breach results from the actions or omissions of Customer. Zoom’s obligation to report or
+Zoom Global Data Processing Addendum, August 2020 7
+respond to a Personal Data Breach under Sections 9.5 and 9.6 will not be construed as an
+acknowledgement by Zoom of any fault or liability with respect to the Personal Data Breach.
+Zoom Global Data Processing Addendum, August 2020 8
+EXHIBIT A
+Details of Processing
+Nature and Purpose of Processing: Zoom will Process Personal Data on behalf of Customer for the
+purposes of providing the Services in accordance with the Agreement.
+Duration of Processing: The term of the Agreement plus the period until Zoom deletes all Personal Data
+processed on behalf of Customer in accordance with the Agreement.
+Categories of Data Subjects: Individuals about whom Personal Data is provided to Zoom via the Services
+by (or at the direction of) Customer or Customer’s end users, which may include without limitation
+Customer’s employees, contractors and end users.
+Type of Personal Data: Depending on Customer’s use of the Series, Personal Data provided to Zoom via
+the Services by (or at the direction of) Customer or Customer’s end users, including but not limited to
+the following:
+• Cloud Recordings (optional): Mp4 of all video, audio and presentations, M4A of all Audio, Text
+file of all in meeting chats, Audio transcript file
+• In-Meeting Chat Logs
+Zoom Global Data Processing Addendum, August 2020 9
+EXHIBIT B
+Technical and Organizational Security Measures
+Zoom’s technical and organizational security measures for Processing Customer Personal Data will meet
+the Minimum Security Control Requirements set out in this Exhibit B (“Minimum Control
+Requirements”). These Minimum Control Requirements are stated at a relatively high level. Customer
+recognizes that there may be multiple acceptable approaches to accomplish a particular Minimum
+Control Requirement. Zoom must document in reasonable detail how a particular control meets the
+stated Minimum Control Requirement. Zoom may revise the Minimum Control Requirements from time
+to time. The term “should” in these Minimum Control Requirements means that Zoom will use
+commercially reasonable efforts to accomplish the stated Minimum Control Requirement, and will
+document those efforts in reasonable detail, including the rationale, if any, for deviation.
+As used in these Minimum Control Requirements, (i) “including” and its derivatives mean “including but
+not limited to”; and (ii) any capitalized terms not defined in this Exhibit B shall have the same meaning
+as set forth in this Addendum.
+1. Definitions
+1.1. “Systems” means Zoom’s production systems.
+1.2. “Assets” means Zoom’s production assets.
+1.3. “Facilities” means Zoom’s production facilities, whether owned or leased by Zoom (e.g., AWS,
+data centers).
+2. Risk Management
+2.1. Risk Assessment Program. The effectiveness of controls must be regularly validated through a
+documented risk assessment program and appropriately managed remediation efforts.
+2.2. Risk Assessment. A risk assessment must be performed annually to verify the implementation
+of controls that protect business operations and Confidential Information.
+3. Security Policy
+A documented set of rules and procedures must regulate the Processing of information and associated
+services.
+3.1. Security Policies and Exception Process. Security policies must be documented, reviewed, and
+approved, with management oversight, on a periodic basis, following industry best practices.
+3.2. A risk-based exception management process must be in place for prioritization, approval, and
+remediation or risk acceptance of controls that have not been adopted or implemented.
+3.3. Awareness and Education Program. Security policies and responsibilities must be
+communicated and socialized within the organization to Zoom personnel. Zoom personnel
+must receive security awareness training on an annual basis.
+4. Organizational Security
+A personnel security policy must be in place to establish organizational requirements to ensure proper
+training, competent performance and an appropriate and accountable security organization.
+Zoom Global Data Processing Addendum, August 2020 10
+4.1. Organization. Current organizational charts representing key management responsibilities for
+services provided must be maintained.
+4.2. Background Checks. Where legally permissible, background checks (including criminal) must be
+performed on applicable Zoom personnel.
+4.3. Confidentiality Agreements. Zoom personnel must be subject to written non-disclosure or
+confidentiality obligations.
+5. Technology Asset Management
+Controls must be in place to protect Zoom production assets, including mechanisms to maintain an
+accurate inventory of assets and handling standards for introduction and transfer, removal and disposal
+of assets.
+5.1. Accountability. A process for maintaining an inventory of hardware and software assets and
+other information resources, such as databases and file structures, must be documented.
+Process for periodic asset inventory reviews must be documented. Identification of
+unauthorized or unsupported hardware/ software must be performed.
+5.2. Asset Disposal or Reuse. If applicable, Zoom will use industry standards to wipe or carry out
+physical destruction as the minimum standard for disposing of assets. Zoom must have
+documented procedures for disposal or reuse of assets.
+5.3. Procedures must be in place to remove data from production systems in which Customer
+Personal Data are stored, processed, or transmitted.
+6. Physical and Environmental
+Controls must be in place to protect systems against physical penetration by malicious or unauthorized
+people, damage from environmental contaminants and electronic penetration through active or passive
+electronic emissions.
+6.1. Physical and Environmental Security Policy. Physical and environmental security plans must
+exist for facilities and scenarios involving access or storage of Customer Personal Data.
+Additional physical and environmental controls must be required and enforced for applicable
+facilities, including servers and datacenter locations.
+6.2. Physical Access. Physical access, to include visitor access to facilities, must be restricted and all
+access periodically reviewed.
+6.3. Policies must be in place to ensure that information is accessed on a need-to-know basis.
+6.4. Environmental Control. Facilities, including data and processing centers, must maintain
+appropriate environmental controls, including fire detection and suppression, climate control
+and monitoring, power and back-up power solutions, and water damage detection.
+Environmental control components must be monitored and periodically tested.
+7. Communication and Connectivity
+Zoom must implement controls over its communication network to safeguard data. Controls must
+include securing the production network and implementation of encryption, logging and monitoring,
+and disabling communications where no business need exists.
+7.1. Network Identification. A production network diagram, to include production devices, must be
+kept current to facilitate analysis and incident response.
+Zoom Global Data Processing Addendum, August 2020 11
+7.2. Data Flow Diagram. A current data flow diagram must depict data from origination to endpoint
+(including data which may be shared with Subprocessors).
+7.3. Data Storage. All Customer Personal Data, including Customer Personal Data shared with
+subprocessors, must be stored and maintained in a manner that allows for its return or secure
+destruction upon request from Customer.
+7.4. Firewalls. Firewalls must be used for the isolation of all environments, to include physical,
+virtual, network devices, production and non-production, and application/presentation layers.
+Firewall management must follow a process that includes restriction of administrative access
+and that is documented, reviewed, and approved, with management oversight, on a periodic
+basis.
+7.5. The production network must be either firewalled or physically isolated from the development
+and test environments. Multi-tier security architectures that segment application tiers (e.g.,
+presentation layer, application and data) must be used.
+7.6. Periodic network vulnerability scans must be performed and any critical vulnerabilities
+identified must be remediated within a defined and reasonable timeframe.
+7.7. Clock Synchronization. Production network devices must have internal clocks synchronized to
+reliable time sources.
+7.8. Remote Access. The data flow in the remote connection must be encrypted and multi- factor
+authentication must be utilized during the login process.
+7.9. Remote connection settings must limit the ability of remote users to access both initiating
+network and remote network simultaneously (i.e., no split tunneling).
+7.10. Subprocessors’ remote access, if any, must adhere to the same controls and must have
+a valid business justification.
+7.11. Wireless Access. Wireless access to the Zoom corporate network must be configured to
+require authentication and be encrypted.
+8. Change Management
+Changes to the production systems, production network, applications, data files structures, other
+system components and physical/environmental changes must be monitored and controlled through a
+formal change control process. Changes must be reviewed, approved and monitored during postimplementation to ensure that expected changes and their desired result are accurate.
+8.1. Change Policy and Procedure. A change management policy, including application, operating
+system, network infrastructure and firewall changes must be documented, reviewed and
+approved, with management oversight, on a periodic basis.
+8.2. The change management policy must include clearly identified roles and responsibilities so as
+to support separation of duties (e.g., request, approve, implement). The approval process must
+include pre- and post-evaluation of change. Zoom posts service status and scheduled
+maintenance at https://status.zoom.us.
+9. Operations
+Documented operational procedures must ensure correct and secure operation of Zoom’s assets.
+Operational procedures must be documented and include monitoring of capacity, performance, service
+level agreements and key performance indicators.
+Zoom Global Data Processing Addendum, August 2020 12
+10. Access Control
+Authentication and authorization controls must be appropriately robust for the risk of the system, data,
+application and platform; access rights must be granted based on the principle of least privilege and
+monitored to log access and security events, using tools that enable rapid analysis of user activities.
+10.1. Logical Access Control Policy. Documented logical access policies and procedures must
+support role-based, “need-to-know” access (e.g., interdepartmental transfers, terminations)
+and ensure separation of duties during the approval and provisioning process. Each account
+provisioned must be uniquely identified. User access reviews must be conducted on a periodic
+basis.
+10.2. Privileged Access. Management of privileged user accounts (e.g., those accounts that
+have the ability to override system controls), to include service accounts, must follow a
+documented process and be restricted. A periodic review and governance process must be
+maintained to ensure appropriate provisioning of privileged access.
+10.3. Authentication and Authorization. A documented authentication and authorization
+policy must cover all applicable systems. That policy must include password provisioning
+requirements, password complexity requirements, password resets, thresholds for lockout
+attempts, thresholds for inactivity, and assurance that no shared accounts are utilized.
+Authentication credentials must be encrypted, including in transit to and from subprocessors’
+environments or when stored by subprocessors.
+11. Data Integrity
+Controls must ensure that any data stored, received, controlled or otherwise accessed is accurate and
+reliable. Procedures must be in place to validate data integrity.
+11.1. Data Transmission Controls. Processes, procedures and controls must be documented,
+reviewed, and approved, with management oversight, on a periodic basis, to ensure data
+integrity during transmission and to validate that the data transmitted is the same as data
+received.
+11.2. Data Transaction Controls. Controls must be in place to protect the integrity of data
+transactions at rest and in transit.
+11.3. Encryption. Data must be protected and should be encrypted, both in transit and at rest,
+including when shared with subprocessors.
+11.4. Data Policies. A policy must be in place to cover data classifications, encryption use, key
+and certificate lifecycle management, cryptographic algorithms and associated key lengths. This
+policy must be documented, reviewed, and approved with management oversight, on a
+periodic basis.
+11.5. Encryption Uses. Customer Personal Data must be protected, and should be encrypted,
+while in transit and at rest. Confidential Information must be protected, and should be
+encrypted when stored and while in transit over any network; authentication credentials must
+be encrypted at all times, in transit or in storage.
+Zoom Global Data Processing Addendum, August 2020 13
+12. Incident Response
+A documented plan and associated procedures, to include the responsibilities of Zoom personnel and
+identification of parties to be notified in case of an information security incident, must be in place.
+12.1. Incident Response Process. The information security incident management program
+must be documented, tested, updated as needed, reviewed, and approved, with management
+oversight, on a periodic basis. The incident management policy and procedures must include
+prioritization, roles and responsibilities, procedures for escalation (internal) and notification,
+tracking and reporting, containment and remediation, and preservation of data to maintain
+forensic integrity.
+13. Business Continuity and Disaster Recovery
+Zoom must have formal documented recovery plans to identify the resources and specify actions
+required to help minimize losses in the event of a disruption to the business unit, support group unit,
+application, or infrastructure component. Plans assure timely and orderly recovery of business, support
+processes, operations and technology components within an agreed upon time frame and include
+orderly restoration of business activities when the primary work environment is unavailable.
+13.1. Business Recovery Plans. Comprehensive business resiliency plans addressing business
+interruptions of key resources supporting services, including those provided by subprocessors,
+must be documented, tested, reviewed, and approved, with management oversight, on a
+periodic basis. The business resiliency plan must have an acceptable alternative work location
+in place to ensure service level commitments are met.
+13.2. Technology Recovery. Technology recovery plans to minimize service interruptions and
+ensure recovery of systems, infrastructure, databases, applications, etc.must be documented,
+tested, reviewed, and approved with management oversight, on a periodic basis.
+14. Back-ups
+Zoom must have policies and procedures for back-ups of Customer Personal Data. Back- ups must be
+protected using industry best practices.
+14.1. Back-up and Redundancy Processes. Processes enabling full restoration of production
+systems, applications, and data must be documented, reviewed, and approved, with
+management oversight, on a periodic basis.
+15. Third Party Relationships
+Subprocessors must be identified, assessed, managed and monitored. Subprocessors that provide
+material services, or that support Zoom’s provision of material services to Customers, must comply with
+control requirements no less stringent than those outlined in this document.
+15.1. Selection and Oversight. Zoom must have a process to identify subprocessors providing
+services to Zoom; these subprocessors must be disclosed to Customer and approved to the
+extent required by this Agreement.
+15.2. Lifecycle Management. Zoom must establish contracts with subprocessors providing
+material services; these contracts should incorporate security control requirements, including
+data protection controls and notification of security and privacy breaches must be included.
+Review processes must be in place to ensure subprocessors’ fulfillment of contract terms and
+conditions.
+Zoom Global Data Processing Addendum, August 2020 14
+16. Standard Builds
+Production systems must be deployed with appropriate security configurations and reviewed
+periodically for compliance with Zoom’s security policies and standards.
+16.1. Secure Configuration Availability. Standard security configurations must be established
+and security hardening demonstrated. Process documentation must be developed, maintained,
+and under revision control, with management oversight, on a periodic basis. Configurations
+must include security patches, vulnerability management, default passwords, registry settings,
+file directory rights and permissions.
+16.2. System Patches. Security patch process and procedures, to include requirements for
+timely patch application, must be documented.
+16.3. Operating System. Versions of operating systems in use must be supported and
+respective security baselines documented.
+16.4. Desktop Controls. Systems must be configured to provide only essential capabilities. The
+ability to write to removable media must be limited to documented exceptions.
+17. Application Security
+Zoom must have an established software development lifecycle for the purpose of defining, acquiring,
+developing, enhancing, modifying, testing or implementing information systems. Zoom must ensure that
+web-based and mobile applications used to store, receive, send, control or access Customer Personal
+Data are monitored, controlled and protected.
+17.1. Functional Requirements. Applications must implement controls that protect against
+known vulnerabilities and threats, including Open Web Application Security Project (OWASP)
+Top 10 Risks and denial of service (DDOS) attacks.
+17.2. Application layer controls must provide the ability to filter the source of malicious
+traffic.
+17.3. Restrictions must also be placed on or in front of web server resources to limit denial of
+service (DoS) attacks.
+17.4. Zoom must monitor uptime on a hosted web or mobile application.
+17.5. Software Development Life Cycle. A Software Development Life Cycle (SDLC)
+methodology, including release management procedures, must be documented, reviewed,
+approved, and version controlled, with management oversight, on a periodic basis. These must
+include activities that foster development of secure software.
+17.6. Testing and Remediation. Software executables related to client/server architecture that
+are involved in handling Customer Personal Datamust undergo vulnerability assessments (both
+the client and server components) prior to release and on an on-going basis, either internally or
+using external experts, and any gaps identified must be remediated in a timely manner.
+17.6.1. Testing must be based on, at a minimum, the OWASP Top 10 risks (or the OWASP
+Mobile Top 10 risks, where applicable), or comparable replacement.
+17.7. Zoom must conduct penetration testing on an annual basis.
+18. Vulnerability Monitoring
+Zoom Global Data Processing Addendum, August 2020 15
+Zoom must continuously gather information and analyze vulnerabilities in light of existing and emerging
+threats and actual attacks. Processes must include vulnerability scans, anti-malware, Intrusion Detection
+Systems (IDS)/Intrusion Prevention Systems (IPS), logging and security information and event
+management analysis and correlation.
+18.1. Vulnerability Scanning and Issue Resolution. Vulnerability scans (authenticated and
+unauthenticated) and penetration tests must be performed against internal and external
+networks and applications periodically and prior to system provisioning for production systems
+that process, store or transmit Customer Data.
+18.2. Malware. In production, Zoom must employ tools to detect, log and disposition
+malware.
+18.3. Intrusion Detection/Advanced Threat Protection. Network and host-based intrusion
+detection/advanced threat protection must be deployed with events generated fed into
+centralized systems for analysis. These systems must accommodate routine updates and realtime alerting. IDS/advanced threat protection signatures must be kept up to date to respond to
+threats.
+18.4. Logging and Event Correlation. Monitoring and logging must support centralization of
+security events for analysis and correlation. Organizational responsibility for responding to
+events must be defined. Retention schedule for various logs must be defined and followed.
+19. Cloud Technology
+Adequate safeguards must ensure the confidentiality, integrity, and availability of Customer Personal
+Data stored, processed or transmitted using cloud technology (either as a cloud customer or cloud
+provider, to include subprocessors), using industry standards.
+19.1. Audit Assurance and Compliance. The cloud environment in which data is stored,
+processed or transmitted must be compliant with relevant industry standards and regulatory
+restrictions.
+19.2. Application and Interface Security. Threat modeling should be conducted throughout
+the software development lifecycle, including vulnerability assessments, including
+Static/Dynamic scanning and code review, to identify defects and complete remediations
+before hosting in cloud environments.
+19.3. Business Continuity Management and Operational Resiliency. Business continuity plans
+to meet recovery time objectives (RTO) and recovery point objectives (RPO) must be in place.
+19.4. Data Security and Information Lifecycle Management. Proper segmentation of data
+environments and segregation must be employed; segmentation/segregation must enable
+proper sanitization, per industry requirements.
+19.5. Encryption and Key Management. All communications must be encrypted in-transit
+between environments.
+19.6. Governance and Risk Management. Comprehensive risk assessment processes and
+centralized monitoring that enables incident response and forensic investigation must be used
+to ensure proper governance and oversight.
+19.7. Identity and Access Management. Management of accounts, including accounts with
+privileged access, must prevent unauthorized access and mitigate the impacts thereof.
+Zoom Global Data Processing Addendum, August 2020 16
+19.8. Infrastructure and Virtualization Security. Controls defending against cyberattacks,
+including the principle of least privilege, baseline management, intrusion detection,
+host/network-based firewalls, segmentation, isolation, perimeter security, access management,
+detailed data flow information, network, time, and a SIEM solution must be implemented.
+19.9. Supply Chain Management, Transparency and Accountability. Zoom must be
+accountable for the confidentiality, availability and integrity of production data, to include data
+processed in cloud environments by subprocessors.
+19.10. Threat and Vulnerability Management. Vulnerability scans (authenticated and
+unauthenticated) must be performed, both internally and externally, for production systems.
+Processes must be in place to ensure tracking and remediation.
+20. Audits
+At least annually, Zoom will conduct an independent third-party review of its security policies,
+standards, operations and procedures related to the Services provided to Customer. Such review will be
+conducted in accordance with the AICPA’s Statements on Standards for Attestation Engagements (SSAE),
+and Zoom will be issued a SOC 2 Type II report. Upon Customer’s request, Zoom will provide Customer
+with a copy of the SOC 2 Type II report within thirty (30) days. If applicable, Zoom will provide a bridge
+letter to cover time frames not covered by the SOC 2 Type II audit period scope within 30 days, upon
+request by Customer. If exceptions are noted in the SOC 2 Type II audit, Zoom will document a plan to
+promptly address such exceptions and shall implement corrective measures within a reasonable and
+specific period. Upon Customer’s reasonable request, Zoom will keep Customer informed of progress
+and completion of corrective measures.
+20.1. Customer shall rely on the third-party audit SOC 2 Type II report for validation of proper
+information security practices and shall not have the right to audit, unless such right is granted
+under applicable law, except in the case of a Security Breach resulting in a material business
+impact to Customer. If Customer exercises the right to audit as a result of a Security Breach,
+such audit shall be within the scope of the Services. Customer will provide Zoom a minimum of
+thirty (30) days of notice prior to the audit. Zoom shall have the right to approve any third-party
+Customer may choose to conduct or be involved in the audit.
+Zoom Global Data Processing Addendum, August 2020 17
+EXHIBIT D
+Customer should complete and execute EXHIBIT D if it will transfer Personal Data to Zoom directly from
+a Member State of the European Union, Iceland, Liechtenstein, Norway, Switzerland or the United
+Kingdom. This EXHIBIT D cannot be modified in any way. Please leave EXHIBIT D blank (and DO NOT
+SIGN) if Customer’s use of Zoom’s services will not involve Customer transferring Personal Data to Zoom
+from any of the countries mentioned above.
+Standard Contractual Clauses
+For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of personal data to processors
+established in third countries which do not ensure an adequate level of data protection.
+Name of the data exporting organisation: \co1\……………………………………….……………………………………….
+Address: \line_address_1\……………………….……………………………………….……………………………………….…………
+Tel.: \tel1\………………………………….; fax: \fax1\……………………………………….; e-mail:
+\e1\………………………………….
+Other information needed to identify the organisation:
+\s1\……………………………………………………………
+(the data exporter)
+And
+Name of the data importing organisation: Zoom Video Communications, Inc.
+Address: 55 Almaden Blvd. Suite 600, San Jose, CA 95113
+Tel.: 1.888.799.9666; fax: none; e-mail: privacy@zoom.us
+Other information needed to identify the organisation: not applicable
+…………………………………………………………………
+(the data importer)
+each a “party”; together “the parties”,
+HAVE AGREED on the following Contractual Clauses (the Clauses) in order to adduce adequate safeguards
+with respect to the protection of privacy and fundamental rights and freedoms of individuals for the
+transfer by the data exporter to the data importer of the personal data specified in Appendix 1.
+Clause 1
+Definitions
+For the purposes of the Clauses:
+(a) 'personal data', 'special categories of data', 'process/processing', 'controller', 'processor', 'data
+subject' and 'supervisory authority' shall have the same meaning as in Directive 95/46/EC of the
+European Parliament and of the Council of 24 October 1995 on the protection of individuals with
+regard to the processing of personal data and on the free movement of such data;
+(b) 'the data exporter' means the controller who transfers the personal data;
+Zoom Global Data Processing Addendum, August 2020 18
+(c) 'the data importer' means the processor who agrees to receive from the data exporter personal
+data intended for processing on his behalf after the transfer in accordance with his instructions
+and the terms of the Clauses and who is not subject to a third country's system ensuring
+adequate protection within the meaning of Article 25(1) of Directive 95/46/EC Processor;
+(d) 'the subprocessor' means any processor engaged by the data importer or by any other
+subprocessor of the data importer who agrees to receive from the data importer or from any
+other subprocessor of the data importer personal data exclusively intended for processing
+activities to be carried out on behalf of the data exporter after the transfer in accordance with
+his instructions, the terms of the Clauses and the terms of the written subcontract;
+(e) 'the applicable data protection law' means the legislation protecting the fundamental rights and
+freedoms of individuals and, in particular, their right to privacy with respect to the processing of
+personal data applicable to a data controller in the Member State in which the data exporter is
+established;
+(f) 'technical and organizational security measures' means those measures aimed at protecting
+personal data against accidental or unlawful destruction or accidental loss, alteration,
+unauthorized disclosure or access, in particular where the processing involves the transmission
+of data over a network, and against all other unlawful forms of processing.
+Clause 2
+Details of the transfer
+The details of the transfer and in particular the special categories of personal data where applicable are
+specified in Appendix 1 which forms an integral part of the Clauses.
+Clause 3
+Third-party beneficiary clause
+1. The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i), Clause 5(a)
+to (e), and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and Clauses 9 to 12 as third-party
+beneficiary.
+2. The data subject can enforce against the data importer this Clause, Clause 5(a) to (e) and (g),
+Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where the data exporter has factually
+disappeared or has ceased to exist in law unless any successor entity has assumed the entire
+legal obligations of the data exporter by contract or by operation of law, as a result of which it
+takes on the rights and obligations of the data exporter, in which case the data subject can
+enforce them against such entity.
+3. The data subject can enforce against the subprocessor this Clause, Clause 5(a) to (e) and (g),
+Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and
+the data importer have factually disappeared or ceased to exist in law or have become insolvent,
+unless any successor entity has assumed the entire legal obligations of the data exporter by
+contract or by operation of law as a result of which it takes on the rights and obligations of the
+data exporter, in which case the data subject can enforce them against such entity. Such thirdparty liability of the subprocessor shall be limited to its own processing operations under the
+Clauses.
+4. The parties do not object to a data subject being represented by an association or other body if
+the data subject so expressly wishes and if permitted by national law.
+Zoom Global Data Processing Addendum, August 2020 19
+Clause 4
+Obligations of the data exporter
+The data exporter agrees and warrants:
+(a) that the processing, including the transfer itself, of the personal data has been and will continue
+to be carried out in accordance with the relevant provisions of the applicable data protection
+law (and, where applicable, has been notified to the relevant authorities of the Member State
+where the data exporter is established) and does not violate the relevant provisions of that
+State;
+(b) that it has instructed and throughout the duration of the personal data processing services will
+instruct the data importer to process the personal data transferred only on the data exporter's
+behalf and in accordance with the applicable data protection law and the Clauses;
+(c) that the data importer will provide sufficient guarantees in respect of the technical and
+organisational security measures specified in Appendix 2 to this contract;
+(d) that after assessment of the requirements of the applicable data protection law, the security
+measures are appropriate to protect personal data against accidental or unlawful destruction or
+accidental loss, alteration, unauthorised disclosure or access, in particular where the processing
+involves the transmission of data over a network, and against all other unlawful forms of
+processing, and that these measures ensure a level of security appropriate to the risks presented
+by the processing and the nature of the data to be protected having regard to the state of the
+art and the cost of their implementation;
+(e) that it will ensure compliance with the security measures;
+(f) that, if the transfer involves special categories of data, the data subject has been informed or
+will be informed before, or as soon as possible after, the transfer that its data could be
+transmitted to a third country not providing adequate protection within the meaning of
+Directive 95/46/EC;
+(g) to forward any notification received from the data importer or any subprocessor pursuant to
+Clause 5(b) and Clause 8(3) to the data protection supervisory authority if the data exporter
+decides to continue the transfer or to lift the suspension;
+(h) to make available to the data subjects upon request a copy of the Clauses, with the exception of
+Appendix 2, and a summary description of the security measures, as well as a copy of any
+contract for subprocessing services which has to be made in accordance with the Clauses, unless
+the Clauses or the contract contain commercial information, in which case it may remove such
+commercial information;
+(i) that, in the event of subprocessing, the processing activity is carried out in accordance with
+Clause 11 by a subprocessor providing at least the same level of protection for the personal data
+and the rights of data subject as the data importer under the Clauses; and
+(j) that it will ensure compliance with Clause 4(a) to (i).
+Clause 5
+Obligations of the data importer
+The data importer agrees and warrants:
+Zoom Global Data Processing Addendum, August 2020 20
+(a) to process the personal data only on behalf of the data exporter and in compliance with its
+instructions and the Clauses; if it cannot provide such compliance for whatever reasons, it agrees
+to inform promptly the data exporter of its inability to comply, in which case the data exporter
+is entitled to suspend the transfer of data and/or terminate the contract;
+(b) that it has no reason to believe that the legislation applicable to it prevents it from fulfilling the
+instructions received from the data exporter and its obligations under the contract and that in
+the event of a change in this legislation which is likely to have a substantial adverse effect on the
+warranties and obligations provided by the Clauses, it will promptly notify the change to the
+data exporter as soon as it is aware, in which case the data exporter is entitled to suspend the
+transfer of data and/or terminate the contract;
+(c) that it has implemented the technical and organisational security measures specified in
+Appendix 2 before processing the personal data transferred;
+(d) that it will promptly notify the data exporter about:
+(i) any legally binding request for disclosure of the personal data by a law enforcement
+authority unless otherwise prohibited, such as a prohibition under criminal law to
+preserve the confidentiality of a law enforcement investigation,
+(ii) any accidental or unauthorised access, and
+(iii) any request received directly from the data subjects without responding to that request,
+unless it has been otherwise authorised to do so;
+(e) to deal promptly and properly with all inquiries from the data exporter relating to its processing
+of the personal data subject to the transfer and to abide by the advice of the supervisory
+authority with regard to the processing of the data transferred;
+(f) at the request of the data exporter to submit its data processing facilities for audit of the
+processing activities covered by the Clauses which shall be carried out by the data exporter or
+an inspection body composed of independent members and in possession of the required
+professional qualifications bound by a duty of confidentiality, selected by the data exporter,
+where applicable, in agreement with the supervisory authority;
+(g) to make available to the data subject upon request a copy of the Clauses, or any existing contract
+for subprocessing, unless the Clauses or contract contain commercial information, in which case
+it may remove such commercial information, with the exception of Appendix 2 which shall be
+replaced by a summary description of the security measures in those cases where the data
+subject is unable to obtain a copy from the data exporter;
+(h) that, in the event of subprocessing, it has previously informed the data exporter and obtained
+its prior written consent;
+(i) that the processing services by the subprocessor will be carried out in accordance with Clause
+11;
+(j) to send promptly a copy of any subprocessor agreement it concludes under the Clauses to the
+data exporter.
+Zoom Global Data Processing Addendum, August 2020 21
+Clause 6
+Liability
+1. The parties agree that any data subject, who has suffered damage as a result of any breach of
+the obligations referred to in Clause 3 or in Clause 11 by any party or subprocessor is entitled to
+receive compensation from the data exporter for the damage suffered.
+2. If a data subject is not able to bring a claim for compensation in accordance with paragraph 1
+against the data exporter, arising out of a breach by the data importer or his subprocessor of
+any of their obligations referred to in Clause 3 or in Clause 11, because the data exporter has
+factually disappeared or ceased to exist in law or has become insolvent, the data importer agrees
+that the data subject may issue a claim against the data importer as if it were the data exporter,
+unless any successor entity has assumed the entire legal obligations of the data exporter by
+contract of by operation of law, in which case the data subject can enforce its rights against such
+entity.
+The data importer may not rely on a breach by a subprocessor of its obligations in order to avoid
+its own liabilities.
+3. If a data subject is not able to bring a claim against the data exporter or the data importer
+referred to in paragraphs 1 and 2, arising out of a breach by the subprocessor of any of their
+obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data
+importer have factually disappeared or ceased to exist in law or have become insolvent, the
+subprocessor agrees that the data subject may issue a claim against the data subprocessor with
+regard to its own processing operations under the Clauses as if it were the data exporter or the
+data importer, unless any successor entity has assumed the entire legal obligations of the data
+exporter or data importer by contract or by operation of law, in which case the data subject can
+enforce its rights against such entity. The liability of the subprocessor shall be limited to its own
+processing operations under the Clauses.
+Clause 7
+Mediation and jurisdiction
+1. The data importer agrees that if the data subject invokes against it third-party beneficiary rights
+and/or claims compensation for damages under the Clauses, the data importer will accept the
+decision of the data subject:
+(a) to refer the dispute to mediation, by an independent person or, where applicable, by the
+supervisory authority;
+(b) to refer the dispute to the courts in the Member State in which the data exporter is
+established.
+2. The parties agree that the choice made by the data subject will not prejudice its substantive or
+procedural rights to seek remedies in accordance with other provisions of national or
+international law.
+Clause 8
+Cooperation with supervisory authorities
+1. The data exporter agrees to deposit a copy of this contract with the supervisory authority if it so
+requests or if such deposit is required under the applicable data protection law.
+Zoom Global Data Processing Addendum, August 2020 22
+2. The parties agree that the supervisory authority has the right to conduct an audit of the data
+importer, and of any subprocessor, which has the same scope and is subject to the same
+conditions as would apply to an audit of the data exporter under the applicable data protection
+law.
+3. The data importer shall promptly inform the data exporter about the existence of legislation
+applicable to it or any subprocessor preventing the conduct of an audit of the data importer, or
+any subprocessor, pursuant to paragraph 2. In such a case the data exporter shall be entitled to
+take the measures foreseen in Clause 5 (b).
+Clause 9
+Governing Law
+The Clauses shall be governed by the law of the Member State in which the data exporter is established.
+Clause 10
+Variation of the contract
+The parties undertake not to vary or modify the Clauses. This does not preclude the parties from adding
+clauses on business related issues where required as long as they do not contradict the Clause.
+Clause 11
+Subprocessing
+1. The data importer shall not subcontract any of its processing operations performed on behalf of
+the data exporter under the Clauses without the prior written consent of the data exporter.
+Where the data importer subcontracts its obligations under the Clauses, with the consent of the
+data exporter, it shall do so only by way of a written agreement with the subprocessor which
+imposes the same obligations on the subprocessor as are imposed on the data importer under
+the Clauses1
+. Where the subprocessor fails to fulfil its data protection obligations under such
+written agreement the data importer shall remain fully liable to the data exporter for the
+performance of the subprocessor's obligations under such agreement.
+2. The prior written contract between the data importer and the subprocessor shall also provide
+for a third-party beneficiary clause as laid down in Clause 3 for cases where the data subject is
+not able to bring the claim for compensation referred to in paragraph 1 of Clause 6 against the
+data exporter or the data importer because they have factually disappeared or have ceased to
+exist in law or have become insolvent and no successor entity has assumed the entire legal
+obligations of the data exporter or data importer by contract or by operation of law. Such thirdparty liability of the subprocessor shall be limited to its own processing operations under the
+Clauses.
+3. The provisions relating to data protection aspects for subprocessing of the contract referred to
+in paragraph 1 shall be governed by the law of the Member State in which the data exporter is
+established.
+1 This requirement may be satisfied by the subprocessor co-signing the contract entered into
+between the data exporter and the data importer under this Decision.
+Zoom Global Data Processing Addendum, August 2020 23
+4. The data exporter shall keep a list of subprocessing agreements concluded under the Clauses
+and notified by the data importer pursuant to Clause 5 (j), which shall be updated at least once
+a year. The list shall be available to the data exporter's data protection supervisory authority.
+Clause 12
+Obligation after the termination of personal data processing services
+1. The parties agree that on the termination of the provision of data processing services, the data
+importer and the subprocessor shall, at the choice of the data exporter, return all the personal
+data transferred and the copies thereof to the data exporter or shall destroy all the personal
+data and certify to the data exporter that it has done so, unless legislation imposed upon the
+data importer prevents it from returning or destroying all or part of the personal data
+transferred. In that case, the data importer warrants that it will guarantee the confidentiality of
+the personal data transferred and will not actively process the personal data transferred
+anymore.
+2. The data importer and the subprocessor warrant that upon request of the data exporter and/or
+of the supervisory authority, it will submit its data processing facilities for an audit of the
+measures referred to in paragraph 1.
+(stamp of organization)
+Zoom Global Data Processing Addendum, August 2020 24
+APPENDIX 1 TO THE STANDARD CONTRACTUAL CLAUSES
+This Appendix forms part of the Clauses and must be completed and signed by the parties.
+The Member States may complete or specify, according to their national procedures, any additional
+necessary information to be contained in this Appendix.
+Data exporter
+The data exporter is a customer or other user of the data importer’s communication software, services,
+systems and/or technologies.
+Data importer
+The data importer is a provider of communication software, services, systems and/or technologies.
+Data subjects
+Individuals about whom data is provided to Processor via the Services by (or at the direction of) Controller
+or Controller’s end users, including without limitation Controller’s employees, consultants, contractors,
+agents, and end users
+Categories of data
+Any Personal Data provided to Zoom via the Services, by (or at the direction of) Customer or Customer’s
+end users, including but not limited to the following:
+• Cloud Recordings (optional): Mp4 of all video, audio and presentations, M4A of all Audio, Text
+file of all in meeting chats, Audio transcript file
+• In Meeting Chat Logs
+Special categories of data (if appropriate)
+Special categories of data are not required to use the service. The data exporter may submit special
+categories of data to Customer, the extent of which is determined and controlled by the data exporter in
+its sole discretion. Such special categories of data include, but may not be limited to, Personal Data with
+information revealing racial or ethnic origins, political opinions, religious or philosophical beliefs, tradeunion membership, and the processing of data concerning an individual’s health or sex life.
+Processing operations
+The personal data transferred may be subject to the following basic processing activities:
+• account configuration and maintenance;
+• facilitating conferences and meetings between data subjects and third-party participants;
+• hosting and storing personal data arising from such conferences and meetings solely for the
+purposes of providing the services;
+• customer/ client technical and operational support
+Zoom Global Data Processing Addendum, August 2020 25
+APPENDIX 2 TO THE STANDARD CONTRACTUAL CLAUSES
+This Appendix forms part of the Clauses and must be completed and signed by the parties.
+Description of the technical and organisational security measures implemented by the data importer in
+accordance with Clauses 4(d) and 5(c) (or document/legislation attached):
+Please see EXHIBIT B for a description of Zoom’s Security Measures
+
+### DOCUMENT/ Third-Party Subprocessors / https://zoom.us/subprocessors ###
+Third-Party Subprocessors
+Effective 14 October 2020
+See change log
+
+What is a Third-Party Subprocessor:
+
+A subprocessor is a vendor Zoom uses to process data on behalf of our customers, who are the data controllers of that data.
+
+Zoom’s Process for Contracting with Third-Party Subprocessors
+
+Zoom requires its subprocessors to satisfy equivalent obligations as those required from Zoom (as a Data Processor) as outlined in Zoom's Data Processing Agreement (DPA), including but not limited to the requirements to:
+
+process personal data following data controller's (i.e., Customer's) documented instructions (as communicated in writing to the relevant subprocessor by Zoom);
+in connection with the subprocessing activities, use only personnel who are reliable and subject to a contractually binding obligation to observe data privacy and security, to the extent applicable, under applicable data protection laws;
+promptly inform Zoom about any security breach; and
+cooperate with Zoom to address requests from data controllers, data subjects, or data protection authorities, as applicable.
+Except for as provided below, Zoom owns or controls access to the infrastructure that hosts real-time and stored personal data (should the Customer choose to store such content, e.g., recordings and transcripts). Personal data may be shifted among data centers within a region to ensure Zoom's performance and availability. Zoom also works with the listed service subprocessors below to provide the noted functionality.
+
+The following table describes the countries and legal entities engaged in the processing and storage of personal data by Zoom acting as a data processor on behalf of its customers, the data controllers.
+
+Zoom Third-Party Subprocessors
+Name, Purpose,  Location
+Amazon Web Services, Cloud Service Provider, United States, E.U., Canada, Australia
+Oracle, Cloud Service Provider, United States
+Google Firebase, Send push notifications on Android phones, United States
+Apple, Send push notifications on iOS phones, United States
+Rocket Science Group, For webinars and Zoom meetings, United States
+Zendesk, Cloud-based Customer Service Platform, USA

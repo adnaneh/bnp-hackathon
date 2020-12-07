@@ -36,14 +36,16 @@ def evalutate(annotation_path: str):
     ]
     predictions_df = pd.DataFrame(predictions)
     print(f"Number of Predictions : {predictions_df.shape[0]}")
-    assert set(predictions_df.columns.tolist()) == {"response_id", "question_number"}
+    assert set(predictions_df.columns.tolist()) == {
+        "response_id", "question_number"}
 
     # Load annotation file
     ground_truth_df = pd.read_csv(annotation_path)
     print(f"Number of ground truth : {ground_truth_df.shape[0]}")
 
     assert ground_truth_df.shape[0] == predictions_df.shape[0]
-    assert set(ground_truth_df["question_number"].unique().tolist()) == set(predictions_df["question_number"].unique().tolist())
+    assert set(ground_truth_df["question_number"].unique().tolist()) == set(
+        predictions_df["question_number"].unique().tolist())
 
     # Join both dataframe on keys ["question_number", "filename"]
     df_evaluate = pd.merge(
@@ -58,7 +60,8 @@ def evalutate(annotation_path: str):
     for i in range(0, 10):
         company_result = []
         for group in COUNTRY_GROUPED_QUESTIONS:
-            group_formated = [question_number + i * 22 for question_number in group]
+            group_formated = [question_number +
+                              i * 22 for question_number in group]
             score = compute_grouped_metric(df_evaluate, group_formated)
             company_result.append(score)
             group_string = "|".join([str(question_n) for question_n in group])
@@ -68,7 +71,8 @@ def evalutate(annotation_path: str):
                 res_by_questions[group_string] = [score]
         for question in NOT_COUNTRY_QUESTIONS_NUMBERS:
             question_formated = question + i * 22
-            df_filter_question = df_evaluate[(df_evaluate["question_number"] == question_formated)]
+            df_filter_question = df_evaluate[(
+                df_evaluate["question_number"] == question_formated)]
             assert df_filter_question.shape[0] == 1
             truth_value = df_filter_question["response_id_truth"].values[0]
             prediction = df_filter_question["response_id_prediction"].values[0]
@@ -82,7 +86,7 @@ def evalutate(annotation_path: str):
             else:
                 res_by_questions[str(question)] = [score]
 
-        company_score = sum(company_result)/len(company_result)
+        company_score = sum(company_result) / len(company_result)
         positive_results += company_score
         print(f"COMPANY {i} : {company_score*100} % of form completion")
 
@@ -91,7 +95,8 @@ def evalutate(annotation_path: str):
     for question in res_by_questions:
         score_question_details = res_by_questions[question]
         assert len(score_question_details) == 10
-        print(f"QUESTION {question} : {(sum(score_question_details)/10)*100} % of completion for all companies")
+        print(
+            f"QUESTION {question} : {(sum(score_question_details)/10)*100} % of completion for all companies")
 
     # GLOBAL RESULT
     global_result = positive_results / 10
@@ -107,7 +112,8 @@ def compute_grouped_metric(df_evaluate: pd.DataFrame, questions_in_group: List[i
     :param questions_in_group: a list of questions number related to the same global question.
     :return: a score
     """
-    df_filter = df_evaluate[(df_evaluate["question_number"].isin(questions_in_group))]
+    df_filter = df_evaluate[(
+        df_evaluate["question_number"].isin(questions_in_group))]
     assert df_filter.shape[0] == len(questions_in_group)
     # Exact match between the ground truth and prediction
     if df_filter["response_id_truth"].equals(df_filter["response_id_prediction"]):
@@ -133,7 +139,7 @@ def compute_grouped_metric(df_evaluate: pd.DataFrame, questions_in_group: List[i
             elif pred_q != 0:
                 res.append(0)
 
-        return sum(res)/len(res)
+        return sum(res) / len(res)
 
 
 if __name__ == "__main__":

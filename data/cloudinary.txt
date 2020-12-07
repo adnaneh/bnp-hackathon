@@ -1,0 +1,756 @@
+### DOCUMENT/ Privacy Policy / https://cloudinary.com/privacy ###
+We, at Cloudinary Ltd. and its affiliates, put great efforts in making sure that we secure your personally identifiable information and use it properly.
+
+This policy explains our privacy practices for processing your personally identifiable information as a user of our Cloudinary cloud-based image management solution, on the Cloudinary website and through other registration or contact channels (the “Service“). We process your personally identifiable information subject to the terms of this policy.
+
+The summary of this policy will give you a quick and clear view of our practices. Please take the time to read our full policy.
+
+A Summary of The Policy
+The Personally Identifiable Information That You Provide Us – We receive and store any information you enter on our website or give us in any other way. If you register with the Service we will need your name, your company name, email address and password, for registration and notice purposes; your payment details to process your payment for the service and we will receive any personally identifiable information that you provide when contacting us. Read more.
+
+The Personally Identifiable Information That We Collect – We automatically log ‘traffic/session’ information including IP addresses and user agent. We collect session durations and additional activity information. Read more.
+
+The Personally Identifiable Information That You Upload – You can upload content with personally identifiable information. Please use caution and do not upload personally identifiable information of others without their appropriate consent. Read more.
+
+What Do We Do With Personally Identifiable Information? – We maintain the Service, make it better and continue developing it, and protect us and the Service from misuse and law violations. Read more.
+
+Sharing Personally Identifiable Information with Others – We use service providers, for example, to process payments and send email messages. We will transfer information when we change our corporate structure, and we will share the information with our affiliate entities. Read more.
+
+Disclosure of Information to Authorities – We will obey orders and other lawful requirements by authorities to disclose information. Read more.
+
+Aggregated and Analytical Information – Aggregated data is not identifiable. We use it for legitimate business purposes and for standard analytical tools. Read more.
+
+Your Choice – You may opt-out of our mailing lists and terminate your use of the Service. Our Service does not respond to Do Not Track (DNT) signals. Read more.
+
+Specific Provisions for California Residents – If you are a California resident, you are entitled to specific privacy rights. Read more.
+
+Accessing Your Personally Identifiable Information – At any time you can request access to your personally identifiable information. Read more.
+
+Your EU Data Subject Rights – If we process your personal data when you are in the EU, further terms apply to our processing in relation to your rights as a data subject under EU data protection laws. Read more.
+
+Data retention – We retain data to provide the service and for legitimate and lawful purposes, as further explained in the data retention section of the policy. Read more.
+
+Transfer of Data Outside your Territory – We use cloud based services to store and process data in the European Union and in the United States and will store them at additional sites, at our discretion. These service providers provide us adequate security and confidentiality commitments. Read more.
+
+Eu_us_privacy_shieldEU-US Privacy Shield – We are self-certified to the EU-US Privacy Shield Framework, in connection with processing personally identifiable information from EU member states. The Federal Trade Commission (FTC) has jurisdiction over our compliance. Read more.
+
+CookiesCookies – We use cookies to make it easier for you to log-in and to facilitate Service activities. Read more.
+
+Information Security – We implement systems, applications and procedures to secure your personally identifiable information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. Read more.
+
+Dispute Resolution – Contact us at: privacy@cloudinary.com or write us for every request and complaint. We will make good-faith efforts to resolve any existing or potential dispute with you. As an EU data subject, you may refer unresolved complaints to our designated recourse mechanism and invoke arbitration in certain cases. Further details are available at: https://www.privacyshield.gov/participant?id=a2zt0000000011jAAA&status=Active. Read more.
+
+Changes to this Privacy Policy – We will update our policy from time to time after giving proper notice. Read more.
+
+Incorporation to the Terms of Use – This policy is an integral part of the Cloudinary Terms of Use or, if applicable, of any other Service subscription agreement entered into between you (or the entity that you are acting on its behalf) and us.
+
+Contact Us – Please contact us at: privacy@cloudinary.com for further information.
+
+The Cloudinary Privacy Policy
+The_personally_identifiable_information_that_you_provide_usThe Personally Identifiable Information That You Provide Us
+We receive and store any information you enter on our website or give us in any other way.
+
+You provide most of your information through forms you fill out to contact us, access the Cloudinary platform, and access Cloudinary assets. You also provide this information by filling out your profile on the Cloudinary platform.
+
+If you register with the Service through our website at: www.cloudinary.com, or through a separate subscription agreement with us, then as part of such registration we will ask you to provide personally identifiable information, including your name, your company name, your email address and password.
+
+As a paying user of the Service, we will receive your payment transaction details (for example, your name, the amount paid and the date of payment), from the payment service provider that processed your payment.
+
+When you contact us, or when we contact you, we will receive and process any personally identifiable information that you provide us.
+
+The_personally_identifiable_information_that_we_collect
+The Personally Identifiable Information That We Collect
+Like many websites, we use “cookies” (for further information about cookies, please see our Cookies and Similar Tracking Technologies Policy), and we obtain information when your browser accesses our website.
+
+Examples of the information we collect and analyze include the Internet Protocol (IP) address used to connect your access device to the Internet; login; e-mail address; password; access device and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform.
+
+When you use the Service, we collect information about your Service activity, for example your log-in and log-out time, the duration of Service sessions, the content uploaded and downloaded, viewed web-pages or specific content on web-pages, activity measures and geo-location.
+
+The_personally_identifiable_information_that_you_upload
+The Personally Identifiable Information That You Upload
+The content you upload to the Service, whether from your own device or from a cloud-based hosting service, including any data, text, graphic, audio and audio-visual files, may include personally identifiable information. The content that you upload and designate as public, will be accessible to others.
+
+Please use caution when uploading the content and avoid any involuntary disclosure of your personally identifiable information or disclosure of sensitive personally identifiable information or disclosure of others’ personally identifiable information without their consent.
+
+What_do_we_do_with_personally_identifiable_information
+What Do We Do With Personally Identifiable Information?
+We use the personally identifiable information we collect and receive to provide the Service to you and to other users, to enable the Service’s tools and features, to study and analyze the functionality of the Service and users’ activities, to provide support, to measure Service activity for pricing purposes, to maintain the Service, to make it better and to continue developing the Service.
+
+We will use your email address to contact you when necessary, to send you reminders and to provide you information and notices about the Service. We will include commercial and marketing information about our Service and related services to the Cloudinary platform.
+
+We obey the law and expect you to do the same. If necessary, we will use your personally identifiable information to enforce our terms, policies and legal agreements, to comply with court orders and warrants, and assist law enforcement agencies, to collect debts, prevent fraud, misappropriation, infringements, identity thefts and any other misuse of the Service, and to take any action in any legal dispute and proceeding.
+
+We commit to process personally identifiable information solely for the purposes described in this policy.
+
+Sharing_information_with_others
+Sharing Personally Identifiable Information with Others
+We do not sell, rent or lease your personally identifiable information. We will share your personally identifiable information with service providers and other third parties, if necessary to fulfill the purposes for collecting the information. Any such third party will commit to protect your privacy as required under the applicable law and this policy.
+
+For example, we will share your payment transaction details with the payment services providers, to process and verify your payments. We will use a service provider to manage our email messages transmission.
+
+We will also share your personally identifiable information with our affiliates. These mean companies within the Cloudinary group and include subsidiaries, sister-companies and parent companies, with the express provision that their use of your personally identifiable information will comply with this policy.
+
+We will report any content that you upload and share user personally identifiable information, if we believe, in our sole discretion that such content is illegal or abusive or may violate any third party rights.
+
+Additionally, a merger, acquisition or any other structural change will require us to transfer your personally identifiable information to another entity, as part of the structural change, provided that the receiving entity will comply with this policy.
+
+We will be liable for onward transfers to third parties in violation of the Privacy Shield Principles. For further information, please below the EU-US Privacy Shield chapter of this policy.
+
+Disclosure_of_information_to_authorities
+Disclosure of Information to Authorities
+We will need to disclose personally identifiable information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Aggregated_and_analytical_information
+Aggregated and Analytical Information
+We use standard analytics tools. The privacy practices of these tools are subject to their own privacy policies and they use their own cookies to provide their service (for further information about cookies, please see the ‘Cookies’ section in this policy).
+
+We use the standard analytics tools of Google Analytics and we will use additional or other analytics tools, from time to time, to learn about how you and other users use the Service, in support of our Service-related activities and operations.
+
+The privacy practices of these tools are subject to their own privacy policies. See Google Analytics Privacy Policy at: http://www.google.com/analytics/learn/privacy.html.
+
+We use anonymous, statistical or aggregated information and will share it with our partners for legitimate business purposes. It has no effect on your privacy because there is no reasonable way to extract data from the aggregated information that we or others can associate specifically to you.
+
+We will share your personally identifiable information only subject to the terms of this policy, or subject to your prior consent.
+
+Your_choice
+Your Choice
+At any time, you can unsubscribe our mailing lists or newsletters, by accessing our unsubscribe page.
+
+At any time you can stop using the Cloudinary website. Termination of your Cloudinary Service account is subject to the terms of your subscription agreement with us.
+
+Note that if one of our customers uploaded content to our Service with your personally identifiable information , then you can contact our customer who uploaded that content and request to remove your personally identifiable information.
+
+At any time, you can exercise your following opt-out options:
+
+object to the disclosure of your personally identifiable information to a third party, other than to third parties who act as our agents to perform tasks on our behalf and under our instructions; or,
+object to the use of your personally identifiable information for a purpose that is materially different from the purposes for which we originally collected such information, pursuant to this policy, or you subsequently authorized such use.
+You can exercise your choice by contacting us at: privacy@cloudinary.com.
+
+We request and collect minimal personally identifiable information that we need for the purposes that we describe in this policy. Following the termination or expiration of the Service, we will stop collecting any personally identifiable information from or about you.
+
+However, we will store and continue using or making available your personally identifiable information according with our data retention section in this policy.
+
+Web browsers offer a “Do Not Track” (“DNT”) signal. A DNT signal is a HTTP header field indicating your preference for tracking your activities on a service or through cross-site user tracking. Our Service does not respond to DNT signals.
+
+
+Specific Provisions for California Residents
+This section applies solely to users of our Service who reside in the State of California.
+
+The personal information that we collect
+
+In the preceding twelve (12) months we have collected the following categories of personal information:
+
+Identifiers and Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)), such as name, email address and IP address.
+Commercial information, such as payment details.
+Internet or other similar network activity.
+Geolocation data.
+Inferences drawn from other personal information.
+Please note that the above list includes the categories of personal information that we are aware of. We may have been be collecting other categories of personal information which you have uploaded to our Service as further described above under the section titled The Personally Identifiable Information That You Upload.
+
+Our business purposes for collecting your personal information
+
+We collect your personal information for various business purposes, such as to provide you with the Service and make it better, all as described above under the section titled What Do We Do With Personally Identifiable Information.
+
+The categories of sources from which your personal information is collected
+
+We obtain the categories of personal information listed above from various sources, including directly from you and from your Services activities and from third party service providers, as further described above under the section titled The Personally Identifiable Information That We Collect.
+
+The categories of third parties with whom we share your personal information
+
+We may share your personal information with various third parties such as our service providers and our affiliates, as further described above under the section titled Sharing Personally Identifiable Information with Others.
+
+The categories of personal information disclosed to said third parties:
+
+In the preceding twelve (12) months we have disclosed the following categories of personal information for business purposes:
+
+Identifiers and Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)), such as name, email address and IP address.
+Commercial information, such as payment details.
+Internet or other similar network activity.
+Inferences drawn from other personal information.
+In the preceding twelve (12) months, we have not sold personal information.
+
+Your Rights as a California Resident
+
+You are entitled to the following specific rights under the California Consumer Privacy Act (‘CCPA’) in relation to your personal information:
+
+Access to Specific Information and Data Portability Rights
+
+You have the right to request that we will disclose certain information to you about our collection and use of your personal information over the past 12 months. After verifying your request, we will disclose to you:
+
+The categories of personal information we collected about you;
+The categories of sources for the personal information we collected about you;
+Our business or commercial purpose for collecting that personal information;
+The categories of third parties with whom we share that personal information;
+The specific pieces of personal information we collected about you;
+If we disclosed your personal information for a business purpose, we will provide you with a list which will identify the personal information categories that each category of recipient obtained.
+Deletion Rights
+
+You have the right to request that we delete your personal information. Upon confirmation of your request, we will delete (and direct our service providers to delete) your personal information from our records, unless an exception under applicable law applies.
+
+Exercising Your Rights
+
+To exercise the access, data portability, and deletion rights described above, please submit your request to us by sending an email to: privacy@cloudinary.com.
+
+Only you or a person authorized to act on your behalf, may make a request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child.
+
+A request for access can be made by you only twice within a 12-months period.
+
+We cannot respond to your request or provide you with the requested personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. We will only use the personal information provided in your request to verify your identity or authority to make the request.
+
+We will do our best to respond to your request within 45 days of its receipt. If we require more time (up to additional 45 days), we will inform you of the reason and extension period in writing. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option.
+
+Any disclosures that we provide will only cover the 12-month period preceding receipt of your request.
+
+The response we provide will also explain the reasons for our inability to comply with your request, if applicable.
+
+We do not charge a fee to process or respond to your request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will inform you of the reasons for such decision and provide you with a cost estimate before processing further your request.
+
+Accessing_your_personally_identifiable_information
+Accessing Your Personally Identifiable Information
+If you find that the information on your account is not accurate, complete or up-to-date, please provide us the necessary information to correct it.
+
+At any time, you can contact us at: privacy@cloudinary.com and request to access the personally identifiable information that we keep about you. We will ask you to provide us certain credentials to make sure that you are who you claim to be and to the extent required under the applicable law, will make good-faith efforts to locate your personally identifiable information that you request to access..
+
+If you are eligible for the right of access under the applicable law, you can obtain confirmation from us of whether we are processing personally identifiable information about you, and receive a copy of that data, so that you could –
+
+verify its accuracy and the lawfulness of its processing;
+request the correction, amendment or deletion of your personally identifiable information if it is inaccurate or if you believe that the processing of your personally identifiable information is in violation of the applicable law or the Privacy Shield Principles (please see the EU-US Privacy Shield section in this policy for further information).
+We will use judgement and due care to redact from the data which we will make available to you, personally identifiable information related to others.
+
+Your_eu_data_subject_rights
+Your EU Data Subject Rights
+If EU data protection laws apply to the processing of your personal data by Cloudinary, then the following terms apply:
+
+For the purposes of the Cloudinary media management platform service, we are a data processor and our customers are data controllers, or data processors as well.
+
+For the purposes of the Cloudinary media management platform service, we are a data processor and our customers are data controllers, or data processors as well. Cloudinary’s data processing addendum, which is available at: https://cloudinary.com/gdpr/dpa, applies to such processing.
+.
+
+Where we process your personal data as a data controller, the processing is based on the following lawful grounds:
+
+All processing of your personal data which are not based on the lawful grounds indicated below, are based on your consent.
+We process your account and payment details to perform the contract with you.
+We will process your personal data to comply with a legal obligation and to protect your and others’ vital interests.
+We will further rely on our legitimate interests, which we believe are not overridden by your fundamental rights and freedoms, for the following purposes:
+Communications with you, including direct marketing where you are our client or a user of our client, or where you make contact with us through our website and other digital assets.
+Cyber security
+Support, customer relations, service operations
+Enhancements and improvements to yours and other users’ experience with our services.
+Fraud detection and misuse of the Service.
+In addition to your rights under other sections in this policy, you have the following rights:
+
+AT ANY TIME, CONTACT US IF YOU WANT TO WITHDRAW YOUR CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA. EXERCISING THIS RIGHT WILL NOT AFFECT THE LAWFULNESS OF PROCESSING BASED ON CONSENT BEFORE ITS WITHDRAWAL.
+Request to delete or restrict access to your personal data. We will review your request and use our judgment, pursuant to the provisions of the applicable law, to reach a decision about your request.
+If you exercise one (or more) of the above-mentioned rights, in accordance with the provisions of applicable law, you may request to be informed that third parties that hold your personal data, in accordance with this policy, will act accordingly.
+You may ask to transfer your personal data in accordance with your right to data portability.
+You may object to the processing of your personal data for direct marketing purposes. Additional information about this right is available under the Choice section in this policy.
+You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affecting you.
+You have a right to lodge a complaint with a data protection supervisory authority of your habitual residence, place of work or of an alleged infringement of the GDPR.
+A summary and further details about your rights under EU data protection laws, is available on the EU Commission’s website at: https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en.
+
+Note that when you send us a request to exercise your rights, we will need to reasonably authenticate your identity and location. We will ask you to provide us credentials to make sure that you are who you claim to be and will further ask you questions to understand the nature and scope of your request.
+
+If we need to delete your personal data following your request, it will take some time until we completely delete residual copies of your personal data from our active servers and from our backup systems.
+
+If you have any concerns about the way we process your personal data, you are welcome to contact our privacy team at: privacy@cloudinary.com. We will look into your inquiry and make good-faith efforts to respond promptly.
+
+Data_retention
+Data Retention
+We retain different types of personally identifiable information for different periods, depending on the purposes for processing the information, our legitimate business purposes as well as pursuant to legal requirements under the applicable law.
+
+For example, we will need to keep the information about the payment transactions that you made for several years due to tax related requirements, for accounts settling, record keeping, archiving and legal issues.
+
+We will maintain your contact details, to help us stay in contact with you. At any time before or after the termination of your account, you can contact our privacy team at: privacy@cloudinary.com and request to delete your contact details. Note that we may keep your details without using them unless necessary, and for the necessary period of time, for legal requirements and proceedings.
+
+We will keep aggregated non-identifiable information without limitation, and to the extent reasonable we will delete or de-identify potentially identifiable information, when we no longer need to process the information.
+
+In any case, as long as you use the Service, we will keep information about you, unless the law requires us to delete it, or if we decide to remove it at our discretion, according to the terms of this policy.
+
+Transfer_of_data_outside_your_territory
+Transfer of Data Outside Your Territory
+The Service is a web-based service. We store and process information within the European Union and in the United States on our cloud-based services’ sites.
+
+From time to time, we will make operational decisions which will have an impact on the sites in which we maintain personally identifiable information. We make sure that our data hosting service providers, provide us with adequate confidentiality and security commitments.
+
+If you are a resident in a jurisdiction where transfer of your personally identifiable information to another jurisdiction requires your consent, then you provide us your express and unambiguous consent to such transfer. You can contact our privacy team at: privacy@cloudinary.com for further information about data transfer.
+
+Eu_us_privacy_shield
+EU-US Privacy Shield
+We comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personally identifiable information from European Union member countries.
+
+We adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
+
+If there is any conflict between this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/ The Federal Trade Commission (FTC) has jurisdiction over our compliance with the EU-US Privacy Shield Framework.
+
+Cookies
+Cookies
+We use cookies and similar tracking technologies to make sure that our Service is continuously improved and meets your needs.
+
+Please view our Cookies and Similar Tracking Technologies Policy for more information on our use of cookies.
+
+
+Information Security
+We and our hosting services implement systems, applications and procedures to secure your personally identifiable information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information.
+
+These measures provide sound industry standard security. However, although we make efforts to protect your privacy, we cannot guarantee that the Service will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+
+
+Dispute Resolution
+We do periodical assessments of our data processing and privacy practices, to make sure that we comply with this policy, to update the policy when we believe that we need to, and to verify that we display the policy properly and in an accessible manner. If you have any concerns about the way we process your personally identifiable information, you are welcome to contact our privacy team at: privacy@cloudinary.com, or write to us. Our address is published on our website at: www.cloudinary.com and, if applicable, is indicated in your subscription agreement with us.
+
+We will look into your query and make good-faith efforts to resolve any existing or potential dispute with you.
+
+In compliance with the EU-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personally identifiable information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact our privacy team at: privacy@cloudinary.com.
+
+We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to the EU Data Protection Authorities. Please contact the EU Data Protection Authorities for more information and to file a complaint, at no charge. Further details, including in relation to filing a complaint is available on the Cloudinary Privacy Shield page at: https://www.privacyshield.gov/participant?id=a2zt0000000011jAAA&status=Active.
+
+Additionally, if you are an EU data subject, you can invoke binding arbitration in certain cases, as Annex I of the EU-U.S. Privacy Shield Agreement describes. For further information, please visit the Privacy Shield website at: www.privacyshield.gov, or contact our privacy team.
+
+
+Changes to this Privacy Policy
+From time to time, we will update this policy. If the updates have minor if any consequences, they will take effect 7 days after we post a notice on the Service’s website. Substantial changes will be effective 30 days after we initially posted the notice.
+
+Until the new policy takes effect, if it materially reduces the protection of your privacy right under the then-existing policy you can choose not to accept it and terminate your use of the Service. Continuing to use the Service after the new policy takes effect means that you agree to the new policy. Note that if we need to adapt the policy to legal requirements, the new policy will become effective immediately or as required by law.
+
+Incorporation to the Terms of Use
+This policy is an integral part of the Cloudinary Terms of Use or, if applicable, of any other Service subscription agreement entered into between you (or the entity that you are acting on its behalf) and us.
+
+### DOCUMENT/ CLOUDINARY DATA PROCESSING ADDENDUM / https://cloudinary.com/gdpr/dpa ###
+CLOUDINARY DATA PROCESSING ADDENDUM
+With effect as of its execution by Cloudinary and Customer, this Data Processing Addendum (“DPA”)
+forms part of the Cloudinary Subscription Agreement ("Subscription Agreement") between Cloudinary
+Ltd., or the Cloudinary Ltd. subsidiary from which Customer is acquiring (directly or through an authorized
+distributor or reseller) the Service, as applicable (collectively, “Cloudinary”) and the person or entity who
+acquires the Service under the Subscription Agreement (“Customer”). This DPA reflects the parties’
+agreement with regard to the Processing of Personal Data. All capitalized terms not defined herein will
+have the meaning set forth in the Subscription Agreement or under the Privacy Laws and Regulations.
+DATA PROCESSING TERMS
+In the course of providing the Cloudinary's image and video management service ("Service") to Customer
+pursuant to the Subscription Agreement, Cloudinary may Process Personal Data on behalf of Customer.
+The parties agree to comply with the following provisions with respect to Personal Data Processed by
+Cloudinary as part of the Service for Customer.
+1. DEFINITIONS
+1.1. "Cloudinary Information Security Documentation" means the information security
+documentation applicable to the specific Service purchased by Customer, as updated from time to
+time, and made available by Cloudinary upon request and subject to adequate confidentiality
+arrangements.
+1.2. "Data Subject" means an identified or identifiable natural person; an identifiable natural person
+is one who can be identified, directly or indirectly, in particular by reference to an identifier such
+as a name, an identification number, location data, an online identifier or to one or more factors
+specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that
+natural person. Data Subject includes Consumer as such term is defined under the CCPA.
+1.3. "Personal Data" means any information relating to a Data Subject. Personal Data includes
+Personal Information as such term is defined under the CCPA.
+1.4. "Personal Data Breach" means a breach of security leading to the accidental or unlawful
+destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted,
+stored or otherwise processed.
+1.5. "Personnel" means persons authorized by Cloudinary to Process Customer's Personal Data.
+1.6. “Privacy Laws and Regulations” means Regulation (EU) 2016/679 of the European Parliament
+and of the Council of 27 April 2016 on the protection of natural persons with regard to the
+processing of personal data and on the free movement of such data and repealing Directive
+95/46/EC (“GDPR”) and California Consumer Privacy Act of 2018 Cal. Civil Code § 1798.100 et
+seq. (“CCPA”).
+1.7. "Privacy Shield" means the EU-US Privacy Shield Framework, as administered by the U.S.
+Department of Commerce and approved by the European Commission pursuant to Decision
+C(2016)4176 of July 12, 2016.
+1.8. "Privacy Shield Principles" mean the Privacy Shield Principles, as supplemented by the
+Supplemental Principles and contained in Annex II to the European Commission Decision
+C(2016)4176 of July 12, 2016, as may be amended, superseded or replaced.
+1.9. "Process" or "Processing" means any operation or set of operations which is performed upon
+Personal Data, whether or not by automatic means, such as collection, organization, storage,
+adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or
+otherwise making available, alignment or combination, blocking, erasure or destruction.
+1.10. "Standard Contractual Clauses" mean the annex to the EU Commission Decision of 5 February
+2010 on standard contractual clauses for the transfer of personal data to processors established in
+third countries under Directive 95/46/EC of the European Parliament and of the Council.
+2. DATA PROCESSING
+2.1. Scope and Roles. This DPA applies when Personal Data is Processed by Cloudinary as part of
+Cloudinary’s provision of the Service. In this context, for the purposes of the GDPR, Customer is
+the Data Controller and Cloudinary is the Data Processor and for the purposes of the CCPA,
+Customer is a Business and Cloudinary is the Service Provider.
+2.2. Subject Matter, Duration, Nature and Purpose of Processing. Cloudinary processes Customer's
+Personal Data as part of providing Customer with the Service, pursuant to the specifications and
+for the duration under the terms of the Subscription Agreement.
+2.3. Type of Personal Data and Categories of Data Subjects. Cloudinary has no control over the
+type of Personal Data that Customer and users authorized by Customer upload to the Service.
+Accordingly, Cloudinary has no control over the categories of Data Subjects that Customer's
+Personal Data relates to.
+2.4. Instructions for Cloudinary’s Processing of Personal Data. Cloudinary will only Process
+Personal Data on behalf of and in accordance with Customer’s instructions. Customer instructs
+Cloudinary to Process Personal Data for the following purposes: (i) Processing related to the
+Service in accordance with the terms of the Subscription Agreement; and (ii) Processing to comply
+with other reasonable instructions provided by Customer where such instructions are consistent
+with the terms of the Subscription Agreement. Customer undertakes to provide Cloudinary with
+lawful instructions only. Cloudinary will inform Customer immediately, if in Cloudinary's opinion
+an instruction infringes any provision under the GDPR and will be under no obligation to follow
+such instruction, until the matter is resolved in good-faith between the parties. As required under
+Privacy Laws and Regulations, Customer will provide all necessary notices to relevant Data
+Subjects and secure all necessary permissions and consents from them, for the Processing of
+Personal Data by Cloudinary pursuant to this DPA.
+2.5. Cloudinary will not (1) Sell Personal Data, or (2) retain, use or disclose Personal Data (i) for any
+purpose other than for the specific purpose of performing the Service, or (ii) outside of the direct
+business relationship between Customer and Cloudinary, except as permitted under the applicable
+Privacy Laws and Regulations. Cloudinary acknowledges and will comply with the restrictions set
+forth in this Section 2.5.
+3. ASSISTANCE
+3.1. Taking into account the nature of the Processing, Cloudinary will assist Customer by appropriate
+technical and organizational measures, insofar as this is possible, for the fulfilment of Customer's
+obligation to respond to requests for exercising the Data Subjects' rights under the GDPR.
+Cloudinary will further assist Customer in ensuring compliance with Customer's obligations in
+connection with the security of Processing, notification of a Personal Data Breach to supervisory
+authorities and affected Data Subjects, Customer's data protection impact assessments and
+Customer's prior consultation with supervisory authorities, in relation to Cloudinary's Processing
+of Personal Data under this DPA. Except for negligible costs, Customer will reimburse Cloudinary
+with costs and expenses incurred by Cloudinary in connection with the provision of assistance
+Customer under this DPA.
+4. ASSISTANCE
+4.1. Limitation of Access. Cloudinary will ensure that Cloudinary’s access to Personal Data is limited
+to those personnel who require such access to perform the Subscription Agreement.
+4.2. Confidentiality. Cloudinary will impose appropriate contractual obligations upon its personnel
+engaged in the Processing of Personal Data, including relevant obligations regarding
+confidentiality, data protection, and data security. Cloudinary will ensure that its personnel
+engaged in the Processing of Personal Data are informed of the confidential nature of the Personal
+Data, have received appropriate training in their responsibilities, and have executed written
+confidentiality agreements. Cloudinary will ensure that such confidentiality agreements survive
+the termination of the employment or engagement of its personnel.
+5. OTHER PROCESSORS
+5.1. Cloudinary may engage third-party service providers to process Personal Data on behalf of
+Customer ("Other Processors"). Customer hereby provides Cloudinary with a general
+authorization to engage the Other Processors listed in the Other Processors List available at:
+https://cloudinary.com/trust/subprocessors.
+5.2. All Other Processors have entered into written agreements with Cloudinary that bind them by
+substantially the same material obligations under this DPA.
+5.3. Where an Other Processor fails to fulfil its data protection obligations in connection with the
+Processing of Personal Data under this DPA, Cloudinary will remain fully liable to Customer for
+the performance of that Other Processor's obligations.
+5.4. Cloudinary may engage with a new Other Processor ("New Processor") to Process Customer
+Personal Data on Customer's behalf. Customer may object to the Processing of Customer's
+Personal Data by the New Processor, for reasonable and explained grounds, within five (5)
+business days following Cloudinary's written notice to Customer of the intended engagement with
+the New Processor. If Customer timely sends Cloudinary a written objection notice, the parties
+will make a good-faith effort to resolve Customer's objection. In the absence of a resolution,
+Cloudinary will make commercially reasonable efforts to provide Customer with the same level of
+Service, without using the New Processor to Process Customer's Personal Data.
+6. DATA TRANSFER
+6.1. Cloudinary is self-certified to and complies with the Privacy Shield and will maintain its selfcertification to and compliance with the Privacy Shield throughout the period of providing the
+Service to the Customer under the Subscription Agreement. Transfer of Personal Data related to
+EU Data Subjects to Cloudinary's US-based sites is made pursuant to the terms of the Privacy
+Shield.
+6.2. All Cloudinary third-party service providers to whom Cloudinary transfers Personal Data to
+provide the Service – (i) are certified to the Privacy Shield, or (ii) undertook to provide at least the
+same level of protection for the Personal Data as is required by the Privacy Shield Principles, or
+(iii), have executed the Standard Contractual Clauses, or (iv) have executed or undertook to comply
+with such other binding instruments, certifications or self-certifications for the lawful transfer of
+Customer's Personal Data related to Data Subjects within the EU to other territories, as required
+and available under the GDPR, or (v) are established in a country that was acknowledged by the
+EU Commission as providing adequate protection to Personal Data.
+6.3. If the Privacy Shield is invalidated, or if Cloudinary or any of its third-party service providers are
+no longer able to continue complying with the Privacy Shield, or provide the same level of
+protection as under the Privacy Shield Principles, then Cloudinary will take such measures as
+required under the GDPR to continue facilitating the lawful Processing in the US of Customer's
+Personal Data related to Data Subjects within the EU by Cloudinary and its Other Processors.
+7. SECURITY
+7.1. Controls. Cloudinary will maintain administrative, physical and technical safeguards for the
+protection of the security, confidentiality and integrity of Customer's Personal Data, pursuant to
+the Cloudinary Information Security Documentation and the ISO 27001 standard. Cloudinary
+regularly monitors compliance with these safeguards. Cloudinary will not materially decrease the
+overall security of the Service during the term of providing the Service to the Customer under the
+Subscription Agreement.
+8. PERSONAL DATA BREACH MANAGEMENT AND NOTIFICATION
+8.1. Cloudinary will maintain security incident management policies and procedures and will notify
+Customer without undue delay after becoming aware of a Personal Data Breach related to
+Customer's Personal Data which Cloudinary, or any of Cloudinary's Other Processors, Process.
+Cloudinary's notice will at least: (a) describe the nature of the Personal Data Breach including
+where possible, the categories and approximate number of Data Subjects concerned and the
+categories and approximate number of Personal Data records concerned; (b) communicate the
+name and contact details of the Cloudinary's data protection team, which will be available to
+provide any additional available information about the Personal Data Breach; (c) describe the
+likely consequences of the Personal Data Breach; (d) describe the measures taken or proposed to
+be taken by Cloudinary to address the Personal Data Breach, including, where appropriate,
+measures to mitigate its possible adverse effects. Where, and in so far as, it is not possible to
+provide the information at the same time, the information may be provided in phases without undue
+further delay.
+8.2. Cloudinary will work diligently, pursuant to its incident management policies and procedures to
+promptly identify and remediate the cause of the Personal Data Breach and will inform Customer
+accordingly.
+8.3. Cloudinary's liability for a Personal Data Breach toward Customer and any third party is subject
+to the following limitations: (a) the Personal Data Breach is a result of a breach of Cloudinary's
+information security obligations under this DPA; and (b) the Personal Data Breach is not caused
+by: (i) acts or omissions of Customer, or any person acting on behalf of or jointly with Customer
+(collectively "Customer Representatives"); (ii) Customer Representatives' instructions to
+Cloudinary; (iii) a willful, deliberate or malicious conduct by a third party; or (iv) acts of God or
+force major, including, without limitation, acts of war, terror, state-supported attacks, acts of state
+or governmental action prohibiting or impeding Cloudinary from performing its information
+security obligations under the Agreement and natural and man-made disasters.
+9. AUDIT AND DEMONSTRATION OF COMPLIANCE
+9.1. Cloudinary will make available to Customer all information necessary for Customer to
+demonstrate compliance with the obligations laid down under Article 28 to the GDPR in relation
+to the Processing of Personal Data under this DPA by Cloudinary and its Other Processors.
+9.2. To the extent required under applicable Privacy Laws and Regulations, Cloudinary will allow for
+and contribute to audits, including inspections, conducted by Customer or another auditor
+mandated by Customer, in relation to Cloudinary's obligations under this DPA. Cloudinary may
+satisfy the audit obligation under this section by providing Customer with attestations,
+certifications and summaries of audit reports conducted by accredited third party auditors. Audits
+by Customer are subject to the following terms: (i) the audit will be pre-scheduled in writing with
+Cloudinary, at least forty-five (45) days in advance and will be performed not more than once a
+year (except for an audit following a Personal Data Breach); (ii) the auditor will execute a nondisclosure and non-competition undertaking toward Cloudinary; (iii) the auditor will not have
+access to non-Customer data (iv) Customer will make sure that the audit will not interfere with or
+damage Cloudinary's business activities and information and network systems; (v) Customer will
+bear all costs and assume responsibility and liability for the audit; and (vi) Customer will receive
+only the auditor's report, without any Cloudinary 'raw data' materials, will keep the audit results in
+strict confidentiality and will use them solely for the specific purposes of the audit under this
+section; (vii) at the request of Cloudinary, Customer will provide it with a copy of the auditor's
+report; and (viii) As soon as the purpose of the audit is completed, Customer will permanently
+dispose of the audit report.
+10. DELETION OF PERSONAL DATA
+10.1. To the extent required under applicable Privacy Laws and Regulations, at the choice of Customer,
+Cloudinary will delete or return all Customer's Personal Data to Customer after the end of the
+provision of Services relating to Processing of Customer's Personal Data, and delete existing copies
+unless a law of the European Union or an EU member state requires the storage of the Personal
+Data.
+11.ANONYMIZED AND AGGREGATED DATA
+11.1. Cloudinary may process data based on extracts of Personal Data on an aggregated and nonidentifiable forms, for Cloudinary's legitimate business purposes, including for testing,
+development, controls, and operations of the Service, and may share and retain such data at
+Cloudinary's discretion.
+12.DISPUTE RESOLUTION
+12.1. The parties agree to communicate regularly about any open issues or process problems that require
+resolution. The parties will attempt in good faith to resolve any dispute related to this DPA as a
+precondition to commence legal proceedings, first by direct communications between the persons
+responsible for administering this DPA and next by negotiation between executives with authority
+to settle the controversy. Either party may give the other party a written notice of any dispute not
+resolved in the normal course of business. Within two (2) business days after delivery of the notice,
+the receiving party will submit to the other party a written response. The notice and the response
+will include a statement of each party’s position and a summary of arguments supporting that
+position and the name and title of the executive who will represent that party. Within five (5)
+business days after delivery of the disputing party’s notice, the executives of both parties will meet
+at a mutually acceptable time and place, including by phone, and thereafter as often as they
+reasonably deem necessary, to resolve the dispute. All reasonable requests for information made
+by one party to the other will be honored. All negotiations pursuant to this clause are confidential
+and will be treated as compromise and settlement negotiations for purposes of applicable rules of
+evidence.
+13.LIMITATION OF LIABILITY
+13.1. Each party’s liability arising out of or related to this DPA (whether in contract, tort, or under any
+other theory of liability) is subject to the section ‘Limitation of Liability’ of the Agreement, and
+any reference in such section to the liability of a party means that party and its Affiliates in the
+aggregate.
+14.TERM
+14.1. This DPA will commence on the later of the date of its execution or the effective date of the
+Subscription Agreement to which it relates and will continue until the Subscription Agreement
+expires or is terminated.
+15.COMPLIANCE
+15.1. Cloudinary is responsible to make sure that all relevant Cloudinary's personnel adhere to this DPA.
+15.2. Cloudinary's compliance team can be reached at: privacy@cloudinary.com
+
+### DOCUMENT/ Terms of Use / https://cloudinary.com/tos ###
+Welcome to Cloudinary, a cloud-based image management solution (the “Service”, as more fully described below). The Service is owned and Operated by Cloudinary Ltd. and these Terms of Use will govern the relationship between you and Cloudinary Ltd., or the Cloudinary Ltd. subsidiary from which you are acquiring (directly or through an authorized distributor or reseller) the Cloudinary Services, as applicable ("Cloudinary")
+
+PLEASE READ CAREFULLY THE FOLLOWING TERMS AND CONDITIONS (THE "TERMS" OR "TERMS OF USE"), BECAUSE THEY, ALONG WITH OUR PRIVACY POLICY AND OUR DMCA COPYRIGHT POLICY, CONSTITUTE A BINDING AGREEMENT BETWEEN YOU, THE INDIVIDUAL OR THE ENTITY ACCESSING OR USING THE SERVICE, AND CLOUDINARY. BY ACCESSING THE SERVICE OR BY USING IT IN ANY MANNER, YOU SIGNIFY YOUR ACCEPTANCE OF THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS OF USE, YOU MAY NOT ACCESS OR USE THE SERVICE.
+
+From time to time, Cloudinary may change the Terms to meet technical, operational and legal changes. Cloudinary will post a notice about changes made to the Terms on Cloudinary's website, and may send you a notice by email, reasonable time before the changes take effect. You may choose to deny the amended Terms and if Cloudinary does not agree that such amended terms will not apply to you, terminate your account. By continuing to use your account with the Service after the new changes have taken effect, you indicate your agreement to the amended Terms.
+
+About the Service
+The Service is an online image and video management platform. The Service offers a feature-rich solution for websites' and applications' use of images.
+
+From time to time, Cloudinary may modify or enhance the Service, and may offer additional tools and features, free-of-charge or subject to additional fees. The additional tools and features may be governed by additional or different terms of service.
+
+Grant of Right
+Subject to these Terms and to the payment of fees, if applicable, Cloudinary grants you a worldwide, limited, non-exclusive, revocable, non-transferable, non-sublicensable right to use the Service. Except as explicitly provided in these Terms, you may not use the Service for any other purpose.
+
+User Account
+When you register, Cloudinary will ask you to provide certain contact and personal details. Cloudinary will explicitly indicate the fields that are mandatory to complete. False, incorrect, or outdated information, such as an invalid email address, may prevent you from registering and impair Cloudinary's ability to provide you with the Service.
+
+To login, you must provide your email address and password. Cloudinary may also establish and require from time to time additional or different means of identification and authentication for logging in and accessing the Service. You will maintain your login details in absolute confidentiality. Make sure that you change your password at least once every six months. You will immediately notify to Cloudinary of any potential or actual misuse, unauthorized use, of your account.
+
+If your subscription terms expressly allow for termination at will, you may terminate your account through your account page, or by contacting Cloudinary via email at: https://cloudinary.com/contact. If your subscription is based on a renewable fixed period, you may elect not to renew your subscription by sending Cloudinary the applicable prior notice. Cloudinary may require you to verify your identity by sending Cloudinary additional information, as a condition for terminating your account. Following the termination of your account, you may no longer be able to access the Service. You are not entitled to refund upon termination of these Terms.
+
+Notwithstanding any remedies that may be available to Cloudinary under any applicable law, Cloudinary may temporarily or permanently deny, limit, suspend, or terminate your user account, prohibit you from accessing the Service, remove your content and take technical and legal measures to keep you off the Service without refund, if Cloudinary determines in its sole discretion that you: (i) abused your rights to use the Service; (ii) breached the Terms; (iii) violated any applicable law, rule, or regulation; (iv) performed any act or omission which is harmful or likely to be harmful to us, or any other third party, including other users or providers of the Service.
+
+Acceptable Use of the Service
+When using the Service, you will abide by the applicable laws, rules and regulations, and by any usage guidelines Cloudinary may convey to you from time to time.
+
+You may not access or use the Service for any illegal or abusive purposes, or to develop or create a similar or competitive product or service to the Service. You will be responsible for all acts and omissions associated with your access and use of the Service and the access and use of the Service by employees, agents, contractors, end-users and any other third party who may access or use the Service on your behalf, or at your permission ("Authorized Users").
+
+You may allow your Authorized Users to upload, store, administrate, edit, deliver, make available and distribute content ("Contributed Content"), subject to any content upload technical and safety guidelines and limitations which will be conveyed to you through your account dashboard, and amended from time to time. Cloudinary may, but is under no duty to, review all Contributed Content and remove or block access to such content, as more fully described below.
+
+Any use of your account is subject to your sole responsibility. You will not, and be responsible that your Authorized Users will not, access and use the Service (including as to upload or transmit any Contributed Content) for any illegal, harmful, fraudulent, offensive purpose or to transmit, store, display, distribute or otherwise make available content that is infringing upon any third party rights, illegal, harmful, indecent, obscene, defamatory, libelous, harassing, threatening, fraudulent, offensive or inconsistent with the generally accepted practices of the Internet community, including without limitation promoting or facilitating pornography, offering or disseminating fraudulent goods, services, schemes, or promotions, spamming, make-money-fast schemes, ponzi and pyramid schemes, phishing, or pharming, and use of content or technology that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, or data, including viruses, Trojan horses, worms or time bombs.
+
+In addition, you will comply with the Acceptable Use Policy (AUP) of the Content Delivery Network (CDN) associated with your account, as may be amended from time to time. By way of example, the AUPs of Akamai, Cloudfront (an Amazon service) and Fastly are located at: https://www.akamai.com/html/policies/acceptable_use.html, https://aws.amazon.com/aup/ and https://www.fastly.com/acceptable-use respectively.
+
+Privacy
+You represent that your disclosure of privacy practices to Authorized Users will cover the Service's use of personal information pursuant to the Service's privacy policy, located at https://cloudinary.com/privacy.
+
+Content Removal
+Cloudinary respects the copyrights of its users and any other person. If you believe that your copyrights are abused on the Service, please send us a written notification in accordance with the provisions specified at: https://cloudinary.com/dmca (“DMCA Notice”). Cloudinary will act in accordance with the Cloudinary DMCA Copyright Policy (https://cloudinary.com/dmca) in any Contributed Content that is alleged to infringe the copyright of any third party.
+
+Cloudinary may report any Contributed Content and share user identifiable information, if Cloudinary believes, in its sole discretion that such content is illegal or abusive or may violate any third party rights.
+
+Cloudinary respects the rights of its users and any other person. If you believe that any of your rights, other than copyrights, are abused on the Service, please contact Cloudinary at: https://cloudinary.com/contact. Cloudinary may ask you to provide additional information to process your complaint. Cloudinary will make reasonable efforts to review your complaint and respond promptly. Cloudinary will not respond to anonymous complaints.
+
+Cloudinary may remove any Contributed Content if Cloudinary believes, in its sole discretion, or receives a notice, other than DMCA Notice, from a third party, that such content may violate any third party rights. Prior to removing the said content, Cloudinary will block access to it and provide you a 48 hours prior notice before removing the said content without maintaining any backup copy.
+
+Service Fees
+Cloudinary offers some of its plans free of charge.
+
+Cloudinary also offers fee-based plans. You may use them subject to purchasing one of the Service's plans, as listed in Cloudinary's website at: https://cloudinary.com/pricing. From time to time, Cloudinary may change the Service fees, upon reasonable prior notice that Cloudinary will post on its website or send you by email.
+
+You may pay the fees by using the methods of payments as available, published and updated from time to time on the Service. Fees will be regarded as paid only after your payment has been confirmed. Service will be available to you promptly after you have paid the Service fees. You acknowledge that fees are not refundable.
+
+Payments will include applicable taxes. You will pay all fees and taxes in a timely manner and in compliance with Cloudinary's pricing schedule and you will reimburse Cloudinary for any interest and collection costs resulting from overdue payments.
+
+Note that if you use Cloudinary's video distribution solutions and have more than 100,000 subscribers, or use Cloudinary’s video distribution solutions to distribute 12 minutes in length or longer videos, you may need an additional third party license per the current terms of MPEG LA license for AVC/H.264 (required for encoding MP4 files). Please contact Cloudinary's customer service for further information at support@cloudinary.com.
+
+Cloudinary will make its best efforts to have a transaction processed accurately and expeditiously and reimburse you for any excess payment that you were mistakenly charged with. However, Cloudinary will not be liable for mistakes, errors, malfunctions and miscalculations made by the payment service providers.
+
+Upon failure to make any payment, and following a seven (7) days prior notice of due payments sent to you, Cloudinary may remove, disable or terminate your account. You waive any and all claims against Cloudinary and anyone on Cloudinary's behalf in connection therewith.
+
+If you acquire our Service from an authorized distributor or reseller and not directly from us, your fee obligations will be instead to such distributor or reseller, in which case we will provide you with the Service subject to: (i) your compliance with such fee obligations towards such distributor or reseller, (ii) your agreement with such distributor or reseller being in effect, and (iii) such distributor or reseller being in compliance with its obligations to us. Unless agreed by us separately and directly in writing towards you or such distributor or resellers, none of the terms of any agreement that you may have with such distributor or reseller will derogate from our rights and your obligations under these Terms.
+
+Service Level Agreement (SLA)
+"Uptime" means the percentage of time in a subscription month that Cloudinary's management console and Cloudinary's API services are available for access, as measured by Cloudinary.
+
+Cloudinary strives for a 100% Uptime. If Uptime falls below 99.9% in a given subscription month, Cloudinary will offer an extension of your Cloudinary plan ("Service Extension") of 5 days.
+
+Service Extension will not be awarded in the following circumstances: (a) circumstances beyond Cloudinary reasonable control, including but not limited to war, terrorism, labor disturbance, interruption of telecommunications, failure of third party software or services, or acts of God; (b) network issues outside of Cloudinary's control, including DNS and connectivity problems; (c) errors in Cloudinary's uptime measurement system; (d) acts or omissions by Authorized Users; (e) downtime that has been advised to you 72 hours in advance; (f) downtime resulting from individual periods of non-availability lasting less than five (5) minutes; (g) suspension or termination of your right to use the Service in accordance with these Terms; (h) accounts using Cloudinary's Free plan;
+
+To receive a Service Extension, you must submit a request by sending an e-mail message to: support@cloudinary.com within 10 days of becoming eligible to receive it. The request must include supporting documentation, such as log files showing the non-availability of the Service.
+
+This SLA is your sole and exclusive remedy for any failure by Cloudinary to provide the Service.
+
+Intellectual Property
+Except for your Contributed Content, all rights, title and interest in and to the Service, including any intellectual property rights, whether registered or not, and any goodwill associated therewith, are owned by, or licensed to Cloudinary Ltd. Unless as expressly provided herein, these Terms do not grant you any rights to patents, copyrights, trademarks (whether registered or unregistered), trade names, trade secrets, domain names or any other rights, functions or licenses with respect to the Service and you may not use the Service for any other purpose without Cloudinary's prior, express written authorization.
+
+Cloudinary does not claim ownership over Contributed Content. However, you grant Cloudinary permission to use your Contributed Content, for the purposes of providing, developing and supporting the Service. You grant Cloudinary permission to use your Company name and logo in Cloudinary website and any Cloudinary issued publications. If you wish to decline Cloudinary's use of your name and logo, please contact Cloudinary at: support@cloudinary.com. You acknowledge that Cloudinary may adjust and modify Contributed Content, per your requests.
+
+Confidentiality
+“Confidential Information” means any information furnished or made available by you or your Authorized Users, that is identified as “confidential” or “proprietary,” either by legend on written or electronically stored material, or which ought reasonably to be recognized as confidential or proprietary by virtue of its nature or the circumstances of its disclosure.
+
+Cloudinary will maintain strict confidentiality of your Confidential Information and will not use, disclose or have your Confidential Information disclosed, directly or indirectly to any third party, except as specifically required to provide you the Service, or subject to your prior permission. Cloudinary will take precautions to maintain the confidentiality of your Confidential Information with the same degree of care as to Cloudinary's own Confidential Information, but in no case less than reasonable care. Upon termination of this agreement, Cloudinary will use commercially reasonable efforts to delete all copies of your Confidential Information that is stored on Cloudinary's system, except for retaining data for legitimate business purposes or as required under the applicable law, including under tax related requirements, account settling, record keeping, archiving and legal issues.
+
+The foregoing will not be considered as your confidential information: (a) information already known to Cloudinary without an obligation of confidentiality, (b) information that is or becomes publicly known other than through a breach by Cloudinary, or (c) information that is independently developed by Cloudinary.
+
+If Cloudinary is compelled by law to disclose your confidential information, Cloudinary will provide you a prior notice of such compelled disclosure (to the extent legally permitted) and reasonable assistance, at your cost, if you wish to contest the disclosure.
+
+Disclaimer of Warranty
+YOU ACKNOWLEDGE AND AGREE THAT THE SERVICE IS PROVIDED FOR USE "AS IS", WITHOUT ANY WARRANTIES OF ACCURACY, RELIABILITY, LIKELY-RESULT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, COMPATIBILITY, SECURITY OR IT BEING UP-TO-DATE. USE OF THE SERVICE IS AT YOUR SOLE AND EXCLUSIVE RISK.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, CLOUDINARY AND ITS AFFILIATES EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES, CONDITIONS, REPRESENTATIONS, AND GUARANTEES WITH RESPECT TO THE SERVICE, THE ACCURACY, RELIABILITY, ADEQUACY OR COMPLETENESS OF THE SERVICE OR ANY OTHER MATERIAL PROVIDED BY ANY LINK TO ANOTHER WEBSITE OR SERVICE, WHETHER EXPRESS OR IMPLIED, ARISING BY LAW, CUSTOM, PRIOR ORAL OR WRITTEN STATEMENTS, OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, LIKELY-RESULT, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. NO REPRESENTATION OR OTHER AFFIRMATION OF FACT, INCLUDING, WITHOUT LIMITATION, STATEMENTS REGARDING CAPACITY, SUITABILITY FOR USE OR PERFORMANCE OF THE SERVICE WHETHER MADE BY CLOUDINARY AND ITS AFFILIATES' EMPLOYEES OR OTHERWISE, WHICH IS NOT CONTAINED IN THESE TERMS, WILL BE DEEMED TO BE A WARRANTY BY CLOUDINARY OR ITS AFFILIATES FOR ANY PURPOSE, OR GIVE RISE TO ANY LIABILITY OF CLOUDINARY OR ITS AFFILIATES WHATSOEVER.
+
+Limitation of Liability
+CLOUDINARY, AND CLOUDINARY'S EMPLOYEES, DIRECTORS, SHAREHOLDERS, ADVISORS OR ANYONE ACTING ON CLOUDINARY'S OR ITS AFFILIATES' BEHALF WILL NOT BE LIABLE TO YOU OR TO ANY OTHER PERSON WITH RESPECT TO THE SERVICE'S PROPERTIES, ABILITIES, LIMITATIONS, FITNESS TO YOUR NEEDS, OR WITH RESPECT TO ANY CONTENT AVAILABLE ON THE SERVICE, THAT YOU RELY ON.
+
+CLOUDINARY, AND CLOUDINARY'S EMPLOYEES, DIRECTORS, SHAREHOLDERS, ADVISORS OR ANYONE ACTING ON CLOUDINARY'S OR ITS AFFILIATES' BEHALF, WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGE, OR ANY OTHER DAMAGE, AND LOSS (INCLUDING LOSS OF PROFIT AND LOSS OF DATA), COSTS, EXPENSES AND PAYMENTS, EITHER IN TORT, CONTRACTUAL, OR IN ANY OTHER FORM OF LIABILITY, ARISING FROM, OR IN CONNECTION WITH THE USE OF, OR THE INABILITY TO USE THE SERVICE, OR FROM ANY FAILURE, ERROR, OR BREAKDOWN IN THE FUNCTION OF THE SERVICE, OR FROM ANY FAULT OR ERROR MADE BY CLOUDINARY'S STAFF OR ANYONE ACTING ON CLOUDINARY'S BEHALF, OR FROM YOUR OWN OR YOUR AUTHORIZED USERS RELIANCE ON THE CONTENT OR ON MATERIAL ORIGINATING FROM THIRD PARTIES, OR FROM ANY COMMUNICATION WITH CLOUDINARY OR WITH OTHER USERS IN CONNECTION WITH THE SERVICE, OR FROM ANY REPORTING OF CONTRIBUTED CONTENT TO THE LAW ENFORCEMENT AUTHORITIES OR ANY OTHER AUTHORITY – WHETHER OR NOT CLOUDINARY HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE, LOSS, COSTS, EXPENSES OR PAYMENTS.
+
+Without derogating anything from the above, Cloudinary and its affiliate's total liability under this agreement in contract, tort, negligence, pre-contract or other representations or otherwise arising out of, or in connection with this agreement or the performance or observance of its obligations under this agreement, and every applicable part of them will be limited to an amount equal to the total amount actually received by Cloudinary during the three (3) months before such loss or damage first occurred.
+
+Indemnification
+You will indemnify, defend and hold harmless, Cloudinary, Cloudinary’s affiliate and Cloudinary and Cloudinary affiliate's employees, directors, shareholders, advisors or anyone acting on Cloudinary's behalf with respect of any claim, demand, damage, loss, loss of profit, payment or expense, including reasonable attorney fees Cloudinary incur in connection with an alleged or actual breach of these Terms or an alleged or actual unlawful or tortuous action or inaction with respect to the Service by you or by anyone on your behalf. Such indemnity will include, but will not be limited to, legal expenses and attorney fees.
+
+Governing Law and Jurisdiction
+These Terms, the Service or any dispute arising out of or related thereto, will be governed solely by: (i) the laws of the State of Israel or, (ii) if the Cloudinary affiliate with which you (or the distributor or seller from whom you acquired the Service) contracted is Cloudinary Inc. a Delaware corporation, the laws of the State of California, USA, regardless of your country of origin or where you access the Service, and without giving effect to any conflicts of law principles, which would result in the application of the laws of a jurisdiction other than the State of Israel or California, as applicable.
+
+The competent courts in the Tel Aviv district in Israel (or, if the Cloudinary affiliate with which you (or the distributor or seller from whom you acquired the Service) contracted is Cloudinary Inc. a Delaware corporation, the competent courts in the Santa Clara County in California, USA) will have sole and exclusive jurisdiction over any claim in connection with the Service and in respect of any matter relating to the validity, applicability, performance or interpretation of these Terms. You agree to the exclusive jurisdiction of the above mentioned courts, agree to accept service of process by any means permitted by the applicable law and hereby waive any jurisdictional, conflict of law or venue defenses otherwise available to you.
+
+General
+These Terms along with the Privacy Policy specified at https://cloudinary.com/privacy and the DMCA Copyright Policy specified at: https://cloudinary.com/dmca constitute the entire agreement between you and Cloudinary with respect to the access and use of the Service and supersede any and all agreements, negotiations and understandings, whether written or oral, about the Service, except that if you have separately entered with Cloudinary into an online or written agreement or subscription form that incorporates by reference these Term, any terms of such agreement or subscription form that add to, conflict with or change, these Terms shall prevail.
+
+No waiver, concession, extension, representation, alteration, addition or derogation from these Terms will be effective unless effected in writing and expressly.
+
+Severability
+If any provision of these Terms is held by a court of competent jurisdiction to be illegal, invalid, unenforceable, or otherwise contrary to law, the remaining provisions of these Terms will remain in full force and effect.
+
+Contact Us
+You may contact Cloudinary with any question about the Service, through the contact form at: https://cloudinary.com/contact Cloudinary will make efforts to address your inquiry promptly.
+
+### DOCUMENT/ Trust / https://cloudinary.com/trust ###
+At Cloudinary, we value the trust placed in our platform by developers and businesses globally and we take the responsibility of protecting your data seriously. Information Security at Cloudinary is a strategic and cross-functional initiative. This is reflected in our compliance with widely accepted security standards and regulations, enterprise class security features, our privacy policies, and our commitment to transparency.
+
+Compliance
+Cloudinary is ISO/IEC 27001:2013, ISO/IEC 27017:2015, ISO/IEC 27018:2019 and ISO/IEC 27701:2019 certified. As part of those certification processes, we’ve been audited by an independent and accredited certification body which verified we have a systematic approach to managing sensitive information so that it remains secure. It included all aspects of our company – people, processes, and systems – by applying a risk-based approach. We believe that adherence to recognized standards sends a valuable and important message to our customers and business partners that demonstrate a clear commitment to information security and data privacy management, which is – security and privacy are top priority for us.
+Cloudinary is SOC 2 Type II certified. The SOC reports are independent third-party examination reports, compiled by Deloitte, that demonstrate how we achieved key compliance controls and objectives in order to meet the SOC 2 Trust Principles criteria for Security, Availability, and Confidentiality. The purpose of these reports is to help you and your auditors understand the controls we’ve established in order to support your operations and compliance.
+The Cloud Security Alliance CAIQ questionnaire offers an industry-accepted way to document what security controls exist in IaaS, PaaS, and SaaS services, providing security control transparency. The questionnaire helps cloud customers to gauge the security posture of prospective cloud service providers and determine if their cloud services are suitably secure. You can view our questionnaire by visiting https://cloudsecurityalliance.org/star/registry/cloudinary/.
+Cloudinary’s information security policies comply with the European Union General Data Protection Regulation (GDPR) EU 2106/679. This regulation governs data protection and individual privacy within the European Union and European Economic Area. Learn more about Cloudinary’s GDPR readiness.
+Cloudinary has also invested significant efforts to meet relevant requirements under the California Consumer Privacy Act of 2018 (CCPA), which entered into effect on January 1, 2020 and is prepared to support requests to exercise the rights of California residents (“consumers” under the CCPA).
+Cloudinary has an available Data Processing Addendum for paid plans, that can extend the terms of service to reflect the processing of personal data.
+Cloudinary is a certified active participant in the EU-US Privacy Shield Frameworks designed by the U.S Dept. of Commerce and the European Commission.
+Cloudinary’s UK entity is registered with the Information Commissioner’s Office (ICO) under the Data Protection Act. Cloudinary Uk Ltd registration number is ZA518179.
+Cloudinary respects intellectual property rights and publishes its Digital Millenium Copyright Act (DMCA) Copyright Policy.
+Security
+Service Security
+Cloudinary is built on tier-1 public cloud providers, with industry-leading compliance and security practices.
+
+As an APN Advanced Technology Partner, Cloudinary is audited annually to the AWS Well-Architected Framework.
+
+Cloudinary runs a security bug bounty program , enabling globally crowdsourced vulnerability detection. This means that our systems are under constant scrutiny by dozens of security researchers, who we reward for responsible disclosure.
+
+Cloudinary scales to over 300,000,000 image transformations a day sustained, with peaks of over 1 billion a day. We have an internal incident response procedure that is activated in case of a DDoS attack to begin specific mitigations such as country blocking and pattern blocking.
+
+Application Security
+Cloudinary enterprise plans include security features such as SSO, 2FA, custom SLA and security incident handling.
+
+Cloudinary allows manual and automated moderation of media to ensure that restricted or offensive content is not displayed. Cloudinary add-ons such as Webpurify for image moderation, AWS Rekognition AI Moderation, or Metascan for virus and malware scanning by four antivirus engines simultaneously, enable additional security for your rich media.
+
+Cloudinary APIs are fully authenticated and secured and allow delivering media over http or https. The API also returns a JSON response with all asset details at a “notification_url” that you set.
+
+Cloudinary uses third party penetration testing to probe our APIs and web applications for vulnerabilities.
+
+Cloudinary security team tracks both known and unreleased vulnerabilities and regularly patches the system to address these.
+
+Data Security
+Cloudinary facilitates geographic isolation with regional redundant data centers and backups within our tier-1 cloud providers in North America, Europe and Asia-Pacific. Cloudinary supports backing up your data to your own private AWS S3 bucket or to Google Cloud Storage in any region.This puts your backup and long-term storage in your control in your desired geography.
+
+Cloudinary uses Firewall-as-a-service for the production environment. Access to production servers is restricted to SSH access only, using client certificates.
+
+Cloudinary uses Dome9 (by Checkpoint Technologies) to monitor and manage policies our firewall rules and VPC flow logs to detect abnormal network traffic.
+
+Cloudinary offers many levels of secured access to assets stored within the platform, including user level access controls, group controls, watermarking, and, invisible watermarking, enabling customers to control exactly who accesses their assets and when.
+
+Images and videos are delivered via multiple industry-leading CDNs, including Akamai and Fastly, via an SSL set up.
+
+Cloudinary utilizes modern encryption protocols and keeps them up-to-date. Strong encryption is used for data in transit as well as at rest, across our systems. For data in transit, TLS 1.2+ is available, and custom/limited cipher sets can be defined for custom plans. For data at rest, industry-standard AES-256 encryption is used.
+
+Privacy
+You own your data and we are committed to keeping it private. Cloudinary’s Privacy Policy clearly outlines how all personally identifiable data is handled and secured.
+
+Cloudinary’s information security policies comply with European Union General Data Protection Regulation (GDPR) EU 2106/679. You can Learn more about GDPR readiness here.
+
+Cloudinary has an available Data Processing Addendum for paid plans, that can extend the terms of service to reflect the processing of personal data.
+
+Cloudinary is a certified active participant in the EU-US Privacy Shield Frameworks designed by the U.S Dept. of Commerce and the European Commission.
+
+Transparency
+Being GDPR and ISO/IEC 27001 compliant means that Cloudinary has established processes to ensure transparency about any potential data breach. This includes providing notifications and immediate response measures to any security threat.
+
+Cloudinary uses a security bug bounty program , enabling globally crowdsourced vulnerability detection.
+
+Cloudinary maintains relationships with committers of key open source packages to get advance warning on any important security vulnerabilities discovered in them.
+
+Cloudinary publishes its Terms of Use
+
+Cloudinary publishes service status, all system disruptions and outages, historical uptime reports, and we are committed to increasing data transparency of our systems through our support of Server-Timing response headers.
+
+### DOCUMENT/ Cloudinary Sub-processors / https://cloudinary.com/trust/subprocessors ###
+Cloudinary Sub-processors
+Cloudinary uses certain service-specific sub-processors to support the delivery of the Cloudinary services, provide specific functionality within the Cloudinary services or to provide professional services. The following lists of the name(s) and activities of the service-specific sub-processors.
+
+What is a Sub-processor
+A Sub-processor is any processor engaged by Cloudinary, that processes certain Client Data as necessary to support delivery of the Services. Cloudinary engages different types of Sub-processors to perform various functions as explained in the tables below.
+
+Updates to the Sub-processor List
+Cloudinary will make updates to the Sub-processor list via this website. Please check back frequently for updates. Cloudinary will also notice of any new Sub-processors in accordance with and where required by the applicable agreement between Cloudinary and Customer.
+
+Due Diligence
+Cloudinary performs due diligence on the information security practices and data protection compliance of all third party Sub-processors and requires each to commit to written obligations regarding their security controls and applicable regulations for the protection of personal data, including safeguards to govern international transfers of data.
+
+Third-Party Sub-processors
+AWS Hosting Services
+Google Cloud Platform Hosting Services
+Amazon CloudFront CDN
+Akamai CDN
+Fastly CDN
+Snowflake Data Warehouse
+Codet Spolka Z Organiczona Odpowiedzialnoscia Spolka Komandytowa Development
+Papaya Global (HK) Limited Support Services
+HK Project Services GmbH Product Management
+Jon Sneyers Research
+Objecting to a Sub-processor
+Customers may object to a Sub-processor per the Data Processing Addendum (where applicable). To object to a Sub-processor, Customers must submit its objection privacy@cloudinary.com, along with their name, company name, name of Sub-processor, and grounds for objection (see Cloudinary’s Data Processing Addendum for further information).

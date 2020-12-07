@@ -1,0 +1,443 @@
+### DOCUMENT/ Privacy Policy / https://admin.typeform.com/to/dwk6gt/ ###
+Typeform | Privacy Policy
+Your privacy is important to us
+
+Effective Date: June 15, 2019. In case of new sign ups or first use of the Site, May 22, 2019.
+
+1. General
+
+1.1 This Privacy Policy describes how TYPEFORM SL (the “Company”, “we”, or “us”) collects, uses, stores, shares and protects your personal information in connection with your use of both the platform accessible through the www.typeform.com domain name (the “Site”) and the services we may offer through the Site from time to time, consisting in ‘typeform’ forms and other services (indistinctly referred to as the “Services”).
+
+California Residents: If you reside in the State of California in the United States, please click here and refer to the ‘CCPA Notice’ section for additional California-specific privacy disclosures that address the collection, use, disclosure and other processing of personal information that supplement this Privacy Policy and may fall outside its scope.
+
+2. Scope of this policy
+
+Respondents
+
+2.1 If you are a respondent, please note that we are not the entity responsible for the processing of data, but a mere provider rendering services to the person or company that sent you the typeform to fill out. We suggest you carefully read the terms and conditions and privacy policy of the company or person that sent you the typeform, as those are the ones governing the processing of your personal data. If you have any doubts, please contact that person or company. Also, depending on how the person or company that sent you a typeform configure that typeform, your data may be shared or made public. To find out more, please contact the entity or person sending you the typeform.
+
+If you use our Services or Site
+
+2.2. If you use our Services or Site, this Privacy Policy sets forth how we are processing your personal data, and how are we processing personal data on your behalf. You are not required to provide any personal information when using the Site, unless you choose to access features that require such information (as, by way of example, subscribing to any newsletter). The use of the Services, however, require that you sign up and create an account on the Site as described in more detail in the Service Terms and Conditions.
+
+2.3. Personal information you provide us when using the Site and/or the Services is subject to this Privacy Policy, and you will be prompted to read and accept it.
+
+How is your data being processed?
+
+3.1. Who processes personal information? (who is the ‘Data controller’)
+
+Personal information is processed by us, an entity incorporated in accordance with the laws of Spain and with following contact details:
+
+TYPEFORM SL
+C/Bac de Roda, 163 (Local), 08018 – Barcelona (Spain)
+Contact email: support@typeform.com
+Contact details for our Data Protection Officer: gdpr@typeform.com
+
+3.2. What are we processing your data for and why are we processing it? (‘Purposes of data processing’, ‘legal basis of the data processing’ and ‘storage periods’)
+
+We will process your data when we have to perform a contract, and we will be processing your data as long as the contractual relationship with you is in force and during the five years following the end of said relationship. This results in us having to process your data for purposes of providing you with both the Services, as well as to perform our obligations under the Services Terms and Conditions.
+
+Subject to obtaining your consent, and as long as you do not withdraw any such consent, we may also process your data for the following purposes:
+
+a) To send you electronic commercial communications (if you subscribe to a newsletter) or to answer the requests you may address us when contacting us;
+
+b) To process information obtained through cookies, as described in more detail in the Cookie Policy, and subject to the terms set forth therein;
+
+c) If you opt to sign in by means of a third party social media platform, we may obtain ID confirmation and other information from that third party, as mentioned in each case;
+
+d) For profiling purposes based on your behavior and how you browse the Site and use the Services, which pages you have visited, and to build audiences. Please note that we may profile users by means of cookies. In those cases, your acceptance of the installation and use of cookies results in a data processing for profiling purposes, as described in this paragraph.
+
+e) We may enrich the data we have about you by obtaining information from a select third party for data enrichment purposes, provided that you have given us prior permission. Enriching data allows us to analyze a deeper subset of data from which we may present personalized content.
+
+When we have to comply with a legal obligation applicable to us from time to time, such as those set forth in tax and anti-money laundering laws and regulations (such as Act no. 58/2003, dated December 17, on Taxes; Act no. 27/2014, dated November 27, on corporate taxes; Act no. 10/2010, dated April 28, for the prevention of money laundering and financing or terrorism; or Organic Act no. 10/1995, dated November 23, on Criminal Code). In any such cases, the data will be processed only during the periods set forth by said laws, being deleted thereafter.
+
+Finally, we may also process your data to protect our legitimate interests, as long as said data is strictly necessary to fulfil the goals set forth below, namely:
+
+a) To review, monitor, investigate, and analyze how to improve the Services and/or the Site, as well as to keep our Services and the Site secure and operational and prevent abusive activity (e.g. fraud, spam, phishing activities, etc.). This may include sending you typeforms to assess any problems in the service or know how to improve your user experience. The interests at stake are ensuring a correct and safe environment for both other users and us, taking those interests prevalence over your legitimate interests (we need to create and maintain an environment which is in accordance with the law, the legitimate interests of other parties, what other users may expect from our end, and to protect other users’ security when accessing the Site and using the Services);
+
+b) Besides any commercial electronic and non-electronic commercial communication sent when we have obtained your consent as mentioned above, we may also send you those kind of communications when you are our client. In this last case, we will only send you information belonging to us and concerning services and/or products identical or similar to the ones you have contracted with us. In these cases, we have a legitimate interest in processing your contact information to keep you informed about any of our products and services, prevailing this interest over your right to personal data given the non-sensitive nature of the data in question and the fact that the contractual relationship built with our clients results in those clients expecting these kinds of communications; and
+
+c) Upon dissociating the data we have so as to be impossible to be associated to you or any other person, to perform statistical and other analysis on information we collect (technical and metadata) to analyze and measure user behavior and trends, to understand how people use our services, in order to improve and optimize our performance of such services.
+
+3.3. To which extent do we require to have access to your personal data?
+
+We need to process your personal data to perform the legal and contractual obligations mentioned in section 3.2 above. Otherwise, we are not able to provide you with the Services and/or access to the Site. On the other hand, for data processing which depends on your consent or on our legitimate interests, the data processing is not legally required.
+
+3.4. Which companies will have access to your personal information?
+
+We share your information with our service providers who help us to provide the Services to you, in which case those third parties are required to comply with our internal standards, policies, and technical and organizational measures that ensure that your data is protected and kept confidential at all times, and only in accordance with and to the extent authorized by this Privacy Policy.
+
+When you authorize us to do so, we may also share your data with other companies so that they can process the data for other purposes, as explained more in detail when we request your prior consent. In addition, if you provide consent for the installation of cookies, your data may be processed by third companies for the purposes and in the territories mentioned in the Cookie Policy.
+
+We may also share your information with competent courts and authorities, when we are legally required to do so (for instance, to allow such bodies to investigate, prevent, or take action against illegal activities), or we have to take action to protect our rights or any third party rights.
+
+Finally, please note that you may opt for creating a typeform in which the results are displayed not in an aggregated manner but by providing the particular answers provided by respondents. In those cases, if you opt to create a typeform having this functionality, the results will be shared with those third parties you opt to share them with. Please bear in mind that, depending on what you intend to do with your data, you may be required to inform or comply with further legal requirements vis-à-vis respondents.
+
+3.5. In which territories may your personal information be processed?
+
+Your information (not third parties’ information collected through typeforms, which is subject to section 4.10 below) may be transferred, processed, and stored in countries that do not have data protection laws as protective as those in your jurisdiction. Your agreement to the terms of this Privacy Policy, followed by your submission of information in connection with the Service, represents your agreement to this international transfer of personal data.
+
+3.6. Your rights
+
+You have the right to withdraw your consent at any time. You also have the right to request access to, and rectification of, or erasure of your personal data, or restriction of processing, or to object to processing, as well as the right to data portability. Please note that if you choose to cancel your data, your account will be deleted and all data in your account will be permanently deleted from our systems. You may lodge a complaint at any time with the Spanish Data Protection Agency.
+
+We allow you to exercise the above-mentioned rights at any time by opening a support ticket via the Help Center, by contacting our Support Center (support@typeform.com), or by sending a letter to c/ Bac de Roda, 163 (local), 08018 – Barcelona (Spain).
+
+3.7. Updating your information. Emails and commercial communications.
+
+You can update any information we may have from you by means of the account settings area or by sending us a written communication as described in section 3.6 above. Please remember that it is your duty to keep information updated so we can correctly provide you with the Services, and you undertake to verify the information you have handed us from time to time to make sure that it is accurate.
+
+As explained in section 3.6 above, you are entitled to ask us, now or at any moment, not to send you any kind of emails or commercial communications. To that extent, you can either change the communication preferences in your account settings page or contact us as described in section 3.6 above. Note that this will not prevent the sending of emails or other communications related to the Services, as those communications are necessary to perform the relationship we have with you.
+
+4. How is the data we collect on your behalf being processed?
+
+4.1. In order to provide you with the Services, we may need to process on your behalf third parties’ personal data. This is the case, for instance, when a person files out a typeform (the forms we made available to you in the Services), in which case the data is collected, stored, and processed on your behalf. For clarification purposes, the subject-matter of the processing is the provision of said Services, and the type of personal data and categories of data subjects depends on the information uploaded into the Service.
+
+4.2. We will only process any personal data we may have access to as a result of the provision of the Services in accordance with the instructions included in the Service Terms and Conditions and any other that you may provide us from time to time in writing. Should we have reasonable grounds to believe that any of your documented instructions infringes European data protection laws, we will inform you punctually, so that you can confirm in writing that instruction. Please, note that in case of any such reconfirmation, you shall bear any consequences arising out of that instruction being contrary to law, and you shall defend, indemnify, and hold us harmless of any and all costs (including attorney’s fees), fines, or sanctions, or any damages deriving from our performance of the challenged instruction.
+
+4.3. We will ensure that all employees authorized to process personal data have committed to confidentiality or are under an appropriate statutory obligation of confidentiality.
+
+4.4. To provide you with the Services, we may need to use some service providers we already rely on, as well as hire new ones in the future. Those companies will only process the data to the extent necessary to render the Services, and we will enter into written agreements with them to make sure that said companies comply with the obligations included in this section 4 and implement all necessary security measures to ensure adequate protection of the data.
+
+In this respect, by entering into the Service Terms and Conditions you accept that we seek the assistance of our affiliate TYPEFORM US LLC, having registered address at 370 Brannan Street, San Francisco, CA 94107 (United States of America). Additionally, we will also continue to engage other service providers for carrying out the Services, as those subprocessors are listed here.
+
+In the event that we want to change any of those service providers by another, or that we need to hire new companies, you will have the right to reasonably oppose to such changes or new appointments in the non-extendable term of 15 calendar days. ‘Reasonably oppose’ shall be interpreted as any challenge based on the failure to meet the legal requirements set forth by the European data protection laws by the new entity to be hired. In any event, we reserve the right to terminate the relationship with you should we cannot hire a subprocessor which is essential or needed for providing the service.
+
+The Company shall enter into written agreements with any subprocessors engaged in the provision of the Services including the safeguards and guarantees required by the General Data Protection Regulation (EU Regulation no. 679\2016, the “GDPR”), particularly in respect of implementing the security measures required in the GDPR. For those subprocessors located in a country not considered by European authorities as having the same level of protection than European data protection laws, you agree to comply with the requirements set forth in 4.10 below.
+
+4.5. At your request and expense, we shall assist you by appropriate technical and organizational measures, insofar as this is possible, for the fulfilment of your obligation to respond to requests for exercising the data subject's rights laid down in Chapter III of the GDPR, if applicable. For avoidance of doubt, we shall convey you any request data subjects may address directly to us together with all relevant information, if any, so that you can contact and answer to data subjects, but we shall not take care of responding data subjects.
+
+4.6. We will implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk. At your request and expense and taking into account the nature of processing and the information available to us, we shall reasonably assist you in compliance with the security obligations set forth by Article 32 of the GDPR.
+
+4.7. We will also provide, at your request and expense and subject to the nature of processing and information available to us, assistance in complying with obligations set forth in Articles 33 to 36 of the GDPR, if applicable.
+
+With respect to data breaches, we will notify you without undue delay upon we confirm that a data breach affecting personal data has taken place. We will provide you with sufficient information to allow you to meet any obligations to report or inform competent authorities or data subjects. We will reasonably cooperate with you and take such reasonable commercial steps as are directed by you to assist in the investigation, mitigation, and remediation of each such data breach. For avoidance of doubt, you shall be responsible for both filing any reports required under applicable law and notifying data subjects, and you shall defend, indemnify and hold us harmless of any and all costs (including attorney’s fees), fines, or sanctions, or any damages that lack of action on your side may cause.
+
+4.8. Upon termination of the Service Terms and Conditions, we shall delete personal data, unless otherwise required by law.
+
+4.9. We will make available to you all information necessary to demonstrate compliance with the obligations laid down in this Section 4 and allow for and contribute to audits, including inspections, conducted by you or another auditor mandated by you who is not any of our competitors. You accept that you may only conduct up to one (1) audit per year, except if there are reasonable grounds to believe that we are not performing the obligations included in this section 4. Audits shall only be carried out during normal business hours, and you shall bear all costs except that we are found to be in a material breach of this section 4.
+
+4.10. For the provision of the Services or because you want to process data from a given location or hand it to another company, data may be transferred outside the European Economic Area to a country which has not been declared to offer a level of protection equal to the one provided by European data protection regulations.
+
+In those cases, you shall ensure that said transfer is possible in accordance with European data protection regulations or any other requirements set forth by law without having to sign Standard Contractual Clauses. Should this not be possible—and only to this extent—and with respect to any subprocessors hired by us, you (as ‘data exporter’) and we (as ‘data importer’) hereby agree to enter into the Standard Contractual Clauses in respect of any such transfers of data. You fully agree with the contents of the Standard Contractual Clauses (available here) and—given that the contractual relationship set forth in the Service Terms and Conditions cannot exist without international transfers of data—you further warrant and represent that you will not question the execution of Standard Contractual Clauses in the future, being their signature a mere act evidencing their agreement to the same as set forth herein.
+
+5. How to contact us
+
+5.1. Send a request via our Help Center. Click the Contact Support link at the bottom of any article.
+
+6. Changes to the privacy policy
+
+6.1. We may amend this Privacy Policy from time to time. You may be required to accept the amended Privacy Policy upon logging in to your TYPEFORM Account in order to keep using the Service. Alternatively, we may post any non-material changes to this Privacy Policy on the Site with a notice advising of the changes in advance of the effective date of the changes. We may also notify you of material changes to this Privacy Policy, before the effective date of the changes, by sending an email or otherwise. If you do not agree to any non-substantial change to this Privacy Policy, you may terminate the Service Terms and Conditions.
+
+7. Prevalence
+
+7.1. This policy is drafted both in plain and legal versions. In case of any discrepancies, the legal version included herein shall prevail and take precedence with respect to the plain version.
+
+### DOCUMENT/ Service Terms and Conditions / https://admin.typeform.com/to/dwk6gt/ ###
+Typeform | Service Terms and Conditions
+Terms and conditions applicable to the use of the Services
+
+Effective Date: June 15, 2019. In case of new sign ups or first use of the Site, May 22, 2019.
+
+The platform accessible through the www.typeform.com domain name (the “Site”) and the services offered through the Site are provided by TYPEFORM SL (hereinafter referred to as “us”, “we” or the “Company”), a Spanish entity with registered address at Carrer Bac de Roda, 163, local, 08018 Barcelona (Spain), and C.I.F. (Spanish tax identification number) B65831836. The Company is registered in the Commercial Registry of Barcelona, page B-421911, folio 145, volume 43262, and conducts business under the ‘Typeform’ trade name. You may contact us by sending an email to support@typeform.com or filling out this Typeform.
+
+1. General
+
+These Service Terms and Conditions (“STC”) govern the use of the services offered by us, consisting in the creation of online forms—the “typeforms”—the subsequent collection, storage and related information management, and any other services as may be offered by us from time to time (the “Services”). Terms of Use are included into this STC by reference.
+
+In order to be able to use the Services, you will need to create an Account (as this term is further described in section 2.a below) and comply with other requirements set forth in these STC. Please note that the Account also enables you to use the functionalities aimed at interacting with the product accessible through the Site. Should you decide to use those functionalities, the Developer Terms and Conditions apply to you in addition to these STC.
+
+2. Access to the Services
+
+a. Eligible individuals
+
+Services are offered to individuals and companies, either conducting business activities on their own or acting as consumers. For purposes of these STC, ‘consumer’ shall be interpreted as any individual or company using the Services for a purpose other than to conduct a business or commercial activity.
+
+The Services are only addressed to individuals being sixteen (16) years of age or older. By filling out the registration forms and requesting into our Services, you warrant and represent that you have that legal age.
+
+b. Account creation
+
+In order to access the Services, you will need to register and create a personal and non-transferable account in the Site (the “Account”). To this end, you must provide true, current, complete, and accurate information, as requested during the registration process, that refers to you. You cannot sign up or otherwise create an account with us on behalf of a third party.
+
+Until August 20, 2019, we offered three different types of plans, each one having different functionalities and features. If you created an Account with us before August 20, 2019 you will be using any feature and functionality offered under the plan you signed up for without any time limits (and you will be able to switch into any new plan at any time). If you create an Account on or after August 20, 2019, you will be able to opt for any of the new plans described in the Pricing section.
+
+Among other functionalities, these plans enable you to manage shared workspaces with as many Accounts as you have selected in your plan, by sending an invitation to collaborate with other users owning an Account with us. The owner of the paid plan will have limited admin rights to control contents created and manages from the rest of Accounts. It is your duty to make sure that the other users understand the impact for their privacy and content ownership when accepting to be part of your plan, and you shall indemnify, defend, and hold us harmless of any costs or damages directly or indirectly related to these matters.
+
+Services definition may vary from time to time and further and more detailed information on the current features and functionalities of the Service is provided during the signup process.
+
+Account ownership is based on the data provided when signing up and, to this end, it is important as mentioned above that all information you have submitted is true, accurate, current, and complete. Note that when you are providing your information and accepting these STC, you are entering into an agreement with us which described which are the obligations we have with regards to each other. If you have problems accessing or logging in into the Services, please visit our Help Center or contact us.
+
+c. Provision of the Services
+
+Once an Account has been successfully created, Services will be available and ready to use. Note, however, that certain Accounts are subject to prior payment of the corresponding fees, so access to and use of functionalities and Services under said Accounts is subject to said payment requirements.
+
+This section does not preclude your rights as a consumer under section 7 below—if you are using the Services as a consumer, you are entitled to cancel and withdraw from these STC and the Services under the terms and conditions detailed in that section.
+
+d. Services and third parties service providers
+
+To ensure you are provided with high-quality Services, from time to time we may rely on third party service providers. You understand that those providers act beyond our reasonable control and that we shall not be held liable for any damages caused by an action or omission attributable to them.
+
+Also, you may decide to use third parties to process the information you may collect through the Services (e.g. by using webhooks). In all those cases, you acknowledge and agree that those third parties are beyond our reasonable control, and that we will not be liable for any damages arising from the use of said information by those third parties, or in the event that you decide to transfer information to those third parties by using non-secured means (e.g. non-https transfer protocols). We recommend that you carefully review any terms and conditions governing the use of those third parties’ services and any integration tools they may offer before you start using their services. Note that the use of said services may result in the transmission of any kind of information (either confidential or having a personal nature, among others) outside our platform, and third parties not related to the Company may subsequently be gaining access to, modifying, or even deleting said information.
+
+3. Your obligations
+
+a. Account security and credentials
+
+Accounts are to be used by you, and it is strictly forbidden to share or allow others to use it. You must keep credentials for your Account secured at all times. It is strictly forbidden to share said sets of data with any third parties, or to write them down for recovery purposes. Should you suspect that your Account or your credentials have been or are being used by a third party, or have been compromised, you must contact us immediately at support@typeform.com. Otherwise, we may attribute all use of your Account to you, and you agree to be responsible for all activities that occur under your Account.
+
+b. Use of your Account and Services
+
+You must use your Account and the Services complying with law and public order. In particular but without limitation, you shall not:
+
+Access the Site, Accounts and/or the Services by any means other than through interfaces provided by us and as otherwise expressly authorized under these STC;
+
+Avoid, bypass, remove, deactivate, impair, descramble or otherwise tamper the security measures, usage rules or other protection measures implemented by us, our service providers or any third parties to protect the Site, the Accounts or the Services, as well as the restricted features or functionalities available for given categories of Accounts other than the one you are holding, or to attempt to do any of those actions;
+
+Access, tamper with, or use non-public areas of the Service or the Site, the computer systems of the Company, or the technical delivery systems of our providers;
+
+Process data considered as ‘sensitive’ under European data protection laws as well as those relating to payment details can only be done as long as you have obtained our prior written approval. For clarification purposes, this includes health data or any other information relating to an individual's health, as well as to upload any documents related to the same or ask for the upload of the same;
+
+Use any metatags or other hidden text or metadata in the Site or Services, as well as forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Service;
+
+Use, display, mirror, or frame the Site or Services, any individual element within the Site or Service, the layout and design of any portion of the Service or the Site, or the intellectual property rights and other proprietary rights of the Company;
+
+Attempt to access or search the Services or Site, or scrap or download content from the Services or Site, or otherwise use, upload content to, or create new links, reposts, or referrals in the Services or Site through the use of any engine, software, tool, agent, device or mechanism (including automated scripts, spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by us or other generally available third party web browsers or search engines;
+
+Reverse engineer, decompile or disassemble software used in connection with typeforms, Site or Services;
+
+Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services or the Site;
+
+Reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purpose any portion of the Site or the Services, or your access to or use of the Site or Services;
+
+Impersonate or misrepresent your affiliation with any person or entity, as well as stalk or harass other users or third parties, or share or use offensive or pornographic materials;
+
+Activities such as vulnerability scanning, load testing, penetration tests or bypassing our security measures in any intended way are strictly prohibited to be carried out on our platform without our previous written approval;
+
+Use the Services and, in particular, the functionalities aimed at ensuring interaction of the Services and our product to monitor the availability, performance or functionality of our Services or the Site, or for benchmarking or other competitive purposes;
+
+Collect credit card information (unless using the specific questions blocks provided by us), passwords or similar login credentials;
+
+Send any unsolicited or unauthorized electronic commercial communications, chain letters, or other form of non-authorized solicitation; or/and
+
+Otherwise, use the Account, Site or Services in a manner contrary to the rights and legitimate interests of the Company or any other third party, or in any other manner that may tamper, disrupt, overload, or otherwise damage the Site or the Services. You may let us know about any abuse by filling out this Typeform.
+
+For avoidance of doubt, you—or any third party authorized by you—may carry out any action that enables the Services to interoperate and communicate with a given software program, provided that any such integration has been developed by means of the public APIs and related products and services provided by us as part of our range of technical products for developer and integrator users. You understand that we do not control the use of any information collected by third parties—regardless of whether said collection of information took place in the past, is taking place in the present, or is intended to be carried out in the future—by means of said integrations and that further third parties’ terms and conditions may apply to your use of APIs. Therefore, you understand and agree that we shall not defend, indemnify, or hold you harmless for any and all costs or damages arising from those third party actions and integrations.
+
+c. Materials available in the Services or the Site
+
+The Site and the Services may include information, graphics, text, images, and other materials uploaded by other Account holders or third parties. Said materials are solely for your use in connection with the Site and Services, and their legality, accuracy, and completeness are the sole responsibility of the party that have uploaded them to or provided as part of the Site or the Services. Use of the materials may be subject to specific terms and conditions or license terms, and you are responsible to obtain any required licenses or authorizations, and to comply with any licenses or terms and conditions applicable to them.
+
+d. Your contents
+
+We do not claim ownership on the contents you may upload or otherwise use in connection with the Site or Services. However, to ensure we can provide you with the Services or access to the Site, you grant us a worldwide, royalty-free, transferable, sublicensable, non-exclusive, perpetual, irrevocable license under all your intellectual property rights to use, reproduce, distribute, communicate and public perform or display (including, among others, the rights to broadcast and transmit), transform and modify, and/or adapt your contents in connection with the operation of the Site and/or the Services. You represent and warrant that you have the rights necessary to grant the license hereunder, and that your contents do not infringe the law or third party rights or interests.
+
+Please note that by submitting content (photos or videos) into the Service, said contents are made publicly available to third parties. Please evaluate whether you want to share said content under those conditions before submitting them as part of the Services.
+
+e. Third parties’ intellectual property & other proprietary rights
+
+Without prejudice to section 3.b above, you accept not to upload into the Services or the Site, or post, email, transmit, share, or otherwise use, in conjunction with, or related in any manner with the Services or the Site, content for which you do not possess the prior authorization of their titleholders. We are not responsible for said content nor the actions you may take with respect to the content, and you shall not use third party content unless you have first obtained the permission of its owner.
+
+By way of example, you shall not use photographs, music, text, graphics, information, trademarks, trade names, or other content protected under intellectual property rights that are not yours, except when the corresponding owner has expressly given its approval. It is strictly forbidden to use the Services to circumvent the rights of any titleholder upon its intellectual property or other exclusive rights, such as, for instance, providing through the Services links to P2P platforms including infringing materials.
+
+Notwithstanding section 11 below, we may delete at any time any content that breaches this section, without prior notice and accepting no liability for any such deletion.
+
+f. Review of your contents
+
+You acknowledge that, in order to ensure compliance with legal obligations, prevent phishing or fraud, or when unlawful content is reported to us, we may be required by third parties to review certain content submitted by you to determine whether it is illegal or whether it breaches these STC. We may at our sole discretion modify, prevent access to, delete, or refuse to display content that we believe violates the law or these STC. However, you acknowledge that we have no obligation to monitor or review any content submitted by you.
+
+g. Obligations vis-à-vis Respondents
+
+Your use of the Services may result in the collection and further processing and analysis by you of information belonging to third parties (the “Respondents”). Any contractual relationship existing with Respondents is entered into between you and them. You are fully responsible for meeting any applicable obligations when contacting Respondents and processing their data, such as, without limitation, those under data protection (including informing Respondents about the data collection and processing, as well as attending the rights granted to them by law), cookies or e-commerce laws and regulations. In addition, you are responsible for ensuring that Respondents review and accept these STC and our Privacy Policy, and you will provide any evidence of their consent and approval as requested from time to time by us.
+
+h. Account information
+
+You undertake to submit true, accurate, current, and complete information for the Account creation, and to notify us from time to time so as to keep said information current and accurate. In particular, when providing details on payment methods used for paying any fees associated with our provision of the Services to you, to make sure that said method is valid and can be used by you.
+
+i. Collaboration with us
+
+You undertake to comply with any instructions or recommendations given by us or by any individual acting on behalf of the Company in connection with the use of the Site, your Account, or the Services.
+
+4. Fees and payments
+
+Payment for the Services shall be subject to the Payment Terms and Conditions, which are included in these STC by reference.
+
+5. Term
+
+The term for our Services provided to you under a Basic Account shall commence upon creation of an Account with us and shall remain in force indefinitely unless terminated by you through “My account”. Certain Accounts are subject to a particular term, as selected by you when signing up for said Services, and shall automatically renew on monthly or annual periods, depending on the term contracted, unless you, at any time, decide to cancel the renewal of your Account through “My account” section. In any such cases, except if you decide to cancel your entire Account, the subscription you have paid for will run for the entire contracted term, and your Account will be downgraded.
+
+As mentioned above, you may terminate your Account at any time, and we reserve the right to terminate your Account under the conditions set forth in section 6 below. These STC apply as long as you have an Account through our Site, regardless of the type of Account you held at each moment.
+
+This section shall not prevent the rights you have as a consumer in connection with the cancellation of, or withdrawal from, your Account. For further information please refer to section 7 below.
+
+6. Suspension and termination of the Account
+
+a. Termination or suspension by the Company
+
+We are entitled to suspend your Account in the event that you provide us with untrue, inaccurate, not current, or incomplete information when creating your Account, as well as when you fail to comply with these STC or other mandatory provisions by law. Upon occurrence of any of these, we will contact you and request you to remedy your breach of these STC.
+
+We are entitled to terminate your Account in the event you fail to redress any STC breach in the non-extendable term of fifteen (15) calendar days from notification date. Additionally, your Account may be terminated in the event you substantially breach these STC, including without limitation any case in which the Account is used to commit fraud (e.g. to carry out phishing attacks) or willfully addressed to breach the law. Account termination may result in data loss.
+
+Finally, we may terminate your Account should you oppose the appointment of any sub-processor, as further detailed in our Privacy Policy.
+
+b. Termination by you
+
+You may terminate your Account at any time by using the account termination option. If you terminate your Account you may still be able to access the Site, but you will not have access to the Services, features and content that are available to Account holders. Please note that this may result in data loss.
+
+7. Cancellation of your subscription - withdrawal right
+
+The Services are available upon completion of the signup process and creation of your Account (except for those functionalities subject to any of the subscription plans provided by us). By creating your Account and expressly requesting the Services, you waive to your withdrawal right, if applicable.
+
+8. Social media and third party platforms
+
+The Services may include functionality that allows you to access and post content to social media and third party platforms regarding your activities while using our Services. If you choose to use this functionality, we may:
+
+a. have access to certain information that you make available through the social media or third party platforms at issue, provided that the data has been made available to us under the terms and conditions and privacy policies set forth by said third parties; or
+
+b. post status messages, notes, photos, videos and other materials to the applicable Social Media or third party platform on your behalf.
+
+Subject to all the applicable third parties’ terms and conditions and privacy policies, by connecting your Account with your account on a social media or third party platform, you grant us permission to access and use the information that you make available through the social media or third party platform at issue. To manage the information provided to us, please review the privacy settings applicable to your social media or third party platform accounts.
+
+We are not liable for social media or third party platform contents, products, or services. We shall have no obligation to review their contents, services, or products. You shall review all terms of use, policies, and guidelines established from time to time in said social media or platforms, and you agree to be solely responsible and liable for any claims arising as a result of sharing or posting any content to or your activity in any social media or third party platforms.
+
+9. Disclaimer of warranties and damages
+
+To the maximum extent permitted by applicable law, the Site and the Services are provided “as is”, “with all faults” and “as available” and the entire risk of use and performance remains with you. The Company and its suppliers do not make any representations, warranties, or conditions, express, or implied, or statutory, and hereby disclaim any implied warranties of merchantability, merchantable quality, fitness for a particular purpose, title, quiet enjoyment, or non-infringement and does not make any warranty or claim that the Services will be available or provided on an uninterrupted, timely, or secure basis; will be accurate, complete, reliable, or function properly; meet your requirements; be error-free or free from viruses, worms, or other harmful or malicious components. You may have additional rights under your local laws that these STC cannot change and, in any such cases, the Company’s liability is limited in accordance with and to the extent permissible under said local laws.
+
+10. Limitation of liability
+
+To the maximum extent permitted by applicable law, in no event will the Company be liable for any consequential, incidental, exemplary, punitive, or special damages, including any damages to or for loss of data or privacy, revenue, profits, or property (including buildings, wiring, fixtures, devices, computers, peripherals, and animals) or for injury or death, arising from or relating to these STC, your Account, or the Services.
+
+Subject to sections 9 and 10 above, Company’s maximum, aggregate liability to you, and your exclusive remedy under these terms for any and all damages, injuries, and losses arising from any and all claims and causes of action arising out of, based on, resulting from or in any way related to these terms, your Account, the Services, or the Site will not exceed a total maximum amount equivalent to fees paid to the Company in the last twelve (12) months preceding the date in which the damage took place.
+
+The limitation of liability set forth in this section shall only apply to the maximum extent permitted by law. In particular, it shall not be applicable in the event of gross negligence or willful misconduct, or—subject to you using the Services as a consumer—injury or death.
+
+11. Indemnity
+
+You shall indemnify, defend and hold the Company, its officers, directors, employees, agents, partners, suppliers, and/or licensors harmless and will keep them indemnified from and against any claim, loss, expense, liability, damage, or demand, including reasonable attorney’s fees, relating to, arising from, or allegedly arising from (a) your use of the Site or the Services, and activities occurring under your Account; (b) any violation of these STC; or (c) your violation of any other party’s rights or applicable law. The Company reserves the right to assume, at your sole expense, the exclusive defense and control of any matter subject to indemnification by you, in which event you will fully cooperate with the Company in asserting any available defenses.
+
+12. Amendments to the STC
+
+We may modify these STC from time to time. We will provide you with reasonable prior written notice of any change. If you do not agree to any amendments to the STC, you shall (as your sole remedy) stop using the Site and the Services. By continuing to use the Services or the Site, you are providing your agreement to be bound by the updated terms of the STC.
+
+13. Miscellanea
+
+The illegality, invalidity, nullity, or unenforceability of any of the sections of these STC will not affect the validity of its other provisions, which shall remain in full force and effect. Such sections are to be replaced or integrated into others that, in accordance with law, correspond to the objective of the substituted sections.
+
+If, at any time, we fail to respond to a breach of these STC by you, that failure will not waive our right to act with respect to subsequent or similar breaches. A waiver will only be binding on the Company if it is in writing and signed by the Company. These STC constitute the entire agreement between you and the Company with respect to your Account and the Services. Both you and the Company, warrant to each other that, in entering these STC, neither the Company nor you have relied on or will have any right or remedy based upon any statement, representation, warranty, or assurance other than those expressly stated in these STC.
+
+The rights and obligations set forth in these STC (or, otherwise, of the Account) cannot be assigned to any third party without the prior written consent of the Company.
+
+These STC are drafted both in plain and legal jargon versions. In case of any discrepancies, the legal version included herein shall prevail and take precedence with respect to the plain version.
+
+14. Support
+
+You can contact us in case you have any doubts, comments or concerns by any of the following means:
+
+By post:
+Support Service
+TYPEFORM SL
+c/ Bac de Roda, 163 (local), 08018 – Barcelona (Spain)
+
+By email:
+support@typeform.com
+
+15. Applicable law and jurisdiction
+
+a. General
+
+These STC shall be governed and construed in accordance with Spanish law, without reference to its conflict of law provisions. The United Nations Convention on Contracts for the International Sale of Goods will not apply. Any dispute that may arise from or in connection to us and/or the Site or the Services shall be subject to the jurisdiction of the courts in Barcelona, Spain.
+
+b. Consumers
+
+If you are acting as a consumer, these STC shall be governed and construed in accordance with Spanish law, but this shall not prevent the application of those mandatory rights you are entitled to under your applicable law. The courts in Barcelona, Spain, shall have no exclusive jurisdiction in connection with any claim brought by you against the Company.
+
+### DOCUMENT / What other companies do we share data with? / https://help.typeform.com/hc/en-us/articles/360029617191-What-other-companies-do-we-share-data-with-###
+What other companies do we share data with?
+We take data security and privacy seriously. This is a list of third party companies and services that we use, and may sometimes share data with. We never share data unnecessarily, and take care to choose partners who meet our privacy and security standards.
+
+List of third party services we use
+Below you can find all the companies we may share data with, with an explanation of why. If you have any more questions about the data we share, please get in touch – the Contact Support button at the bottom of this page
+
+Category: Operational services
+These are the infrastructure services we use to keep typeforms ticking.
+
+Data Disclosed: Amazon Web Services – All user personal data, Rollbar – might receive user personal data
+
+Purpose: Hosting the Typeform platform, backups, real-time exception reporting and continuous deployment monitoring
+
+Name: Amazon Web Services (AWS), Rollbar
+
+Category: Analytics
+To make typeforms even better, we want to understand how you use them. These are analytical tools we use to help us understand that.
+
+Data Disclosed: All user personal data excluding billing and invoice details
+
+Purpose: To understand user behaviour inside Typeform platform, reporting and analytics
+
+Name: Amplitude, Tableau
+
+Category: Sales/Business Development
+These are tools our sales team use to manage our relationships with some customers
+
+Data Disclosed: All user personal data
+
+Purpose: Sales and Customer relationship management
+
+Name: Salesforce, MixMax
+
+Category: Customer Success
+These are tools we use to help us help you, when you need our support.
+
+Data Disclosed: All user personal data
+
+Purpose: Customer support, Customer relationship management and Onboarding through emails and in-app communications
+
+Name: Zendesk, Natero, Appcues, Autopilot
+
+Category: Marketing
+Our Marketing team use a range of tools to tell the world about the awesome things we’re building at typeform.
+
+Data Disclosed: User email addresses
+
+Purpose: To target marketing campaigns at relevant audiences
+
+Name: Facebook, Bing, Trustpilot, Google Analytics, LinkedIn
+
+Category: Subscription Management
+To make sure your account details and any payment stuff is safe and organized, we use these services.
+
+Data Disclosed: User’s account and billing details
+
+Purpose: Subscription management, referral management, payment processing
+
+Name: Stripe, Stunning, Saasquatch, Chart Mogul
+
+Category: Productivity tools
+We sometimes share data within the company using Google’s productivity tools.
+
+Data Disclosed: Might share some user related personal data
+
+Purpose: To manage daily operations and collaboration with necessary stakeholders
+
+Name: Google GSuite
+
+Category: Accounting
+It’s not all fun and games, someone has to make sure invoices and payments etc are all in order. We use these tools:
+
+Data Disclosed: Financial data related to subscriptions, invoices and billing details
+
+Purpose: Managing our accounting needs and meeting our legal requirements
+
+Name: EAL-A3, BDO
+
+Category: Data processors
+We need a tool to help us make sense of the data we collect, so we can understand what works and what doesn’t.
+
+Data Disclosed: All user personal data
+
+Purpose: We use Segment to route tracking data from Typeform, and all data from Stripe and Zendesk, to other 3rd party tools.
+
+Name: Segment
+
+### DOCUMENT / Typeform | Data Processing Agreement / https://admin.typeform.com/to/dwk6gt/ ###
+As a data-driven company, we take privacy seriously. For that reason, we have implemented Section 4 of our Privacy Policy, where all terms and conditions governing our access to personal information and further processing are set forth. Also, if you are subject to the CCPA, please check our 'CCPA Notice' here.

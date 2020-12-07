@@ -1,0 +1,783 @@
+### DOCUMENT/ Tricentis Privacy Policy / https://www.tricentis.com/legal-information/privacy-policy/ ###
+Tricentis Privacy Policy
+This Tricentis Data Privacy Policy (“Privacy Policy”) describes how Tricentis GmbH, Leonard-Bernstein-Strasse 10, 1220 Vienna, Austria, and its subsidiaries (herein collectively referred to as “Tricentis”), processes your personally identifiable data and personal information (“Personal Data”). A complete list of the Tricentis group may be found at https://www.tricentis.com/locations/.
+
+This Privacy Policy applies to individuals who interact with Tricentis on- and offline; the usage of the Tricentis Software, the Platform Service and Service and/or Deliverables provided by Tricentis to business partners (collectively referred to as “Product”), and Tricentis owned or operated Websites such as www.tricentis.com (collectively referred to as “Sites”).
+
+As part of our efforts to facilitate and make your experience with Tricentis as user-friendly, enjoyable and productive as possible, Tricentis may collect and use certain information you provide to us.
+
+Please review the entire policy to learn about the types of Personal Data Tricentis processes, what Personal Data is disclosed to third-parties, and how Tricentis protects your Personal Data.
+
+Table of Content. This Privacy Policy covers the following:
+
+Information Tricentis Collects
+How is Personal Data Collected
+Legal basis for collecting Personal Data
+Usage of your Personal Data
+Sharing of Your Personal Data
+Your Failure to Provide Personal Data
+Our Retention of your Personal Data
+Your Rights to Your Personal Data
+Third-Party Service Providers, Links to other Sites, Third-Party Advertising
+International Transfer
+Security
+Children’s Privacy
+Cookie Policy
+Changes to Privacy Policy
+Contacting Tricentis
+Information Tricentis Collects
+As you interact with us and use our Product and Sites, Tricentis may collect and use Personal Data from you such as contact details (e.g. name, email address, phone number) as well as voluntarily given personal information about you. Further, Tricentis may also collect information regarding your digital identity, such as login name, screen name, nickname, or handle; device information like manufacturer and model of your device; Internet Service Provider (ISP); Internet Protocol (“IP”) address (or another device identifier); browser type; and operating system as well as metadata (e.g. location, cookies, access times and dates, referring/exit pages, clickstream data, pages of the Sites that you visit; the time spent on those pages or interacting with certain portions of the Sites, information you search for on the Sites).
+
+Tricentis does not collect or use any sensitive Personal Data and does not want you to provide us with such. Sensitive Personal Data are special categories of Personal Data which is by law considered more sensitive, such as: racial or ethnic origin, political opinions, religious and philosophical beliefs, or trade-union membership, genetic or biometric data, health data, sex life or sexual orientation.
+
+2. How is Personal Data Collected
+2.1. Information you provide to us. If you use our Sites or communicate with us (by phone, chat, email, Web forms, social media or other means of communication), you may be required to provide us certain information and Personal Data, in the following ways:
+
+by filling in forms on our Sites, subscribing to our services, posting material, requesting further services or applying for a job at Tricentis;
+when you report a problem with or have a question about our Products;
+by responding to surveys that Tricentis might ask you to complete for research purposes;
+by fulfilment of your orders;
+by your search queries on our Sites or through our services.
+
+2.2. Information provided by our business partners. Tricentis may receive Personal Data about you submitted to us by your employer. Although, Tricentis requires our business partners not to share Personal Data with us, Tricentis cannot control what our business partners disclose. Our Products are intended to be accessed and used by multiple users, so our business partners may provide your Personal Data for using our Products.
+
+If your Personal Data has been submitted to us and you wish to exercise any rights you may have to access, correct, amend, or delete Personal Data, please get in touch with respective business partner directly. If you wish to make your request directly to us, please provide the name of the business partner who submitted your Personal Data, since Tricentis has no or very limited ability to access data our business partners submit to our Products. Tricentis will then refer your request to respective business partner and support as needed in responding to your request within a reasonable timeframe.
+
+2.3. Information from your use of our Software. For improving our Tricentis Software, Tricentis uses a tool that helps us to improve our Software and your user experience by sending telemetry data on how you use our Software to our servers (“Tosca Diagnostics”). All data are collected on a company and not on user level, therefore no Personal Data of you will be stored and/or processed. By installing our software, you may deactivate Tosca Diagnostics (opt-out).
+
+2.4. Information from your use of our Sites. Tricentis may collect your usage information about how you use our Sites, including your access times, location, browser types and language, and IP addresses to track and aggregate information (e.g. Tricentis uses IP addresses to monitor the regions from which you navigate our Sites or when you log into our Sites as part of Tricentis’ features).
+
+Tricentis may collect device-specific information when you access our Products and Sites, including your hardware model, operating system and version, unique device identifiers, mobile network information, and information about the device’s interaction with our Products and Sites.
+
+This information is collected automatically by our servers when you access our Sites or use our Products and is statistical data, which may or may not include Personal Data, but Tricentis may maintain it or associate it with Personal Data Tricentis processes in other ways or receives from third- parties. It helps us to improve and to deliver better and more personalized services, including by enabling us to:
+
+estimate our audience size and usage patterns;
+store information about your preferences, allowing us to customize our services according to your individual interests;
+speed up your searches;
+recognize you when you return to our Sites. The technologies Tricentis uses for this automatic data collection may include:
+Cookies. A cookie is a small file placed on your computer. For more information about our use of cookies, including details on how to opt-out of certain cookies, please see section below “Cookie Policy”.
+Web Beacons. Pages of our services or our e-mails may contain small electronic files known as Web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an e-mail and for other related Website statistics (for example, recording the popularity of certain Website content and verifying system and server integrity).
+
+Tricentis may also collect information about you from your interaction with and use of certain functionalities, such as:
+
+Messaging. The Sites provide messaging to enable users to communicate with one another and/or with us. Tricentis may review communications made between users using the Sites’ messaging for legitimate business purposes, including in the course of customer service investigations regarding user complaints and disputes between users.
+Public Forums. If you use any bulletin board, chat room, comment posting feature, or other public communication service, forum, or feature offered through the Sites, or post any information available for viewing by other users, any of the information that you share will be visible to other users. The information that you make available can be read, used, and collected by other users to send you unsolicited messages outside of the Sites. Tricentis is not responsible for the manner in which the Personal Data that you decide to share in this way will be used by other users.
+Social Media. Tricentis operates and maintains networking pages on social media platforms such as Facebook, Twitter, and LinkedIn. Tricentis may import comments and posts from these third- party platforms to our Sites. If you post to any of our networking pages on third-party social media platforms, you are providing information to the public at your own risk. Please visit the privacy policies of any third-party social media platforms.
+
+2.5. Information from Other Sources. Tricentis may also collect information about you:
+
+from third parties, including but not limited to third-party verification services, credit bureaus, mailing list providers, and publicly available sources;
+from our business partners, including our resellers, marketing partners, or service providers Tricentis may engage to provide you with certain aspects of our services or products, such as help desk service providers or hosting services;
+if you attend one of our events, or from social networks, public sources, and our third-party analytics service providers.
+3. Legal basis for collecting Personal Data
+
+Tricentis processes Personal Data on the following legal bases:
+
+your consent to such processing;
+for the performance of a contract between Tricentis and you or to take steps prior to entering intosuch a contract;
+our legitimate interest for the performance of a contract between Tricentis and your employer (our business partner), or to take steps prior to entering into a contract between Tricentis and your employer (our business partner);
+our legitimate interest, where – in all circumstances – Tricentis will limit such processing to what is necessary for its purpose and includes following:
+transfers of employee/ business partner data for admin purposes within the Tricentis group;
+product development and enhancement– where the processing enables us to enhance, modify, personalize, or otherwise improve our services and communications for the benefit of our customers, and to better understand how people interact with our Sites;
+communications, marketing and intelligence – including processing data for direct marketing purposes and to determine the effectiveness of our promotional campaigns and advertising;
+fraud detection and prevention (crime prevention);
+industry watch-lists and industry self-regulatory schemes;
+enhancement of our cybersecurity, including improving the security of our network and information systems; and general corporate operations and due diligence;
+compliance with our legal obligations.
+4. Usage of your Personal Data
+
+Tricentis will use Personal Data only in ways that are compatible with the purposes for which it was collected or subsequently authorized by you. Tricentis will take reasonable technical and organizational measures to ensure that Personal Data is relevant to its intended use, accurate, complete, and current
+
+to provide, maintain, personalize and improve our Products and Sites and to deliver the information and support you request, including support, marketing and administrative messages;
+to send you news and information and to communicate with you about our Products. You may opt-out at any time of receiving promotional emails from us by following the instructions in those emails. If you opt-out, Tricentis may still send you non-promotional communications, such as account or our ongoing business relations;
+to enable us to display advertisements to our advertisers’ target audiences;
+to track and analyse trends and usage relating to our Products and Sites;
+to protect our rights or property;
+to compare information for accuracy;
+to verify your identity;
+to investigate and prevent fraud or other illegal activities;
+for any other purpose disclosed to you relating to our services;
+to provide you with information, products or services that you request from us;
+to fulfil any other purpose for which you provide your Personal Data;
+to carry out our obligations and enforce our rights arising from any contracts entered into between you and/or our business partners and us, including for billing and collection;
+to notify you about changes to our Products Tricentis provides to you;
+for any other purpose with your consent.
+Tricentis may combine Personal Data about you that Tricentis has collected from different sources, for example, by combining publicly available information from various sources to help analyse sales opportunities.
+
+5. Sharing of Your Personal Data
+
+Tricentis only shares Personal Data with contractors, service providers and other third parties who are bound by contractual obligations to keep Personal Data confidential and use it only for the purposes for which Tricentis discloses to them or unless you expressly consent to share Personal Data with a specified third party.
+
+5.1. Consent. Tricentis may share Personal Data for any lawful purpose to which you have expressly consented or directed, or to fulfil the purpose for which you provided the Personal Data to us.
+
+5.2. Business Partners and Vendors. Tricentis may provide Personal Data to our business partners and vendors for any of the following: to facilitate the Sites; to provide the Sites or portions of the Sites on our behalf; to perform related services to our Products, including, maintenance services, database management, fulfilment, web analytics, and improvement of the features or functionality; or to assist us in analysing how the Sites is being used.
+
+5.3. Law and Protection. Tricentis may release Personal Data when Tricentis believes, in our sole discretion, that release is appropriate:
+
+to comply with any court order, subpoena, law or legal process, including to respond to any government or regulatory request;
+to enforce agreements, Tricentis has with you or your employer;
+if disclosure is necessary or appropriate to protect the rights, property, or safety of us, our business partners or others;
+to prevent activity that Tricentis believe, in our sole discretion, may be or may become illegal, unethical, or legally actionable (including exchanging Personal Data with other companies and organizations for fraud protection).
+5.4. Business Transfers. As Tricentis continues to develop business, Tricentis may buy, sell, or share assets in connection with, a merger, acquisition, reorganization, sale of assets, or bankruptcy. In such transactions, Personal Data may be a transferred business asset, if Tricentis itself or substantially all of our assets are acquired.
+
+5.5. Aggregate Site Usage Information. Tricentis may release aggregate and anonymized/pseudonymized Personal Data to advertisers and other third parties in order to promote or describe use of the Sites.
+
+6. Your Failure to Provide Personal Data
+
+Your provision of Personal Data may be required to use certain parts of our Product, for example if you send us a support request. If you do not provide such Personal Data, you may not be able to access and use our Sites and/or our Products, or parts of it.
+
+7. Retention of your Personal Data
+
+Tricentis may retain your Personal Data for a period consistent with the original purpose of collection. Tricentis keeps your Personal Data for no longer than reasonably necessary for your use of our Products and for a reasonable period afterward. If you are a business partner’s employee, Tricentis will delete your Personal Data from our systems 7 years after termination of the agreement, insofar no other duration is necessary to be compliant with applicable laws. Tricentis also may retain your Personal Data during the period needed for us to pursue our legitimate business interests, conduct audits, comply with our legal obligations, resolve disputes and enforce our agreements.
+
+8. Rights to Personal Data
+
+According to applicable data protection laws, you may have the following rights in connection with your Personal Data which are processed by us.
+
+Right to be informed: You are entitled to be informed of the use of your Personal Data by us, which this Privacy Policy provides to you.
+Right to access: You have the right to request a confirmation as to whether and, if so, what Personal Data Tricentis processes from you.
+Right to rectification: You have the right to request correction or changes of your Personal Data if your Personal Data are inaccurate or out of date.
+Right to be forgotten: You have the right to request a deletion of your Personal Data when it is no longer necessary for us to retain such data.
+Right to restriction: You may have the right to request a restriction of the processing of your Personal Data, provided that the legal requirements are met.
+Right to object: You may have the right to object to process your Personal Data, if Tricentis does not have no other legitimate grounds besides your consent on doing so.
+Right to data portability: You may have the right to a copy of your Personal Data which Tricentis process.
+Right to lodge a complaint with a supervisory authority.
+
+You may update or correct information about yourself by emailing us. If you want to completely delete all such information, then your account may become deactivated. Tricentis may retain an archived copy of your records as required by law, to comply with our legal obligations, to resolve disputes, to enforce our agreements or for other legitimate business purposes.
+
+Please update your Personal Data on a regular basis to ensure its integrity for the purposes of ongoing data management.
+
+9. Third-Party Service Providers, Links to other Sites, Third-Party Advertising
+
+This Privacy Policy does not apply to any websites managed, maintained, and/or hosted by third parties that you may visit e.g. via a link provided through the Sites or on a website maintained by any third party. Tricentis is not responsible for and does not control the (privacy) practices of any third-party websites or service providers to whose websites Tricentis may link.
+
+Some content or applications, including advertisements, on or through our Sites are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third- parties may use cookies, alone or in conjunction with web beacons or other tracking technologies, to collect information about you when you use our Sites. The information they collect may be associated with your Personal Data or they may collect information, including Personal Data, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioural) advertising or other targeted content. Tricentis does not control these third parties’ tracking technologies or how they may be used. Please contact the responsible provider directly.
+
+10. International Transfer
+
+Tricentis may use third-party service providers to process and store Personal Data in the European Union, the United States and other countries, which may be outside of your country of origin.
+
+Tricentis is committed to comply with applicable laws, regulations and mandatory government standards regarding the protection of Personal Data. Since Tricentis is a global organization, Personal Data and any additional information submitted may be used globally. Therefore, Personal Data may be transferred to other Tricentis entities worldwide, where it will be processed in accordance with this Privacy Policy and laws that are applicable in each country. Where the law of your country of origin requires your express consent to Tricentis disclosing your Personal Data to services providers or Tricentis entities located in countries outside of your country of origin, you consent to such disclosure and acknowledge in respect of such disclosure that (i) you may not be able to seek redress under the laws applicable in your country of origin, (ii) the overseas recipient may not be subject to any privacy obligations, (iii) you may not be able to seek redress in the overseas jurisdiction; and (iv) the overseas recipient may be subject to a foreign law that could compel the disclosure of personal information to a third party, such as an overseas authority.
+
+Tricentis implements suitable security measures to ensure that your Personal Data is protected, since Tricentis may transfer Personal Data out of your jurisdiction. Tricentis executes a Data Privacy and Data Security Agreement with third parties with whom Tricentis may share Personal Data, if required by law.
+
+11. Security
+
+Tricentis employs administrative, physical, and electronic measures designed to protect your information from unauthorized access by implementing appropriate technical and organizational measures to ensure a level of security appropriate to the risk, considering technological reality, cost, the scope, context and purposes of processing weighted against the severity and likelihood that the processing could threaten individual rights and freedoms. Tricentis uses commercially reasonable security measures such as encryption, firewalls, and employs SSL – a specialized encryption and security technology –or hypertext transfer protocol secure (HTTPS) to protect Personal Data.
+
+Please note that no security system is impenetrable. Accordingly, Tricentis cannot guarantee the security of our databases, nor that information you supply won’t be intercepted. Tricentis is not responsible for circumvention of any privacy settings or security measures contained on or within Products and Sites. Where you have chosen a password for access to certain parts of our Products and Sites, you are responsible for keeping this password confidential and you should not share your password with anyone.
+
+Tricentis will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored Personal Data to you via email or posting through the Sites in the most expedient time possible and without unreasonable delay, as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+12. Children’s Privacy
+
+Our Products and Sites are not directed to children younger than sixteen (16) years of age and Tricentis does not intend to collect Personal Data from children under 16. If you are under 16, please do not use the Site and do not send any information about yourself to us.
+
+13. Cookie Policy
+
+13.1. Cookie Definition. Cookies are small files that are sent to and stored on your computer or mobile device. They are generally used to make websites and cloud-based services work better and more efficient, e.g. they can recognize you and remember important information that will make your visit of a website or cloud-based service more convenient (e.g., by allowing you to enter a password less frequently or remembering user preferences). Taken alone, cookies do not personally identify you – rather, they merely recognize your web browser. Unless you choose to identify yourself to Tricentis, either by opening an account, filling out a web form (such as by signing up for a free trial) or you have previously identified yourself to us, you remain anonymous.
+
+13.2. Cookie Usage. Tricentis may use cookies and other tracking technologies to deliver and improve our Sites, to display relevant content, products and services, and for other important purposes which are identified herein. This section describes how Tricentis may use cookies and other tracking technologies to deliver and improve the Sites, to display relevant content, products and services on the Sites, and for other important purposes and applies when you visit, access, or use our online products, trial and cloud-based services, and Sites that are owned or operated by Tricentis (“Cookie Policy”).
+
+By clicking “Got it!” on our cookie pop-up notice, or clicking to close the cookie pop-up notice on our Sites, you agree that you have affirmatively consented to and opted-in to our use of cookies as described in this Cookie Policy. Further, by using the Sites, you agree that Tricentis can use these technologies as described herein.
+
+13.3. Types of Cookies. Tricentis uses different types of cookies on our Sites to make your interaction easy and meaningful. The Sites may include first-party cookies, that send data directly to Tricentis and contractors acting on our behalf, including cookies used to monitor, analyse, and administer the Sites, and third-party cookies, that send data to our contractors for their own commercial use. Further, Tricentis use session cookies, which exist only during one session and disappear from your computer or device when you close your browser, and persistent cookies, which remain on your computer or device after you close your browser.
+
+Strictly Necessary Cookies. These cookies are essential to the operation of our Products and Sites. They are used to facilitate our log-in process, authenticate users, and enable you to navigate the Sites and to use their features. They are also used by our employees for in product messaging and analytics. Without these cookies, Tricentis may not be able to provide certain Products and the Sites may not perform as smoothly for you as Tricentis would like.
+You have no option to opt-out of the use of strictly necessary cookies, since they are essential to operate our Products and Sites.
+Functionality Cookies. These cookies allow us to remember the choices you make while visiting our Sites and to provide enhanced and more personalized content and features, such as customizing a certain webpage or application page, remembering if Tricentis has asked you to participate in a promotion and for other services you request, like watching a video or commenting on a blog. To permit your connection to the Sites, our servers receive and record information about your computer and browser, potentially including your IP address, browser type, and other software or hardware information. These features help us to improve your visit and assist in navigation of the Sites’ features.
+You may manage, or to opt out of the use of functionality cookies on our Sites, please see instructions below. Opting out may impact the functionality you receive when using our Sites.
+Analytics Cookies. Tricentis and our service providers may use analytics cookies, to collect information and enable us to improve them by collecting information how you use the Sites, for instance, which pages you go to most. The information allows us to see the overall patterns of usage, help us record any difficulties users may have while using the Sites and show us if our advertising is effective.
+You may manage, or to opt out of the use of analytics cookies on our Sites, please see instructions below. Opting out may impact the functionality you receive when using our Sites.
+Advertising Cookies. Tricentis may also use cookies and similar tools to correlate your use of the Sites to personal information obtained about you. For example, if you have asked us to provide you information about our upcoming products, our services or any promotions, Tricentis may utilize our cookie and/or clickstream data about your activities when you engage with us on the Sites. By evaluating this information, Tricentis may more clearly target the information provided to you to the specific items Tricentis thinks you will find interesting, based on your prior online activities and preferences. Tricentis also uses third-party advertising cookies. Tricentis and our service providers may use advertising cookies to deliver ads that Tricentis believes are more relevant to you and your interests.
+You may manage, or to opt out of the use of advertising cookies on our Sites, please see instructions below. Opting out may impact the functionality you receive when using our Sites.
+Third-Party Cookies. Tricentis may work with third-parties to provide services on our Sites such as, Tricentis uses analytics services supported by third-party companies who generate analytics cookies on our behalf. Tricentis may not have access to these cookies, although Tricentis may use statistical information arising from the cookies provided by these third parties to customize content and for the other purposes described above. These companies may also transfer this information to other parties where required to do so by law, or where such other parties process the information on their behalf.
+Tricentis does not control these third-party cookies, their use is governed by such third-parties. Please visit relevant third-party’s website and privacy policy to learn about these cookies and to disable or reject them.
+13.4. Control of Cookies. If you want to control cookies, you could view cookies stored on your hard drive, choose if to permit cookies to be set by default by changing browser settings or delete the cookies stored on your hard drive. The main web browsers allow you to change your cookie settings directly through their sites and are typically found in the ‘options’ or ‘preferences’ menu of your browser. Please be aware, that your decision to control cookies may affect your experience of our Sites. Turning cookies off, for instance, will prevent you from registering for, signing in to, and using many of the services on our Sites.
+
+13.5. “Do not Track”-Signal. Some web browsers may be configured to send “Do Not Track”-signals to websites, or users may use similar mechanisms, to indicate a user’s preference that certain web technologies may not be used to track the user’s online activity.
+
+14. Changes to Privacy Policy
+
+From time to time Tricentis may change this Privacy Policy with or without prior notice to you. You can tell when changes have been made to the Privacy Policy by referring to the version. Please review this Policy regularly to ensure that you are aware of any changes. If Tricentis materially changes the usage and disclosure of Personal Data, Tricentis will post a notice on our Site and send an e-mail to our registered users. Tricentis will also keep prior versions of this Privacy Policy in an archive for your review.
+
+### DOCUMENT / TRICENTIS CUSTOMER GENERAL TERMS AND CONDITIONS / https://www.tricentis.com/wp-content/uploads/2020/10/Tricentis-Customer-General-Terms-and-Conditions_V10-20.pdf ###
+1. SCOPE AND DEFINITION
+1.1. Scope. These Tricentis Customer General Terms and Conditions shall apply to the licensing of the Software as well as the provision
+of the Platform Services and the Services to Customer as set forth on the applicable Order.
+1.2. Definitions. Capitalized terms not otherwise defined shall have the meaning set forth in this section.
+1.2.1. “Acceptance Date” means the date on which Customer signs the Order.
+1.2.2. “Affiliate” means any individual, corporation, partnership, or business entity that controls, is controlled by, or is under common
+control by an entity with an ownership of more than 50% of the voting shares.
+1.2.3. “Agreement” means these Tricentis Customer General Terms and Conditions, the applicable Order and any schedule and
+appendices thereto executed by the parties.
+1.2.4. “Company” means the entity identified in the Order, which provides the Products in accordance with the terms of this Agreement.
+1.2.5. “Confidential Information” means any data or information that is disclosed to one party (“Recipient”) by the other party
+(“Discloser”) and not generally publicly available in whatever form, whenever and however disclosed, including but not limited to
+the Product and Documentation, including all data, code, techniques, algorithms, methods, logic, architecture, and designs
+embodied or incorporated therein, client lists, information security plans, business continuity plans, trade secrets and proprietary
+information, personal identifiable data or any data or information which is either identified as confidential, or which by its nature a
+reasonable business person would consider to be proprietary or confidential.
+1.2.6. “Customer” means the entity identified in the Order, which receives licenses, subscribes or accesses the Products, Documentation
+and Support.
+1.2.7. “Customer Material” means any work, material, content, code or data provided to Company by Customer in connection with
+Customer’s use of, or resulting from Customer’s use of, the Products.
+1.2.8. “Customer System” means any system owned, operated, or managed by Customer or its Affiliate on which the Software is installed,
+or which is accessed and used for the Platform Services.
+1.2.9. “Deliverable” means any work or material (including software, reports, test cases, flow charts or documentation) delivered to
+Customer pursuant to this Agreement as described in or pursuant to the Order.
+1.2.10. “Documentation” means Company’s standard written user documentation, explanatory documents, notes and/or handbooks that
+describe the design, functions, operation, or use of the Products as updated by Company from time to time.
+1.2.11. “Fee“ means any fees which Customer is required to pay in accordance with this Agreement.
+1.2.12. “Intellectual Property Rights” or “IP Rights” mean any worldwide common law and statutory rights, whether arising under the
+applicable law or any other state, country, jurisdiction, government, or public legal authority, associated with (i) patents, utility
+models, and invention disclosures and applications therefor, (ii) trade secrets, or proprietary information, (iii) copyrights; (iv)
+trademarks and service marks, (v) industrial designs, (vi) all rights in databases and data collections; (vii) all economic rights of
+authors and inventors, however denominated, (viii) rights to apply for, file for, certify, register, record, or perfect or any similar or
+equivalent rights to any of the foregoing, provided those rights or applications for any of those rights ( where such applications can
+be made) are capable of protection in the applicable jurisdiction.
+1.2.13. “Order” means the order form, or any other document as agreed by the parties, specifying the options chosen by Customer for
+the Products as well as Fees and additional conditions.
+1.2.14. “Platform Services” mean any remote on-demand application made available by Company to Customer as identified in the Order.
+1.2.15. “Products” mean collectively the Software, the Platform Services, Services and/or Deliverables provided by Company to Customer
+as identified in the Order.
+TRICENTIS CUSTOMER GENERAL
+TERMS AND CONDITIONS
+Tricentis Customer General Terms and Conditions | Version 10/2020 | 2
+www.tricentis.com © 2020 Tricentis | All Rights Reserved
+1.2.16. “Services“ mean any services performed to Customer pursuant to and as described in the Order.
+1.2.17. “Software” means any software as standard computer program in executable code, including its components as well as all available
+technology adapters as set forth in the Order.
+1.2.18. “Support” means standard support services in connection with the Software and/or the Platform Service provided in accordance
+with Company’s Support plan and any applicable service level agreement set forth in or attached to the Order.
+1.2.19. “Term” means the duration of Customer’s rights to use or access the Products including Support as set forth in the Order.
+1.2.20. “Third-Party Software” means software not owned by Company and licensed to or used by Customer, whether supplied by
+Company or a third party.
+1.2.21. “User” means Customer’s or Customer’s Affiliate employees or contractors for whom the use of Product and Documentation is
+licensed or subscribed for.
+2. IP RIGHTS
+2.1. Ownership. Company retains all rights, title, and interest, including all IP Rights, in and to the Products and its Confidential
+Information and Customer shall retain all rights, title, and interest in and to the Customer Systems, Customer Materials and its
+Confidential Information. The Products are made available on a limited license or access basis, and no ownership right is conveyed
+to Customer, irrespective of the use of terms such as “purchase” or “sale”. Customer may not remove, alter, or obscure any
+proprietary rights notices contained in or affixed to the Products. Except for the rights expressly granted in this Agreement, no
+license or right is granted to Customer by Company by implication or otherwise.
+2.2. Customer Material. For the sole purpose of providing the Products, Customer hereby grants to Company and its Affiliates and
+subcontractors a worldwide, non-exclusive, revocable license to use Customer Materials during the Term. Customer shall ensure
+that its use of the Products and all Customer Materials are at all times compliant with applicable local, state, federal and
+international laws and regulations.
+2.3. Open Source Component. Customer acknowledges that certain software components of the Product may be covered by open
+source licenses as promulgated by the Open Source Initiative or by the Free Software Foundation. To the extent required by such
+open source license, the terms of such license will apply to such open source component in lieu of the relevant provisions of this
+Agreement. If such open source license prohibits any of the restrictions in this Agreement, such restrictions will not apply to
+respective open source component. Company shall provide Customer with a list of open source components upon Customer’s
+request.
+2.4. Feedback. Customer or its Users may submit feedback while using the Products. To the extent that Customer has the right,
+Customer assigns to Company all right, title and interest in and to any IP Rights associated with any suggestions, enhancement
+requests, communications, recommendations or other advice (“Feedback”) that it or its Users provide to Company relating to the
+Products or the Documentation for all possible uses by Company (including adaptation, reproduction, editing, alteration, addition
+to and/or deletion from, rearrangement, transposition, translation) and exploitation of the Feedback, and otherwise agrees not to
+enforce, and otherwise waives to the fullest extent legally possible, any rights that it or the User may have now or in the future in
+respect of such Feedback.
+2.5. Aggregated Data. Company may aggregate the metadata and usage data of Customer or User collected or otherwise made
+available through the Products so that the results are non-personally identifiable with respect to Customer or User (“Aggregated
+Data”). The Aggregated Data will be deemed Company’s Confidential Information, and Customer acknowledges that Company may
+use the Aggregated Data, both during and after the Term, (i) for its own internal, statistical analysis, (ii) to develop and improve the
+Products, and (iii) to create and distribute reports and other materials regarding use of the Products. For purposes of clarity, nothing
+in this section gives Company the right (or ability) to publicly identify Customer as the source of any Aggregated Data.
+3. PRODUCT USAGE
+3.1. Usage Rights. Subject to payment by Customer of the Fees and subject to continuous compliance with the Agreement, Company
+hereby grants to Customer a limited, non-exclusive, non-transferable, non-sublicensable right to use the Products by its Users in
+accordance with this Agreement and the Documentation during the Term, solely for Customer’s internal business purposes. In
+addition, and unless otherwise specified in the Order, (i) in case of Software, Customer may install the Software on its Customer
+System, and/or (ii) Company shall perform the Services, and shall provide the Deliverables as described in the Order on a time and
+material basis.
+3.2. Delivery. Company shall execute, perform or otherwise make available the Software electronically and the Platform Services over
+the Internet and shall deliver the applicable license keys and/or login instructions to the email address(es) provided in the Order.
+Customer is responsible for installation of any downloadable Software, and Customer acknowledges that Company has no further
+delivery obligation with respect to downloadable Software after delivery of the license keys. Services may be provided on-site or
+remotely as specified in the Order.
+3.3. Restrictions. Customer shall not allow or assist any third party to and shall be responsible for ensuring that its Users do not: (i)
+Tricentis Customer General Terms and Conditions | Version 10/2020 | 3
+www.tricentis.com © 2020 Tricentis | All Rights Reserved
+modify, adapt, translate, create derivative works of, reverse engineer, decompile, disassemble, reproduce or otherwise attempt to
+derive the source code of, any part of the Products, any header files or class libraries contained in any part of the Products or any
+underlying ideas, algorithms, file formats, except as permitted by law, (ii) sell, resell, license, sublicense, distribute, transfer or
+provide access to a third party, rent or lease any part or include the Products in a service bureau or outsourcing offering, or
+otherwise encumber the Products with any lien or grant or allow third parties the registration of a security interest, time share or
+offer as a service, (iii) use the Products for the benefit of any third party, publish or otherwise disclose to any third party any results
+of any benchmark or other performance tests of the Products or publicly disseminate information regarding the performance of
+the Products or incorporate the Products or any part of it into a product or service provided to third parties, (iv) remove, alter, or
+obscure any proprietary rights notices contained in or affixed to the Products, (v) use the Products in any hazardous environments
+requiring fail-safe performance, such as in the operation of nuclear facilities, aircraft navigation, vehicles with autonomous driving
+systems or communication systems, air traffic control, direct life support machines, or weapons systems, in which the failure of
+products could lead directly to death, personal injury, or severe physical or environmental damage, (vi) interfere with any license
+key mechanism in the Products or otherwise circumvent mechanisms in the Products intended to limit the scope of use or to try to
+gain unauthorized access to or disrupt any service, device, data, account or network, (vii) use the Products in a way prohibited by
+law, regulation, governmental order or decree, or to violate the rights of others, and (viii) to spam or distribute malware in a way
+that could harm the Products or impair anyone else’s use of it.
+3.4. Backup. Except for maintaining one archival copy of the Software for backup purposes only, Customer shall not make copies of
+the Software. Nothing herein shall limit or restrict Customer from providing Users with copies of the Documentation for their
+internal business use, in connection with the license granted in this section.
+3.5. Support. Subject to the payment by Customer of the Fees, Company provides Customer with Support for the Software and/or the
+Platform Services during the Term. If not otherwise stated in the Order, Gold Support Plan applies. Company may also access
+Customer’s Platform Services account or instance or request access to the Software in order to respond to support requests.
+3.6. Usage Scope and Verification. Only Customer and its Users may access and use the Products within the authorized scope and
+Customer is responsible for all Users’ compliance in accordance with this Agreement. Without limiting the foregoing, the Software
+and/or Platform Service may not be simultaneously accessed or used by more than the quantities purchased by Customer as set
+forth in the applicable Order. Upon Company’s written request Customer shall provide to Company reasonable assistance to verify
+Customer’s compliance with this Agreement. If Company determines that Customer has exceeded its permitted scope of use,
+Company shall notify Customer of its determination and (i) invoice Customer for additional User licenses or subscriptions
+commensurate with Customer’s actual past use and Customer shall pay Company’s invoice on receipt or (ii) require Customer to
+immediately discontinue the unpermitted use and terminate Customer’s access to and use of the Product. Company and Customer
+may mutually agree to amend the Order to reflect Customer’s actual use on a going forward basis.
+3.7. Hosting Platform Provider. In order to provide the Platform Services, Company uses third party Platform hosting providers.
+Company’s platform hosting providers are identified in the applicable Platform Service infrastructure. Company may change,
+discontinue or replace platform hosting providers from time to time, provided there is no material change to, discontinuation or
+termination of the Platform Service or applicable data protection and IT-security standards.
+3.8. Third-Party Software. Customer is solely responsible for the installation, maintenance, repair, use, and upgrade of Third-Party
+Software the Products are used with. Company disclaims all warranties or statutory guarantees of any kind with respect to such
+Third-Party Software.
+3.9. Evaluation or Beta License. If Products and Documentation are provided to Customer for evaluation, beta, or release candidate
+purposes, Company grants to Customer a limited, nonexclusive, non-transferable evaluation license to use the Products and
+Documentation solely for evaluation prior to purchase or implementation (“Evaluation License”). The Evaluation License shall
+terminate immediately upon notice from Company in its sole discretion. Notwithstanding any other provision contained in this
+Agreement, the Products and Documentation provided pursuant to an Evaluation License are provided to Customer “AS IS” without
+indemnification, support, or warranty of any kind, express or implied, unless otherwise required by law. Except the terms in this
+section conflict with any other provisions of this Agreement, this section shall prevail for Evaluation Licenses only.
+4. FEES
+4.1. Payment. Except as otherwise set forth in the Order, Fees are due and payable thirty (30) days after Customer’s receipt of an
+undisputed invoice. Invoices are deemed to be accepted if not disputed in writing within ten (10) days after receipt. Customer shall
+provide Company with accurate billing and contact information and notify Company of any changes to such information. All Fees
+are provided for the Term as set out in the Order and are non-refundable and non-cancellable except as otherwise set forth herein.
+If Customer fails to pay, Company shall be entitled, at its sole discretion, to: (i) suspend provision of the Products until Customer
+fulfills its pending obligations; (ii) charge Customer an interest rate in accordance with 4.3 (Interest) below; and/or (iii) terminate
+this Agreement. Should Company be required to begin an action against Customer to collect any payment due, Customer shall pay
+all costs of collection together with interest, and legal and other administrative fees. If applicable, if Customer exceeds the license
+capacity designated in the Order, in addition to Company’s other remedies, Customer will be charged additional fees.
+4.2. Fee Modification. The Fees are in consideration of the current version of the Products and Customer acknowledges that it is not
+relying on future availability of any Products beyond the current Term or any Product upgrades or feature enhancements in
+Tricentis Customer General Terms and Conditions | Version 10/2020 | 4
+www.tricentis.com © 2020 Tricentis | All Rights Reserved
+consideration of the Fees paid for the Term. Upon the renewal of the Order, Company reserves the right to modify the Fees payable
+by Customer upon ninety (90) days’ prior the end of the current Term and written notice to Customer.
+4.3. Interest. If any sum payable under this Agreement is not paid when due, without prejudice to Company’s other rights under this
+Agreement, that sum will bear interest from the due date until the date when payment is received by Company, both before and
+after any judgment at the rate of one and a half percent (1.5%) per month, subject to the maximum rate allowed by applicable law.
+In the event Customer in good faith disputes any amount due under any invoice issued by Company, Customer shall pay the
+undisputed amount, and the parties shall use diligent efforts to resolve any such dispute.
+4.4. Taxes. All payments, Fees, and other charges payable by Customer to Company under this Agreement are exclusive of all sales,
+goods and services, value added, property, excise, or any other taxes, levies, and assessments of any jurisdiction. Customer shall
+bear all such taxes, levies, and assessments imposed on Customer or Company arising out of this Agreement, excluding any tax
+based on Company’s net income. If any deduction or withholding is required by law to be made by Customer, the amount of Fees
+shall be increased to the amount which, after making any deduction or withholding, leaves the amount equal to Fees which would
+have been due if no deduction or withholding had been required. Prior to any deduction or withholding, Customer shall inform
+Company about the amount of such deduction or withholding and shall request from Company a tax residency certificate, or any
+other documents required by law, to claim an exemption from or reduction of any such deduction or withholding. Customer to
+whom the deduction or withholding applies, shall pay to the relevant taxation authority, or other authorities, as appropriate, the
+applicable amount of the deduction or withholding, and furnish to Company all documents confirming such deduction or
+withholding. These documents should include, to the extent existing, any evidence necessary to ensure utilization of tax credit by
+Company. Company will repay to Customer the portions of a gross-up amount which led to an effective tax saving because of tax
+credit available to Company.
+4.5. Expenses. Except as otherwise set forth in the Order, Customer shall reimburse Company for actual travel and living expenses of
+its personnel engaged in the performance of the Services at locations other than Company facilities, together with other out-ofpocket expenses incurred in connection with performance of the Service. Company shall adhere to any travel policy reasonably
+promulgated by Customer.
+5. WARRANTY AND LIABILITY
+5.1. Representation. Each party represents that it has validly entered into this Agreement and has the legal power to do so.
+5.2. Warranty. Company warrants to Customer that (i) the Software will conform in all material respects to the Documentation in effect
+on the Acceptance Date during the first six (6) months of this Agreement, (ii) the Platform Services will conform in all material
+respects to the Documentation in effect during the Term, (iii) the Services will be performed in a professional and workmanlike
+manner, and that the Deliverables will conform in all material respects to the Documentation or specifications set forth in the Order
+for a period of ninety (90) days after the completion of the Services and delivery of the Deliverables. Notwithstanding any provision
+of this Agreement to the contrary, Company shall not have any obligation under this section to the extent a nonconformity of the
+Products are the result of (a) the Products having been modified, repaired, or reworked by any party other than Company or a third
+party on behalf of Company, (b) any use of the Products in conjunction with another product or service not recommended in the
+applicable Documentation, (c) any damage to the Products by power failure, fire, explosion, or any act of God or other cause beyond
+Company’s reasonable control, or (d) any use of or access to the Products not in conformance with the Documentation. Warranty
+is fully excluded in cases of Evaluation, Beta or free-of-charge (trial) use of the Products.
+5.3. Remedy. If the Product does not conform to the warranty as provided in 5.2 (Warranty), Company will use commercially reasonable
+efforts to correct the nonconformity causing the warranty failure in the Product provided the failure can be recreated by the
+Customer or Company. Customer shall notify Company in writing, specifically describing the non-conformity within the warranty
+period and Company shall verify the existence of such non-conformity before Company proceeds the correction. For any breach of
+5.2 (Warranty), Customer’s sole and exclusive remedy will be as described in this section.
+5.4. DISCLAIMER. EXCEPT AS EXPRESSLY PROVIDED IN 5.1 (WARRANTY) AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, THE PRODUCTS ARE PROVIDED BY COMPANY “AS IS”, AND NEITHER COMPANY NOR ITS THIRD-PARTY LICENSORS MAKE ANY
+OTHER REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES ARISING
+UNDER STATUTE, USAGE, TRADE CUSTOM, ACCURACY, OR OUT OF TITLE, COURSE OF DEALING, PERFORMANCE OR OTHERWISE.
+COMPANY DISCLAIMS ALL WARRANTIES, REPRESENTATIONS, OR CONDITIONS RELATING TO THE PRODUCTS INCLUDING,
+WARRANTIES OF MERCHANTABILITY, OR FITNESS FOR ANY INTENDED OR PARTICULAR PURPOSE. COMPANY DOES NOT GUARANTEE
+THAT THE PRODUCTS WILL BE FREE OF DEFECTS, RUN ERROR-FREE OR UNINTERRUPTED OR MEET CUSTOMER’S REQUIREMENTS.
+5.5. LIABILITY
+5.5.1. NOTWITHSTANDING ANY PROVISION OF THIS AGREEMENT TO THE CONTRARY OTHER THAN SUBSECTION 5.5.2 BELOW AND TO
+THE EXTENT PERMITTED BY APPLICABLE LAW REGARDLESS OF THE FORM OR CAUSE OF ACTION, WHETHER IN CONTRACT OR TORT,
+OR THE NUMBER OF CLAIMS (I) NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY, FOR ANY CONSEQUENTIAL SPECIAL,
+INCIDENTAL, PUNITIVE OR INDIRECT DAMAGES, ANY LOSS OF REVENUES OR PROFITS, LOSS OF GOODWILL, LOSS OF OR
+INACCURATE DATA, LOSS OF USE, FAILURE OF SECURITY MECHANISMS, INTERRUPTION OF BUSINESS, COSTS OF DELAY OR ANY
+COST OF COVER ARISING OUT OF THIS AGREEMENT, WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+Tricentis Customer General Terms and Conditions | Version 10/2020 | 5
+www.tricentis.com © 2020 Tricentis | All Rights Reserved
+SUCH DAMAGES; AND (II) EACH PARTY’S AGGREGATE LIABILITY FOR ANY CLAIM ARISING OUT OF THIS AGREEMENT WILL BE LIMITED
+TO THE FEES ACTUALLY PAID OR PAYABLE BY CUSTOMER PURSUANT TO THE ORDER THAT IS THE SUBJECT OF SUCH CLAIM WITHIN
+TWELVE (12) MONTHS PRECEEDING THE DATE OF THE CLAIM.
+5.5.2. THE PROVISIONS OF SUBSECTION 5.5.1 SHALL NOT APPLY FOR A BREACH OF SECTIONS 2.1 (OWNERSHIP), 3 (PRODUCT USAGE), 6
+(INDEMNITY), 7 (CONFIDENTIALITY), AMOUNTS OWED BY CUSTOMER, PERSONAL OR PROPERTY DAMAGE, INCLUDING DEATH,
+BODILY INJURY OR DAMAGE TO HEALTH CAUSED INTENTIONALLY OR BY GROSS NEGLIGENCE.
+5.5.3. THE PARTIES AGREE THAT THIS SECTION REFLECTS A REASONABLE ALLOCATION OF RISK BETWEEN THE PARTIES IN LIGHT OF THE
+TERMS OF THIS AGREEMENT. THIS LIMITATION OF LIABILITY WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE
+OF ANY LIMITED REMEDY HEREUNDER.
+6. INDEMNITY
+6.1. By Company.
+6.1.1. Company shall defend, or at Company’s option, settle, any claim, demand, suit, or proceeding made or brought by a third party
+(“Claim”) against Customer, its directors, employees, and agents by a third party alleging that the authorized use of the Product in
+accordance with this Agreement infringes such third party’s IP Rights and shall indemnify Customer from any costs, damages,
+liabilities, losses, claim, demand, judgement or settlement and expenses (including reasonable attorneys’ fees) finally awarded
+against Customer as a result of, or for amounts paid by Customer under a court-approved settlement of a Claim.
+6.1.2. If Company receives notice of a Claim, Company may in its discretion and at no cost to Customer (i) modify the Product so that it
+no longer infringes, without breaching section 5.2 (Warranty), (ii) obtain a license for Customer’s continued use of the Product in
+accordance with this Agreement, or (iii) terminate this Agreement upon thirty (30) days’ written notice and refund Customer as
+follows: (a) as it relates to perpetual software licenses, refund the amount paid by Customer for the Software as depreciated on a
+straight line basis over a five (5) year period, upon return or certified destruction of the Software, (b) as it relates to subscription
+licenses, refund the prepaid but unused subscription fee that corresponds to the period of license discontinuation upon return or
+certified deinstallation of the Software or discontinuation of the Platform Service, and refund the prepaid but unused Fees for
+Services or Deliverables that corresponds to such discontinuation.
+6.1.3. The above obligations do not apply to the extent a Claim arises from: (i) Customer Materials or Customer Systems, (ii) Customer’s
+material breach of this Agreement, (iii) Customer’s use of the Product in combination with technology not provided by Company,
+(iv) Company’s compliance with any requirements or specifications set forth in Customer Materials, (v) Customer’s use of any
+unsupported release of the Software, (vi) a Third-Party Software or (vii) Customer’s failure to install any update provided by
+Company that would result in total or partial avoidance of an alleged infringement.
+6.2. By Customer. Customer shall defend, or at Customer’s option, settle any Claim made or brought against Company, its directors,
+employees, Affiliates and agents by a third party arising out of (i) Customer’s breach of its Product usage rights, or (ii) Customer’s
+operation of the Customer Systems and/or use of Customer Material, and shall indemnify Company from any and all costs,
+damages, liabilities, losses, and expenses (including reasonable attorneys’ fees) incurred by or awarded against Company as a result
+of, or for amounts paid by Company under a court-approved settlement of a Claim. Customer’s obligations under this section
+include claims arising out of the acts or omissions of its Users and anyone who gains access to the Product as a result of Customer’s
+failure to use reasonable security precautions, even if the acts or omissions were not authorized by Customer.
+6.3. Process. The obligations in this section 6 (Indemnity) apply only if (i) the indemnified party promptly notifies the indemnifying party
+in writing of a Claim, (ii) the indemnified party provides the indemnifying party with reasonable assistance, at the indemnifying
+party’s reasonable and documented expense, and (iii) the indemnified party provides the indemnifying party with the exclusive
+right to control and the authority to settle a Claim, provided, however, that the indemnifying party will not settle a Claim that admits
+fault or liability of the indemnified party without the indemnified party’s prior written consent (which shall not be unreasonably
+withheld) and (iv) the indemnified party will have the right to participate in the matter at its own expense.
+6.4. Exclusive Remedy. This section states the indemnifying party’s sole liability to, and the indemnified party’s exclusive remedy
+against, the other party for relevant claims as described in this section.
+7. CONFIDENTIAL INFORMATION
+7.1. Confidentiality Obligations. Except as otherwise set forth in a separate Non-Disclosure Agreement, during the Term and five (5)
+years thereafter, the Recipient shall (i) use Confidential Information solely for performing its obligations or exercising its rights
+under this Agreement, (ii) keep all Confidential Information in strict confidence; and (iii) not disclose, cause or permit disclosure of
+the Confidential Information to any third party, except as permitted under this Agreement. Specifically, the Recipient shall limit
+disclosure of any Confidential Information to its directors, officers, employees, Affiliates, agents, or representatives (collectively
+“Representatives”) that have a “need to know” in order to carry out the purpose set forth above and ensure that such
+Representatives have signed an agreement containing disclosure and use provisions similar to those set forth herein. The Recipient
+shall be held responsible to the same standard of care as it applies to its own confidential information, which shall not be less than
+reasonable care. The Recipient is responsible for any breach of this Agreement by any of its Representatives.
+7.2. Exceptions. Confidential Information shall not include information that the Recipient can demonstrate (i) was in the Recipient's
+Tricentis Customer General Terms and Conditions | Version 10/2020 | 6
+www.tricentis.com © 2020 Tricentis | All Rights Reserved
+possession prior to disclosure hereunder; (ii) is or becomes publicly available through no fault of or failure to act by the Recipient
+in breach of this Agreement; (iii) was rightfully known by the Recipient prior to disclosure of such information by the Discloser to
+the Recipient; (iv) was independently developed by the Recipient without any use of or access to the Confidential Information; and
+(v) is required to be disclosed by a judicial or governmental order, and Discloser has been given timely notice (if legally permissible)
+of such order so that Discloser may seek an injunction or protective order. If only particular parts or aspects of Confidential
+Information become subject to any of the foregoing exceptions, all other portions or aspects shall remain subject to this Agreement.
+8. DATA PRIVACY AND IT-SECURITY
+8.1. Personal Data. Each party warrants that it shall use, collect, store and/or process personal identifiable data or personal information
+as defined under and in accordance with any applicable privacy laws (“Personal Data").
+8.2. Data Collection. Each party acknowledges it is necessary for the cooperation to exchange and allow the use of the other party’s
+contact information relating to their respective Representatives for (i) invoicing, billing and other business inquiries, (ii) contract and
+customer management and (iii) order fulfilment and deliveries to Customer (“Contact Data”) and hereby authorizes such exchange,
+use and processing of Contact Data by the receiving party or its respective Affiliates. Each party agrees that it shall process Contact
+Data as a controller (where this concept is under the applicable law), in compliance with all applicable privacy laws and regulations
+and their respective privacy policies and in a safe and secure manner preventing unauthorized access, use or disclosure use of
+Contact Data only for the purposes outlined herein.
+8.3. Data Processing. It is under Customer’s sole discretion and Company has no control over the nature, scope, or origin of, the data
+processed by the Products and Customer shall have sole responsibility for the adequacy, relevancy, accuracy, quality, and legality
+of it. Customer shall not use any Personal Data in connection with, to input into and process while using the Products. In no event
+shall Customer use sensitive Personal Data, such as information on health, sexual orientation, political orientation, race, etc. Unless
+a data processing agreement (“DPA”) is executed, neither Party authorizes any exchange, use or processing of other Personal Data
+(other than Contact Data). Notwithstanding the foregoing, if a party requests a DPA to regulate the processing of Personal Data,
+the DPA shall be deemed an appendix to this Agreement.
+8.4. Credentials. Access credential for the Products may not be shared with third parties or by and between Users or other Customer’s
+employees or contractors. Customer shall ensure that all Users keep their user IDs and passwords for the Product strictly
+confidential and not share such information with any unauthorized persons. User IDs are granted to individual, named persons
+and shall not be shared. Customer is responsible for all actions taken through use of Customer accounts and passwords. Customer
+agrees to notify Company immediately if Customer becomes aware of any unauthorized use of the Products.
+8.5. Security. Each Party will use adequate contractual and technical mechanisms to protect any data of the other party received by it.
+Customer acknowledges that use of the Product necessarily involves transmission of Customer Material over networks that are not
+owned, operated or controlled by Company, and Company is not responsible for any Customer Material’s lost, altered, intercepted
+or stored across such networks. Company cannot guarantee that its security procedures will be error-free, that transmissions of
+Customer Material will always be secure or that unauthorized third parties will never be able to defeat Company security measures
+or those of Company‘s third-party hosting providers. Customer is solely responsible for maintaining the security of its Customer
+System. Company assumes no responsibility or liability for Customer Material.
+9. TERM AND TERMINATION
+9.1. Term. This Agreement shall remain in effect for the Term of each underlying Order, unless terminated earlier in writing pursuant
+to the terms of this section. Upon the renewal of an Order, this Agreement shall be applicable to the extent of any variations set
+out in the Order.
+9.2. Renewals. Unless otherwise stated in the Order, upon expiration of the initial Term, the Term shall automatically renew for
+successive periods of twelve (12) months each at then current Company list pricing, unless a party cancels such renewal by notifying
+the other party in writing at least sixty (60) days prior to the expiration of the then-current term. The quantity and license metrics
+(such as number of Users subscribed or virtual user hours) during any automatic renewal Term shall be the same as of the previous
+Term unless otherwise agreed at the moment of renewal.
+9.3. Termination for Breach. Either party may terminate this Agreement immediately upon written notice to the other party, if the
+other party is in material breach of this Agreement and fails to correct the breach within thirty (30) days following written notice
+from the other party specifying the breach. Notwithstanding anything to the contrary, Company may alternatively suspend use of
+the Product, if Customer violates the Product usage restrictions or if any undisputed sum payable under this Agreement is past due
+for longer than thirty (30) days. Any use of the Products in breach of this Agreement or the Documentation, that in Company’s
+reasonable judgment threatens the security, integrity or availability of the Product, may result in immediate suspension of
+Customer’s access to the Product. Company shall use commercially reasonable efforts to provide Customer with prior written notice
+of any planned suspension and an opportunity to remedy such violation or threat before the suspension occurs.
+9.4. Termination for Insolvency. Either party may terminate this Agreement immediately upon written notice to the other party if the
+other party has a receiver appointed, or an assignee for the benefit of creditors or in the event of any insolvency or inability to pay
+debts as they become due by the other party, except as may be prohibited by applicable laws.
+Tricentis Customer General Terms and Conditions | Version 10/2020 | 7
+www.tricentis.com © 2020 Tricentis | All Rights Reserved
+9.5. Effect of Termination. Expiration or termination of this Agreement will not relieve any party of its obligations to pay any amounts
+accrued or otherwise owed under this Agreement. Upon termination or non-renewal of this Agreement, all usage or access rights
+granted to Customer hereunder shall terminate and Customer shall not use the Products, and Company shall have no further
+obligation to provide the Products. Customer must remove any Customer Materials in the Platform Services prior to termination.
+Upon termination of an Order for Services, Customer shall pay Company any unpaid fees and expenses incurred on or before the
+termination date on a time and material basis, based on the rates agreed in the Order. In addition, no later than ten (10) calendar
+days after termination or non-renewal, each party shall return or certify destruction of all Confidential Information in its possession
+or control to the other party, if so requested. Any provision that is intended to continue after termination shall not be affected by
+the termination of this Agreement.
+10. MISCELLANEOUS
+10.1. Notices. All notices shall be in writing and addressed to the office location of the parties as set out in the Order or to such address
+as either party may later provide in writing to the other party by certified or registered mail, courier or email or through Customer’s
+account.
+10.2. Publicity. For marketing and promotional purposes, Customer agrees that Company may identify Customer in Company’s
+promotional, marketing or other materials and refer to Customer by name, trade name and trademark as applicable. Customer
+hereby grants to Company a license to use Customer’s name and applicable trademarks in accordance with this section.
+10.3. Non-Solicitation. During the term of this Agreement and for one year thereafter, neither party will solicit any of the other party’s
+employees or contractors to leave their current employment or engagement with the other party. The placement of general
+employment solicitations and advertisements in public media (e.g. newspapers, company website postings, internet recruiting
+sites), or the engagement of a recruiting firm who solicits the other party’s employees as part of a general solicitation effort, without
+any direction from the hiring party to solicit individuals from such other party, will not constitute a breach of the terms of this
+section.
+10.4. Injunctive Relief. Each party acknowledges and agrees that any breach of its obligations with respect to Confidential Information
+and IP Rights may cause substantial harm to the other party that could not be remedied by payment of damages alone. Accordingly,
+the other party shall be entitled, in addition to any other rights or remedies, to seek injunctive relief in any jurisdiction where
+damage may occur.
+10.5. Exports. Customer shall comply with all applicable export trade control laws, rules, and regulations with respect to its use of the
+Product, including but not limited to International Traffic in Arms Regulations of the U.S. State Department, the Export
+Administration Regulations promulgated by the U.S. Department of Commerce or sanction regulations of U.S. Treasury Department
+and shall comply with all restrictions imposed pursuant thereto with respect to complying with prohibitions of trade or transactions
+with persons or entities whom or which may be sanctioned or blocked by virtue of being subject of an order, directive, proclamation,
+regulation or otherwise listed as a blocked, barred, suspended, sanctioned or prohibited person identified by such agencies and
+departments. Without limiting the foregoing, Customer shall not export or re-export all or any part of the Product without
+Company’s prior written consent and license as may be required by the export trade control laws of the U.S. Customer agrees to
+notify Company promptly if Customer or any User may be in non-compliance with this section.
+10.6. No Waiver. A party’s failure or delay in exercising any of its rights shall not constitute a waiver of such rights unless expressly
+waived in writing.
+10.7. Relationship. The parties are independent contractors, and nothing contained in this Agreement shall be construed to constitute
+as agents, partners, joint ventures, or otherwise as participants in a joint undertaking, that would give a party the express or implied
+right, power or authority to create any duty or obligation of the other party.
+10.8. Force Majeure. Neither party shall be deemed to be in breach of any provision of this Agreement for any failure (except for a failure
+to pay Fees) resulting from acts or events beyond that party’s reasonable control, including but not limited to (i) severe weather,
+power failure, fires, explosions, earthquakes, drought, tidal waves and floods, (ii) war, hostilities, invasion, act of foreign enemies,
+mobilization, requisition, or embargo, (iii) rebellion, revolution, insurrection, or military or usurped power, or civil war, (iv)
+contamination by radio-activity from any nuclear fuel, or from any nuclear waste from the combustion of nuclear fuel, radio-active
+toxic explosive, or other hazardous properties of any explosive nuclear assembly or nuclear component of such assembly, (v)
+diminishment of power of telecommunications or data networks or services, or refusal of a license by a government agency, (vi)
+riot, commotion, strikes, go slows, lock outs or disorder, unless solely restricted to employees of Company or its subcontractors. If
+any of such event has occurred, the non-performing party shall (i) immediately notify the other party in writing describing at a
+reasonable level of detail the circumstances causing such default or delay and (b) be excused from further performance or
+observance of is affected obligation(s) for as long as such circumstances prevail and such party continues to use reasonable
+commercial efforts to recommence performance or observance as soon as possible and to whatever extent possible without delay.
+10.9. Assignment. Neither this Agreement nor any rights granted hereunder may be assigned by either party, without the prior written
+consent of the other party, which consent shall not be unreasonably withheld or delayed. No such consent will be required in the
+event of an assignment to either party’s Affiliate, or a merger or a sale of substantially all of a party’s assets; provided that the
+assigning party provides notice as soon as reasonably practicable. The right of assignment granted herein shall apply only to the
+Tricentis Customer General Terms and Conditions | Version 10/2020 | 8
+www.tricentis.com © 2020 Tricentis | All Rights Reserved
+business of Customer as it existed prior to such assignment or sale. This Agreement shall inure to the benefit of the parties’
+permitted successors and assigns.
+10.10. Severability. If any provision of this Agreement is held to be invalid or unenforceable, such provision will be interpreted in a manner
+that best reflects the parties’ intentions, and the remaining provisions of this Agreement will remain in full force and effect.
+10.11. Entire Agreement. This Agreement constitutes the entire agreement between Company and Customer regarding the subject
+matter hereof and supersedes all prior oral and written communications. It may be executed in one or more counterparts, all of
+which together shall be considered one and the same and may be executed and delivered by electronic signature. All amendments
+or modifications to this Agreement must be in writing and signed by authorized representatives of both parties, however, the
+General Terms and Conditions may also be incorporated by way of reference in an Order. In the event of any conflict or
+inconsistency, the order of precedence shall be (1) the Order, (2) these Tricentis Customer General Terms and Conditions, and (3)
+the Documentation.
+10.12. Law and Jurisdiction. This Agreement shall be governed by the laws of the country/state in which the Company as specified in the
+Order is located, without reference to conflict of laws principles. The place of jurisdiction shall be where the Company as specified
+in the Order is located. This Agreement excludes the United Nations Convention on Contracts for the International Sale of Goods.
+Notwithstanding the foregoing, Company may bring a claim for equitable relief in any court with proper jurisdiction.
+10.13. Subsequent Arbitration. Only if this Agreement is executed by parties located in different countries and such countries have no
+bilateral treaty regarding litigation and enforcement in place, each party consents to all disputes arising out of or in connection with
+this Agreement shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce by one or more
+arbitrators appointed in accordance with the said Rules and such arbitration shall be final binding and judgment on the award
+rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. The place of arbitration shall be where the
+Company as specified in the Order is located, and the arbitration language shall be English.
+10.14. Ultimate U.S. Federal Government Provisions. If applicable, Company will provide the Product, including related Documentation
+and technology for ultimate federal government end use solely in accordance with the following: government technical data and
+software rights related to the Product include only those rights customarily provided to the public as defined in this Agreement.
+This customary commercial license is provided in accordance with FAR 12.211 (Technical Data) and FAR 12.212 (Software) and, for
+Department of Defense transactions, DFAR 252.227-7015 (Technical Data – Commercial Items) and DFAR 227.7202-3 (Rights in
+Commercial Computer Software or Computer Software Documentation). If a government agency has a need for rights not granted
+under these terms, it must negotiate with Company to determine if there are acceptable terms for granting those rights, and a
+mutually acceptable written addendum specifically granting those rights must be included in any applicable agreement pursuant
+to the provisions and guidance set forth in FAR 27.405.3.
+10.15. Australian Consumer Law. If applicable, nothing in this Agreement excludes, restricts or modifies the application of the Australian
+Consumer Law as set out in Schedule 2 of the Competition and Consumer Act 2010 of Australia (“ACL”). To the fullest extent
+permitted by law, Company‘s liability for any breach of a consumer guarantee implied by the ACL (and which cannot be excluded)
+shall be limited to any one or more of the following (as determined by Company in its absolute discretion) (i) in the case of goods,
+the replacement repair or payment of the cost of replacement or repair of the goods, and (ii) in the case of services, supplying the
+services again or payment of the cost of having the services supplied again or for major failures with the service, Customer is
+entitled to cancel this Agreement and to a refund for the unused portion, or to compensation for its reduced value. Customer is
+also entitled to be compensated for any other reasonably foreseeable loss or damage. If the failure does not amount to a major
+failure, Customer is entitled to have problems with the service rectified in a reasonable time and, if this is not done, to cancel this
+Agreement and obtain a refund for the unused portion of services.
+
+### DOCUMENT/ Code of Conduct / https://www.tricentis.com/wp-content/uploads/2019/01/20180524-Code-of-Conduct.pdf ###
+Principles of Ethical Conduct
+Full compliance with the applicable laws of the countries in which we operate is a matter of course and goes without saying. Tricentis is committed to international standards such as the principles of the United Nations Global Compact and the documents it is based on like the ILO`S Declaration on Fundamental Principles and Rights at Work, the Rio Declara- tion on Environment and Development, the UN Convention against Corruption or the United Nations Universal Declara- tion of Human Rights.
+We expect the same from our business partners and vendors.
+A Safe and Respectful Workplace
+Tricentis achieves success by embracing a broad diversity of ideas, perspectives, and backgrounds. We believe that a diverse workforce is a strong workforce. To this end, we follow principles of equal employment opportunity and we are committed to providing a safe, creative and productive work environment for all personnel.
+At Tricentis we consider health and safety as an integral part of our corporate culture as well as a legal obligation. Healthy, motivated and committed employees are the most important resource for the ongoing success of our business.
+We installed several Social Areas, where employees can communicate, take meals together or simply take a break from work. We also provide free drinks and fruit.
+Additional we inform our employees through our guidelines about Benefits, Health and Sustainability and Compensation that we hand out with the onboarding process.
+Maintaining the Health and Safety of Our Workplace
+Tricentis does not permit anyone to be under the influence of illegal drugs or intoxicants, including the inappropriate use of lawful medications, when conducting Tricentis business, repre- senting the company, or attending company- sponsored events.
+While some drugs are legal for recreational or other consump- tion in specific locations and circumstances, Tricentis does not allow their use in any form in the workplace, during work events, or in any manner where they will affect your work performance. When representing Tricentis, alcohol should only be consumed as part of company- sponsored events and should never be consumed to excess.
+Tricentis strives to be a tobacco-free workplace. We do not allow anyone to use tobacco products that emit smoke or vapor on Tricentis’ premises, either indoors or outdoors except in designated outdoor areas.
+If required by applicable law we do not allow anyone to sell or possess dangerous weapons, real or replicas, on Tricentis’ premises or when conducting Tricentis business, representing the company, or attending company-sponsored events. Fire- arms are prohibited, except in limited circumstances where Tricentis is required by law to allow the possession of firearms and provided such firearms are handled according to all appli- cable legal requirements and Tricentis policies.
+Protecting Against Discrimination and Harassment
+We believe that everyone has the right to be treated with dignity and fairness. We do not tolerate unlawful discrimi- nation or harassment against anyone based on race, color, religion, gender, gender identity or expression, marital status, age, disability, veteran status, sexual orientation, national origin, citizenship, or other classification protected by appli- cable law. Tricentis does not tolerate violent behavior, threats of violence, or acts of aggression.
+We protect our personnel from harassment and any other conduct that may foster an offensive or hostile work envi- ronment. This includes unwelcome or unsolicited sexual advances, threats of physical harm or violent behavior, and use of discriminatory slurs or inappropriate remarks or jokes. This protection applies whether the conduct occurs on Tricentis’ premises, at off-site business meetings, or through email, voicemail, text, instant message, or other types of communication.
+We will promptly investigate any reports of harassment, discrimination, or workplace violence and take corrective action as needed.
+IT Security
+We take care of confidentiality by having implemented several internal security policies. All of our employees are obligated to adhere to our current IT Security Policy and Physical Access Policy.
+10 | Code of Conduct | Version 5/18 | Tricentis
+Tricentis | Version 5/18 | Code of Conduct | 11
+Confidential Information, Intellectual Property, Data Protection and Privacy
+Confidential Information
+Information represents an essential success factor in everyday operations and in competition. The use of modern informa- tion systems enables efficient and professional work and it also includes a risk for data security. For Tricentis the protec- tion of personal and business-related data and ensuring the functionality and integrity of our information and communica- tion systems are top priorities.
+All data and information created, stored or sent within the context of working with Tricentis are the property of the company. All such data and information, both physically and electronically must be treated confidential. All information is considered for internal use only and must not be disclosed to third parties. You must protect all confidential information concerning Tricentis, as well as any confidential information entrusted to Tricentis by third parties.
+You should never disclose confidential information unless you are authorized by Tricentis or providing information to governmental authorities in accordance with law. Your duty to safeguard confidential information also applies to communi- cations with your family members and friends, and continues even after your employment relationship with Tricentis ends. Tricentis’ confidential information includes all non-public information that might be useful to competitors or otherwise harmful to Tricentis if disclosed
+If you have a legitimate business need to disclose confidential information, you should first get approval from your manager and ensure that a non-disclosure agreement (NDA) is signed by the party receiving the information. Do not disclose any more confidential information than is necessary for your busi- ness purpose.
+Intellectual Property
+Intellectual property includes patents, trademarks, copyrights and trade secrets. Tricentis` policy is to establish, protect, maintain and defend its rights in all intellectual property and to use those rights in responsible ways. We protect the confi- dentiality of trade secrets – ours, and those of our business partners, competitors and other third parties. We respect the trademarks, copyrights and patents of others and do not infringe on their intellectual property rights. We are careful to always obtain permission to reproduce or distribute books, articles, software or other copyrighted material. Tricentis Legal can assist with obtaining the necessary rights.
+Data Protection and Privacy
+Tricentis is a steward of our employees’, vendors’, customers’, and other individuals’ personal information. We take our responsibility seriously. We handle personal information in accordance with our internal and external privacy policies in a transparent manner and for legitimate and limited purpose only, and we comply with applicable global data protection laws to protect personal information entrusted to us as part of our business operations.
+We ensure that the collection, processing and use of personal data are carried out exclusively within the legally permitted and operationally necessary scope and to protect such data from unauthorized disclosure, use or modification.
+This also requires all employees to handle information and IT systems carefully. Careless handling may cause significant damage to our company, employees and third parties.
+
+12 | Code of Conduct | Version 5/18 | Tricentis
+Tricentis | Version 5/18 | Code of Conduct | 13
+International Standards and Rights
+Human and Labor Rights
+At Tricentis it is our conviction that full respect for human and civil rights needs to be the utmost foundation of the society in general but also in corporate life. We clearly reject and do not tolerate any form of human trafficking, forced, compul- sory or child or underage labor, discrimination based on race, color, religion, gender, age, origin, national origin, disability, sexual orientation or on any other reasons in any of its opera- tions, facilities and supply chain. All employees must meet the minimum age requirement set by local law. We also do not tolerate any form of sexual harassment, insults, aggression, hurtful or indecent behavior.
+We comply with applicable labor laws and social legisla- tion in every country we employ people. We are committed to providing equal opportunities and fair treatment for all employees worldwide in all employment-related decisions such as recruiting, promotion, training and development, compensation and termination.
+Anti-Corruption and Anti-Bribery Compliance
+Tricentis believes in conducting business with the highest level of integrity. Under no circumstances do we allow our personnel, or any third parties acting on our behalf, to give or receive bribes or kickbacks in order to influence a busi- ness outcome or obtain favorable treatment. We also keep accurate and complete records of our transactions. We do not allow anyone to falsify or conceal the improper use of our funds. Even the appearance of an undue influence must be avoided.
+We comply with all anti-corruption laws worldwide that apply to our business including the UK Anti Bribery Act 2010. We train our staff and make sure they understand our Anti Bribery Policy. Also we monitor and review our policies regularly.
+Tricentis is subject to all applicable international laws that regulate our interactions with government officials. Before you give or even offer anything of value to a government offi- cial, you are responsible for understanding Tricentis’ policies and obtaining all necessary pre-approvals.
+Global Trade Regulation
+Tricentis is subject to a wide range of trade control laws in the countries where we do business. Many countries but also supranational bodies as the United Nations or the European Union have enacted laws and regulations to fight against terrorism, violation of human rights, human and drug traf- ficking, organized crime and money laundering. They impose numerous sanctions and embargos against countries, organi- zations, companies and individuals, import and export restric- tions for certain goods and technologies, as well as prohibition of certain services and financial transactions. These controls affect activities like hiring people, financial transactions, elec- tronic transfers of software or information, and even visitors who come to Tricentis’ premises.
+Tricentis adheres to all applicable trade control and anti- money laundering regulations.
+Tricentis expects you to be aware of the basic trade control concepts that affect your role and job duties. If you know or suspect any activity that may raise a concern, you should promptly notify your manager and your Tricentis Legal repre- sentative for additional guidance.
+Sustainability and Protection of the Environment
+Tricentis is committed to managing the impact of our busi- ness through operational excellence in water conservation, energy efficiency and waste reduction. We foster a culture of environmental sustainability at all our locations worldwide. It is Tricentis` conviction to fulfill legal requirements relating to environmental impact. We advise our employees to act responsible in sparing resources and avoid waste.
+Communities
+Tricentis operates in many diverse communities and we strive to reflect the communities that we serve. We treat diversity and inclusion as a business imperative. Through sponsor- ships, contributions and participation in diverse communities we demonstrate our commitment to inclusion and celebrating difference.
+
+“We are each responsible for acting in an ethical way and complying with applicable laws.”
+14 | Code of Conduct | Version 5/18 | Tricentis
+Tricentis | Version 5/18 | Code of Conduct | 15
+OUR CONDUCT INDIVIDUAL
+Protection of Shareholder Interests
+Tricentis takes an active role in managing conflicts of interest. A conflict of interest can arise from any personal activities or relationships that influence, or appear to influence, your ability to act in the best interests of Tricentis.
+You are encouraged to be transparent so that potential conflicts can be identified early and appropriate precautions can be taken to protect both you and Tricentis. If you have a circumstance that potentially conflicts with Tricentis’ interests, you must disclose it to your Manager and follow any controls deemed necessary for Tricentis to ensure that individuals who make decisions or are otherwise involved can exercise independent business judgment in Tricentis’ best interest. Any activity that competes with Tricentis or opposes Tricentis’ interests will not be permitted.
+The following scenarios
+are among those
+that give rise to potential
+conflicts of interest:
+Performing outside work, whether paid or unpaid, that is related to Tricentis’ business or the work you perform for Tricentis. As far as not already ruled within the respec- tive employment agreement outside work may include consulting, speaking engagements, authoring publications, and developing software or apps for non-personal use. Outside work will only be permitted if it is limited in scope, does not interfere with your work at Tricentis, and does not utilize Tricentis’ resources. Performing work for a Tricentis competitor is not allowed under any circumstances.
+Conducting Tricentis business with related parties, such as a family member, person sharing your household, or anyone else with whom you have a significant personal relationship. You are responsible for avoiding situations where your personal relationships may create the appearance of a conflict of interest. For example, you may be required to follow specific controls to avoid participating in or having influ- ence over any business relationship between your related party (or their employer) and Tricentis. Similarly, significant personal relationships within a reporting structure may create a potential conflict or the appearance of a conflict and need to be disclosed for evaluation.
+Taking personal advantage of corporate opportunities that are presented to you or discovered by you through your position with Tricentis or through your use of Tricentis property or information. You may only pursue such opportunities if you have received authorization from Tricentis, or if appropriate, the Tricentis Board of Directors or a committee of the Board.
+Giving or receiving gifts or hospitality from any outside entity that conducts business or seeks to conduct busi- ness with Tricentis. Tricentis recognizes that business gifts and hospitality can establish goodwill, but they can also create conflicts of interest, violate procurement laws, or constitute illegal bribery if they are excessive, frequent, or appear to be used for improper influence. Gifts and hospitality may only be exchanged in accordance with Tricentis policies and the poli- cies of the outside entity.
+
+16 | Code of Conduct | Version 5/18 | Tricentis
+Tricentis | Version 5/18 | Code of Conduct | 17
+Business Records and Company Resources
+Maintaining Accurate Books and Records
+Tricentis is required by law to keep books and records that accurately reflect the true nature of our operations and finances. We ensure that all documentation is complete and correct.
+It is a violation of this Code of Conduct and our company poli- cies to intentionally omit, hide, or disguise the nature of any transaction or liability in Tricentis’ books and records. Falsi- fication of business documents, whether or not it results in personal or commercial gain, is never permitted and may result in termination of your employment or business relation- ship with Tricentis. Cash or other assets may never be main- tained for any purpose in any unrecorded or “off- the-books” accounts.
+You are never permitted to misclassify the account or accounting period of any transaction, or to misrepresent the nature of a transaction. You must obtain appropriate autho- rization for all Tricentis business transactions and provide all necessary supporting documentation in a thorough and timely manner. All transaction documents must be properly recorded and reflected in Tricentis’ books and records.
+Financial Reporting
+Tricentis is required by applicable law to file public reports and communications with governmental bodies that provide full, accurate, and understandable disclosure of our financial condition and results of our business operations. Tricentis relies on its financial records and other business records in preparing these reports.
+Tricentis’ financial disclosures must be accurate and trans- parent and reflect the high quality and integrity of our accounting practices and records. Anyone who contributes to preparing or verifying these reports is responsible for ensuring that the reports contain all relevant and important information to enable stockholders and potential investors to assess the soundness and risks of our business and finances. Your full cooperation with any investigation or review is expected to help ensure that Tricentis’ books and records, as well as our financial reports filed governmental bodies, are accurate and complete.
+Ensuring Proper Use of Tricentis’ Assets
+We expect all personnel to protect Tricentis’ assets and use company resources only to perform legitimate business functions (and for reasonable personal purposes, as allowed by Tricentis’ policies). This means you may not use Tricentis’ assets for any function that you are not authorized to perform, for any illegal purpose, or for any matter that violates the letter or spirit of this Code of Conduct or other Tricentis policies.
+You are responsible for any Tricentis assets that are under your control. It is important that you avoid any unauthorized use, alteration, destruction, disclosure, distribution, theft, waste, or other carelessness when handling Tricentis’ assets. The improper use of Tricentis’ assets may expose both you and Tricentis to legal liability and damaged reputa- tion, and result in disciplinary action, including termination of your employment or affili- ation with Tricentis.
+Tricentis’ assets include tangible assets (such as office equipment) and intangible assets (such as software programs; patents, trademarks, and copyrights; and proprietary and confidential information).
+
+If you are authorized to use Tricentis funds, you are expected to spend wisely and follow all applicable proce- dures. You should avoid waste and verify that Tricentis gets proper value for any services or products that you purchase. For example, if you have a company credit card for business travel and expenses, you may only use it for the types of expenses permitted by Tricentis policies and you are respon- sible for submitting proper documen- tation for reimbursement.
+ELECTRONIC EQUIPMENT
+Tricentis provides electronic equip- ment and network access, such as computers, telephones, and e-mail and voicemail services, to enable our workforce to be productive and efficient in their jobs. Any informa- tion pertaining to Tricentis stored on personally-owned equipment, and any information stored on Tricentis- supplied equipment or any third- party account created using an Tricentis email address (for example, an address ending with “@tricentis. com”), may be monitored, accessed, or reclaimed by Tricentis as necessary to meet business or legal requirements, as permitted by law.
+COPYRIGHTED MATERIAL
+You are responsible for confirming that Tricentis has the appropriate rights before you use, make copies of, transfer (externally or internally), or resell any copyrighted materials. Third-party software is an example of copyrighted material. You must ensure that any third-party software you use is properly licensed and only used in accordance with the licensing agree- ment and relevant Tricentis policies. Copyrighted materials also include software, manuals, articles, books, and databases. Please contact the Tricentis Legal department for more guidance with respect to copyrighted material.
+18 | Code of Conduct | Version 5/18 | Tricentis
+Tricentis | Version 5/18 | Code of Conduct | 19
+Internal and External Communication, Social Networks and Public Speaking
+Tricentis demands honest and respectful behavior in all forms of internal and external communication, regardless form and media used. We do not tolerate any offensive content, discriminatory or harassing text or picture, derogatory refer- ences to age, disability, ethnic origin, marital status, national origin, color, religion, gender or sexual orientation.
+Tricentis supports the appropriate use of social media both personally and, if authorized, on behalf of the company. If you engage in social media, you are expected to protect Tricentis’ brand always and adhere to Tricentis’ key social principles of being authentic, involved, responsible, and respectful. Remember that you are responsible for what you say or post online.
+Fair Business Dealing
+Tricentis adheres to these basic princi- ples of fair business dealing:
+•We communicate honestly to our customers, business partners, stock- holders, and community members.
+•We do not misuse the intellectual property of Tricentis or anyone else.
+•We respect others and do not take advantage of anyone through manip- ulation, concealment, abuse of confi- dential or privileged information, or misrepresentation of material facts.
+•We require all sales and other commercial transactions to be supported with documents that accu- rately represent the transaction. We do not omit or misrepresent any mate- rial facts in our records.
+•We act with integrity and we comply with all applicable laws and regulations.
+•We provide accurate reports and statements to our employees, customers, business partners, stock- holders, and creditors, as well as government agencies and officials.
+Interactions with Competitors
+You are expected to conduct all interac- tions with competitors, including social activities, as if they were completely in the public view. Remember that your interactions may later be subject to examination and unfavorable interpre- tation.
+Whether through social media or other forms of public speaking, you may not represent that you are speaking on behalf of Tricentis unless you are authorized to do so by Tricentis Marketing Department. At all times, you must protect against any unauthorized disclosure of confidential informa- tion belonging to Tricentis, our customers, or any third parties with whom we do business.
+Public Policy Engagement and Political Contributions
+Tricentis believes that public policy engagement is an important and appropriate role for employees when conducted in a legal and transparent manner. Political involvement is governed by
+specific laws and is often a highly regulated area. If you are consid- ering becoming politically involved, you are encouraged to contact Tricentis.
+DOING BUSINESS GLOBALLY
+
+20 | Code of Conduct | Version 5/18 | Tricentis
+Tricentis | Version 5/18 | Code of Conduct | 21
+Open and Fair Competition
+Tricentis complies with all competition and antitrust laws that protect and support free enterprise. We believe that open competition leads to a vibrant marketplace where consumers have access to more choices and better products and services. We do not participate in activities that have the effect or intent of reducing or destroying compe- tition, such as agreeing with competitors to charge certain prices to customers (price fixing), coordinating with competitors during competitive bidding processes (bid rigging), or dividing up markets by region, product, or customer (market allocation).
+We do not enter into illegal agreements with our competitors, whether formal or informal, written or oral. Before we form joint ventures with other third parties, we are cautious to consider whether the joint venture may have unlawful anticompetitive effects.
+Conducting Business with Government Customers
+Tricentis is subject to unique requirements that are considerably stricter when a govern- ment entity is our customer or ultimate end customer (such as when Tricentis performs as a subcontractor) than when we work with commercial customers. A violation of these requirements can lead to serious financial and reputational harm and result in Tricentis being prohibited from doing business with the government.
+If your work involves a government entity, you are responsible for knowing the specific requirements that apply. Always ask your manager if you are unclear about what is required.
+Document Retention
+If there is an actual or potential litigation or investigation, Tricentis may deter- mine that it is necessary to preserve information regarding the matter, such as emails and other documents that might otherwise be deleted.
+If you become aware of any internal or external complaint, demand letter, lawsuit, or other legal proceeding involving Tricentis, you should notify the Tricentis Legal department imme- diately. You are expected to comply with any document retention or pres- ervation instructions that you receive from the Tricentis Legal department.
+Although we compete vigorously, we play by the rules
+•We gather competitive intelligence lawfully and without the use of deception.
+•We do not seek to acquire, use, or disclose a compet- itor’s trade secrets or confidential information. If you receive confidential information about a competitor accidentally or from an unknown source, you should immediately contact your manager to determine how to proceed.
+•We communicate honestly and we do not make false claims or comparisons about our competitors or their products or services.
+•You are expected to conduct all interactions with competitors, including social activities, as if they were completely in the public view. Remember that your interactions may later be subject to examination and unfavorable interpretation.
+When Tricentis purchases services or goods, we ensure that our selection process is fair and we guard against conflicts of interest held by anyone responsible for making or influencing purchasing decisions.
+
+22 | Code of Conduct | Version 5/18 | Tricentis
+Tricentis | Version 5/18 | Code of Conduct | 23
+OPERATING THE CODE OF CONDUCT
+Your Responsibilities under the Code
+You are expected to comply with this Code of Conduct any time you perform work for Tricentis, represent the company, or participate in company-sponsored events, whether you are on or off Tricentis’ premises.
+This Code of Conduct does not list every legal or ethical issue that you may face during business; rather, it is meant to guide your actions and be applied using your common sense and good judgment. If you face a situation that is not covered by this Code of Conduct, ask yourself these questions to guide your actions:
+Is it legal according to the spirit, as well as of any law that may apply?
+Is it ethical and consistent with the principles set forth in this Code of Conduct and other Tricentis policies? Would you want your actions reported publicly?
+What would your family, friends, manager, and co-workers think of your actions?
+Could there be any direct or indirect negative consequences for Tricentis?
+You should always seek to report to someone who you believe is neutral and not directly involved in the conduct you are concerned about. Your prompt disclosure to the appropriate parties is important. It enables Tricentis to handle the matter in the best way possible and provide a thorough and timely resolution.
+If you believe Tricentis has not taken appropriate action in response to your reported concerns, you should report your concerns to the Tricentis CEO. Employees who become aware of a suspected
+violation should not attempt to investigate it or take action on tions must always be made in good faith.
+In addition, employees may exercise their legal rights or duty the appropriate governmental authorities at any time.
+No Retaliation
+Tricentis will not retaliate against you for reporting any concerns or potential violations of Tricentis policies, including this Code of Conduct, that you believe in good faith to be true. Retaliation is prohibited by our company policies, and anyone who retaliates may be subject to civil, criminal, and administra- tive penalties, as well as disciplinary action including termina- tion of employment or affiliation with Tricentis.
+their own. Reports of suspected viola-
+to report possible violations of law to
+Cooperating with Investigations
+Tricentis takes seriously any concerns and allegations of misconduct. Tricentis will promptly investigate any reported violations or potential violations of its policies and take correc- tive action as needed.
+Your good-faith cooperation in any Tricentis investigation is expected. This includes making yourself available to talk to an investigator, responding to Tricentis’ questions with candor, and providing complete and accurate information to Tricentis. You must never alter or destroy records in response to any actual or anticipated investigation, litigation, or audit.
+Tricentis will keep its discussions and actions confidential to the extent appropriate and permitted by law and Tricentis policies. However, over the course of an investigation, Tricentis may find it necessary to share information with others inside and outside of Tricentis on a “need to know” basis.
+If you have questions about whether the issue you have raised is being appropriately addressed, you are always invited to contact your Manager

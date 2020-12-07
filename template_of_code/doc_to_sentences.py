@@ -18,7 +18,8 @@ from unicodedata import category
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-sentence_end_punctuation = '((?<!N.)(((?<=[\.\?\!])(?= [A-Z]))|((?<=[\.\?\!])(?=(\s)*\n))))'
+#sentence_end_punctuation = '((?<!N.)(((?<=[\.\?\!\;])(?= [A-Z]))|((?<=[\.\?\!\;])(?=(\s)*\n))))'
+sentence_end_punctuation = '((?<!N.)(((?<=[\.\?\!\;])(?= [A-Z]))|((?<=[\.\?\!\;])(?=(\s)*\n))))'
 #sentence_end_return = '(?=\n[^a-zA-Z]*(?=[A-Z]|[a-z][A-Z]))'
 usa_regexp = '\WU.S.A\W|\WU.S\W|\WUSA\W|\WUnited States\W'
 uk_regexp = '\WUK\W|\WUnited Kingdom\W'
@@ -50,24 +51,12 @@ def text_to_sentences(paths):
     print('Filtrage des charactères de ponctuation')
     print()
 
-#    folder = 'data'
-#    filenames = os.listdir(folder)
-#    paths = [os.path.join(folder, filename) for filename in filenames]
-#    d= {}
-#    labels_list = []
     for path in paths:
         #        d[path] = []
         print('Traitement de', path)
         with io.open(path, mode="r", encoding="utf-8") as f:
             text = f.read()
-#            text_lines = text.split('\n')
-#            labels = [re.match(table_regexp, line) for line in text_lines]
-#            labels_list.append(labels)
-#    labels_list_2 = [[bool(label) for label in labels] for labels in labels_list]
-#            d[path].append(re.findall(table_regexp, text))
 
-            # Séparation en phrases
-#            sentences_filtered = re.split(sentence_end_punctuation +'|' + sentence_end_return, text)
             sentences_filtered = re.split(sentence_end_punctuation, text)
 
             # Filtrages:

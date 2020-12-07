@@ -25,4 +25,5 @@ class BasicCountryExtractor(QuestionExtractor):
         return responses
 
     def predict_regexp(self, text, question_id):
-        return text[question_id], question_id, "YOLO"
+        answers, justifs = text[0], text[1]
+        return answers[question_id], question_id, justifs[question_id]

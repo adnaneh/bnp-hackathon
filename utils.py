@@ -13,5 +13,6 @@ def stem(tokenized_sentence):
     res = [porter.stem(w) for w in tokenized_sentence]
     return(res)
 
+
 def path_to_name(path):
     return(path.split('\\')[-1].split('.')[0])

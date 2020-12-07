@@ -1,0 +1,418 @@
+### DOCUMENT/ Privacy Policy / https://www.postman.com/legal/privacy-policy/ ###
+What this policy covers
+Your privacy is important to us, and so is being transparent about how we collect, use, and share information about you. This policy is intended to help you understand:
+
+What information we collect about you
+How we use information we collect
+How we share information we collect
+How we store and secure information we collect
+How to access and control your information
+How we transfer information we collect internationally
+Other important privacy information
+This privacy policy covers the information relating to you that we may collect, use, share, and process when you use the Postman products and services, contact us, or otherwise interact with us (for example, by attending our premises or events or by communicating with us, including by filling out forms on our websites), unless a different policy is displayed. Postman, we and us refers to Postman, Inc. and any of our affiliates and subsidiaries. For the purposes of this privacy policy, the term “websites” shall refer collectively to www.postman.com as well as the other websites that Postman operates and that link to this privacy policy. We refer to the Postman products and services, together with our websites, as "Services" in this policy.
+
+This policy also explains your choices about how we use information about you which include how you can object to certain uses of information about you and how you can access and update certain information about you. If you do not agree with this policy, do not access or use our Services or interact with any other aspect of our business.
+
+Where we provide the Services under contract with an organization (for example your employer) that organization controls the information processed by the Services.
+
+What information we collect about you
+We collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below. We will collect, use, store and/or process this information only for the purposes listed in this policy or to contact you with information about Postman and its offerings.
+
+Information you provide to us
+We collect information about you when you input it into the Services or otherwise provide it directly to us.
+
+Account and Profile Information: We collect information about you when you register for an account, create or modify your profile or your team profile settings, set preferences, or sign-up for or make purchases through the Services. For example, you provide your contact information and, in some cases, billing information, when you register for the Services. You also have the option of adding a username, profile photo, and other details to your profile information to be displayed in our Services.
+
+Content you provide through our products: The Services include the Postman products you use, where we collect and store content that you create, send, receive and share. This content includes any information about you that you may choose to include: we collect feedback you provide directly to us through the Services; and we collect clickstream data about how you interact with and use features in the Services.
+
+Content you provide through our websites: The Services also include our websites owned or operated by us. We collect other content that you submit to these websites, which include social media or social networking websites operated by us. For example, you provide content to us when you provide feedback when you participate in any interactive features (including commenting on blogs), surveys, contests, promotions, activities, webinars, meetups, or events. You also provide content that you enter on our websites or send to us electronically, for example, when completing a web form (such as on our “Contact Us” webpage), requesting information (such as a product demo), registering for a webinar or other event, or subscribing to email lists or updates notifications. While the type of data we collect depends on the nature of the inquiry, this typically includes name and contact details, company information, and phone number. We also automatically collect certain information relating to your use of our websites, described under the Cookies and Other Tracking Technologies section below.
+
+Information you provide through our support channels: The Services also include our customer support, where you may choose to submit information regarding a problem you are experiencing with a Service. Whether you designate yourself as an admin or billing contact, open a support ticket, speak to one of our representatives directly or otherwise engage with our support team, you will be asked to provide contact information, a summary of the problem you are experiencing, and any other documentation, screenshots or information that you decide would be helpful in resolving the issue.
+
+Payment Information: We collect certain payment and billing information when you register for certain paid Services. For example, we may ask you to designate a billing representative, including name and contact information, upon registration. You might also provide payment information, such as payment card details, which we collect via secure payment processing services.
+
+Information we collect automatically when you use the Services
+We collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services.
+
+Your use of the Services: We keep track of certain information about you when you visit and interact with any of our Services. This information includes the features you use; the links you click on and how you interact with others on the Services. We may also collect information about the teams and people you work with and how you work with them, like who you collaborate with and communicate with most frequently.
+
+Device and Connection Information: We collect information about the computer, phone, tablet, or other devices you use to access the Services. This device information includes your connection type and settings when you install, access, update, or use our Services. We also collect information through your device about your operating system, browser type, IP address, URLs of referring/exit pages, device identifiers, and crash data. We use your IP address and/or country preference in order to approximate your location to provide you with a better Service experience. How much of this information we collect depends on the type and settings of the device you use to access the Services.
+
+Cookies and Other Tracking Technologies: Postman and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices. For more information, please see our Cookie Notice, which includes information on how to control or opt out of these cookies and tracking technologies.
+
+Information we receive from other sources
+We receive information about you from other Service users, from third-party services, from our social media platforms, public databases, and from our business and channel partners. We may combine this information with information we collect through other means described above. This helps us to update and improve our records, identify new customers, create more personalized advertising and suggest services that may be of interest to you.
+
+Other users of the Services: Other users of our Services may provide information about you when they submit content through the Services. For example, you may be mentioned in a support ticket opened by someone else. We also receive your email address from other Service users when they provide it in order to invite you to the Services. Similarly, an administrator may provide your contact information when they designate you as an additional admin or the billing admin on your company's account.
+
+Other services you link to your account: We receive information about you when you or your administrator integrate or link a third-party service with our Services. For example, if you create an account or log into the Services using your Google credentials, we receive your name and email address as permitted by your Google profile settings in order to authenticate you. You or your administrator may also integrate our Services with other services you use, such as to allow you to access, store, share and edit certain content from a third-party through our Services. The information we receive when you link or integrate our Services with a third-party service depends on the settings, permissions and privacy policy controlled by that third-party service. You should always check the privacy settings and notices in these third-party services to understand what data may be disclosed to us or shared with our Services.
+
+Postman Partners: We work with a variety of Resellers who provide purchasing and other services around our products. We receive information from these resellers, such as billing information, billing and admin contact information, company name, what Postman products you have purchased or may be interested in, and what country you are in.
+
+Other Partners: We receive aggregated information about users’ activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about users’ interest in and engagement with our Services and online advertisements.
+
+How we use information we collect
+How we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us. Below are the specific purposes for which we use the information we collect about you.
+
+To provide the Services and personalize your experience: We use information about you to provide the Services to you, including to process transactions with you, authenticate you when you log in, provide customer support, and operate and maintain the Services. For example, we use the name and picture you provide in your account to identify you to other Service users. Our Services also include tailored features that personalize your experience, enhance your productivity, and improve your ability to collaborate effectively with others by automatically analyzing the activities of your team to provide activity feeds and notifications that are relevant for you and your team. We may use your email domain to infer your affiliation with a particular organization or industry to personalize the content and experience you receive on our websites. Where you use multiple Services, we combine information about you and your activities to provide an integrated experience, such as to allow you to find information from one Service while searching from another or to present relevant product information as you travel across our websites.
+
+For research and development: We are always looking for ways to make our Services smarter, faster, secure, integrated, and useful to you. We use information and collective learnings (including feedback and surveys) about how people use our Services to troubleshoot, to identify trends, usage, activity patterns and areas for integration, to improve our Services and to develop new products, features and technologies that benefit our users and the public. We also test and analyze certain new features with some users before rolling the feature out to all users.
+
+To communicate with you about the Services: We use your contact information to send transactional communications via email and within the Services, including confirming your purchases, reminding you of subscription expirations, responding to your comments, questions and requests, providing customer support, and sending you technical notices, updates, security alerts, and administrative messages. We also send you communications as you onboard to a particular Service to help you become more proficient in using that Service. These communications are part of the Services and in most cases you cannot opt out of them. If an opt out is available, you will find that option within the communication itself or in your account settings.
+
+To market, promote and drive engagement with the Services: We use your contact information and information about how you use the Services to send promotional communications that may be of specific interest to you, including by email and by displaying Postman ads on other companies' websites and applications, as well as on platforms like LinkedIn and Google. These communications are aimed at driving engagement and maximizing what you get out of the Services, including information about new features, survey requests, newsletters, and events we think may be of interest to you. We also communicate with you about new Services, product offers, promotions and contests. You can control whether you receive these communications as described below under "Opt-out of communications."
+
+For Customer support: We use your information to resolve technical issues you encounter, to respond to your requests for assistance, to analyze crash information, and to repair and improve the Services.
+
+For safety and security: We use information about you and your Services’ use to verify accounts and activity, to detect, prevent, and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activity, including violations of Services policies.
+
+To protect our legitimate business interests and legal rights: Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we use information about you in connection with legal claims, compliance, regulatory, and disclosures in connection with the acquisition, merger or sale of a business.
+
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above. For example, we may publish testimonials or featured customer stories to promote the Services, with your permission.
+
+Legal bases for processing (for EEA users):
+If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws. The legal bases depend on the Services you use and how you use them. This means we collect and use your information only where:
+
+We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;
+It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;
+You give us consent to do so for a specific purpose; or
+We need to process your data to comply with a legal obligation.
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where we are using your information because we or a third party (e.g. your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.
+
+How we share information we collect
+We make collaboration tools, which allow sharing information through the Services and with certain third parties. We share information we collect about you in the ways discussed below, including in connection with possible business transfers. We are not in the business of selling information about you to advertisers or other third parties. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our websites, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Sharing with other Service users
+When you use the Services, we share certain information about you with other Service users.
+
+For collaboration: You can create content, which may contain information about you, and grant permission to others to see, share, edit, copy and download that content based on settings you or your administrator (if applicable) select.
+
+Managed accounts and administrators: If you register or access the Services using an email address with a domain that is owned by your employer or organization or associate that email address with your existing account, and such organization wishes to establish an account or site, certain information about you including your name, profile picture, contact info, content and past use of your account may become accessible to that organization’s administrator and other Service users sharing the same domain. If you are an administrator for a particular site or group of users within the Services, we may share your contact information with current or past Service users, for the purpose of facilitating Service-related requests.
+
+Community Forums: Our websites offer publicly accessible blogs, forums, issue trackers, and wikis like Postman Community. You should be aware that any information you provide on these websites - including profile information associated with the account you use to post the information - may be read, collected, and used by any member of the public who accesses these websites. Your posts and certain profile information may remain even after you delete your account. We urge you to consider the sensitivity of any information you input into these Services. To request removal of your information from publicly accessible websites operated by us, please contact us as provided below. In some cases, we may not be able to remove your information, in which case we will let you know if we are unable to and why.
+
+Sharing with third parties
+We share information with third parties that help us operate, provide, improve, integrate, customize, support and market our Services.
+
+Service Providers: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis and other services for us, which may require them to access or use information about you. If a service provider needs to access information about you to perform services on our behalf, they do so under close instruction from us, including appropriate security and confidentiality policies and procedures designed to protect your information.
+
+Third Party Apps: You, your administrator or other Service users may choose to add new functionality or change the behavior of the Services by enabling integrations with third party apps within the Services. Doing so may give third-party apps access to your account and information about you like your name and email address, and any content you choose to use in connection with those apps. If you are an administrator on an account, you may permit us to share your details with the third-party app provider upon installation. Third-party app policies and procedures are not controlled by us, and this privacy policy does not cover how third-party apps use your information. We encourage you to review the privacy policies of third parties before connecting to or using their applications or services to learn more about their privacy and information handling practices. If you object to information about you being shared with these third parties, please uninstall the app or delete the third-party app integration, as applicable, and discontinue use of the third-party app.
+
+Links to Third Party Sites: The Services may include links that direct you to other websites or services whose privacy practices may differ from ours. If you submit information to any of those third party sites, your information is governed by their privacy policies, not this one. We encourage you to carefully read the privacy policy of any website you visit.
+
+Third-Party Widgets: Some of our Services may contain widgets and social media features, such as the Twitter "tweet" button. These widgets and features collect your IP address, which page you are visiting on the Services, and may set a cookie to enable the feature to function properly. Widgets and social media features are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights: In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to (a) comply with any applicable law, regulation, legal process or governmental request, including to meet national security requirements, (b) enforce our agreements, policies and terms of service, (c) protect the security or integrity of our products and services, (d) protect Postman, our customers or the public from harm or illegal activities, or (e) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person.
+
+Sharing with affiliated companies
+Postman companies: We share information we have about you with other Postman corporate affiliates in order to operate and improve products and services.
+
+Business transfers: We may share or transfer information we collect under this privacy policy in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. You will be notified via email and/or a prominent notice on the Services if a transaction takes place, as well as any choices you may have regarding your information.
+
+How we store and secure information we collect
+Information storage and security
+We use industry standard technical and organizational measures to secure the information we store. For more information on where and how we store your information, please see Security at Postman.
+
+While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others.
+
+How long we keep information
+How long we keep information we collect about you depends on the type of information, as described in further detail below. After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.
+
+Account information: We retain your account information for as long as your account is active and up to 15 days thereafter. We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services.
+
+Information you share on the Services: If your account is deleted, some of your information and the content you have provided will remain in order to allow your team members or other users to make full use of the Services.
+
+Managed accounts: If the Services are made available to you through an organization (e.g., your employer), we retain your information as long as required by the administrator of your account. For more information, see "Managed accounts and administrators" above.
+
+Marketing information: If you have elected to receive marketing emails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our Services, such as when you last opened an email from us or ceased using your Postman account. We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.
+
+How to access and control your information
+You have certain choices available to you when it comes to your information. Below is a summary of those choices, how to exercise them and any limitations.
+
+Your Choices:
+You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), to request the deletion or restriction of your information, or to request your information in a structured, electronic format. Below, we describe the tools and processes for making these requests. You may contact us as provided in the Contact Us section below to request assistance.
+
+Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep. Where you have asked us to share data with third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted. If you have unresolved concerns, you may have the right to complain to a data protection authority in the country where you live, where you work or where you feel your rights were infringed.
+
+Access and update your information: Our Services and related documentation (see learning.postman.com) give you the ability to access and update certain information about you from within the Service. You can update your profile information within your profile settings.
+
+Delete your account: If you no longer wish to use our Services, you may delete your Services account in your account settings. Otherwise, please contact your administrator. You may also contact Postman support for guidance at help@postman.com.
+
+Delete your information: Our Services and related documentation (see learning.postman.com) give you the ability to delete certain information about you from within the Services. For example, you can remove certain profile information within your profile settings. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
+
+Request that we stop using your information: In some cases, you may ask us to stop accessing, storing, using and otherwise processing your information where you believe we don't have the appropriate rights to do so. For example, if you believe a Services account was created for you without your permission or you are no longer an active user, you can request that we delete your account as provided in this policy. Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time. You can also opt-out of our use of your information for marketing purposes by contacting us, as provided below. When you make such requests, we may need time to investigate and facilitate your request. If there is delay or dispute as to whether we have the right to continue using your information, we will restrict any further use of your information until the request is honored or the dispute is resolved, provided your administrator does not object (where applicable). If you object to information about you being shared with a third-party integration, please disable the integration or contact your administrator to do so.
+
+Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database. You can opt out of receiving some notification messages (such as monitoring and comment notifications) via your account settings; for more information about that please visit: https://web.postman.co/settings/me/notifications. Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services.
+
+You may be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising. For more information about this practice and to understand your options, please visit: http://www.aboutads.info, https://optout.networkadvertising.org/ and https://www.youronlinechoices.com/.
+
+Data portability: Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier). Depending on the context, this applies to some of your information, but not to all of your information. For assistance, you may contact Postman support at help@postman.com.
+
+How we transfer information we collect internationally
+International transfers of information we collect
+We collect information globally and may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services. Our primary and backup hosting facilities are in the United States. Whenever we transfer your information, we take steps to protect it.
+
+International transfers within the Postman Companies: To facilitate our global operations, we transfer information globally and allow access to that information from countries in which Postman has operations for the purposes described in this policy. These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based.
+
+International transfers to third parties: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we share information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer.
+
+Please contact us as provided below should you have a general privacy-related complaint.
+
+We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
+Other important privacy information
+Notice to End Users
+Some of our products are intended for use by organizations. Where the Services are made available to you through an organization (e.g. your employer), that organization is the administrator of the Services and is responsible for the accounts and/or Service sites over which it has control. If this is the case, please direct your data privacy questions to your administrator, as your use of the Services is subject to that organization's policies. We are not responsible for the privacy or security practices of an administrator's organization, which may be different from this policy.
+
+Administrators are able to:
+
+terminate your access to the Services; and
+install or uninstall third-party integrations
+Even if the Services are not currently administered to you by an organization, if you are a member of a Postman team administered by an organization, or if you use an email address provided by an organization (such as your work email address) to access the Services, then the owner of the domain associated with your email address (e.g. your employer) may assert administrative control over your account and use of the Services at a later date. You will be notified if this happens.
+
+If you do not want an administrator to be able to assert control over your account or use of the Services, use your personal email address to register for or access the Services. If an administrator has not already asserted control over your account or access to the Services, you can update the email address associated with your account through your account settings in your profile. Once an administrator asserts control over your account or use of the Services, you will no longer be able to change the email address associated with your account without administrator approval.
+
+Please contact your organization or refer to your administrator’s organizational policies for more information.
+
+Additional Disclosures for California Residents
+The California Consumer Privacy Act, Cal. Civ. Code §§ 1798.100 et seq. (“CCPA”), is a U.S. law enacted in the State of California effective January 1, 2020 that requires businesses to disclose whether they sell personal data. As a business covered by the CCPA, we do not sell personal data. We may share personal data with third parties or allow them to collect personal data from our Services if those third parties are authorized service providers or business partners who have agreed to our contractual limitations as to their retention, use, and disclosure of such personal data, or if you use our websites or Services to interact with third parties or direct us to disclose your personal data to third parties.
+
+Exercising your rights: If you are a California resident, there are some additional rights that may be available to you under the CCPA, including the rights to access specific types of personal data, to learn how we process personal data, to request deletion of personal data, and not to be denied goods or services for exercising these rights. For information on how to exercise your rights please visit the “How to access and control your information” section of this policy. We encourage you to manage your information, and to make use of the privacy controls we have included in our Services. You will not be discriminated against for exercising any of your privacy rights under the CCPA. In order to protect your information from unauthorized access or deletion, we may require you to verify your identity and place of residence before completing your rights request. If we cannot verify your identity, we will not provide or delete your information.
+
+Sharing your personal information: We don't sell your personal information. We do share your information with others as described in the “How we share information we collect” section of this policy. We also show ads that we think are relevant. We've provided more information about how you can manage your advertising, and do-not-track preferences, within this policy. We do not “sell” our customer’s personal information as currently defined under the CCPA, meaning that we also do not rent, disclose, release, transfer, make available or otherwise communicate that personal information to a third party for monetary or other valuable consideration. We may share aggregated and/or anonymized information regarding use of the Services—which is not considered personal information under the CCPA—with third parties to help us develop and improve the Services and provide our customers with more relevant content and service offerings as detailed in our customer agreements.
+
+Processing your information: This policy describes the categories of personal information we may collect, the sources of that information, and our deletion and retention policies. We’ve also included information about how we may process your information, which includes for "business purposes" under the CCPA - such as to protect against illegal activities, and for the development of new products, features, and technologies. If you have questions about the categories of information we may collect about you, please be sure to visit the section of this policy called, “What information we collect about you.” For more details about our processing activities, please be sure to visit the section called, "How we use information we collect."
+
+If you have any questions or would like to exercise your rights under the CCPA, you can reach out to us at help@postman.com. If you are an authorized agent wishing to exercise rights on behalf of a California resident, please contact us using the information in the “Contacting Us” section below and provide us with a copy of the consumer’s written authorization designating you as their agent.
+
+Our policy towards children
+Our Services are not directed to individuals under 16 years of age. We do not knowingly collect personal information from children under 16. If we become aware that a child under 16 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact help@postman.com.
+
+Changes to our Privacy Policy
+We may change this privacy policy from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by adding a notice on the Services homepages, login screens, or by sending you an email notification. We will also keep prior versions of this privacy policy in an archive for your review. We encourage you to review our privacy policy whenever you use the Services to stay informed about our information practices and the ways you can help protect your privacy.
+
+### DOCUMENT/ Postman EULA / https://www.postman.com/legal/eula/ ###
+1. Introduction
+This End-User License Agreement (“EULA”) is between you (“You” or “you”) and Postman, Inc. (“Postman” or “we”) and governs your use of all versions of the Postman software and services (collectively “Product”).
+
+2. Binding Agreement
+By downloading, installing, or using the Product on any computer system, or by accepting this EULA (either by clicking a box indicating that you accept this EULA, or by executing an Order referencing this EULA), you indicate your assent to be bound by this EULA.
+
+Postman reserves the right to modify terms of this EULA at its discretion. If Postman makes any material changes to the EULA terms, it may notify you by email or posting a notice on www.postman.com (“Website”).
+
+If You are agreeing to this EULA not as an individual but on behalf of your company, government, or other entity for which you are acting (for example, as an employee or government official) then “you” means your entity and You are binding your entity to this EULA. If you do not have such authority or if you do not agree with the terms of this EULA, do not accept this EULA and do not use the Product. The Product is not intended for and should not be used by anyone under the age of 16. You must ensure that all Users are at least 16 years old.
+
+3. Use of the Product
+Subject to the terms and conditions of this EULA and Your paying the applicable fees, Postman grants You a revocable, non-exclusive, non-transferable, non-sublicensable, license to Use* the Product in executable code form in accordance with the terms of this EULA. Except for the limited license set out in this EULA, Postman grants you no other license or right in the Product. Your license will end when this EULA is terminated even if there are terms to the contrary set out elsewhere in this Agreement or in other documentation entered into between Postman and you.
+
+*Use, Using or Used means to directly or indirectly activate the processing capabilities of the Product, load, execute, access, utilize, store, employ the Product, or display information resulting from such capabilities including uploading any Content** or generating any Content by utilizing its capabilities. User means the specific individuals whom you designate to Use the Product and for whom you have paid the applicable fees. **Content means any data, code, content, images or other materials of any type that you upload, process, submit or otherwise transmit through the Product.
+
+The Product includes certain code and libraries licensed to us by third parties, including open source software (“OSS“) as listed at postman.com/dependencies along with the applicable OSS license. Your right to use such OSS shall be governed by the applicable OSS license agreement instead of the terms of this EULA.
+
+4. Proprietary Rights and Non-exclusivity
+You acknowledge and agree that Postman and its licensors have and retain all legal right, title and interest in the Product including but not limited to any ideas, concepts, inventions, systems, platforms, interfaces, tools, utilities, user interface, algorithms, logic, formula, scripts, work flows, processes, software, methodologies, databases, know-how, trade secrets and other technology and information including any and all intellectual property rights that exist therein, whether registered or not, and wherever in the world they may exist.
+
+This EULA is a non-exclusive arrangement. There is no prohibition or restriction on Postman to provide same or similar rights as set out in this EULA to any other person.
+
+5. Software Terms
+5.1 Postman Account
+The Product allows You to create an individual account (“Account”). The information you provide to us when you create an Account must be accurate, complete and current. You also have the obligation to keep your Account information accurate, complete and current at all times. If any of the information you submit to us at the time of Account creation changes, you must promptly update the same.
+
+At any given point in time a specific Account may only be logged in on a maximum of three (3) computer systems.
+
+You must keep your Account access credentials safe and secure. You are responsible for all actions taken through your Accounts. You are required to promptly inform Postman and modify your Account login credentials or those of a permitted User if such login credentials are compromised and/or misused/likely to be misused by a third party to improperly access the Product through your Account.
+
+5.2 Postman Teams
+All versions of the Postman product may support working collaboratively in teams.
+
+The individual who will be responsible for the establishment and management of your team is referred to as an Admin User. Once your Admin User has created your Account, they can invite other individuals to Use the Product through the “invite” feature in the Account (each, a “User”). The Admin User will be required to provide the name, email address, and any other information required by Postman for each User.
+
+An Admin User shall be entitled to designate more than one Admin User. Upon such designation, each new Admin User will be able to do everything that any other Admin User is permitted to do by the Product and this EULA.
+
+Postman charges you a fee for each User to whom you want to provide the ability to Use the Product on your behalf. You must not exceed the number of licensed Users, allow any form of time sharing use, permit more than one individual to use the same Postman login credentials, or any other arrangement which bypasses or defeats Postman’s system controls designed to enforce team size limits. Subject to the terms herein, your Admin Users may add or remove Users from your Account by following relevant instructions set out in Postman’s standard published documentation for the Product.
+
+5.3 The Postman API
+Your Account data may be accessible via an Application Programming Interface (“API”). Any use of the API, including use of the API through a third-party product that accesses the Account, the Product or the Website is bound by the terms in this EULA including the following:
+
+Excessively frequent requests via the API (in excess of the rate limits set out at API.postman.com) may result in the temporary or permanent suspension of your team's access to the API. Postman, in its sole discretion, will determine abuse or excessive usage of the API. Postman will make a reasonable attempt via email to communicate with the Admin User prior to suspension.
+
+Postman reserves the right at any time to modify or discontinue, temporarily or permanently, your access to the API (or any part thereof) with or without notice.
+
+You expressly understand and agree that Postman shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if Postman has been advised of the possibility of such damages), resulting from access to your Content via the API.
+
+6. Ownership and Sharing of Content
+You own all right and title in the Content that you upload into, or generate by Using, the Product. Therefore, You are solely responsible for any Content uploaded into or generated by Using the Product through your Account. Your Content must not violate any applicable law or any right (including intellectual property right) of any person or entity.
+
+Postman provides you the ability to store all or part of Your Content on the Server*. This storage functionality is provided to you on an “as-is where-is basis” and Postman does not take any responsibility for the security of such Content. If you use the storage functionality to store Your Content, You will be deemed to have accepted all the conditions in this EULA relating to such functionality.
+
+*Server means the storage server and such other hardware and software resources of Postman that are used to store amongst other things, the Content. Content is shared and made available for editing, modifying or downloading entirely at the risk of your Users and you. The sharing and enabling of editing/modification rights to Content is entirely within the control of your Users and Postman will not have any liability whatsoever to anyone associated with your Account (including your employer) if Content suffers loss or damage or retardation of functionality or is misappropriated pursuant to such sharing.
+
+Your Use of the Product does not require any personally identifiable information to be uploaded into or included in the Product except to the extent set forth in this paragraph. You hereby permit Postman to collect, use, store and process email address(es), IP addresses from which you access the Product and other login or authentication credentials from both your Users and you in order to ensure that your Users and you have proper access to the Product and to resolve any issues you may encounter while Using the Product. This information may be considered personally identifiable information under the laws of the jurisdiction from which you access and Use the Product. Postman shall collect, use, store and/or process this information only for the purposes listed out above or to contact you with information about Postman and its offerings. Upon termination of this EULA, any information provided by You for creation of your Account will be deleted by us from our records within a reasonable period of time following such termination.
+
+Postman may collect certain data and information from you in connection with your use of the Product and otherwise in connection with this EULA. All such data and information will be collected and used by Postman in accordance with our Privacy Policy, which you acknowledge.
+
+7. Fees and Taxes
+Your use of the Product is subject to your paying Postman the fees applicable to the Product plan selected and/or used by you. You acknowledge and agree that different Product plans provide access to different sets of features in the Product as well as differential levels of permitted usage for those features. The fees and features available for each Product plan are listed at postman.com/pricing (the “Pricing”).
+
+You will pay all fees in United States Dollars per the payment terms on an Order or otherwise mentioned at the time of purchase. The amount of fees payable by you shall vary depending upon the number of Users and the period or “subscription term” for which you intend to Use the Product. In making payment, you acknowledge and agree that you are not relying on being able to use the Product beyond the term of this EULA or on any future product enhancements or upgrades. If you add Users during a subscription term, such subscriptions will be billed at the then-current rate listed in the Pricing for your Product plan, and shall be co-termed through the end of the applicable subscription term. If you make any purchases through a reseller, you owe payment to the reseller as agreed between you and the reseller, but you acknowledge that we may terminate your right to Use the Product if we do not receive our corresponding payment from the reseller.
+
+Our fees are exclusive of all taxes that are payable in respect of the Product or its Use in the jurisdiction in which the payment is either made or received. To the extent that any taxes, duties or similar levy may be payable, you must pay Postman the amount of such taxes, duties or similar levies in addition to any fees owed by you under this EULA. If you have obtained an exemption from the payment of such taxes or levies and you provide such information to Postman, Postman will take reasonable efforts to provide you with such invoicing documents as may enable you to seek a refund or credit for the amount of taxes so paid from any relevant revenue authority, if such a refund or credit is available.
+
+Except as otherwise specified in an Order, all subscriptions will automatically renew for periods equal to your initial subscription term (and you will be charged at the then-current rates in the Pricing) unless you cancel auto-renewal of your subscription through your Account at least thirty (30) days prior to the end of the then-current subscription term. If you cancel auto-renewal, your subscription will terminate at the end of then-current billing cycle, or immediately if you so choose, however you will not be entitled to any credits or refunds for amounts accrued or paid prior to such termination.
+
+8. Restrictions
+Postman has only licensed the Product to You and Postman does not sell the Product. As between Postman and you, Postman owns all right, title and interest in and to the Product, and any intellectual property rights associated with it and with Postman. Postman reserves all rights in and to the Product that it does not expressly grant You in this EULA. You agree not to:
+
+Use the Product for any illegal purpose or in a manner that it violates any law or rights of any other person;
+
+Permit Use of the same Product in a manner not authorized by this EULA;
+
+Disassemble, decompile, unlock, reverse engineer, or decode the Product in any manner or create any derivative works based on the Product;
+
+Re-sell, grant any rights under this EULA to any third party or lease, time-share, lend or rent Products;
+
+Copy any features, functions or user interfaces of the Products;
+
+Introduce any malicious code, virus, malware, or any other material that disrupts, slows down or causes the Product to malfunction;
+
+Upload or generate any Content that is unlawful, harassing, threatening, harmful, tortious, defamatory, libelous, abusive, violent, obscene, vulgar, invasive of another’s privacy, hateful, racially or ethnically offensive, or otherwise objectionable; or
+
+Use the Product if you are under 16 years of age.
+
+9. Additional Features
+Postman shall from time to time release additional features of the Product. Use of these features may be subject to payment of fees and other terms as prescribed by Postman. To use such additional features in the Product, You are required to abide by such additional terms and pay fees, as applicable.
+
+10. Disclaimers
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE PRODUCT IS AT YOUR SOLE RISK AND THAT THE PRODUCT IS PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTY OF ANY KIND, INCLUDING BUT NOT LIMITED TO ANY WARRANTY OF NON INFRINGEMENT, TITLE, FUNCTIONALITY, MERCHANTABILITY OR FITNESS FOR PURPOSE. YOU MAY HAVE OTHER STATUTORY RIGHTS, BUT THE DURATION OF STATUTORILY REQUIRED WARRANTIES, IF ANY, SHALL BE LIMITED TO THE SHORTEST PERIOD PERMITTED BY LAW. POSTMAN DOES NOT WARRANT THAT THE PRODUCT WILL MEET YOUR REQUIREMENTS OR THAT ITS OPERATION WILL BE SECURE, ERROR FREE, VIRUS FREE OR UNINTERRUPTED, THAT ANY STORED DATA WILL BE ACCURATE OR RELIABLE, OR THAT ANY STORED DATA WILL NOT BE LOST OR CORRUPTED, OR THAT IT WILL BE ABLE TO RECTIFY/REMEDY ANY ERRORS OR DEFECT.
+
+YOU HAVE CHOSEN TO USE THE PRODUCT ON YOUR OWN VOLITION AND POSTMAN BEARS NO RESPONSIBILITY AS TO THE QUALITY AND PERFORMANCE OF THE PRODUCT. POSTMAN WILL NOT UNDER ANY CIRCUMSTANCE BE RESPONSIBLE FOR LOSS OF ANY DATA WHETHER FROM YOUR COMPUTER OR THE SERVER, DUE TO USE OF THE PRODUCT.
+
+POSTMAN HAS NO CONTROL OVER THE CONTENT UPLOADED OR GENERATED BY YOU IN YOUR USE OF THE PRODUCT. POSTMAN UNDERTAKES NO RESPONSIBILITY FOR ANY LOSS THAT YOU OR ANY OTHER PERSON MAY SUFFER DUE TO ANY CONTENT UPLOADED OR GENERATED BY YOUR USE OF THE PRODUCT. POSTMAN HAS NO CONTROL OVER THE USE THAT ANY THIRD PARTY MAY PUT TO ANY CONTENT THAT IS SHARED BY YOU ON THE PRODUCT. POSTMAN ASSUMES NO RESPONSIBILITY FOR ANY LOSS THAT YOU OR ANY THIRD PARTY MAY SUFFER DUE TO ANY CONTENT SHARED BY YOU USING THE PRODUCT.
+
+POSTMAN SHALL NOT BE LIABLE FOR DELAYS, INTERRUPTIONS, SERVICE FAILURES OR OTHER PROBLEMS INHERENT IN THE USE OF THE INTERNET AND ELECTRONIC COMMUNICATIONS OR OTHER SYSTEMS OUTSIDE POSTMAN’S REASONABLE CONTROL.
+
+11. Indemnity And Liability
+Postman will defend you from any claim made by a third party that the your Use of the Product infringes a United States or European Union patent or a registered copyright (a “Claim”), and we will indemnify you and hold you harmless against any damages and costs finally awarded by a court of competent jurisdiction or agreed to in a settlement by Postman (including reasonable attorneys’ fees) arising out of a Claim, provided that we have received from you: (a) prompt written notice of the claim (but in any event notice in sufficient time for us to respond without prejudice); (b) reasonable assistance in the defense and investigation of the claim, including providing us a copy of the claim and all relevant evidence in your possession, custody or control; and (c) the exclusive right to control and direct the investigation, defense, and settlement (if applicable) of the claim. If your use of a Product is (or in our opinion is likely to be) enjoined, if required by settlement, or if we determine such actions are reasonably necessary to avoid material liability, we may, at our option and in our discretion: (i) procure a license for your continued use of the Product in accordance with this EULA; (ii) substitute a substantially functionally similar Product; or (iii) terminate your right to continue using the Product and refund the applicable fee paid by you prorated using a straight line depreciation formula to reflect your use of the Product from the payment date. Postman’s indemnification obligations above do not apply: (1) if the Product is modified by any party other than Postman, but solely to the extent the alleged infringement is caused by such modification; (2) if the Product is used in combination with any non-Postman product, software or equipment, but solely to the extent the alleged infringement is caused by such combination; (3) to unauthorized use of Products; (4) to any Claim arising as a result of Your Content or (5) if you settle or make any admissions with respect to a Claim without Postman’s prior written consent. THIS SECTION 11 FIRST PARAGRAPH (IP INDEMNIFICATION BY POSTMAN) STATES OUR SOLE LIABILITY AND YOUR EXCLUSIVE REMEDY FOR ANY INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS IN CONNECTION WITH ANY PRODUCT OR OTHER ITEMS PROVIDED BY POSTMAN UNDER THIS EULA.
+
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT POSTMAN, ITS REPRESENTATIVES, AND LICENSORS SHALL NOT BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY LOSS OF DATA, LOSS OF USE, FAILURE OF SECURITY MECHANISMS, BUSINESS INTERRUPTION, LOSS OF INCOME OR PROFIT OR ANY INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY LOSS OR DAMAGES THAT MAY BE INCURRED BY YOU BY USE OF THE PRODUCT, WHETHER OR NOT POSTMAN OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING. NEITHER PARTY’S LIABILITY TO THE OTHER SHALL EXCEED THE FEES PAID BY YOU TO POSTMAN IN THE 12 MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS EULA, POSTMAN’S LIABILITY TO YOU FOR PRODUCTS THAT ARE FREE OF CHARGE SHALL NOT EXCEED USD 50.
+
+12. Confidentiality
+Each Party may, during the term of this EULA, exchange and/or provide the other Party with access to their Confidential Information*. Confidential Information may be disclosed to the receiving party either orally, visually, in writing or in any other form. The receiving party shall not disclose Confidential Information to any other person, firm, corporation, association or entity, for any purpose whatsoever without the prior written consent of the disclosing party. The receiving party shall take all reasonable security precautions, including precautions at least as great as it takes to protect its own confidential information, to protect the secrecy of the Confidential Information and shall disclose Confidential Information only to its employees or consultants on a need-to-know basis. The receiving party acknowledges that disclosure of Confidential Information would cause substantial harm for which damages alone would not be a sufficient remedy, and therefore, the disclosing party shall be entitled to seek appropriate equitable relief in addition to its other remedies under law for any unauthorized disclosure of Confidential Information by the receiving party.
+
+*Confidential Information includes but is not limited to the business plans, business forecasts, financial information, customer lists, development, design details, specifications, patents, copyrights, trade secrets, proprietary information, methodologies, techniques, sketches, drawings, models, inventions, know-how, processes, algorithms, software programs, software source documents, documentation and third party materials.
+
+13. Termination And Take-Down
+Postman will not terminate the EULA except as set out in this section below. Should You wish to terminate the EULA, You are required to provide 14 days’ notice to Postman by sending an email with subject line “EULA Termination” to help@postman.com and specifically mention the Product you are Using.
+
+Postman has the right to terminate the EULA, if (i) You have breached any term in the EULA, (ii) it is required to do so under law, or (iii) Postman decides to discontinue the Product.
+
+If Postman receives a take-down notice for any Content shared by You, it shall take reasonable steps to determine the basis for such notice. If Postman concludes that it is legally obligated to comply with such request or that it is appropriate for Postman to comply with such request, it may, in its sole and absolute discretion, remove such Content and provide written intimation to you of it. You will not be entitled to challenge Postman’s determination in this regard and Postman will not have any liability to You as result of taking down Content in accordance with this Section 13.
+
+14. Publicity Rights
+We may identify you as a Postman customer in our promotional materials. You may request that we stop doing so by submitting an email to sales@postman.com at any time.
+
+15. General Terms
+This EULA constitutes the entire agreement between You and Postman regarding your Use of the Product, and supersedes all prior agreements (written or oral) between You and Postman in relation to the Product. No amendment, modification, or waiver of any provision of this EULA will be effective unless in writing and signed by both parties. You agree that any term or condition stated in Your purchase order or in any other order documentation (excluding Postman forms) is void. In the event of any conflict or inconsistency among the following documents, the order of precedence shall be: (1) the applicable Order, and (2) this EULA.
+
+You must keep all information received by You from Postman in relation to the Product or otherwise, strictly confidential. You are not permitted to share those information with any third party without prior written permission of Postman.
+
+You agree that if Postman does not exercise or enforce any legal right or remedy which is contained in this EULA (or which Postman has the benefit of under any applicable law), this will not be taken to be a formal waiver of Postman’s rights and that those rights or remedies will still be available to Postman.
+
+If any court of law, having the jurisdiction to decide on this matter, rules that any provision of this EULA is invalid, then that provision shall be deemed removed from this EULA without affecting the rest of this EULA. The remaining provisions of this EULA will continue to be valid and enforceable.
+
+The rights granted in this EULA may not be assigned or transferred by You without the prior written approval of Postman. You are not permitted to delegate Your responsibilities or obligations under this EULA without the prior written approval of Postman. Postman is entitled to assign, transfer or delegate any right, responsibility, duty or obligation under this EULA.
+
+This EULA applies whether you purchase our Products directly from Postman or through a reseller (“Reseller”). Resellers are not authorized to make any promises or commitments on Postman’s behalf, and we are not bound by any obligations to you other than what we specify in this EULA.
+
+Any information provided by You for creation of an Account shall not be used by Postman for any purpose other than (i) to enable Your Use of the Product, or (ii) to render any service to You through Your Use of the Product, or (iii) to improve the product as mentioned in Section (6), or (iv) in any manner as permitted by You. Upon termination of this EULA, any information provided by You for creation of an Account will be deleted by us from our records, normally within six months after such termination.
+
+Please send any feedback and suggestions that You have for the Product to help@postman.com. You agree that Postman is at liberty to use and incorporate those feedback and suggestions in the Product without affecting its rights and title in the Product.
+
+This EULA shall be governed by the laws of the state of Delaware and the United States, without regard to any conflict of law provisions. You and Postman agree to submit to the exclusive jurisdiction of the courts in the state of Delaware to resolve any dispute arising out of this EULA.
+
+The obligations in Sections 4, 8, 10, 11, 12, 13 and 15 will survive any expiration or termination of this EULA.
+
+### DOCUMENT / Sub Processors / https://www.postman.com/legal/sub-processors/ ###
+Customers may subscribe to notifications of new sub-processors by filling out this form.
+
+Third party Sub-processor	Purpose	Address
+Amazon Web Services	Cloud services provider	410 Terry Avenue N. Seattle, WA 98109 USA
+Stripe, Inc.	Payment processor	185 Berry St., Suite 550 San Francisco, CA 94107 USA
+Marketo, Inc.	Marketing automation software	901 Mariners Island Blvd., Suite 500 San Mateo, CA 94404 USA
+Zendesk Inc.	Support	1019 Market St. San Francisco, CA 94103 USA
+Looker Data Sciences, Inc.	Business analytics and intelligence	101 Church St. Santa Cruz, CA 95060 USA
+Salesforce, Inc.	Customer relationship management	Salesforce Tower 415 Mission St., 3rd Floor San Francisco, CA 94105 USA
+Sendgrid (now Twilio Inc.)	Email service provider	1801 California St. #500 Denver, CO 80202 USA
+Cloudinary Inc.	Image hosting	3400 Central Expressway, Suite 110 Santa Clara, CA 95051, USA
+Iterable, Inc.	Marketing automation platform	71 Stevenson St. #300 San Francisco, CA 94105 USA
+Drift.com, Inc.	Sales and marketing platform	222 Berkeley St. Floor 6 Boston, MA 02116 USA
+SurveyMonkey Inc.	Surveys	One Curiosity Way San Mateo, CA 94403 USA
+Outreach Corporation	Customer engagement platform	33 Elliott Ave W. #500 Seattle, WA 98119 USA
+Calendly, LLC	Meeting schedule tool	BB&T Tower 271 17th St NW Atlanta, GA 30363 USA
+Docusign, Inc.	Digital signature software	221 Main St., Suite 1550 San Francisco, CA 94105 USA
+Slack Technologies, Inc.	Business communication platform	500 Howard Street San Francisco, CA 94105 USA
+New Relic, Inc.	Application monitoring and logging	188 Spear Street, Suite 1200 San Francisco, CA 94105 USA
+Note: Our business needs may change from time to time. For example, we may deprecate a Sub-processor to consolidate and minimize our use of Sub-processors. Similarly, we may add a Sub-processor if we believe that doing so will enhance our ability to deliver our Services and Products. We will periodically update this page to reflect additions and removals to our list of Sub-processors.
+
+Postman Affiliates
+Entity Name	Country
+Postdot Technologies Private Limited	India
+Postdot Technologies UK Ltd	United Kingdom
+
+### DOCUMENT / Postman Community Code of Conduct / https://www.postman.com/legal/community-code-of-conduct/ ###
+Let us begin this document with the most important point: the Postman community is an utterly inspirational group of people on many levels. Every day, we see countless instances of exemplary behavior from members; you are brilliant, kind, respectful, collaborative, and funny. You exhibit the finest that human beings have to offer. At the risk of stating the obvious, this is the type of conduct that we want and expect at all times, and we thank you for your efforts in this area.
+
+That said, sometimes there are actions or behaviors that veer outside the guardrails. This document provides some specifics on those guardrails so that every member of the community knows exactly where Postman stands.
+
+So, here we go:
+
+Postman is committed to being inclusive, period. As such, we are committed to providing a friendly, safe, and welcoming environment for all people, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion. Seriously, we mean everybody.
+
+This Code of Conduct document outlines our expectations for anyone using any Postman online services and events, including but not limited to: Postman Galaxy, the Postman blog, the Postman API Network, and community.postman.com.
+
+Expected Behavior
+The following behaviors are expected and required of all community members:
+
+Exercise consideration and respect in your speech and actions
+Refrain from demeaning, discriminatory, or harassing behavior and speech
+Unacceptable Behavior
+The following behaviors are considered harassment and are unacceptable:
+
+Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability
+Unwelcome sexual attention—this includes sexualized comments or jokes and unwelcome sexual advances
+Deliberate intimidation, stalking, or following
+Violence, threats of violence or violent language directed against another person
+Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes, commentary, and language
+Displaying sexually explicit or violent material
+Damaging any Postman digital property
+Advocating for, or encouraging, any of the above behavior
+Consequences of Unacceptable Behavior
+Unacceptable behavior from any member of the community, regardless of status or position, will not be tolerated.
+
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+
+If a member of the community engages in unacceptable behavior, Postman representatives may take any action they deem appropriate, up to and including involvement of local law enforcement.
+
+Keep It Tidy
+When interacting with Postman community forums, make the effort to put things in the right place, so that everyone can spend more time discussing and less time cleaning up. For example:
+
+Don’t start a topic in the wrong category.
+Don’t cross-post the same thing in multiple topics.
+Don’t post no-content replies.
+Don’t divert a topic by changing it midstream.
+Don’t sign your posts; every post has your profile information attached to it.
+Rather than posting “+1” or “Agreed”, use the Like button.
+Rather than taking an existing topic in a radically different direction, use the Reply as a Linked Topic function.
+Post Only Your Own Stuff
+Never post anything digital that belongs to someone else without permission. Also, do not post descriptions of, links to, or methods for stealing someone’s intellectual property (software, video, audio, images, or anything else), or for breaking any other law.
+
+Reporting Guidelines
+If you are subject to—or a witness to—unacceptable behavior, or have any other concerns at any time about behaviors or activity within the Postman community, please notify a Postman representative as soon as possible or email info@postman.com.
+
+License and attribution
+This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
+
+Portions of the text were derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy.
+
+Terms of Service
+Yes, legalese is boring, but we must protect ourselves—and, by extension, you and your data—against unfriendly folks. Please review our Terms of Service, which describes your (and our) behavior and rights related to content, privacy, and laws. The Terms of Service document is an End-User License Agreement between you and Postman, and it governs your use of all versions of Postman.

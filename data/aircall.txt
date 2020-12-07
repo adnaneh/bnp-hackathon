@@ -1,0 +1,929 @@
+### DOCUMENT/ Privacy Policy / https://aircall.io/privacy/ ###
+Effective as of July 10, 2020 The Aircall Privacy Policy (the “Privacy Policy”) relates to, and, to the extent necessary, supplements the Aircall Terms of Use which appear at https://aircall.io/terms-of-use/sas for the European version and at https://aircall.io/terms-of-use/inc for the North American (US & Canada) version. Unless otherwise provided herein, all terms starting with a capital letter shall have the meaning ascribed to them in such Terms of Use.
+
+1. Definition and nature of Personal Data
+During the use of the Aircall services (the “Services”) subscribed via the website https://aircall.io (hereinafter referred to as the “Site”), Aircall.io., Inc., a Delaware corporation, located at 33 W 17th St, New York, NY 10011 and its subsidiaries, in particular Aircall SAS, a French société par actions simplifiée (SAS) whose registered office is at 11-15, rue Saint Georges, 75009 Paris (France), registered with the Paris Registre du commerce et des sociétés under No. 807 437 595 (“We”, “Us”, “Our” or “Aircall”) may require from Your organization which subscribed to the Services (“You”, “Your” or the “Subscriber”) to provide Us with Personal Data to access and use the Services, or You may need or happen to provide Us with Personal Data for the same purposes. For the purpose of this Privacy Policy, the term “Personal Data” means any data or information that enables the identification of an individual (whether directly or indirectly), such as their family name, first name, photograph, post address, email address, telephone number, data relating to their transactions with You, detail of their orders and subscriptions placed with You, IP address, voice, as well as any other information about them that You provide Us with. It also relates to any personal information of Your employees, agents or representatives provided to Us for the purpose of using the Services.
+
+2. Purpose of this Privacy Policy
+This Privacy Policy applies to any individual accessing and using the Services directly or indirectly, whether You make or receive a call. By using the Services, You, Your employees, agents and representatives shall be deemed to agree to, and be obligated to comply with, the terms of this Privacy Policy. We may amend the terms of this Privacy Policy from time to time and shall give You notice thereof by email or via a pop-up on the Site. If You do not agree with the amended version of the Privacy Policy, You should stop using the Services as any use of the Services following such notice constitutes Your acceptance of the new Privacy Policy. All amended terms automatically become effective on the sooner of: a) the day You use the Services; or b) ten (10) days after the new Privacy Policy is posted on the Site, provided that You did not inform Aircall of Your refusal of the new version of it, which would amount to a termination notice of the Services with immediate effect, with all due consequences as provided in the Terms of Use.
+
+Should We add new consent-based processing of Personal Data, We shall ensure to obtain Your consent therefor prior to processing such Personal Data (e.g. via a box to tick).
+
+You shall remain at all times responsible for complying with all laws and regulations, in particular those regarding Personal Data, and personally liable for any breach thereof.
+
+We may indeed process Personal Data We collect for the limited purposes described in this Privacy Policy, and thereby act as Data Controller for those limited purposes only. However, and outside of the scope of these limited instances, You shall be considered the Data Controller, and we shall act solely as a Data Processor, as regards the processing of Your information for the purpose of providing the Services.
+
+In that capacity and within the scope of the Services, You are exclusively responsible in particular for:
+
+making any declarations necessary to the relevant data protection authority;
+complying with its obligations as Data Controller under all applicable laws and regulations informing you about their Data Processing practices and, if required, obtaining your explicit consent when collecting your Personal Data;
+ensuring they have the authority to use any Personal Data collected in accordance with the defined purposes and refraining from any unauthorized use.
+3. Purposes
+The table below indicates the different purposes Personal Data may be processed for, as well as their different categories, the legal basis the processing is based on, their recipients* and applicable retention period.
+You may contact Us to obtain the list of Our sub-processors.
+
+4. Recipients of the collected Personal Data
+Only Our personnel, the services in charge of control (especially: external auditor) and Our recipient subcontractors listed in the above table may have access to any Personal Data. Personal Data may also be disclosed in response to lawful requests made by government agencies or public authorities, including public officers or debt collection organizations, to meet national security, law enforcement or any other legal requirements. In any event, Aircall shall remain liable in cases of onward transfers to third parties.
+
+Depending on where You are located, we might have to enforce local regulations and requirements where the use of a local phone number requires to keep user details (in particular, first/last name and address) in the event we should receive an official request from a competent local authority.
+
+5. Transfer / sale of personal databases
+We shall not, without Your agreement, sell or let Personal Data to third parties. We shall only transfer Personal Data to another location, whether physical or numerical, if strictly necessary to provide the Services, or if You specifically agree with it.
+
+6. Retention of Personal Data
+6.1 General provisions
+Where Aircall is the Data Controller of Personal Data (for example, Personal Data relating to the Site visitors, or individuals who register to use our Services), then we retain the Personal Data we collect where we have an ongoing legitimate business need to do so (for example, to provide them with our Services, to enable their participation in an event, and to comply with applicable legal, tax or accounting requirements).
+
+When we have no ongoing legitimate business need to process Personal Data, we will either delete or aggregate it or, if this is not possible (for example, because Personal Data has been stored in backup archives), then we will securely store it and isolate it from any further processing until deletion is possible.
+
+If Personal Data is processed for, on behalf of, or for the purpose of the Services taken out by, any Subscriber, we will process Personal Data for as long as we are instructed to do so by the relevant Subscriber that is the Data Controller of such Personal Data.
+
+Personal Data shall be stored for the duration of Your use of the Services as well as for the different renewal periods, and for the purposes listed above.
+
+We may retain Personal Data to comply with Our legal or regulatory obligations. In any case, upon ceasing or lifting of such obligations, Personal Data shall be removed from our systems and records, as well as that of our subcontractors, if any, or otherwise archived or anonymized so that they can no longer be identified.
+
+6.2 Provisions specific to credit / debit card and bank account details
+We do not store any bank information or credit details on Our servers, provided that they are handled by a trusted third party independent and different from Aircall.
+
+6.3 Notice to end-users
+Our Services are intended for use by enterprises. Where our Services are made available to you through a Subscriber of ours, that enterprise is the Data Controller of your personal information. Your data privacy questions and request should initially be submitted to said Subscriber in its capacity as your Data Controller. Aircall is not responsible for our Subscribers’ privacy or security practices which may be different than this Privacy Policy.
+
+Aircall’s Subscribers are able to:
+
+restrict, suspend or terminate your access to the Services;
+access and describe your personal information that you provided to them;
+access and export your personal information processed by them; and
+amend your personal information, including your end-user profile.
+7. Personal Data Transfer outside of the European Union
+Personal Data may be transferred, accessed to and stored in a country located outside the EEA. Personal Data can also be processed by individuals working outside the European Economic Area (“EEA”) who work for Us or for one of Our trusted service providers, such as Our hosting providers (Amazon). In any case, Personal Data are only transferred in a secure manner and in compliance with the applicable regulations. As some countries may not have laws governing the use and transfer of Personal Data, we undertake to take all necessary steps to ensure that third parties comply with the terms and conditions set out in this Privacy Policy. These measures may include controlling the standards applied by such third parties with respect to Personal Data protection and security, and/or the execution of appropriate agreements to deal with such transfers (e.g. the standard contractual clauses adopted by the Commission of the European Union).
+
+Aircall commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities.
+
+Aircall abides by and has certified adherence to the principles of the EU-U.S. and Swiss-U.S. Privacy Shield frameworks as set forth by the U.S. Department of Commerce. For more information on the Privacy Shield frameworks, and to view the scope of Aircall’s certification, please visit https://www.privacyshield.gov/. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact us by email to privacy@aircall.io. For residual Privacy Shield disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions. To find out more about the Privacy Shield’s binding arbitration scheme, please see: https://www.privacyshield.gov/article?id=ANNEX-I-introduction
+
+The Federal Trade Commission has investigation and enforcement authority over our compliance with the Privacy Shield.
+
+If we have received Personal Data under the Privacy Shield and subsequently transfer it to a third-party service provider for processing, we will remain responsible if they process Personal Data in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+
+8. Safety / Security
+We undertake to implement all necessary precautions, as well as the appropriate organizational and technical measures, to maintain the security, integrity and confidentiality of Personal Data, and in particular to prevent them from being modified or damaged and stop any unauthorized third party from accessing them. In particular, our employees’ accounts are secured by strong passwords, and they are all bound by confidentiality obligations. We also use state-of-the art secured payment systems consistent with applicable regulation. However, You agree that no data transmission over the Internet, or information storage technology, can be guaranteed to be 100% secure.
+
+9. Cookies
+Cookies are alphanumeric identifiers / trackers that are transferred to the device You use to access the Services via Your browser. We may implement two types of cookies: technical cookies and advertising cookies.
+
+We use technical cookies to facilitate Your browsing experience (such as session cookies so that You do not have to retype Your login and password when You connect to Your account for example). They simplify Your visit and enhance Your experience of the Services. You can refuse the installation of technical cookies in Your browser settings. However, You acknowledge that this refusal could prevent You from using the Services.
+
+In addition, we also implement advertising cookies which result in the display of targeted advertising on websites that matches Your previous/current browsing activity on the Site. Advertising cookies enable the use of the retargeting technique which is a marketing model purporting to propose tailored advertisements to the end user. As You browse on the Site, advertising cookies will be placed in Your computer so that we can understand what You are interested in. Our display advertising partners enable Us to present You with retargeting advertising on other websites based on Your previous interaction with the Site. The techniques Our partners do not collect personal information such as Your name, email address, post address or telephone number but only Your IP address.
+
+The cookies used by the Site are the following:
+
+Google Ad Service Retargeting ads Advertising
+Google Analytics Use of the Site Performance
+Google Tag Manager Use of the Site Performance
+Intercom Live chat Functionality
+Pardot Retargeting emails Marketing
+Wistia Use of Our Videos Performance
+Zarget A/B testing Performance
+Facebook Retargeting ads Advertising
+Amplitude Use of the Site Performance
+Stripe Payment Fraud detection
+
+If You click on the “Accept / Agree” button on the cookies banner upon Your first visit on the Site, You will be deemed to have agreed to the use of cookies by Aircall on Your devices.
+
+In addition, the use of the Site may result in the installation of certain cookies issued by third parties (communication agencies, audience measurement companies, social networks, YouTube, etc.) that are not controlled by Aircall. These cookies are subject to such third parties’ privacy policies.
+
+The default settings for Internet browsers are usually set to accept cookies, but You can easily change Your browser’s settings.
+
+For more information please visit: http://www.aboutcookies.org/.
+
+Please note that if You refuse the installation or use of a cookie, a "refusal cookie" will be installed on Your device to track Your refusal. You need to ensure that You do not delete this cookie so that Your choice is taken into account.
+
+You may also use a cookie management software, such as the TarteAuCitron or TagCommander software. A list of additional software is also available on the French data protection authority website.
+
+10. Third parties links on the Site
+Our Site and Services may include links to and from the websites of Our partners, advertisers and affiliates. If You follow a link to any of these websites, please note that these companies have their own privacy policies and that Aircall is not responsible or liable for any use of Personal Data by such third parties. We recommend that You check their policies before You visit these websites.
+
+11. Your rights and choices
+When You choose to provide Personal Data, You expressly consent to the collection and use thereof, in accordance with the provisions of this Privacy Policy and applicable laws and regulations.
+
+Any data subject shall have the following rights:
+
+To access and obtain a copy of Personal Data that we process;
+To rectify the Personal Data if inaccurate or outdated and/or supplement them if incomplete;5
+To object to the processing of Personal Data that is based on legitimate interests;
+To erase Personal Data and to be forgotten;
+To withdraw their consent, at any time, to any processing of their Personal Data that is solely based on their consent (for they may object to receiving Our marketing emails at any time by clicking on the "unsubscribe" link in any email or communication we send them);
+To file a complaint before a supervisory data protection authority;
+To portability: they have the right to move, copy or transmit Personal Data relating to them;
+To restrict or limit the processing of Personal Data;
+To set guidelines to organize the use of Personal Data after their death.
+To exercise any of the above rights of if You have questions regarding this Privacy Policy or about the security measures we implement, please contact Us by email at privacy@aircall.io.
+
+In the event of any dispute, claim, question or disagreement arising from or relating to this Privacy Policy or breach thereof (the "Dispute"), and without prejudice to the claimant’s right to seize the CNIL, the French data protection authority (https://www.cnil.fr/en/home), in accordance with the provisions of the EU General Data Protection Regulation (GDPR), the claimant should first seek an amicable resolution thereof by contacting Aircall in writing, stating its grounds and providing any supporting evidence.
+
+### DOCUMENT / DATA PROCESSING AGREEMENT / https://aircall.io/Aircall-DPA-7-24-2020.pdf ###
+DATA PROCESSING AGREEMENT
+This Data Processing Addendum, including its Exhibits and Appendices, (“DPA”)
+forms part of the Master Subscription Agreement or the Terms of Use between Aircall
+SAS, having his registered offices located at 11-15 rue Saint Georges 75009 Paris,
+registered under number 807.437.595 RCS (hereafter “Aircall” or the “Data Processor),
+and Customer for the purchase of Aircall’s services (identified either as “Services” in
+the applicable agreement, and hereinafter defined as “Services”) (the “Agreement”) to
+reflect the parties’ agreement with regard to the Processing of Personal Data.
+By signing the Agreement, Customer enters into this DPA on behalf of itself and, to the
+extent required under applicable Data Protection Laws and Regulations, in the name
+and on behalf of its Affiliates, if and to the extent Aircall processes Personal Data for
+which such Affiliates qualify as the Controller. For the purposes of this DPA only, and
+except where indicated otherwise, the term “Customer” shall include Customer and
+Customer’s Affiliates. All capitalized terms not defined herein shall have the meaning
+ascribed to them in the Agreement. In the course of providing the Services to Customer
+pursuant to the Agreement, Aircall may Process Personal Data on behalf of Customer
+and the Parties agree to comply with the following provisions with respect to any
+Personal Data, each acting reasonably and in good faith.
+HOW TO EXECUTE THIS DPA:
+This DPA has been pre-signed on behalf of Aircall. The Standard Contractual Clauses in
+Exhibit C have also been pre-signed by Aircall as the data importer.
+1. To complete this DPA, Customer must:
+a. Complete the information in the signature block and execute the DPA on
+Page 8.
+b. Send the signed DPA to Aircall by email to privacy@aircall.io. Upon receipt
+of the validly completed DPA by Aircall at this email address, this DPA will
+become legally binding. For the avoidance of doubt, signature of the DPA
+on page 8 shall be deemed to constitute signature and acceptance of the
+Standard Contractual Clauses incorporated herein, including their
+Appendices. Where Customer wishes to separately execute the Standard
+Contractual Clauses and its Appendices, Customer should also complete
+the information as the data exporter on Page 14 and complete the
+information in the signature block and sign on Pages 21, 23 and 24.
+2
+DEFINITIONS
+In this DPA and unless defined in the Agreement, all capitalized terms used shall have
+the meanings given to them below:
+“Data Controller” shall have the meaning ascribed by the GDPR and designates the
+Customer in this DPA.
+“Data Protection Laws and Regulations” means all laws and regulations, including laws
+and regulations of the European Union, the European Economic Area and their member
+states, applicable to the Processing of Personal Data under the Agreement, including the
+GDPR as defined below.
+“Data Subject” means the individual to whom Personal Data relates.
+“GDPR” means Regulation (EU) 2016/679 of the European Parliament and of the
+Council on the protection of natural persons with regard to the processing of personal
+data and on the free movement of such data, and repealing Directive 95/46/EC;
+“Party” means any of the Data Controller or the Data Processor, and “Parties” means
+together the Data Controller and the Data Processor.
+“Personal Data” means any information relating to an identified or identifiable Data
+Subject who can be identified, directly or indirectly, in particular by a reference to an
+identification number or to one or more factors specific to their physical, physiological,
+mental, economic, cultural or social identity.
+“Process, Processing” means any operation or set of operations which is performed upon
+Personal Data, whether or not by automatic means, such as collection, recording,
+organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by
+transmission, dissemination or otherwise making available, alignment or combination,
+blocking, erasure or destruction, as described in Exhibit A.
+“Service” or “Product” means the Aircall Service, as applicable with Services offered by
+Aircall (as defined in the Agreement) that Data Controller has purchased or deployed
+or to which Data Controller has subscribed under the Agreement.
+”Standard Contractual Clauses” means the agreement executed by and between Aircall
+and its Sub-processors if necessary pursuant to the European Commission’s decision of
+5 February 2010 on Standard Contractual Clauses for the transfer of Personal Data to
+processors established outside of the European Economic Area which do not ensure an
+adequate level of data protection included hereto as Exhibit C.
+3
+”Sub-processor” means any subcontractor engaged by Aircall to process all or part of the
+Personal Data for Aircall.
+“Terms of Use” means the terms of use available at https://aircall.io/terms-of-use/sas,
+as modified from time to time, relating to the provision and access and/or use of the
+Services and entered into between the parties.
+1. PROCESSING OF PERSONAL DATA
+1.1 Customer’s Processing of Personal Data. Customer acting as a Data Controller
+determines the purposes and means of the Processing of Personal Data and
+shall, in its use of the Service, Process Personal Data in accordance with the
+requirements of Data Protection Laws and Regulations. For the avoidance of
+doubt, Customer’s instructions for the Processing of Personal Data shall comply
+with Data Protection Laws and Regulations. Customer shall have sole
+responsibility for the accuracy, quality, and legality of Personal Data and the
+means by which Customer acquired Personal Data. Customer shall also inform
+the Data Subjects of the Processing of their Personal Data by Aircall.
+1.2 Aircall’s Processing of Personal Data. Aircall, acting as a Data Processor shall
+only Process Personal Data on behalf of and in accordance with Customer’s
+documented instructions. Customer instructs Aircall to Process Personal Data
+for the performance of this DPA, the Agreement and any applicable Order
+Form(s) and more generally for the provision of Services.
+Obligations of the Data Processor. Data Processor agrees, warrants and
+represents that it:
+a) ensures that persons authorized to Process the Personal Data have
+committed themselves to confidentiality or are under an appropriate
+statutory obligation of confidentiality; further, Data Processor shall only
+allow access to the Personal Data to such of the Data Processor’s personnel
+who need access to the Personal Data in order to allow the Data Processor
+to perform its obligations under the Agreement and/or applicable Order
+Forms;
+b) informs Data Controller if an instruction infringes the GDPR or other
+Union or Member State data protection provisions that may be applicable;
+c) takes all measures to ensure the security of processing, as further specified
+under letter d) below;
+d) assists the Data Controller in ensuring compliance with the obligations
+relating to the security of the Personal Data, Customer’s notification &
+communication obligations in case of Data Breach, conducting data
+privacy assessment and consulting the supervisory authority if need be,
+taking into account the nature of Processing and the information available
+4
+to the Data Processor. Specifically, Data Processor shall, while taking into
+account the state of the art, the cost of implementation and the nature,
+scope, context and purposes of Processing as well as the risks of varying
+likelihood and severity for rights and freedoms of Data Subjects resulting
+from the Processing, implement appropriate technical and organizational
+measures listed in Exhibit B. Those measures shall be reviewed and
+updated by Aircall where and when necessary;
+e) cooperate with the national supervisory authority if need be;
+f) makes available to the Data Controller on a reasonable basis all
+information necessary to demonstrate compliance with the obligations
+relating to Data Processors as laid down in Article 28 of the GDPR and
+allow for and contribute to audits, including inspections, conducted by the
+Data Controller or another auditor mandated by the Data Controller in the
+limit of 1 audit par year with a 15 days prior notice and subject to the
+Parties agreeing on a data security testing agreement should this audit
+include penetration testing;
+2. PROPERTY OF THE DATA
+The Parties agree that the Personal Data gathered, Processed, hosted, backed up
+or stored by Aircall on behalf of the Customer, under this DPA and the
+Agreement or on its initiative are and remain the property of the Customer.
+3. RIGHTS OF DATA SUBJECTS
+If Data Processor receives notice (whether or not from the Data Controller) of,
+any claim, complaint, request, direction, query, investigation, proceeding or
+other action of any Data Subject, court, regulatory or supervisory authority, or
+any body, organization or association in each case which relates in any way to
+the Personal Data Processed by Data Processor under this DPA (collectively,
+“Regulatory Action”), then Data Processor shall:
+a) notify Data Controller with reasonable detail of the Regulatory Action,
+including copies of any relevant correspondence so that the Data
+Controller can deal with the Regulatory Action;
+b) provide Data Controller reasonable co-operation and assistance by
+appropriate technical and organizational measures with respect to any
+Regulatory Action; and
+c) not answer to a Regulatory Action, unless instructed otherwise by
+Customer in writing.
+4. SUB-PROCESSORS
+5
+4.1. Appointment of Sub-processors. Customer agrees that Aircall engages thirdparty Sub-processors in connection with the provision of Aircall and that the list
+of the Sub-processors currently engaged by Aircall is listed below. Therefore, by
+executing the DPA, Customer authorizes Aircall to engage the Sub-processors
+mentioned in the Exhibit A. In case this list is modified by Aircall, Customer
+will be informed of any intended changes so that it may reasonably object to
+such modification. In case Customer does not send any objection to Aircall in
+writing within ten (10) days from receiving the information, it will be deemed to
+have agreed to the new Sub-processors. If Customer objects, the Parties agree to
+meet to find a solution that will satisfy both Parties’ interests.
+4.2. Where Data Processor engages another Sub-processor, similar data protection
+obligations as set out in this DPA shall be imposed on that another Subprocessor by way of a contract.
+4.3. Liability. Aircall shall be liable towards the Data Controller for the acts and
+omissions of its Sub-processors to the same extent Aircall would be directly
+liable if performing the Services of each Sub-processor directly under the terms
+of this DPA.
+5. DATA BREACH
+Aircall will notify Customer of any unlawful disclosure of the Customer’s
+Personal Data (“Data Breach”) after detection of such Data Breach by Aircall or
+any of its Sub-processors side. Promptly after detection of such Data Breach, and
+no later than 72 hours after the breach, Aircall shall also deliver to Customer all
+details of the Data Breach: root cause, action plan, data disclosed, and list of
+Customer’s customers or staff impacted (unless Aircall proves to the Customer
+and the involved regulators that the Personal Data has been encrypted) as a
+consequence of such Data Breach. Customer shall inform any relevant authority
+and if relevant the impacted Data Subject and the Data Processor shall provide
+all reasonable cooperation and assistance to the Customer.
+6. RETURN AND DELETION OF CLIENT’S DATA
+Upon the termination of the Aircall Terms of Use, Data Processor will up to
+thirty (30) days following such termination, permit Data Controller to export the
+Personal Data Processed under the Agreement, at its expense, in accordance
+with the capabilities of the Service. Following such period, Data Processor will
+delete all Personal Data stored or Processed by the Data Processor on behalf of
+Data Controller and their copies. Data Controller expressly consents to such
+deletion.
+6
+7. DURATION
+This Agreement will remain into force as long as the Aircall Terms of Use.
+8. ADDITIONAL TERMS FOR EU PERSONAL DATA
+Standard Contractual Clauses. The parties agree that the Standard
+Contractual Clauses set out as Exhibit C will apply in respect of Personal Data
+transferred from the European Economic Area (EEA) to a third country
+outside the EEA, either directly or via onward transfer, to any country or
+recipient: (i) not recognized by the European Commission as providing an
+adequate level of protection for personal data (as described in the GDPR), or
+(ii) not covered by a suitable framework recognized by the relevant
+authorities or courts as providing an adequate level of protection for personal
+data, including but not limited to Binding Corporate Rules for Processors .
+8.1. Instructions. Unless otherwise specified in this Agreement, the Aircall Terms of
+Use or relevant Order Form, this Agreement and Aircall Terms of Use are Data
+Exporter’s complete and final instructions to Aircall for the Processing of
+Personal Data. Any additional or alternate instructions must be agreed upon
+separately in writing.
+8.2. Conflict. In the event of any conflict or inconsistency between this DPA and the
+Standard Contract Clauses in Attachment 1, the Clauses shall prevail.
+9. NO CONSEQUENTIAL DAMAGES; LIMITATION ON LIABILITY;
+INSURANCE
+Each party’s and all of its Affiliates’ liability, taken together in the aggregate,
+arising out of or related to this DPA, and all DPAs between Affiliates and Aircall,
+whether in contract, tort (including negligence) or under any other theory of
+liability, is subject to the ‘Limitation of Liability’ section of the Agreement (or the
+section of the Agreement which addresses the exclusion and limitation of liability
+even if it does not have that heading), and any reference in such section to the
+liability of a party means the aggregate liability of that party and all of its
+Affiliates under the Agreement and all DPAs together. For the avoidance of
+doubt, Aircall and its Affiliates’ total liability for all claims from Customer and
+all of its Affiliates arising out of or related to the Agreement and all DPAs
+whether in contract, tort (including negligence) or under any other theory of
+liability shall apply in the aggregate for all claims under both the Agreement and
+all DPAs established under the Agreement, including by Customer and all
+Affiliates, and, in particular, shall not be understood to apply individually and
+severally to Customer and/or to any Affiliate that is a contractual party to, or
+otherwise entitled to claim under, any such DPA.
+7
+10. GOVERNING LAW AND JURISDICTION
+This DPA shall be governed by and construed in accordance with the laws of the
+country or territory stipulated for this purpose in the Agreement and each of the
+parties agrees to submit to the choice of jurisdiction as stipulated in the
+Agreement in respect of any claim or matter arising under or related to this DPA.
+In order to resolve amicably any dispute that may arise with respect to the
+interpretation, the performance and/or the termination of this Agreement, the
+Parties agree to meet after the receipt of a notice sent by registered mail by one of
+the Parties, with the intent to solve any dispute in an amicable way. Failing for
+the Parties to reach an amicable settlement by signing a settlement agreement
+within thirty (30) days following the notification by a Party of the existence of the
+dispute and making an express reference to this provision, the Parties shall
+submit their dispute to the Paris commercial court that will have exclusive
+jurisdiction to settle the dispute.
+8
+IN WITNESS WHEREOF, this Agreement is duly executed by an authorized representative of
+both parties as of the latest date contained in the signature block:
+AircallSAS Customer
+Customer Legal Name:
+____________________
+By: By:
+Name: __________ Name: _______________
+Title: ___________ Title: __________________
+Date:
+Alain Bensimon
+General Counsel
+9
+Exhibit A Description of the Processing
+Purpose of the Processing
+Details about Personal Data Processing can be found on the following page:
+https://aircall.io/privacy
+Nature of the operations conducted on the Personal Data
+Collection or recording of the Personal Data
+Hosting or conservation of the Personal Data
+Use of the Personal Data
+Communication of the Personal Data by transmission, diffusion or any other way
+Deletion or destruction of the Personal Data
+Categories of Data Subjects
+Employees, agents, advisors, independent contractors of Customer
+Prospects, customers, business partners and vendors of Data Exporter (who are
+natural persons)
+Employees or contact persons of Data Exporter’s prospects, customers, business
+partners and vendors
+Categories of Personal Data
+Identification and contact Information (company, email, phone, physical
+business address) and ID data, in particular: the identity: title, name, position,
+address, phone number (fixed and/or mobile), fax number, email address, birth
+date, internal processing code allowing identification of the customer
+Transaction-related data such as the number of the transaction, the details of the
+purchase, subscription, the good or service purchased;
+Data relating to the monitoring of the business relationship: requests for
+documentation, trial requests, purchased product, service or subscription
+contracted, quantity, amount, frequency, delivery address, purchase history and
+services, return of products, origin of sale or of the order (seller, agent, partner,
+affiliate), correspondence with the customer and after-sales service, exchanges
+and feedback from customers and prospects, person(s) responsible for the
+customer relationship;
+Invoices: payment terms, discounts granted, receipts, unpaid balances.
+Information relating to underwritten loans (amount and duration, lender's
+name);
+Any information necessary to provide the Services to the Customer under the
+Agreement;
+Any information included in the documents provided by the Customer.
+10
+List of Sub-processors
+Aircall will ensure that a suitable data transfer mechanism is in place for any Subprocessor who processes European Personal Data outside the EEA or, where the Client
+is subject to Data Protection Act 2018 for its processing, the United Kingdom.
+Aircall acknowledges the CJEU judgment (C-311/18) invalidating the decision
+(2016/1250) on the adequacy of the protection provided by the EU-US Data Protection
+Shield (so called Privacy Shield decision).
+Aircall is working with its Sub-processors who self-certified under the EU-US Privacy
+Shield framework to implement another suitable data transfer mechanism for
+transferring Personal Data to the United States
+
+Identification of the subcontractors
+Amazon Web Services Hosting USA
+Twilio Call processing USA
+Voxbone Number rental BE
+SatisMeter Generate statistics Czech Republic
+
+Exhibit B
+Security Standards
+As of the effective date of this DPA, Data Processor, when Processing Personal Data on
+behalf of Data Controller in connection with the Service, Data Processor shall
+implement and maintain the following technical and organizational security measures
+for the Processing of such Personal Data (“Security Standards”):
+1. Physical Access Controls: Data Processor shall take reasonable measures to prevent
+physical access, such as security personnel and secured buildings and factory
+premises, to prevent unauthorized persons from gaining access to Personal Data.
+2. System Access Controls: Data Processor shall take reasonable measures to prevent
+Personal Data from being used without authorization. These controls shall vary
+based on the nature of the Processing undertaken and may include, among other
+controls, authentication via passwords and/or two-factors authentication,
+documented authorization processes, documented change management processes
+and/or, logging of access on several levels.
+3. Data Access Controls: Data Processor shall take reasonable measures to provide that
+Personal Data is accessible and manageable only by properly authorized staff, direct
+database query access is restricted and application access rights are established and
+enforced to ensure that persons entitled to use a data processing system only have
+access to the Personal Data to which they have the privilege of access; and, that
+Personal Data cannot be read, copied, modified or removed without authorization in
+the course of Processing.
+4. Transmission Controls: Data Processor shall take reasonable measures to ensure that
+it is possible to check and establish to which entities the transfer of Personal Data by
+means of data transmission facilities is envisaged so Service Data cannot be read,
+copied, modified or removed without authorization during electronic transmission
+or transport.
+5. Input Controls: Data Processor shall take reasonable measures to provide that it is
+possible to check and establish whether and by whom Service Data has been entered
+into data processing systems, modified or removed. Data Processor shall take
+reasonable measures to ensure that (i) the Personal Data source is under the control
+13
+of the Data Controller; and (ii) Personal Data is integrated into the Service is
+managed by secured file transfer from the Data Controller.
+6. Data Backup: Back-ups of the databases in the Service are taken on a regular basis,
+are secured, and encrypted to ensure that Personal Data is protected against
+accidental destruction or loss when hosted by Data Processor.
+14
+EXHIBIT C
+STANDARD CONTRACTUAL CLAUSES
+For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of personal data to
+processors established in third countries which do not ensure an adequate level of data
+protection
+Name of the data exporting organisation:
+
+Clause 1
+Definitions
+For the purposes of the Clauses:
+(a) 'personal data', 'special categories of data', 'process/processing', 'controller',
+'processor', 'data subject' and 'supervisory authority' shall have the same meaning as
+in Directive 95/46/EC of the European Parliament and of the Council of 24 October
+1995 on the protection of individuals with regard to the processing of personal data and
+on the free movement of such data;
+(b) 'the data exporter' means the controller who transfers the personal data;
+(c) 'the data importer' means the processor who agrees to receive from the data exporter
+personal data intended for processing on his behalf after the transfer in accordance with
+his instructions and the terms of the Clauses and who is not subject to a third country's
+system ensuring adequate protection within the meaning of Article 25(1) of Directive
+95/46/EC;
+(d) 'the subprocessor' means any processor engaged by the data importer or by any other
+subprocessor of the data importer who agrees to receive from the data importer or
+from any other subprocessor of the data importer personal data exclusively intended
+for processing activities to be carried out on behalf of the data exporter after the
+transfer in accordance with his instructions, the terms of the Clauses and the terms of
+the written subcontract;
+(e) 'the applicable data protection law' means the legislation protecting the fundamental
+rights and freedoms of individuals and, in particular, their right to privacy with respect
+to the processing of personal data applicable to a data controller in the Member State
+in which the data exporter is established;
+(f) 'technical and organisational security measures' means those measures aimed at
+protecting personal data against accidental or unlawful destruction or accidental loss,
+alteration, unauthorised disclosure or access, in particular where the processing involves
+the transmission of data over a network, and against all other unlawful forms of
+processing.
+Clause 2
+Details of the transfer
+The details of the transfer and in particular the special categories of personal data where applicable
+are specified in Appendix 1 which forms an integral part of the Clauses.
+16
+Clause 3
+Third-party beneficiary clause
+1. The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i),
+Clause 5(a) to (e), and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and
+Clauses 9 to 12 as third-party beneficiary.
+2. The data subject can enforce against the data importer this Clause, Clause 5(a) to (e)
+and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where the data
+exporter has factually disappeared or has ceased to exist in law unless any successor
+entity has assumed the entire legal obligations of the data exporter by contract or by
+operation of law, as a result of which it takes on the rights and obligations of the data
+exporter, in which case the data subject can enforce them against such entity.
+3. The data subject can enforce against the subprocessor this Clause, Clause 5(a) to (e)
+and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the
+data exporter and the data importer have factually disappeared or ceased to exist in law
+or have become insolvent, unless any successor entity has assumed the entire legal
+obligations of the data exporter by contract or by operation of law as a result of which it
+takes on the rights and obligations of the data exporter, in which case the data subject can
+enforce them against such entity. Such third-party liability of the subprocessor shall be
+limited to its own processing operations under the Clauses.
+4. The parties do not object to a data subject being represented by an association or other
+body if the data subject so expressly wishes and if permitted by national law.
+Clause 4
+Obligations of the data exporter
+The data exporter agrees and warrants:
+(a) that the processing, including the transfer itself, of the personal data has been and will
+continue to be carried out in accordance with the relevant provisions of the applicable
+data protection law (and, where applicable, has been notified to the relevant authorities
+of the Member State where the data exporter is established) and does not violate the
+relevant provisions of that State;
+(b) that it has instructed and throughout the duration of the personal data processing
+services will instruct the data importer to process the personal data transferred only on
+the data exporter's behalf and in accordance with the applicable data protection law
+and the Clauses;
+(c) that the data importer will provide sufficient guarantees in respect of the technical and
+organisational security measures specified in Appendix 2 to this contract;
+17
+(d) that after assessment of the requirements of the applicable data protection law, the
+security measures are appropriate to protect personal data against accidental or
+unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in
+particular where the processing involves the transmission of data over a network, and
+against all other unlawful forms of processing, and that these measures ensure a level of
+security appropriate to the risks presented by the processing and the nature of the data to
+be protected having regard to the state of the art and the cost of their implementation;
+(e) that it will ensure compliance with the security measures;
+(f) that, if the transfer involves special categories of data, the data subject has been informed
+or will be informed before, or as soon as possible after, the transfer that its data could
+be transmitted to a third country not providing adequate protection within the meaning
+of Directive 95/46/EC;
+(g) to forward any notification received from the data importer or any subprocessor
+pursuant to Clause 5(b) and Clause 8(3) to the data protection supervisory authority if
+the data exporter decides to continue the transfer or to lift the suspension;
+(h) to make available to the data subjects upon request a copy of the Clauses, with the
+exception of Appendix 2, and a summary description of the security measures, as well
+as a copy of any contract for subprocessing services which has to be made in
+accordance with the Clauses, unless the Clauses or the contract contain commercial
+information, in which case it may remove such commercial information;
+(i) that, in the event of subprocessing, the processing activity is carried out in accordance
+with Clause 11 by a subprocessor providing at least the same level of protection for
+the personal data and the rights of data subject as the data importer under the Clauses;
+and
+(j) that it will ensure compliance with Clause 4(a) to (i).
+Clause 5
+Obligations of the data importer
+The data importer agrees and warrants:
+(a) to process the personal data only on behalf of the data exporter and in compliance with
+its instructions and the Clauses; if it cannot provide such compliance for whatever
+reasons, it agrees to inform promptly the data exporter of its inability to comply, in
+which case the data exporter is entitled to suspend the transfer of data and/or terminate
+the contract;
+(b) that it has no reason to believe that the legislation applicable to it prevents it from
+fulfilling the instructions received from the data exporter and its obligations under the
+contract and that in the event of a change in this legislation which is likely to have a
+substantial adverse effect on the warranties and obligations provided by the Clauses, it
+will promptly notify the change to the data exporter as soon as it is aware, in which
+case the data exporter is entitled to suspend the transfer of data and/or terminate the
+contract;
+18
+(c) that it has implemented the technical and organisational security measures specified in
+Appendix 2 before processing the personal data transferred;
+(d) that it will promptly notify the data exporter about:
+(i) any legally binding request for disclosure of the personal data by a law
+enforcement authority unless otherwise prohibited, such as a prohibition under
+criminal law to preserve the confidentiality of a law enforcement investigation,
+(ii) any accidental or unauthorised access, and
+(iii) any request received directly from the data subjects without responding to that
+request, unless it has been otherwise authorised to do so;
+(e) to deal promptly and properly with all inquiries from the data exporter relating to its
+processing of the personal data subject to the transfer and to abide by the advice of the
+supervisory authority with regard to the processing of the data transferred;
+(f) at the request of the data exporter to submit its data processing facilities for audit of the
+processing activities covered by the Clauses which shall be carried out by the data
+exporter or an inspection body composed of independent members and in possession of
+the required professional qualifications bound by a duty of confidentiality, selected by
+the data exporter, where applicable, in agreement with the supervisory authority;
+(g) to make available to the data subject upon request a copy of the Clauses, or any
+existing contract for subprocessing, unless the Clauses or contract contain commercial
+information, in which case it may remove such commercial information, with the
+exception of Appendix 2 which shall be replaced by a summary description of the
+security measures in those cases where the data subject is unable to obtain a copy from
+the data exporter;
+(h) that, in the event of subprocessing, it has previously informed the data exporter and
+obtained its prior writtenconsent;
+(i) that the processing services by the subprocessor will be carried out in accordance with
+Clause 11;
+(j) to send promptly a copy of any subprocessor agreement it concludes under the Clauses
+to the data exporter.
+Clause 6
+Liability
+1. The parties agree that any data subject, who has suffered damage as a result of any
+breach of the obligations referred to in Clause 3 or in Clause 11 by any party or
+subprocessor is entitled to receive compensation from the data exporter for the
+damage suffered.
+2. If a data subject is not able to bring a claim for compensation in accordance with
+paragraph 1 against the data exporter, arising out of a breach by the data importer or his
+subprocessor of any of their obligations referred to in Clause 3 or in Clause 11, because
+the data exporter has factually disappeared or ceased to exist in law or has become
+insolvent, the data importer agrees that the data subject may issue a claim against the
+19
+data importer as if it were the data exporter, unless any successor entity has assumed the
+entire legal obligations of the data exporter by contract of by operation of law, in which
+case the data subject can enforce its rights against such entity. The data importer may
+not rely on a breach by a subprocessor of its obligations in order to avoid its own
+liabilities.
+3. If a data subject is not able to bring a claim against the data exporter or the data
+importer referred to in paragraphs 1 and 2, arising out of a breach by the subprocessor
+of any of their obligations referred to in Clause 3 or in Clause 11 because both the data
+exporter and the data importer have factually disappeared or ceased to exist in law or
+have become insolvent, the subprocessor agrees that the data subject may issue a claim
+against the data subprocessor with regard to its own processing operations under the
+Clauses as if it were the data exporter or the data importer, unless any successor entity
+has assumed the entire legal obligations of the data exporter or data importer by contract
+or by operation of law, in which case the data subject can enforce its rights against such
+entity. The liability of the subprocessor shall be limited to its own processing
+operations under the Clauses.
+Clause 7
+Mediation and jurisdiction
+1. The data importer agrees that if the data subject invokes against it third-party
+beneficiary rights and/or claims compensation for damages under the Clauses, the data
+importer will accept the decision of the data subject:
+(a) to refer the dispute to mediation, by an independent person or, where applicable,
+by the supervisory authority;
+(b) to refer the dispute to the courts in the Member State in which the data exporter
+is established.
+2. The parties agree that the choice made by the data subject will not prejudice its
+substantive or procedural rights to seek remedies in accordance with other provisions of
+national or international law.
+Clause 8
+Cooperation with supervisory authorities
+1. The data exporter agrees to deposit a copy of this contract with the supervisory
+authority if it so requests or if such deposit is required under the applicable data
+protection law.
+2. The parties agree that the supervisory authority has the right to conduct an audit of the
+data importer, and of any subprocessor, which has the same scope and is subject to the
+same conditions as would apply to an audit of the data exporter under the applicable
+data protection law.
+3. The data importer shall promptly inform the data exporter about the existence of
+20
+legislation applicable to it or any subprocessor preventing the conduct of an audit of
+the data importer, or any subprocessor, pursuant to paragraph 2. In such a case the
+data exporter shall be entitled to take the measures foreseen in Clause 5 (b).
+Clause 9
+Governing Law
+The Clauses shall be governed by the law of the Member State in which the data exporter is
+established.
+Clause 10
+Variation of the contract
+The parties undertake not to vary or modify the Clauses. This does not preclude the parties
+from adding clauses on business related issues where required as long as they do not contradict
+the Clause.
+Clause 11
+Subprocessing
+1. The data importer shall not subcontract any of its processing operations performed on
+behalf of the data exporter under the Clauses without the prior written consent of the
+data exporter. Where the data importer subcontracts its obligations under the Clauses,
+with the consent of the data exporter, it shall do so only by way of a written agreement
+with the subprocessor which imposes the same obligations on the subprocessor as are
+imposed on the data importer under the Clauses. Where the subprocessor fails to fulfil
+its data protection obligations under such written agreement the data importer shall
+remain fully liable to the data exporter for the performance of the subprocessor's
+obligations under such agreement.
+2. The prior written contract between the data importer and the subprocessor shall also
+provide for a third-party beneficiary clause as laid down in Clause 3 for cases where
+the data subject is not able to bring the claim for compensation referred to in
+paragraph 1 of Clause 6 against the data exporter or the data importer because they
+have factually disappeared or have ceased to exist in law or have become insolvent
+and no successor entity has assumed the entire legal obligations of the data exporter or
+data importer by contract or by operation of law. Such third-party liability of the
+subprocessor shall be limited to its own processing operations under the Clauses.
+3. The provisions relating to data protection aspects for subprocessing of the contract
+referred to in paragraph 1 shall be governed by the law of the Member State in which the
+data exporter is established.
+4. The data exporter shall keep a list of subprocessing agreements concluded under the
+Clauses and notified by the data importer pursuant to Clause 5 (j), which shall be
+updated at least once a year. The list shall be available to the data exporter's data
+protection supervisory authority.
+21
+Clause 12
+Obligation after the termination of personal data processing services
+1. The parties agree that on the termination of the provision of data processing services,
+the data importer and the subprocessor shall, at the choice of the data exporter, return
+all the personal data transferred and the copies thereof to the data exporter or shall
+destroy all the personal data and certify to the data exporter that it has done so, unless
+legislation imposed upon the data importer prevents it from returning or destroying all
+or part of the personal data transferred. In that case, the data importer warrants that it
+will guarantee the confidentiality of the personal data transferred and will not actively
+process the personal data transferred anymore.
+2. The data importer and the subprocessor warrant that upon request of the data exporter
+and/or of the supervisory authority, it will submit its data processing facilities for an
+audit of the measures referred to in paragraph 1.
+
+Appendix 1 to the Standard Contractual Clauses
+This Appendix forms part of the Clauses and must be completed and signed by the parties
+The Member States may complete or specify, according to their national procedures, any
+additional necessary information to be contained in this Appendix
+Data Exporter
+The data exporter is (please specify briefly your activities relevant to the transfer):
+The data exporter is (please specify the legal name of the Customer entity):
+Data Importer
+The data importer is (please specify briefly your activities relevant to the transfer):
+Aircall.io, Inc provides a cloud-based phone system for businesses which processes personal data
+upon the instruction of the data exporter in accordance with the terms of the Agreement.
+Data Subjects
+The personal data transferred concern the following categories of data subjects (please specify):
+Employees, agents, advisors, independent contractors of Customer
+Prospects, customers, business partners and vendors of Data Exporter or its Affiliates'
+(who are natural persons)
+Employees or contact persons of Data Exporter’s or its Affiliates'' prospects, customers,
+business partners and vendors
+Categories of Data
+The personal data transferred concern the following categories of data (please specify):
+Identification and contact Information (company, email, phone, physical business
+address) and ID data, in particular: the identity: title, name, position, address, phone
+number (fixed and/or mobile), fax number, email address, birth date, internal processing
+code allowing identification of the customer
+Transaction-related data such as the number of the transaction, the details of the
+purchase, subscription, the good or service purchased;
+Data relating to the monitoring of the business relationship: requests for documentation,
+trial requests, purchased product, service or subscription contracted, quantity, amount,
+frequency, delivery address, purchase history and services, return of products, origin of
+sale or of the order (seller, agent, partner, affiliate), correspondence with the customer
+and after-sales service, exchanges and feedback from customers and prospects, person(s)
+responsible for the customer relationship;
+Invoices: payment terms, discounts granted, receipts, unpaid balances.
+Information relating to underwritten loans (amount and duration, lender's name);
+Any information necessary to provide the Services to the Customer under the Agreement;
+Any information included in the documents provided by the Customer.
+23
+Processing Operations
+The personal data transferred will be subject to the following basic processing activities (please
+specify):
+Collection or recording of the Personal Data
+Hosting or conservation of the Personal Data
+Use of the Personal Data
+Communication of the Personal Data by transmission, diffusion or any other way
+Deletion or destruction of the Personal Data
+Further details about Personal Data Processing can be found on the following page:
+https://aircall.io/privacy
+
+Appendix 2 to the Standard Contractual Clauses
+This Appendix forms part of the Clauses and must be completed and signed by the parties.
+Description of the technical and organisational security measures implemented by the data
+importer in accordance with Clauses 4(d) and 5(c) (or document/legislation attached):
+Data importer will maintain administrative, physical, and technical safeguards for protection of
+the security, confidentiality and integrity of Personal Data uploaded to the Aircall Services, as
+described in Exhibit B.
+
+### DOCUMENT/ Aircall SAS Terms of Use / https://aircall.io/terms-of-use/sas/ ###
+These online terms of use (“Terms of Use”) by and between Aircall SAS, a French société par actions simplifiée whose registered office is at 11-15, rue Saint Georges, 75009 Paris (France), registered with the Paris Registre du commerce et des sociétés under No. 807 437 595, (“Aircall”) and Customer (as defined below), together with any and all applicable Order Form(s), Purchases, Exhibits and/or Schedules (each, as defined below) (collectively, the “Agreement”), constitute a binding agreement between Aircall and Customer and set forth the terms and conditions pursuant to which Customer may access and/or use the Site and the Services.
+
+Aircall last updated these Terms of Use on June 21, 2019. A record of the previous version of the Terms of Use can be found here.
+
+By clicking on the “Accept” button when subscribing to any of the Services, or otherwise using any of the Services, Customer: (i) acknowledges that it has read, agreed and will comply with this Agreement; (ii) warrants and represents that: (x) its representative is at least eighteen (18) years of age or the applicable statutory age of majority to enter into a binding agreement; and (y) it has the right, power, and authority to enter into this Agreement on behalf of the corporation, governmental organization, or other legal entity, and to bind such organization to these Terms of Use. IF YOU DO NOT AGREE TO THESE TERMS OF USE, YOU MAY NOT USE THE SERVICES.
+
+1. Definitions
+“Account” means the numbered account established by Aircall and associated with Customer and the Services provided to Customer under this Agreement.
+
+“Account Information” means business contact information associated with the Account; usage records of the Services; configuration data; and Customer’s call logs generated by Aircall.
+
+“Administrator” means the person(s) of Customer’s organisation recognized by Aircall’s systems as being vested with specific rights regarding the Services, who is (are) responsible for the administration and management of Customer’s Accounts and has (have) access to specific functionalities attached thereto.
+
+“Aircall Number” means the phone number provided to Customer by Aircall.
+
+“Affiliate” means any entity existing from time to time that directly or indirectly controls, is controlled by, or is under common control with the subject entity.
+
+“Aircall Dashboard” means the online portal through which the Administrator(s) controls settings, may select Customer’s Plan and monitors usage of the Account(s).
+
+“Confidential Information” means any proprietary and confidential information disclosed, in the course of and during the Term of the Agreement, by one Party (the “Disclosing Party”) to another Party (the “Receiving Party”).
+
+“Customer” means, in the case of an individual accepting this Agreement on his or her own behalf, such individual, or in the case of an individual accepting this Agreement on behalf of a company or other legal entity, the company or other legal entity on behalf of which such individual is accepting this Agreement, as well as Affiliates of such company or entity (for as long as they remain Affiliates) which have entered into Purchases and/or Order Form(s).
+
+“Customer Data” means the content of calls, facsimiles, messages, voicemails, voice recordings, shared files, conferences, call meta-data, configuration data, or other communications transmitted or stored through the Services.
+
+“Effective Date” means the date on which Customer first subscribes to any of the Services.
+
+“Fees” means, collectively, Fixed Fees, Usage Fees and any and all other applicable charges and fees. Fees may be indicated either in USD or in Euros, as applicable.
+
+“Intellectual Property” means all intellectual property and technology, regardless of form, including without limitation: (a) published and unpublished works of authorship; (b) inventions and discoveries, including without limitation business methods, compositions of matter, methods, and processes and new uses for any of the preceding items; (c) words, names, symbols, devices, designs, and other designations, and combinations of the preceding items, used to identify or distinguish a business, good, group, product, or service or to indicate a form of certification; (d) information that is not generally known or readily ascertainable through proper means, whether tangible or intangible; and (e) computer programs, operating systems, applications, firmware and other code, including all source code, object code, application programming interfaces, data files, databases, protocols, specifications, and other documentation thereof.
+
+“Law” means any and all law, statute, regulation, rule, ordinance, administrative guidance, treaty, convention, and/or court or administrative order or ruling of any governing body with jurisdiction over the Services, the Customer and/or Customer’s use of the Services.
+
+“Order Form” means the document that may be entered between Customer and Aircall, from time to time, to offset forth certain fees, the selected Plan, the Order Form Term and other material terms associated with this Agreement and executed by Customer.
+
+“Order Form Term” means the term set forth in the Order Form.
+
+“Plan” means, any of the subscription plans made available to Customer whose features are listed on the Site and that Customer may select either via a Purchase or by executing an Order Form, including Aircall Numbers, as applicable. For the avoidance of doubt the Free Trial shall be deemed a Plan.
+
+“Plan Term” means collectively, the Plan Initial Term and the Plan Renewal Term.
+
+“Purchase” means an order for certain of Aircall’s Services, including Plans and Aircall Numbers, which is placed through the Aircall Dashboard or the Site.
+
+“Services” means any of the services made available to Customer by Aircall from time to time, including Aircall’s software as a service applications, the Plans, and which include features enabling Customer to make, receive and forward voice calls, including by using an Aircall Number and related services including any improvements, modifications, enhancements, fixes, updates, upgrades and versions thereto.
+
+“Site” means the Aircall.io website.
+
+“User” means an employee, consultant, contractor or any person using the Services via Customer’s Account, without any specific administration or management rights attached thereto.
+
+2. Description of the Aircall Services
+Aircall offers a cloud-based phone system that includes enterprise-class call handling and that integrates with a growing list of third-party applications. A non-exhaustive description of the Aircall phone system is available on the Site. Aircall is not a “dial-tone” provider and its Services are not a replacement for any phone lines, whether wired, wireless or Internet based, and selected numbers and/or certain services may not be reachable through the Services. Customer acknowledges and agrees that the Services do not support any emergency calls to any type hospitals, law enforcement agencies, medical care unit or any type of emergency service (collectively, “Emergency Services”) or premium, surcharged or special services of any kind, which need to be performed from a local phone service provider. Furthermore, Customer acknowledges and agrees that: (i) Aircall is not required to offer access to any Emergency Services under any applicable Law; and (ii) it is Customer’s responsibility to inform Users and Administrators that access and/or calls to Emergency Services are not accessible using the Services.
+
+3. Quality, Maintenance and Accessibility
+3.1 General Terms. The Services are designed to be available with minimal disruptions outside of regularly scheduled maintenance times. Aircall may modify, enhance and/or replace features of the Services from time to time, with or without notice or posting to the Site, provided it shall not materially reduce the key functions, features and/or the security of the Services during the Term (as defined below) without obtaining Customer’s written pre-approval except Customer’s written pre-approval shall not be required in the event such modifications, enhancements or replacements are mandated by applicable Law.
+
+3.2 Equipment Requirements. Customer acknowledges and agrees that the standard functioning of the Services is dependent on Customer maintaining adequate access to the Internet, the availability of an adequate power supply and the use of correct equipment configuration. Customer also acknowledges and agrees that a number of factors outside of Aircall’s control may impact the quality of Customer’s communications and the access and/use of the Services including but not limited to: Customer’s local network, public Internet lines, the public switched telephone network, Customer’s Internet service provider and/or local network hardware. Aircall takes no responsibility and shall not be liable for any disruption, interruption or delay caused by any failure in any of these items or any other item over which Aircall has no control.
+
+3.3 Accessibility. Customer, Users and/or Administrators (or Aircall at Customer’s request) will choose a unique password and user name (collectively, “Login Details”) for each User or Administrator. Customer acknowledges and agrees that Customer is prohibited from sharing Login Details with any third party. Customer will be responsible for the confidentiality and use of the Login Details. Customer will also be responsible for all electronic communications, including those containing business information, account registration, account holder information, financial information, Customer Data, and all other data of any kind entered electronically through the Services. Any and all electronic communications transmitted via Customer’s Account will be deemed to have been sent by Customer. Aircall may terminate any of the Services and/or this Agreement if it believes in its sole discretion that Customer has breached its obligations contained in this Section 3.3. Aircall is not responsible for any breach of security caused by your failure to maintain the confidentiality and security of any of the Login Details. Customer agrees to notify Aircall immediately in the event of loss, theft or disclosure of any or all of the Login Details, if Customer believes the confidentiality or security of any or all of the Login Details has been compromised in any way or in the event of Customer learning about a possible or actual unauthorized access to and/or use of the Site and/or the Services. To the extent permissible by Law, Customer shall be liable for any and all expenses, damages, losses and costs, including reporting costs, notice costs, recovery and remediation of data security system issues, usage charges and fines, fees, civil judgments, and reasonable attorneys’ fees resulting from Customer’s failure to safeguard Customer’s Login Details and information and data as set forth herein.
+
+4. Intellectual Property
+4.1 Limited License. Subject to, and conditional upon Customer’s continued and full compliance with all of the terms and conditions in this Agreement, Aircall grants to Customer and its Users, during the Term, a revocable, nontransferable, nonexclusive, limited license and right to access and use the Services and the Site solely for its internal business purposes.
+
+4.2 Restrictions. Customer shall not and shall cause its Users not to: (i) sublicense, sell, rent, lease, transfer, assign, distribute, or otherwise commercially exploit or make the Services, or any part thereof, available to any third party other than to Users; and (ii) modify, make derivative works of, disassemble, reverse compile, or reverse engineer the Services or any part thereof, and shall not build a similar or competitive product or service. Customer shall not and shall cause its Users not to use the call recording functionality in the event credit card, debit card or other payment information is made available to Customer and/or User during a call.
+
+4.3 Aircall Ownership. Customer acknowledges and agrees that: (i) Aircall and its Affiliates own all rights, titles and interests in and to all Intellectual Property rights in the Services and in the Site as well as any content thereof or therein; (ii) the limited license granted to Customer in Section 4.1 does not convey any rights in the Services express or implied, other than those expressly granted herein. All rights not expressly granted to Customer are reserved by Aircall and its licensors. The Services may contain open source software or code and Customer acknowledges that misuse of the Services may infringe upon third-party’s IP rights.
+
+4.4 Customer Data. Customer grants Aircall and its Affiliates a limited, personal, non-exclusive, royalty-free license and right to use, copy, transmit, distribute and store the Customer Data to the extent necessary or desirable for Aircall to provide Customer with the Services and improve the Services. Aircall shall only disclose or provide the Customer Data to parties who need to access it in order for Aircall to provide the Services in accordance with this Agreement. Customer also hereby grants Aircall the right to use and reproduce Customer’s name, logo and trademarks to identify Customer as an Aircall customer on the Site and other marketing materials.
+
+4.5 Feedback. Aircall may ask for or collect and/or Customer may provide, written suggestions, feedback or comments from time to time as part of Customer’s and/or Users’ use of the Services (collectively, “Feedback”). Customer acknowledge and agree that such Feedback shall be deemed the property of Aircall and its Affiliates. Aircall and its Affiliates shall exclusively own all now known or hereafter existing rights to the Feedback throughout the universe in perpetuity and shall be entitled to use the Feedback for any purpose whatsoever, commercial or otherwise, without compensation to the provider of the Feedback.
+
+5. Permissible Use Policy
+Any and all access to and/or use of the Services by Customer, its Users and/or Administrators is conditioned upon compliance with the following Permissible Use Policy (“PUP”). Customer shall not and will cause its Users not to use the Aircall Services to:
+
+a) circumvent or disable any technological features or security measures implemented in the Services; b) violate any Law, published policy, or any applicable third-party policy or requirement communicated or otherwise made available by Aircall; c) violate or infringe upon Aircall’s or a third party’s Intellectual Property, publicity privacy, or other tangible or intangible rights and/or use, without a valid license, any material or content that is subject to third-party proprietary rights; d) transmit any illegal content; e) use the Services for benchmarking or for any other purpose other than as necessary to use the Services Customer is authorized to use; f) stalk, harass, harm another individual, engage in spamming, phishing, pharming or other unsolicited advertising, marketing or other activities in connection with any unsolicited communications (commercial or otherwise) including but not limited to unsolicited or unwanted phone calls or voicemails; g) engage in a fraudulent activity to the prejudice of third-parties or otherwise use the Services to bypass phone identification systems; h) perform “robocalls” or other abusive practices; i) use any type of spider, virus, worm, trojan-horse, time bomb or any other codes or instructions that are designed to distort, delete, damage, emulate or disassemble the Services; j) expose any third party to material that is offensive, harmful to minors, indecent or otherwise objectionable in any way; k) send any communications, including email messages on behalf of, or purporting to originate on behalf of Aircall; and l) trunk or forward Customer’s Aircall number to another phone number(s) capable of handling multiple simultaneous calls, or to a private branch exchange (“PBX”) or a key system.
+
+In addition to the above restrictions and in order to provide the best pricing, support and Services, Aircall reserves the right to: (i) impose limits on Customer and/or its Users’ usage of the Services; (ii) charge Customer the applicable per minute rate; (iii) or to terminate the Services, in each case (i) through (iii) notwithstanding Customer’s purchase of an unlimited minute plan, if Aircall believes, in its sole reasonable discretion, that Customer’s and or its Users’ usage, including, but not limited to, the total number of calls made and/or minutes used by Customer and/or its Users is not consistent with normal, fair, and reasonable use of such Services. Wherever reasonably possible, Aircall will provide Customer with a written notice before taking any such action, and may allow a reasonable period to allow Customer to modify such use.
+
+The restrictions contained in this Section 5 are not exhaustive or exclusive. Aircall may impose additional restrictions upon notice or posting to the Site from time to time. Aircall may suspend or terminate the Services and/or this Agreement immediately and without notice or liability whatsoever if, in Aircall’s sole discretion, Customer’s, its Users’ and/or Administrator’s use of the Services violates the terms of the PUP. Notwithstanding anything set forth in this Agreement and in addition thereto, Customer’s use of the call recording functionality must comply with any and all local laws and regulations including local notice requirements thereof.
+
+6. Aircall Numbers
+6.1 Usage Rules. As part of the Services, Aircall may make available Aircall Numbers to Customer in multiple countries. Aircall has agreements in place with regulated providers of electronic communications which provide Aircall with phone numbers from multiple countries. The provision of Aircall Numbers is subject to the numbering rules and regulatory practices applicable in the countries where Customer and and/or Users are located as well as in the relevant country(ies) from which the Aircall Numbers were purchased. Such rules and regulatory practices may change or be amended from time to time, and Aircall therefore reserves the right to modify the terms hereunder to the extent necessary to comply with such changes or amendments. Customer may purchase Aircall Numbers and assign them to an Account subject to the allocation requirements displayed upon Customer’s subscription to any Services. Customer shall use the Aircall Numbers in compliance with any and all applicable Law including such applicable allocation requirements. Aircall reserves the right, in its sole discretion, to cancel the subscribed Aircall Numbers for any or no reason, including in the event Customer, its Administrators and/or Users breach such applicable allocation requirements without penalty and without prejudice to its rights to claim damages therefore.
+
+6.2 Portability. In using the Services, Customer may request an Aircall Number or may port its existing numbers (“Existing Number”) into Customer’s Account subject to the terms and conditions herein. In order to request the porting of an Existing Number into an Account, the Account Administrator for the Account into which Customer wishes the Existing Number to be ported must complete all steps listed on the Site and provide all information requested by Aircall, any other relevant service provider and/or third party from time to time. Customer must provide accurate and detailed information to Aircall any other relevant service provider and/or third party in order to port a number into an Account and Customer represents and warrants that such information is and will be at all times accurate, true and up-to-date. Customer acknowledges and agrees that as part of the porting process, Aircall, any other relevant service provider and/or third party must, as part of its compliance with applicable Laws and industry standards, follow certain processes and that therefore the completion of any number porting request may be delayed for reasons outside of Aircall’s control. Aircall must, by Law, comply with all valid porting requests. Phone numbers may be ported-out of an Account in connection with acts or omissions of third parties and Customer acknowledges that: (i) it may be impossible for Aircall to prevent such porting out of numbers from an Account; (ii) Aircall may not be able to retrieve a phone number ported out of an Account; and (iii) Aircall shall not be liable for any such porting out. Upon termination or cancelation of an Account, all telephone numbers associated with the Account may be released by Aircall if such numbers have not been ported to another provider prior to such cancelation or termination. Customer acknowledges and agrees that it is solely responsible for coordinating with its new third-party provider to port out any telephone numbers prior to termination or cancellation of Customer’s Account and/or termination of this Agreement.
+
+7. Pricing & Invoicing
+7.1 Free Trial. Customer may elect to try the Services for a period of up to five (5) business days from the Effective Date and shall be permitted to make outbound calls for a total of up to forty (40) minutes (such trial of the Services, the “Free Trial”). At the end of the Free Trial period, Customer may purchase additional products and services not included in the Free Trial by selecting a Plan.
+
+7.2 Fixed Fees. Customer may select a Plan on a monthly basis or on an annual basis and Customer may also select the corresponding currency for such Plan (either Euros or USD), and unless otherwise provided in the relevant Order Form, the fees associated to such Plan shall be indicated on the Site (such fees, the “Fixed Fees”). Additional Aircall Numbers purchased by Customer either via the Aircall Dashboard or listed in the relevant Order Form, as applicable shall also be deemed Fixed Fees. For the avoidance of doubt, fees associated with outbound calls or inbound calls (where applicable) shall not be included in the Fixed Fees. Fixed Fees may be updated by Aircall at any time, and such updated Fixed Fees shall be applicable during the next period of each Plan Term or the Order Form Term, as applicable.
+
+7.3 Usage Fees. The fees associated with outbound calls or inbound calls, where applicable, shall be calculated by multiplying the per-minute rate applicable to such calls (“Per-Minute Rates”) with the Chargeable Time (as defined below) (such fees, the “Usage Fees”). Telephony usage and the duration of calls shall be calculated as follows: (i) in full-minute increments; (ii) calls shall be rounded up to the next full minute increment at the end of each call for invoicing purposes; (iii) calls will be deemed to begin when a connection to the number Customer is trying to reach is established and recorded in Aircall’s system, and for incoming calls when a signal connection from the caller is recorded in Aircall’s system; (iv) calls will be deemed to end when Customer or Customer’s correspondent have ended the call or where the call has ended due to a technical malfunction, but a call shall not be deemed ended until Customer’s wireless telephone signal of a call disconnect is recorded in the Aircall system; (such calculation of the duration of calls as detailed in (i) through (iv) included, “Chargeable Time”). Aircall may change the Per-Minute Rates at any time without notice. Customer may request the Per-Minute Rates currently applicable by sending a request to sales@aircall.io.
+
+The Services shall be subject to the following conditions:
+
+a) Outbound calls made by Customer with a local/toll-free phone to countries outside of the European Union will incur Usage Fees; b) inbound calls to Customer are free regardless of whether they come from a foreign country or not, provided they are made to a local or geographic telephone number (non-toll-free); c) all inbound calls on a toll-free phone line shall incur Usage Fees; d) any internal calls or communications (including but not limited to calls, voicemail deposits and call transfers) between Users, or between a User and an Administrator, shall be free of charge provided such calls have been made using the Services; e) outbound calls for which Aircall receives answer supervision (i.e. connecting time) including ring time, shall incur a minimum of one (1) minute of Chargeable Time (answer supervision may also be generated by voicemail systems, private branch exchanges, and interexchange switching equipment); f) calls forwarded to mobile phones or landlines shall be deemed outbound calls and shall incur Usage Fees including in the event Customer has purchased an unlimited outgoing/incoming call bundle, at the then applicable rate; and g) calls received by Customer from a third party using a local/toll-free phone line which call is subsequently forwarded or transferred shall be deemed to be the same call.
+
+7.4 Payment. By providing a valid credit or debit card information and/or bank account information (“Payment Method”), Customer expressly: (i) authorizes Aircall and/or any other company or individual acting as Aircall’s billing agent to charge the Payment Method: (x) monthly for fees corresponding to the Usage Fees; at the billing frequency chosen and specified by Customer on the relevant Order Form or Purchase, as applicable, for fees corresponding to Fixed Fees (the “Billing Frequency”); and (z) for any and all other fees in connection with the Services including recurring payments billed on a monthly or annual basis and and to continue attempting to charge and/or place holds on such Customer’s Payment Method until such amounts are paid in full; (ii) agrees to update such Payment Method from time to time as necessary; and (iii) acknowledges and agrees that Aircall shall not be liable for any expired credit/debit card, insufficient funds or other charges Customer incurred as a result of such attempts to charge, and/or place holds on, such Payment Method. In the event Customer selects a Plan that includes a predetermined allotment of services, unless otherwise specifically provided as a part of such Plan, any unused allotment of such services from one billing cycle will not carry over to any future billing cycle.
+
+7.5 Taxes. The Fees are exclusive of VAT (where applicable), costs/disbursements, charges, or any other duties, levies, registration fees or taxes which shall be charged additionally. The invoiced amount and/or amounts charged to the Payment Method may hence fluctuate from month to month and Customer agree to pay all fees and/or taxes due.
+
+7.6 Late Fees. Pursuant to article L.441-6 of the French Commercial Code, and subject to any future amendment thereof, any balance remaining outstanding on any invoice after thirty (30) days shall be automatically increased by the greater of the legal interest rate applicable in France plus seven (7) points, or the interest rate applied by the European Central Bank to its latest refinancing operation plus ten (10) points. In addition, Aircall shall be entitled to a forty (40)-euro administrative recovery fee for any late payment. Interests are capitalised in accordance with the provisions of article 1343-2 of the French Civil Code. Notwithstanding any of the foregoing and in addition thereto, in the event Customer fails to pay invoices due within thirty (30) days, Aircall may, in its sole discretion, suspend Customer’s access to the Services and/or terminate this Agreement in whole or in part, without any liability whatsoever and without prejudice to its right to claim all amounts due by Customer to Aircall, as the case may be.
+
+8. Confidentiality
+8.1 Non-Disclosure. During the Term of this Agreement the Confidential Information will be kept confidential by the Receiving Party and will not be disclosed to any other person, provided that each Party may disclose Confidential Information to its Affiliates, and its and their employees, agents and subcontractors who have a need to access and/or use the Confidential Information in order to perform or exercise such Party’s rights or obligations under this Agreement and who are required to protect it against unauthorized disclosure in a manner no less protective than required under this Agreement. The Receiving Party shall use the same care and discretion, but in no event less than a reasonable degree of care and discretion, to avoid disclosure as it uses with its own similar information that it does not wish to disclose, to safeguard the Confidential Information from unauthorized disclosure.
+
+8.2 Exceptions. The term Confidential Information does not include any information that: (i) is or becomes generally available to the public other than as a result of a disclosure by the Receiving Party or its Representatives (as defined below) in violation of the terms hereof; (ii) is or becomes available to the Receiving Party or any of its Representatives on a non-confidential basis from a source that is not known to the Receiving Party to be prohibited by a contractual, legal, or fiduciary obligation to the Disclosing Party from disclosing such information to the Receiving Party; (iii) is independently developed, conceived, or discovered by the Receiving Party or its Representatives; or (iv) is already known to the Receiving Party or any of its Representatives prior to disclosure of the same to the Receiving Party or its Representatives by the Disclosing Party or the Disclosing Party’s Representatives. For purposes of this Agreement, “Representatives” shall mean a Party’s Affiliates and its and their employees, officers, directors, agents or other representatives.
+
+9. Information Security and Privacy
+9.1 Privacy. Customer shall execute the Data Processing Addendum (“DPA”) available here and incorporated herein by this reference. Failure by Customer to execute the DPA may be grounds for Aircall to terminate the Services and/or the Agreement immediately and with no liability to Aircall. Aircall takes its Customer’s privacy seriously and shall use information provided by Customer in accordance with the terms contained herein and in the Site’s privacy policy available at https://aircall.io/privacy/ (the “Aircall Privacy Policy”).
+
+9.2 Information Security. Aircall endeavours to use commercially reasonable technical and operational safeguards designed to protect the Customer Data and Customer’s Confidential Information from unauthorized use or disclosure. Customer agrees to protect all devices permitting access to the Services using industry-standard security measures. Aircall may from time to time push software updates and patches and Customer agrees to promptly install and implement such updated, patched, and/or upgraded version of the Services. Aircall will not be responsible or liable for any damage or inoperability of the Services resulting from Customer’s failure to timely implement such update, patch and/or upgrade.
+
+10. Warranties
+10.1 Aircall Warranties. Aircall will provide the Services using a commercially reasonable level of care and will materially comply with applicable Laws. To the extent permissible by applicable Law, Aircall will pass through to Customer the relevant and applicable warranties it receives from its third-party suppliers where applicable.
+
+10.2 Customer Warranties. Customer represents and warrants that it will and will cause its Users and/or Administrators to use the Services in compliance with all applicable Laws and this Agreement. Customer acknowledges that the Services include ringtones and music that are made available to Customer under a licence that requires that the name of its author be mentioned. Customer therefor represents and warrants that it will add, as part of the services that it offers, the information that Aircall shall provide Customer with, and in particular display the name of the tunes’ authors, and more generally that Customer will comply with the terms of this licence.
+
+10.3 Disclaimer. TO THE FULLEST EXTENT PERMITTED BY LAW, CUSTOMER AGREES THAT THE SERVICES ARE BEING PROVIDED “AS IS” AND “AS AVAILABLE,” AND EXCEPT FOR THE WARRANTIES EXPRESSLY SET FORTH IN THIS AGREEMENT, AIRCALL MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE AND ANY WARRANTIES ARISING FROM A COURSE OF DEALING OR USAGE IN TRADE, TOGETHER WITH SIMILAR WARRANTIES, WHETHER ARISING UNDER ANY LAW OR OTHERWISE. IN THE EVENT AIRCALL MAY NOT DISCLAIM ANY SUCH WARRANTY AS A MATTER OF LAW, THE SCOPE AND DURATION OF SUCH WARRANTY SHALL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW. AIRCALL FURTHER DOES NOT REPRESENT OR WARRANT THAT THE SITE OR ANY PORTION OF THE SERVICES WILL ALWAYS BE AVAILABLE, ACCESSIBLE, UNINTERRUPTED, TIMELY, SECURE, CONTINUOUS, ERROR-FREE OR WILL OPERATE WITHOUT PACKET LOSS, NOR DOES AIRCALL WARRANT ANY CONNECTION TO OR TRANSMISSION FROM THE INTERNET, OR ANY QUALITY OF CALLS MADE THROUGH THE SERVICES. CUSTOMER ALSO ACKKNOWLEDGES AND AGREES THAT AIRCALL CANNOT GUARANTEE THAT IP BASED COMMUNICATIONS ARE COMPLETELY SECURE, ERROR OR VIRUS-FREE.
+
+11. Indemnification
+Customer agrees to indemnify, defend and hold harmless Aircall and its Affiliates (“Aircall Parties”) for, from and against any and all losses, liabilities, damages, claims (including any and all reasonable attorneys’ fees,) as incurred, arising out of or in connection with: (i) any breach or alleged breach of this Agreement by Customer, Users and/or Administrators; (ii) Customer’s, Users’ and/or Administrators’ violation of any Law and/or the rights of a third-party; (iii) Customer’s, Users’ and/or Administrators’ failure to promptly install any updates, upgrades or patches of any software provided by Aircall; and (iv) claims relating to the Customer Data. Further, Customer shall indemnify and hold harmless Aircall Parties against all damages, costs, and legal fees awarded against Aircall Parties by a court of competent jurisdiction in connection with such claims, or agreed to in a written settlement agreement approved in writing by Aircall.
+
+12. Limitations of Liability
+IN NO EVENT SHALL THE CUMULATIVE LIABILITY OF AIRCALL OR ITS AFFILIATES EXCEED ONE TIME THE TOTAL AMOUNTS PAID OR PAYABLE BY CUSTOMER DURING THE TWELVE (12) MONTHS PRIOR TO THE CLAIM GIVING RISE TO SUCH DAMAGES OR ONE HUNDRED EUROS (100€) IF FOR A FREE TRIAL PERIOD. IN NO EVENT SHALL AIRCALL OR ITS AFFILIATES BE LIABLE FOR: (I) ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, EXEMPLARY, REPUTATIONAL, SPECIAL, OR PUNITIVE DAMAGES OF ANY KIND SUCH AS LOSS OF DATA OR PROFIT, OR BUSINESS INTERRUPTION, LOSS OF BUSINESS OPPORTUNITY, HARM TO THE IMAGE OR REPUTATION, WHETHER IN ANY OF THE FOREGOING, ARISING UNDER CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE OR STRICT LIABILITY) OR ANY OTHER THEORY OF LIABILITY EVEN IF AIRCALL OR ITS AFFILIATES HAVE BEEN NOTIFIED ORALLY OR IN WRITING OF THE POSSIBILITY OF SUCH DAMAGES. ANY CLAIM OR CAUSE OF ACTION RESULTING FROM CUSTOMER’S USE OF THE SITE AND THE SERVICES MUST BE PROVIDED OFFICIALLY IN WRITING TO AIRCALL BY REGISTERED MAIL WITH RECEIPT ACKNOWLEDGEMENT ADDRESSED TO ITS HEAD OFFICE WITHIN ONE (1) YEAR AFTER THE CLAIM OR CAUSE OF ACTION HAS ARISEN OR IT SHALL BE DEEMED WAIVED BY CUSTOMER.
+
+13. Terms of Termination
+13.1 Term. The term of this Agreement will commence on the Effective Date and shall continue until the expiration of the last Plan Term, the last Order Form, or unless terminated earlier in accordance with the terms herein (the “Term”). The Plan initial term shall start on the date of the Purchase and will continue for the duration set forth in the Purchase (“Plan Initial Term”). Thereafter, the Plan Initial Term shall automatically renew for additional periods of the same duration unless either Party provides a notice of non-renewal to the other Party no less than thirty (30) days prior to the end of the current period of the Plan Term. The Order Form Term shall automatically renew for additional periods of the same duration unless either Party provides a notice of non-renewal to the other Party no less than thirty (30) days prior to the end of the current period of the Order Form Term.
+
+13.2 Termination. Either Party may terminate this Agreement and any Services purchased hereunder in whole or part by giving written notice to the other Party if the other Party: (i) breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after receipt of such notice; (ii) upon the commencement by or against the other Party of insolvency, receivership or bankruptcy proceedings; (iii) following the written recommendation of a government or regulatory agency following a change in either applicable Law. Aircall may terminate this Agreement and or any Order Form at any time and for any reason without any liability whatsoever. In the event such termination does not result from a breach by Customer of its obligations hereunder, Aircall shall refund Customer for any unused portion of prepaid Fees covering the remainder of the Order Form Term from the effective date of such termination.
+
+13.3 Effects of Termination. Upon termination of this Agreement Customer must pay to Aircall immediately and without further notice, and in any case no later than thirty (30) days thereof, any accrued fees, charges, including any outstanding Fees. Upon termination or expiration of this Agreement for whatever reason, Customer shall immediately cease to have access to and be able to use the Services.
+
+14. Governing Law
+This Agreement shall be governed in all respects by the laws of France. In the event of any dispute, claim, question or disagreement (the “Dispute”) arising from or relating to these Terms of Use or breach thereof, the Parties shall use their best efforts to settle the Dispute by normal business discussions. Should the Dispute remain unresolved thirty (30) days after notice of the Dispute was provided by one Party to the other, the Parties may take further legal action to resolve the Dispute. These Terms of Use, and any Dispute resulting therefrom, shall be subject to the exclusive jurisdiction of the french Commercial court (Tribunal de commerce de Paris). The illegality, invalidity or unenforceability of any provision of these Terms of Use will not affect the legality, validity or enforceability of any other provision.
+
+15. Force Majeure
+Excluding either Party’s payment obligations under the Agreement, neither Party will be responsible or liable for any failure to perform or delay in performing to the extent resulting from any event or circumstance that is beyond that Party’s reasonable control, including without limitation any act of God; national emergency; third-party telecommunications networks; riot; war; terrorism; governmental act or direction; change in Laws; fiber, cable, or wire cut; power outage or reduction; rebellion; revolution; insurrection; earthquake; storm; hurricane; flood, fire, or other natural disaster; strike or labor disturbance; or other cause, whether similar or dissimilar to the foregoing, not resulting from the actions or inactions of such Party.
+
+16. Notices
+Except where otherwise expressly stated in the Agreement, all notices or other communications must be in English and are deemed to have been fully given when made in writing and delivered in person, upon delivered email, confirmed facsimile, or five days after deposit with an reputable overnight courier service, and addressed as follows: to Aircall.io, Inc., Legal Dept., 233 Park Avenue South, Floor 11, 10003 New York, NY with a copy to legal@aircall.io, and to Customer at either the physical address or email address associated with the Customer’s Account. Customer acknowledges and agrees that all electronic notices have the full force and effect of paper notices.
+
+17. Amendments
+Except as otherwise provided, this Agreement may only be modified by a written amendment (provided electronically or otherwise) executed by authorized representatives of both Parties. In no event will handwritten changes to any terms or conditions, including in the applicable Order Form, be effective. Notwithstanding anything set forth in this Agreement, Aircall may update the terms of this Agreement or any of its policies from time to time, and will provide notice to Customer at the email address on file with the Account or via a pop-up on the Site, as decided by Aircall in its sole discretion. Such updates will become effective ten (10) days after such notice to Customer (such date, the “Updated Date”). In the event that any such update would be of material detriment to Customer and is not required by Law, Customer must inform Aircall of Customer’s objection within ten (10) days of receiving the notice provided under this provision. If the Parties, negotiating in good faith cannot reach agreement within thirty (30) days, Customer may terminate the portion of the Services affected by the change without penalty by written notice to Aircall. Any use of the Services after the Updated Date will be deemed as Customer’s acceptance of such updates to the terms of this Agreement and/or policies, as applicable.
+
+18. General Provisions
+Customer and Aircall are independent contractors and this Agreement will not establish any relationship of partnership, joint venture, employment, franchise or agency between Customer and Aircall. Aircall’s failure or delay in exercising any right herein will not operate as a waiver thereof, nor will any single or partial exercise thereof preclude any other or future exercise thereof or the exercise of any other right herein. This Agreement, together with any Order Form(s), Purchases, Exhibits and/or Schedules, each of which is expressly incorporated into this Agreement with this reference, constitutes the entire agreement between the Parties and supersedes and replaces any and all prior or contemporaneous understandings, proposals, representations, marketing materials, statements, or agreements, whether oral, written, or otherwise, regarding such subject. In the event that the terms of this Agreement and the terms of an Order Form conflict the terms of the Order Form shall prevail. Sections 3, 4, 5, 7, 8, 10, 11, 12, 14, 15, 17, and 18 included shall survive termination of this Agreement. Aircall reserves the right to refuse to provide the Services at its sole discretion to any Customer. In the event of a conflict between the French version of these Terms and Conditions and the English version of the Terms and Conditions the English version shall prevail. For the avoidance of doubt, in the case of Customer, each Order Form may be signed Customer or any of its Affiliates, provided Customer will remain liable for any and all actions or omissions of its Affiliates in connection with this Agreement.
+
+### DOCUMENT / Information Security / https://aircall.io/security/ ###
+All Aircall Data is stored in industry-leading modern data centers monitored 24/7.
+
+At Aircall we take information security seriously. Our customers’ data is encrypted and stored in industry-leading and safe data centers benefiting from some of the strongest information security standards in the industry.
+
+International Information Security Frameworks. Aircall follows the recommendations of various information security frameworks including ISO 27001/27002, SOC 2, and PCI/DSS. We have set up organizational and technical safeguards designed to prevent access to our customers’ data by unauthorized persons.
+
+Aircall Platform Security
+Aircall uses a variety of techniques to ensure the security of its customers’ communications and data including the following:
+
+data is encrypted during transmissions between our customers and the server; communications through our web interface are fully encrypted with the latest TLS version; phone calls made through the WebRTC protocol are automatically encrypted and phone calls made with the SIP protocol may be encrypted by TLS; passwords are never stored for internal purposes; and customers’ credit card information is not stored by Aircall and is directly sent to our payment processor.
+
+Aircall Data Centers
+Aircall solely uses secured data centers provided by Amazon Web Services. These data centers provide high levels of security in all jurisdictions. The redundancy of the infrastructure ensures that customer data is safe by allowing for efficient disaster recovery procedures.
+
+Aircall Internal Security
+Aircall’s infrastructure is constantly monitored both by internal and external teams. Regular penetration tests are conducted periodically by independent teams of professionals.
