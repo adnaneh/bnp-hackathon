@@ -1,2 +1,2 @@
-# bnp-hackathon
+# Leaderboard
 ![plot](./resources/hackathon_leaderboard.png)
