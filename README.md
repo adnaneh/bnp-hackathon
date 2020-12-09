@@ -1,2 +1,2 @@
 # Leaderboard
-![plot](./resources/hackathon_leaderboard.png)
+![plot](./resources/hackathon_leaderboard.svg)
