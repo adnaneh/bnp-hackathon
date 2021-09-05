@@ -275,7 +275,7 @@ perl==1.0.0
 pexpect==4.8.0
 phik==0.10.0
 pickleshare==0.7.5
-Pillow==8.0.1
+Pillow==8.2.0
 pipenv==2020.8.13
 pkginfo==1.6.1
 plac==1.1.3
