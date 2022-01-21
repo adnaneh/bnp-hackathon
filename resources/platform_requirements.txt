@@ -161,7 +161,7 @@ intel-openmp==2020.0.133
 intervaltree==3.1.0
 ipdb==0.13.4
 ipykernel==5.3.4
-ipython==7.18.1
+ipython==7.31.1
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==5.6.4
