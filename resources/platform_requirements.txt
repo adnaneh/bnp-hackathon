@@ -316,7 +316,7 @@ pymorphy2-dicts==2.4.393442.3710985
 pymorphy2-dicts-ru==2.4.417127.4579844
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pypng==0.0.20
 PyQt5==5.12.3
 PyQt5-sip==12.8.1
