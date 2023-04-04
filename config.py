@@ -7,6 +7,8 @@ Created on Wed Dec  2 19:51:29 2020
 import pandas as pd
 from utils import stem
 
+print ('test')
+
 stem('usa or other countries'.split())
 #outside your territory
 #outside your country
